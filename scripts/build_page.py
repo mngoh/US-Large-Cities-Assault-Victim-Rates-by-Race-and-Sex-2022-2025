@@ -334,7 +334,7 @@ def main():
         ("What, not why", "Shows how often assaults are reported, not why. Nothing here measures causes or offenders."),
         ("Police reports only", "Willingness to report, and where police patrol, differ by group, place and time. This data cannot separate them from differences in assaults."),
         ("Reports, not people", "Someone assaulted twice counts twice."),
-        ("No neighborhood test", "The FBI files have no victim location, so income and segregation are untested here. Where they were tested before (Los Angeles, Baltimore, Dallas), the gap remained."),
+        ("No neighborhood test here", "The FBI files have no victim location. Where neighborhoods were tested (Los Angeles, Baltimore, Dallas; New York's precincts in the follow-up), the gap narrowed but remained: about 3x within New York precincts of like composition."),
         ("Levels not comparable across cities", f"Departments code offenses differently: intimidation, left out, is {intim[i_lo]:.1f}% of assault-type victims in {i_lo} and {intim[i_hi]:.0f}% in {i_hi}. "
                                                 "Compare ratios within a city, not rates across cities. Columbus changed its coding in November 2024; Tucson's 2025 looks incomplete."),
         ("Race recorded by officers", f"The Census counts Black alone; {min(combo)}% to {max(combo)}% more residents are Black alone or in combination, which sets the lowest bound."),
