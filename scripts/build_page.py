@@ -34,6 +34,7 @@ WINDOW = {1: "2022 to 2025", 2: "2024 to 2025"}
 CSS = """
     .pts { margin: 6px 0 0 18px; color: var(--muted); font-size: 14px; line-height: 1.7; }
     .pts li + li { margin-top: 4px; }
+    .what { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--border); color: var(--text); font-size: 14px; }
     .sub-title { font-size: 12px; font-weight: 600; color: var(--muted); margin: 0 0 10px; }
     .tbl-wrap { overflow-x: auto; margin-bottom: 24px; border: 1px solid var(--border); border-radius: 8px; }
     .tbl { border-collapse: collapse; width: 100%; font-size: 12px; }
@@ -211,7 +212,13 @@ def main():
         f"The {s2['n']} cities with complete data only for 2024 to 2025, shown apart, look the same: higher than White women's in {n_of(len(s2['aboveW']), s2['n'])} "
         f"and Hispanic women's in {n_of(len(s2['aboveH']), s2['nH'])}.",
     ]
-    answer = '<ul class="pts">' + "".join(f"<li>{esc(p)}</li>" for p in points) + "</ul>"
+    FOLLOW = "https://github.com/mngoh/Police-Records-vs-Survey-Assault-Victims-by-Race-and-Sex-2015-2025"
+    what = ("What this number measures: police reports, not how often women are hurt. In the national victimization survey, which counts assaults whether or not "
+            "police learned of them, Black and White women describe being assaulted at about the same rate nationally and about 1.5 to 2 times in large cities. "
+            "A follow-up tested why police records differ so much more: not reporting rates, not how police write up a call, not the same women counted repeatedly, "
+            "but largely where assaults happen and who calls. Within New York precincts of like composition the gap is about 3 times, not 5.")
+    answer = ('<ul class="pts">' + "".join(f"<li>{esc(p)}</li>" for p in points) + "</ul>"
+              + f'<p class="what">{esc(what)} <a href="{FOLLOW}">The follow-up.</a></p>')
 
     tiles = [("Higher than White women's", n_of(len(s1["aboveW"]), s1["n"]), f"typical gap {x(s1['medW'])}x ({rngx(s1['loW'], s1['hiW'], 'White')})"),
              ("Higher than Hispanic women's", n_of(len(s1["aboveH"]), s1["nH"]), f"typical gap {x(s1['medH'])}x, where ethnicity is recorded"),
@@ -382,7 +389,7 @@ def main():
                 f"{('at least ' + fx(r['ratio']['White'])) if r['floor'] else fx(r['ratio']['White'])}{ci(r, 'White')} | "
                 f"{fx(r['bounds']['Hispanic'][0]) if r['bounds']['Hispanic'] else 'n/a'} | {fx(r['bounds']['White'][0])} | {notes(r)} |" for r in sorted(rs, key=lambda r: r["city"])]
     hdr = ["| City | Black women per 100,000 | vs Hispanic (95% interval) | vs White (95% interval) | Lowest bound vs Hispanic | Lowest bound vs White | Flags |", "|---|---|---|---|---|---|---|"]
-    L = ["<!-- results:start -->", f"**{lede}**", "", f"Live page: {LIVE}", ""] + [f"- {p}" for p in points]
+    L = ["<!-- results:start -->", f"**{lede}**", "", f"Live page: {LIVE}", ""] + [f"- {p}" for p in points] + ["", f"{what} [The follow-up]({FOLLOW})."]
     L += ["", "How to read a row:", ""] + [f"- {t}" for t in howto]
     L += ["", "2022 to 2025:", ""] + hdr + md_rows(T[1]) + ["", "2024 to 2025 only:", ""] + hdr + md_rows(T[2])
     L += ["", "Limits:", ""] + [f"- **{h}.** {t}" for h, t in cav] + ["<!-- results:end -->"]
