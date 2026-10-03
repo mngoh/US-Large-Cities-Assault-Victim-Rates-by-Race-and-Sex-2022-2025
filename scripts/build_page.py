@@ -44,6 +44,9 @@ CSS = """
     .tbl tr:last-child td { border-bottom: none; }
     details { margin-top: 12px; } details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     details .tbl-wrap { margin: 10px 0 0; } details .tbl td:last-child { min-width: 0; color: inherit; }
+    .ci { color: var(--muted); font-size: 10px; }
+    .limits { margin: 0 0 40px 18px; color: var(--muted); font-size: 13px; line-height: 1.6; max-width: 900px; }
+    .limits li + li { margin-top: 6px; } .limits strong { color: var(--text); font-weight: 600; }
 """
 
 
@@ -102,8 +105,9 @@ def main():
         main_ = [None if grey(r) else rng(r) for r in rs]
         flag = [rng(r) if grey(r) else None for r in rs]
         flag_label = "Floor: no ethnicity data" if g == "White" else "Coded only as Hispanic"
-        tips = {r["city"]: (f"at least {r['ratio'][g]}x (lowest bound {r['bounds'][g][0]}x)" if g == "White" and r["floor"]
-                            else f"{r['ratio'][g]}x, lowest bound {r['bounds'][g][0]}x") for r in rs}
+        iv = lambda r: f", 95% interval {r['ci95'][g][0]} to {r['ci95'][g][1]}" if r["ci95"].get(g) else ""
+        tips = {r["city"]: (f"at least {r['ratio'][g]}x{iv(r)}, lowest bound {r['bounds'][g][0]}x" if g == "White" and r["floor"]
+                            else f"{r['ratio'][g]}x{iv(r)}, lowest bound {r['bounds'][g][0]}x") for r in rs}
         ds = [f"{{label:'Cautious estimate to recorded ratio',data:{json.dumps(main_)},...bar(C.red),grouped:false,maxBarThickness:12}}"]
         if any(flag):
             ds.append(f"{{label:{json.dumps(flag_label)},data:{json.dumps(flag)},...bar(C.muted),grouped:false,maxBarThickness:12}}")
@@ -192,12 +196,15 @@ def main():
             f"(about {x(s1['medW'])} times in the typical city) and, in all {s1['nH']} that record ethnicity, higher than Hispanic women's (about {x(s1['medH'])} times). "
             "Nothing measured here explains why.")
     question = "Are Black women assaulted at a higher reported rate than Hispanic, White and Asian women across large US cities?"
+    ivs = [r["ci95"][g] for r in rows for g in OTHERS if r["ci95"].get(g) and r["women_victims"][g] >= HIDE]
+    n_above = sum(1 for c in ivs if c[0] > 1)
     points = [
         "It holds even under the most cautious assumptions about race recording and missing data: against White women in "
         + f"{every(len(s1['holdW']), s1['n'])}, against Hispanic women in "
         + (f"all but {listing([f'{r['city']} ({why_low(r)})' for r in s1['failH']])}." if s1["failH"] else "every city."),
         f"It survives the age and partner-assault checks: it stays above 1 after age standardization in {every(len(s1['age_std_above1']), s1['n'])} and outside partner assault "
         f"in {every(len(s1['non_partner_above1']), len(s1['rel']))}. It is widest for aggravated assault in {n_of(len(s1['sev']), s1['n'])}.",
+        f"It is not chance: {('every one of the ' + str(len(ivs))) if n_above == len(ivs) else f'{n_above} of the {len(ivs)}'} ratios on this page has a 95% interval above 1.",
         f"Against Asian women it is larger still (about {x(s1['medA'])} times in the typical city), but on small counts, so it stays out of the headline.",
         f"The {s2['n']} cities with complete data only for 2024 to 2025, shown apart, look the same: higher than White women's in {n_of(len(s2['aboveW']), s2['n'])} "
         f"and Hispanic women's in {n_of(len(s2['aboveH']), s2['nH'])}.",
@@ -266,21 +273,22 @@ def main():
     fx = lambda v: "n/a" if v is None else f"{v}x"
     shown = lambda r, g: "not shown" if r["ratio"][g] is not None and r["women_victims"][g] < HIDE else fx(r["ratio"][g])
 
+    def cell(r, g):
+        v = f"\u2265 {r['ratio'][g]}x" if g == "White" and r["floor"] else shown(r, g)
+        ci = r["ci95"].get(g)
+        return v + (f'<br><span class="ci">{ci[0]} to {ci[1]}</span>' if ci and v not in ("n/a", "not shown") else "")
+
     def city_rows(rs):
-        return [[f'<a href="{REPO}/tree/main/cities/{r["slug"]}">{esc(label(r))}</a>', f"{r['black_women_rate']:,}", shown(r, "Hispanic"),
-                 f"≥ {r['ratio']['White']}x" if r["floor"] else fx(r["ratio"]["White"]), shown(r, "Asian"),
+        return [[f'<a href="{REPO}/tree/main/cities/{r["slug"]}">{esc(label(r))}</a>', f"{r['black_women_rate']:,}", cell(r, "Hispanic"),
+                 cell(r, "White"), cell(r, "Asian"),
                  fx(r["bounds"]["Hispanic"][0]) if r["bounds"]["Hispanic"] else "n/a", fx(r["bounds"]["White"][0]), esc(notes(r))]
                 for r in sorted(rs, key=lambda r: r["city"])]
 
     head = ["City", "Black women per 100,000", "vs Hispanic", "vs White", "vs Asian", "Lowest bound vs Hispanic", "Lowest bound vs White", "Flags"]
     city_html = ('<div class="section-title">City by city</div>'
-                 '<p class="note">Lowest bound: the most cautious assumptions about race recording and missing ethnicity. Flags are not exclusions. ≥ = floor.</p>'
+                 '<p class="note">Under each ratio, its 95% interval from counting noise. Lowest bound: the most cautious assumptions about race recording and missing ethnicity. Flags are not exclusions. \u2265 = floor.</p>'
                  + "".join(f'<h3 class="sub-title">{WINDOW[t]}{"" if t == 1 else " only"}</h3>' + table(head, city_rows(T[t])) for t in (1, 2)))
-    reporting = ('<div class="findings"><div class="finding"><h4>Not testable here: reporting</h4><p>'
-                 + esc("If Black women report assaults more or less often than other women, every ratio moves.")
-                 + '</p></div><div class="finding"><h4>Not testable here: neighborhood</h4><p>'
-                 + esc("The FBI files have no victim location. Where it existed (Los Angeles, Baltimore, Dallas), the gap remained after tract controls.")
-                 + "</p></div></div>" + city_html)
+    reporting = city_html
 
     # ---------- checked, and left out ----------
     chk = C["check_against_earlier"]
@@ -300,24 +308,31 @@ def main():
     unk = sorted([r for r in rows if r["s"]["unknown_race_pct"] >= 10], key=lambda r: -r["s"]["unknown_race_pct"])
     vanish = [r for r in unk if r["ratio"]["Hispanic"] is not None and (r["s"]["unknown_race_extreme"]["Hispanic"] or 0) <= 1.05]
     h_only = [r for r in rows if r["h_only"]]
+    big = max(rows, key=lambda r: r["s"]["department_over_city"])
+    smallH = [r for r in rows if r["women_residents"]["Hispanic"] < 10000 and r["ratio"]["Hispanic"] is not None]
     cav = [
         ("What, not why", "Shows how often assaults are reported, not why. Nothing here measures causes or offenders."),
-        ("Reported crimes only", "Willingness to report differs by group, place and time."),
+        ("Police reports only", "Willingness to report, and where police patrol, differ by group, place and time. This data cannot separate them from differences in assaults."),
         ("Reports, not people", "Someone assaulted twice counts twice."),
-        ("Where people live", "Rates divide by residents, not where people spend time."),
-        ("Policing", "More policing or more calls can look like more assaults."),
+        ("No neighborhood test", "The FBI files have no victim location, so income and segregation are untested here. Where they were tested before (Los Angeles, Baltimore, Dallas), the gap remained."),
+        ("Levels not comparable across cities", f"Departments code offenses differently: intimidation, left out, is {intim[i_lo]:.1f}% of assault-type victims in {i_lo} and {intim[i_hi]:.0f}% in {i_hi}. "
+                                                "Compare ratios within a city, not rates across cities. Columbus changed its coding in November 2024; Tucson's 2025 looks incomplete."),
         ("Race recorded by officers", f"The Census counts Black alone; {min(combo)}% to {max(combo)}% more residents are Black alone or in combination, which sets the lowest bound."),
+        ("Ethnicity", f"{word(len(floors), cap=True)} cities record none ({cities_(floors)}): no Hispanic comparison, and the ratio to White women is a floor. "
+                      f"{word(len(h_only), cap=True)} code only Hispanic ({cities_(h_only)})."),
         ("Unknown race", f"Up to {unk[0]['s']['unknown_race_pct']:.0f}% of women victims ({unk[0]['city']}). If every one were in the comparison group, "
                          + (f"the gap with Hispanic women would vanish in {cities_(vanish)}; " if vanish else "")
                          + f"the gap with White women stays above {min(r['s']['unknown_race_extreme']['White'] for r in unk):.0f}x."),
-        ("Ethnicity", f"{word(len(floors), cap=True)} cities record none ({cities_(floors)}); {word(len(h_only))} code only Hispanic ({cities_(h_only)})."),
-        ("Offense coding", f"Intimidation, left out, is {intim[i_lo]:.1f}% of assault-type victims in {i_lo} and {intim[i_hi]:.0f}% in {i_hi}: compare patterns, not levels. "
-                           "Columbus changed its coding in November 2024; Tucson's 2025 looks incomplete."),
+        ("Intervals show counting noise only", "They leave out repeat victimization, coding error and the bounds above."),
+        ("Where people live", f"Rates divide by residents, not where people spend time. A department serving more people than its city ({big['city']}, {big['s']['department_over_city']}x) runs high."),
+        ("Small numbers", "Asian women's counts are small, so their ratios stay out of the headline"
+                          + (f"; fewer than 10,000 Hispanic women live in {cities_(smallH)}." if smallH else ".")),
+        ("Choices made after seeing the data", "The screen's thresholds, the typical-city medians and keeping Columbus and Tucson. All are disclosed; none were set in advance."),
         ("One department each", "Transit, school, campus and county police are not counted."),
-        ("Small numbers", "Asian women's counts are small, so their ratios stay out of the headline."),
         ("Not national", "Large cities with complete data, not a national sample."),
     ]
-    cav_html = '<div class="section-title">Caveats</div><div class="findings">' + "".join(f'<div class="finding red"><h4>{esc(h)}</h4><p>{esc(t)}</p></div>' for h, t in cav) + "</div>"
+    limits_html = ('<div class="section-title">Limits</div><ul class="limits">'
+                   + "".join(f"<li><strong>{esc(h)}.</strong> {esc(t)}</li>" for h, t in cav) + "</ul>")
 
     nav = f'<a href="{REPO}">Code</a><a href="https://martinngoh.com">martinngoh.com</a>'
     method = ("Women victims of aggravated and simple assault per 100,000 residents of each group a year, from each city's own police department in the FBI's NIBRS files; "
@@ -335,9 +350,10 @@ def main():
     page = TEMPLATE.format(
         title=f"Assault victims in {len(rows)} large US cities", description=esc(lede), lede=esc(lede), author="Martin Ngoh", window="2022 to 2025", total=f"{total:,}",
         nav=nav, question=esc(question), answer=answer, cards=cards_html,
-        overview=overview, tests=tests, reporting=reporting, model=model, replication="", caveats=cav_html, method=esc(method),
+        overview=overview, tests=tests, reporting=reporting, model=model, replication="", caveats="", method=esc(method),
         js=pre + "\n  " + "\n  ".join(js), groups_n=f"{n_focus:,}", others_n=f"{n_other:,}", focus="Black women", sexw="women", sexw_cap="Women")
     page = page.replace("  </style>\n</head>", CSS + "  </style>\n</head>", 1)
+    page = page.replace("</p>\n</div>\n<footer>", "</p>\n  " + limits_html + "\n</div>\n<footer>", 1)  # limits close the page
     page = page.replace('<div class="section-title">Dataset</div>', '<div class="section-title">At a glance</div>', 1)
     page = page.replace("Each cut asks whether a plain explanation accounts for the gap.", "Each chart tests one plain explanation.", 1)
     for bad in ["—", "–"]:
@@ -348,13 +364,14 @@ def main():
 
     # ---------- README block ----------
     def md_rows(rs):
-        return [f"| [{label(r)}]({REPO}/tree/main/cities/{r['slug']}) | {r['black_women_rate']:,} | {shown(r, 'Hispanic')} | "
-                f"{('at least ' + fx(r['ratio']['White'])) if r['floor'] else fx(r['ratio']['White'])} | "
+        ci = lambda r, g: f" ({r['ci95'][g][0]} to {r['ci95'][g][1]})" if r["ci95"].get(g) and shown(r, g) not in ("n/a", "not shown") else ""
+        return [f"| [{label(r)}]({REPO}/tree/main/cities/{r['slug']}) | {r['black_women_rate']:,} | {shown(r, 'Hispanic')}{ci(r, 'Hispanic')} | "
+                f"{('at least ' + fx(r['ratio']['White'])) if r['floor'] else fx(r['ratio']['White'])}{ci(r, 'White')} | "
                 f"{fx(r['bounds']['Hispanic'][0]) if r['bounds']['Hispanic'] else 'n/a'} | {fx(r['bounds']['White'][0])} | {notes(r)} |" for r in sorted(rs, key=lambda r: r["city"])]
-    hdr = ["| City | Black women per 100,000 | vs Hispanic | vs White | Lowest bound vs Hispanic | Lowest bound vs White | Flags |", "|---|---|---|---|---|---|---|"]
+    hdr = ["| City | Black women per 100,000 | vs Hispanic (95% interval) | vs White (95% interval) | Lowest bound vs Hispanic | Lowest bound vs White | Flags |", "|---|---|---|---|---|---|---|"]
     L = ["<!-- results:start -->", f"**{lede}**", "", f"Live page: {LIVE}", ""] + [f"- {p}" for p in points]
     L += ["", "2022 to 2025:", ""] + hdr + md_rows(T[1]) + ["", "2024 to 2025 only:", ""] + hdr + md_rows(T[2])
-    L += ["", "Caveats:", ""] + [f"- {h}: {t}" for h, t in cav] + ["<!-- results:end -->"]
+    L += ["", "Limits:", ""] + [f"- **{h}.** {t}" for h, t in cav] + ["<!-- results:end -->"]
     block = "\n".join(L)
     for bad in ["—", "–"]:
         block = block.replace(bad, ", " if bad == "—" else " to ")

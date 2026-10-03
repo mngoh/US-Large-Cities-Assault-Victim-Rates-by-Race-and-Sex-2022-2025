@@ -23,9 +23,9 @@ Files: `index.html`, `README.md`
   Victim data says nothing about who offended. Remove, or state that offenders are not in the data.
 
 ### README.md
-- **review: Causal claim** (`causes`): "- What, not why: Shows how often assaults are reported, not why. Nothing here measures causes or offenders."  
+- **review: Causal claim** (`causes`): "- **What, not why.** Shows how often assaults are reported, not why. Nothing here measures causes or offenders."  
   The data shows rates, not causes. Keep causal words only in sentences that say a cause is not measured.
-- **review: Offender implication** (`offenders`): "- What, not why: Shows how often assaults are reported, not why. Nothing here measures causes or offenders."  
+- **review: Offender implication** (`offenders`): "- **What, not why.** Shows how often assaults are reported, not why. Nothing here measures causes or offenders."  
   Victim data says nothing about who offended. Remove, or state that offenders are not in the data.
 - **review: Offender implication** (`offender`): "- Groups: Hispanic of any race first, otherwise the recorded race. Partner flag from the victim-offender relationship."  
   Victim data says nothing about who offended. Remove, or state that offenders are not in the data.

@@ -63,6 +63,8 @@ The five no-ethnicity cities stay, with the White ratio shown as a floor (≥) a
 
 Published 2026-10-03 (step 7): commit 5f6cd30 on main, https://github.com/mngoh/US-Large-Cities-Assault-Victim-Rates-by-Race-and-Sex-2022-2025, live at https://mngoh.github.io/US-Large-Cities-Assault-Victim-Rates-by-Race-and-Sex-2022-2025/ (Pages built 5f6cd30). PLAN.md is in the repo; .claude/ stays local (gitignored).
 
+- **Added 2026-10-03:** exact Poisson 95% intervals on every ratio (`scripts/screen.py`; all 170 shown sit above 1) and a Limits list closing the page, which replaces the caveat cards.
+
 ### Decisions waiting for Martin (resolved above)
 
 1. **Five cities do not record ethnicity:** Oklahoma City, Detroit, Tulsa, Cleveland, Toledo. Hispanic or not Hispanic is coded for under 2% of women victims. There is no Hispanic comparison. The ratio to White women runs low, because White victims include Hispanic White victims while the denominator is non-Hispanic White women (Detroit 1.15). A race-only fallback does not fix it: police record a median 96% of Hispanic women victims as White, while 9% to 37% of Hispanic residents report White alone (`out/race_only.json`). The options are to keep them with the flag or to leave them out of the White comparison too.

@@ -6,6 +6,8 @@ For every city with cities/<slug>/out/results.json, among women victims in the c
   ethnicity unspecified (Columbus) makes unspecified the default, and the ethnicity scenarios then cannot bound anything
   unknown relationship (no relationship recorded, or only RU), overall and by group
   victims by month: months with no victims, and months under 60% of the window's median month
+  a 95% interval for every ratio from counting noise alone (exact Poisson, conditional on the two counts); it leaves out
+  repeat victimization, coding error and the bounds
   coding changes: each year's assault victims (13A and 13B) against the median year's, flagged outside 0.75 to 1.25; and
   the share of assault-type victims (13A, 13B, 13C) recorded as intimidation, flagged where it moves 10 points or more
   bounds on the Hispanic and White ratios, as in the Nine-Cities compare.py: the lowest and highest of the ratio as
@@ -26,6 +28,7 @@ import json
 import pathlib
 
 import pandas as pd
+from scipy.stats import beta
 
 from cities import CITIES
 
@@ -37,6 +40,15 @@ SHORT = {"Black": "B", "Hispanic": "H", "White": "W", "Asian": "A"}
 
 def rnd(v, n=2):
     return None if v is None else round(v, n)
+
+
+def rr_ci(a, pa, b, pb, level=0.95):
+    """Exact 95% interval for the rate ratio (a/pa)/(b/pb) of two Poisson counts, conditional on a + b (Clopper-Pearson)."""
+    if not a or not b:
+        return None
+    lo = beta.ppf((1 - level) / 2, a, b + 1)
+    hi = beta.ppf(1 - (1 - level) / 2, a + 1, b)
+    return [round(lo / (1 - lo) * pb / pa, 2), round(hi / (1 - hi) * pb / pa, 2)]
 
 
 def pct(mask):
@@ -94,6 +106,9 @@ def screen(c):
     # unknown race at its most extreme: every unknown-race woman victim in the comparison group
     k_unknown = int((w["race"].isna() | (w["race"] == "U")).sum())
     unknown_extreme = {g: ratio_of(n[g] + k_unknown, g) for g in ("Hispanic", "White")}
+    # counting noise: Poisson intervals for every ratio (they leave out repeat victimization, coding error and the bounds)
+    ci95 = {g: (rr_ci(n["Black"], popF["Black"], n[g], popF[g]) if ratio[g] is not None and not (g == "Hispanic" and ethnicity == "not recorded") else None)
+            for g in ("Hispanic", "White", "Asian")}
 
     months = pd.period_range(cfg["window"]["start"][:7], cfg["window"]["end"][:7], freq="M").astype(str)
     by_month = raw["incident_date"].str[:7].value_counts().reindex(months, fill_value=0)
@@ -131,7 +146,7 @@ def screen(c):
         "intimidation_share_pct": round(float(yearly["13C"].sum() / yearly.values.sum() * 100), 1),
         "black_women_rate": R["rates"]["Black"]["F"], "ratio": ratio,
         "race_coding_worst": worst, "combo_ratio": R["race_coding_bound"]["combo_ratio"],
-        "ethnicity_scenarios": scen, "bounds": bounds,
+        "ethnicity_scenarios": scen, "bounds": bounds, "ci95": ci95,
     }
     flags = []
     if (row["unknown_race_pct"] or 0) >= LIMITS["unknown_race"]:

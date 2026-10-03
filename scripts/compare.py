@@ -47,7 +47,7 @@ def row(c, s):
     return {
         "slug": c["slug"], "city": c["name"], "state": c["state"], "tier": c["tier"], "window": s["window"], "ori": c["ori"],
         "black_women_rate": R["rates"]["Black"]["F"], "rates_women": {g: R["rates"][g]["F"] for g in R["rates"]},
-        "black_men_rate": R["rates"]["Black"]["M"], "ratio": keep(s["ratio"]), "bounds": s["bounds"],
+        "black_men_rate": R["rates"]["Black"]["M"], "ratio": keep(s["ratio"]), "ci95": keep(s["ci95"]), "bounds": s["bounds"],
         "ethnicity_recording": s["ethnicity_recording"],
         "race_coding_worst": s["race_coding_worst"], "ethnicity_scenarios": s["ethnicity_scenarios"],
         "age_standardized": keep({g: ratio(std["Black"], std.get(g)) for g in OTHERS}),
@@ -146,7 +146,7 @@ def main():
               + (" where ethnicity is recorded (" + ", ".join(f"{k} {v}" for k, v in sm["white_ratio_not_recorded"].items()) + " where it is not, which run low)" if sm["white_ratio_not_recorded"] else "")
               + f"; against Hispanic women from {rr['Hispanic'][0][1]} ({rr['Hispanic'][0][0]}) to {rr['Hispanic'][1][1]} ({rr['Hispanic'][1][0]}). "
               f"The gap with White women is wider for aggravated than simple assault in {sm['aggravated_gap_wider']['White']} of {wc['White']}.", "",
-              "| City | Black women | vs Hispanic | vs White | vs Asian | Bounds vs Hispanic | Bounds vs White | Age-standardized vs Hispanic, White | Aggravated / simple vs White | Partner share, Black women vs others | vs Hispanic with / without partner | Halves vs Hispanic | Halves vs White | Black women victims | Ethnicity | Flags |",
+              "| City | Black women | vs Hispanic [95% interval] | vs White [95% interval] | vs Asian [95% interval] | Bounds vs Hispanic | Bounds vs White | Age-standardized vs Hispanic, White | Aggravated / simple vs White | Partner share, Black women vs others | vs Hispanic with / without partner | Halves vs Hispanic | Halves vs White | Black women victims | Ethnicity | Flags |",
               "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
         for r in tr:
             ps = r["partner_share"]
@@ -158,7 +158,8 @@ def main():
             pr = f"{f(r['partner_ratio']['Hispanic'])} / {f(r['non_partner_ratio']['Hispanic'])}" if r["partner_ratio"] and r["partner_ratio"]["Hispanic"] else "n/a"
             h = r["halves"]
             eth = r["ethnicity_recording"] + (f", {r['unknown_ethnicity_pct']}% unknown" if r["ethnicity_recording"] == "recorded" else "")
-            L.append(f"| {r['city'] if r['city'] == r['state'] else r['city'] + ', ' + r['state']} | {r['black_women_rate']:,} | {rv('Hispanic')} | {rv('White')} | {rv('Asian')} | "
+            ci = lambda g: f" [{r['ci95'][g][0]}, {r['ci95'][g][1]}]" if r["ci95"].get(g) else ""
+            L.append(f"| {r['city'] if r['city'] == r['state'] else r['city'] + ', ' + r['state']} | {r['black_women_rate']:,} | {rv('Hispanic')}{ci('Hispanic')} | {rv('White')}{ci('White')} | {rv('Asian')}{ci('Asian')} | "
                      f"{rng(r['bounds']['Hispanic'])} | {rng(r['bounds']['White'])} | {f(r['age_standardized']['Hispanic'])}, {f(r['age_standardized']['White'])} | "
                      f"{f(r['aggravated']['White'])} / {f(r['simple']['White'])} | {share} | {pr} | {both(h['first']['Hispanic'], h['second']['Hispanic'])} | "
                      f"{both(h['first']['White'], h['second']['White'])} | {f(r['women_victims']['Black'])} | {eth} | {'; '.join(r['flags']) or 'none'} |")
