@@ -15,7 +15,7 @@ LEFT_OUT = {"NV0020100": "Las Vegas: department population 1,712,136 is 2.59x th
 NEAR_MISSES = ["Indianapolis", "Atlanta", "Riverside", "Greensboro"]
 WINDOWS = {"2022-2025": (1, "2022-01-01", "2025-12-31"), "2024-2025": (2, "2024-01-01", "2025-12-31")}
 ALREADY = {"Houston": "Nine-Cities", "San Antonio": "Nine-Cities", "Austin": "Nine-Cities", "Fort Worth": "Nine-Cities",
-           "El Paso": "Nine-Cities", "Dallas": "Dallas", "Washington": "DC-Assault", "Baltimore": "Baltimore-Assault-Victims"}
+           "El Paso": "Nine-Cities", "Dallas": "Dallas", "Washington": "DC-Assault", "Baltimore": "Baltimore-MD-Assault-Victim-Rates-by-Race-and-Sex-2022-2024"}
 
 
 def slug(city):
