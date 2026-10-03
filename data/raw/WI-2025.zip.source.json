@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/WI-2025.zip",
+ "key": "nibrs/incident/2025/WI-2025.zip",
+ "fetched_at": "2026-10-02T21:17:56",
+ "bytes": 17770670,
+ "sha256": "0dd395738eb7681202711619865b5b1b4618b295b68f1a30ed265e9ca21142c7",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, WI 2025, as received"
+}

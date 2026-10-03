@@ -1,0 +1,7 @@
+{
+ "query": "Lexington-Fayette, KY",
+ "census_geoid": "16000US2146027",
+ "display_name": "Lexington-Fayette, KY",
+ "population": 323725,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

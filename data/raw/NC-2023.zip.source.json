@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/NC-2023.zip",
+ "key": "nibrs/incident/2023/NC-2023.zip",
+ "fetched_at": "2026-10-02T21:16:41",
+ "bytes": 43058360,
+ "sha256": "2236a5213ec1dd562a496d401770ec6373940662089b9d4cea131a4af57adfdd",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NC 2023, as received"
+}

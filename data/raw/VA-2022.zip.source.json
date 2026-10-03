@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/VA-2022.zip",
+ "key": "nibrs/incident/2022/VA-2022.zip",
+ "fetched_at": "2026-10-02T21:17:36",
+ "bytes": 32882903,
+ "sha256": "fb3d7e489df15162acbf7cb9b8f41284d3352c09b47038876082e35f24b64dd9",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, VA 2022, as received"
+}

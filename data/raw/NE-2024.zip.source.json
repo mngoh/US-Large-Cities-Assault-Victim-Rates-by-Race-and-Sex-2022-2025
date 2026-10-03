@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2024/NE-2024.zip",
+ "key": "nibrs/incident/2024/NE-2024.zip",
+ "fetched_at": "2026-10-02T21:16:47",
+ "bytes": 7791975,
+ "sha256": "272593b130b3c46b413c0f035fb492bf947d4c092fc59795a9720b61a212172f",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NE 2024, as received"
+}

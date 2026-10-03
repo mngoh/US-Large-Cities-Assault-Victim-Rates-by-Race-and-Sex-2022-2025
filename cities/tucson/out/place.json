@@ -1,0 +1,7 @@
+{
+ "query": "Tucson, AZ",
+ "census_geoid": "16000US0477000",
+ "display_name": "Tucson, AZ",
+ "population": 547073,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

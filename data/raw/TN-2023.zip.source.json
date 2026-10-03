@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/TN-2023.zip",
+ "key": "nibrs/incident/2023/TN-2023.zip",
+ "fetched_at": "2026-10-02T21:17:32",
+ "bytes": 39198228,
+ "sha256": "ad1f73791e6bf19965083b79e600e1a90359d9e6488dffce973c6ab5d0ac8421",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, TN 2023, as received"
+}

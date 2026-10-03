@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/DC-2025.zip",
+ "key": "nibrs/incident/2025/DC-2025.zip",
+ "fetched_at": "2026-10-02T21:14:41",
+ "bytes": 5664115,
+ "sha256": "51a9c8e98c550d9af654f0f7488ea0e96fe504081e7c262b1fdd4f2687aced4c",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, DC 2025, as received"
+}

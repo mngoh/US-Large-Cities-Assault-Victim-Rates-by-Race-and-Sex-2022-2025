@@ -1,0 +1,1105 @@
+victim_id,incident_id,incident_date,agency,ori,offense_code,race_group,race,ethnicity,sex,age,resident_status,partner,relationship,location,premise,weapon,injury,attempt_complete
+173856872,157298668,2022-01-01,Plano,TX0430600,13A,B,B,N,F,44,R,N,AQ,Residence/Home,Home,Handgun,,C
+173856874,157298668,2022-01-01,Plano,TX0430600,13A,B,B,N,M,48,R,N,AQ,Residence/Home,Home,Handgun,,C
+164230957,148871806,2022-01-08,Plano,TX0430600,13A,W,W,N,M,24,N,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Severe Laceration,C
+166288809,150676923,2022-01-08,Plano,TX0430600,13A,W,W,N,F,32,R,N,NE,Residence/Home,Home,Handgun,,C
+187883472,169544314,2022-01-08,Plano,TX0430600,13A,B,B,N,F,25,R,N,AQ,Residence/Home,Home,Handgun,Other Major Injury,C
+187883473,169544314,2022-01-08,Plano,TX0430600,13A,B,B,N,F,1,R,N,OF,Residence/Home,Home,Handgun,,C
+187883474,169544314,2022-01-08,Plano,TX0430600,13A,B,B,N,M,25,R,N,AQ,Residence/Home,Home,Handgun,Other Major Injury,C
+164230869,148871728,2022-01-09,Plano,TX0430600,13A,B,B,N,M,68,R,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Other,Minor Injury,C
+166288827,150676947,2022-01-12,Plano,TX0430600,13A,H,W,H,F,44,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+166288687,150676810,2022-01-13,Plano,TX0430600,13A,W,W,N,M,39,,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+185938091,167853022,2022-01-15,Plano,TX0430600,13A,W,W,N,M,31,N,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Apparent Broken Bones,C
+169211450,153238190,2022-01-16,Plano,TX0430600,13A,B,B,N,F,35,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+166289255,150677323,2022-01-20,Plano,TX0430600,13A,B,B,N,M,31,R,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+169211520,153238247,2022-01-20,Plano,TX0430600,13A,B,B,N,M,18,R,N,,Residence/Home,Home,Firearm,,C
+169211521,153238247,2022-01-20,Plano,TX0430600,13A,B,B,N,F,40,R,N,,Residence/Home,Home,Firearm,,C
+169211522,153238247,2022-01-20,Plano,TX0430600,13A,B,B,N,M,17,R,N,,Residence/Home,Home,Firearm,,C
+169211523,153238247,2022-01-20,Plano,TX0430600,13A,B,B,N,M,38,R,N,,Residence/Home,Home,Firearm,,C
+164232524,148873233,2022-01-23,Plano,TX0430600,13A,B,B,N,M,27,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+166289206,150677282,2022-01-25,Plano,TX0430600,13A,H,W,H,M,37,R,N,ST,Residence/Home,Home,Rifle,,C
+164233076,148873747,2022-01-28,Plano,TX0430600,13A,B,B,N,M,30,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+166289574,150677622,2022-01-28,Plano,TX0430600,13A,B,B,N,F,12,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+172109258,155767403,2022-01-28,Plano,TX0430600,13A,B,B,N,M,21,U,N,ST,Specialty Store,Specialty Store,Handgun,,C
+166289620,150677658,2022-01-30,Plano,TX0430600,13A,B,B,N,M,67,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+167681948,151902542,2022-01-30,Plano,TX0430600,13A,B,B,N,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Severe Laceration,C
+178574695,161416754,2022-01-30,Plano,TX0430600,13A,W,W,N,F,51,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+178574697,161416754,2022-01-30,Plano,TX0430600,13A,A,A,N,M,26,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+164233611,148874241,2022-01-31,Plano,TX0430600,13A,B,B,N,M,45,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+181924443,164343990,2022-02-04,Plano,TX0430600,13A,W,W,N,F,33,R,N,AQ,Residence/Home,Home,Drugs/Narcotics/Sleeping Pills,,C
+166290089,150678097,2022-02-07,Plano,TX0430600,13A,W,W,N,M,41,R,N,SB;VO,Residence/Home,Home,Handgun,Apparent Broken Bones,C
+166290223,150678213,2022-02-08,Plano,TX0430600,13A,W,W,N,F,42,N,Y,BG;XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Severe Laceration,C
+166290396,150678364,2022-02-08,Plano,TX0430600,13A,H,W,H,M,15,R,N,AQ;FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+170370013,154254357,2022-02-08,Plano,TX0430600,13A,H,W,H,F,22,N,Y,XR,Residence/Home,Home,Handgun,,C
+170370014,154254357,2022-02-08,Plano,TX0430600,13A,B,B,N,F,28,N,N,SB,Residence/Home,Home,Handgun,,C
+170370015,154254357,2022-02-08,Plano,TX0430600,13A,B,B,N,F,18,N,N,AQ,Residence/Home,Home,Handgun,,C
+170370016,154254357,2022-02-08,Plano,TX0430600,13A,B,B,N,F,21,N,N,AQ,Residence/Home,Home,Handgun,,C
+185938109,167853040,2022-02-08,Plano,TX0430600,13A,W,W,N,M,33,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Other,Minor Injury,C
+166290462,150678427,2022-02-10,Plano,TX0430600,13A,B,B,N,M,22,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+166290785,150678704,2022-02-12,Plano,TX0430600,13A,H,W,H,F,33,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+169211953,153238617,2022-02-13,Plano,TX0430600,13A,H,W,H,M,57,N,N,AQ,Field/Woods,Field & Woods,Knife/Cutting Instrument,,C
+169212203,153238847,2022-02-15,Plano,TX0430600,13A,B,B,N,M,26,R,N,SB,Residence/Home,Home,Blunt Object,Minor Injury,C
+173856967,157298750,2022-02-15,Plano,TX0430600,13A,H,W,H,F,24,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+166291553,150679400,2022-02-17,Plano,TX0430600,13A,H,W,H,M,16,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+167682324,151902880,2022-02-18,Plano,TX0430600,13A,W,W,N,M,31,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+175184767,158455258,2022-02-18,Plano,TX0430600,13A,W,W,N,M,66,R,Y,SE,Residence/Home,Home,Handgun,,C
+175184743,158455237,2022-02-19,Plano,TX0430600,13A,A,A,N,M,17,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Apparent Broken Bones;Possible Internal Injury,C
+170370209,154254535,2022-02-21,Plano,TX0430600,13A,W,W,N,M,33,R,N,OK,Residence/Home,Home,Other,,C
+167682587,151903126,2022-02-27,Plano,TX0430600,13A,H,W,H,F,50,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+167682588,151903126,2022-02-27,Plano,TX0430600,13A,H,W,H,M,49,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+167682589,151903126,2022-02-27,Plano,TX0430600,13A,H,W,H,F,17,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+173857050,157298826,2022-03-01,Plano,TX0430600,13A,W,W,N,F,23,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+180084339,162733962,2022-03-02,Plano,TX0430600,13A,U,U,U,U,,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+184330322,166439352,2022-03-02,Plano,TX0430600,13A,W,W,N,M,,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+167689231,151909008,2022-03-04,Plano,TX0430600,13A,B,B,N,F,16,R,N,OK,School-Elementary/Secondary,K-12 School,Other,Minor Injury,C
+170370582,154254862,2022-03-11,Plano,TX0430600,13A,H,W,H,F,15,R,N,CH,Residence/Home,Home,Handgun,,C
+170370648,154254916,2022-03-12,Plano,TX0430600,13A,W,W,N,M,49,,Y,SE;VO,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+170370649,154254916,2022-03-12,Plano,TX0430600,13A,I,I,N,F,52,,Y,SE;VO,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Severe Laceration,C
+169212598,153239194,2022-03-13,Plano,TX0430600,13A,W,W,N,F,24,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+169212729,153239307,2022-03-13,Plano,TX0430600,13A,B,B,N,M,23,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+167684235,151904606,2022-03-15,Plano,TX0430600,13A,W,W,N,F,25,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+170370752,154255012,2022-03-16,Plano,TX0430600,13A,B,B,N,M,15,R,N,CH,Residence/Home,Home,Handgun,,C
+167690311,151909978,2022-03-18,Plano,TX0430600,13A,B,B,N,M,50,U,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+181922885,164342591,2022-03-19,Plano,TX0430600,13A,B,B,N,M,52,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+167684862,151905167,2022-03-20,Plano,TX0430600,13A,A,A,N,F,23,N,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Other,Minor Injury,C
+169212878,153239433,2022-03-20,Plano,TX0430600,13A,W,W,N,M,45,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+172114816,155772321,2022-03-20,Plano,TX0430600,13A,H,W,H,M,30,R,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+172114817,155772321,2022-03-20,Plano,TX0430600,13A,H,W,H,M,50,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+169213121,153239645,2022-03-22,Plano,TX0430600,13A,B,B,N,F,38,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+170370867,154255115,2022-03-22,Plano,TX0430600,13A,A,A,N,M,37,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+172109408,155767539,2022-03-25,Plano,TX0430600,13A,A,A,N,M,42,R,N,ST,Restaurant,Restaurant,Handgun,,C
+172109414,155767545,2022-03-27,Plano,TX0430600,13A,B,B,N,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+167686092,151906255,2022-03-29,Plano,TX0430600,13A,H,W,H,M,28,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+170370952,154255190,2022-03-30,Plano,TX0430600,13A,W,W,N,F,58,N,Y,XR,Residence/Home,Home,Handgun,Minor Injury,C
+169213478,153239953,2022-03-31,Plano,TX0430600,13A,B,B,N,F,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+172109447,155767573,2022-04-02,Plano,TX0430600,13A,H,W,H,M,24,R,N,AQ,Residence/Home,Home,Other,Severe Laceration,C
+180090003,162739052,2022-04-03,Plano,TX0430600,13A,H,W,H,M,18,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+169213866,153240291,2022-04-04,Plano,TX0430600,13A,H,W,H,M,56,R,N,ST,Residence/Home,Home,Handgun,,C
+169222787,153248368,2022-04-05,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument;Other,Minor Injury,C
+185938303,167853204,2022-04-05,Plano,TX0430600,13A,W,W,N,M,25,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+169214259,153240646,2022-04-06,Plano,TX0430600,13A,H,W,H,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+169222891,153248432,2022-04-06,Plano,TX0430600,13A,W,W,N,M,38,N,N,ST,Residence/Home,Home,Handgun,,C
+169222892,153248432,2022-04-06,Plano,TX0430600,13A,W,W,N,M,55,R,N,NE,Residence/Home,Home,Handgun,,C
+170371169,154255391,2022-04-07,Plano,TX0430600,13A,B,B,U,M,25,U,N,ST;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+170371269,154255459,2022-04-07,Plano,TX0430600,13A,H,W,H,F,23,R,Y,SE,Residence/Home,Home,Other,Minor Injury,C
+172109532,155767643,2022-04-07,Plano,TX0430600,13A,A,A,N,F,49,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+172109664,155767767,2022-04-09,Plano,TX0430600,13A,B,B,N,M,22,N,N,OF,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+172109474,155767598,2022-04-11,Plano,TX0430600,13A,B,B,N,F,27,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+169215485,153241742,2022-04-13,Plano,TX0430600,13A,W,W,N,M,29,R,N,OK,Residence/Home,Home,Personal Weapons,Unconscious,C
+169215797,153242023,2022-04-15,Plano,TX0430600,13A,W,W,N,M,58,N,N,ST,Specialty Store,Specialty Store,Knife/Cutting Instrument,,C
+170371467,154255639,2022-04-16,Plano,TX0430600,13A,B,B,N,M,31,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+185938530,167853397,2022-04-16,Plano,TX0430600,13A,W,W,N,F,18,N,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+177161132,160178407,2022-04-22,Plano,TX0430600,13A,W,W,N,M,53,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+177161133,160178407,2022-04-22,Plano,TX0430600,13A,W,W,N,F,50,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+177161135,160178407,2022-04-22,Plano,TX0430600,13A,W,W,N,F,12,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+170371856,154255981,2022-04-24,Plano,TX0430600,13A,W,W,N,F,49,R,N,OF;PA;VO,Residence/Home,Home,Unknown,Minor Injury;Unconscious,C
+172109732,155767826,2022-04-25,Plano,TX0430600,13A,W,W,N,M,58,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+172109733,155767826,2022-04-25,Plano,TX0430600,13A,W,W,N,M,30,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+172109734,155767826,2022-04-25,Plano,TX0430600,13A,W,W,N,M,64,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+185944887,167859022,2022-04-26,Plano,TX0430600,13A,W,W,N,F,35,R,Y,SE,Residence/Home,Home,Blunt Object;Handgun,Minor Injury,C
+170372344,154256426,2022-04-30,Plano,TX0430600,13A,H,W,H,F,30,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+170372734,154256770,2022-05-03,Plano,TX0430600,13A,W,W,N,M,29,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+172109930,155767993,2022-05-04,Plano,TX0430600,13A,B,B,N,M,33,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+173857593,157299320,2022-05-05,Plano,TX0430600,13A,H,W,H,M,58,R,N,AQ,Residence/Home,Home,Handgun,,C
+177161289,160178531,2022-05-05,Plano,TX0430600,13A,H,W,H,M,22,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+177161290,160178531,2022-05-05,Plano,TX0430600,13A,W,W,N,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+172109850,155767921,2022-05-09,Plano,TX0430600,13A,B,B,N,M,14,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+172109894,155767963,2022-05-10,Plano,TX0430600,13A,B,B,N,M,43,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+170374635,154258504,2022-05-13,Plano,TX0430600,13A,B,B,N,F,49,R,N,PA,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+170382809,154265903,2022-05-13,Plano,TX0430600,13A,W,W,N,M,42,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+172110317,155768321,2022-05-13,Plano,TX0430600,13A,H,W,H,M,22,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+173857958,157299660,2022-05-13,Plano,TX0430600,13A,W,W,N,M,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+172109999,155768052,2022-05-14,Plano,TX0430600,13A,W,W,N,M,62,N,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+175185195,158455641,2022-05-14,Plano,TX0430600,13A,H,W,H,F,42,R,N,OK,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+172110046,155768093,2022-05-15,Plano,TX0430600,13A,A,A,N,M,28,N,N,ST,Convenience Store,Convenience Store,Firearm,,C
+172110047,155768093,2022-05-15,Plano,TX0430600,13A,A,A,N,M,29,N,N,ST,Convenience Store,Convenience Store,Firearm,,C
+172110048,155768093,2022-05-15,Plano,TX0430600,13A,H,W,H,F,32,N,N,ST,Convenience Store,Convenience Store,Firearm,,C
+172110049,155768093,2022-05-15,Plano,TX0430600,13A,H,W,H,F,19,N,N,ST,Convenience Store,Convenience Store,Firearm,,C
+172109946,155768005,2022-05-16,Plano,TX0430600,13A,B,B,N,F,51,N,N,AQ,Residence/Home,Home,Shotgun,,C
+173857949,157299650,2022-05-16,Plano,TX0430600,13A,W,W,N,F,37,N,N,ST,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+173857951,157299650,2022-05-16,Plano,TX0430600,13A,B,B,N,M,34,N,N,ST,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+173857852,157299560,2022-05-20,Plano,TX0430600,13A,W,W,N,M,75,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+175185306,158455734,2022-05-23,Plano,TX0430600,13A,W,W,N,M,29,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones;Loss of Teeth,C
+173857985,157299680,2022-05-24,Plano,TX0430600,13A,W,W,N,M,39,N,N,OK;VO,Rental Storage Facility,Storage Facility,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+173857986,157299680,2022-05-24,Plano,TX0430600,13A,B,B,N,F,52,N,N,OK;VO,Rental Storage Facility,Storage Facility,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+175185397,158455816,2022-05-25,Plano,TX0430600,13A,W,W,N,M,51,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+175185357,158455779,2022-05-26,Plano,TX0430600,13A,B,B,N,F,28,R,Y,SE,Residence/Home,Home,Other Firearm,Minor Injury,C
+177161195,160178451,2022-05-28,Plano,TX0430600,13A,H,W,H,M,27,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,Minor Injury,C
+173858138,157299822,2022-05-30,Plano,TX0430600,13A,B,B,N,F,34,R,Y,BG,Residence/Home,Home,Handgun;Personal Weapons,Minor Injury,C
+173858139,157299822,2022-05-30,Plano,TX0430600,13A,B,B,N,F,33,N,N,ST,Residence/Home,Home,Handgun;Personal Weapons,,C
+180084576,162734170,2022-06-10,Plano,TX0430600,13A,B,B,N,F,36,R,N,RU,Residence/Home,Home,Firearm,,C
+172111258,155769136,2022-06-11,Plano,TX0430600,13A,B,B,N,F,26,R,Y,BG,Residence/Home,Home,Other,,C
+180084581,162734175,2022-06-17,Plano,TX0430600,13A,W,W,N,M,33,R,N,AQ,Residence/Home,Home,Handgun;Personal Weapons,,C
+180084582,162734175,2022-06-17,Plano,TX0430600,13A,W,W,N,M,38,,N,AQ,Residence/Home,Home,Handgun;Personal Weapons,,C
+173859133,157300691,2022-06-19,Plano,TX0430600,13A,H,W,H,M,41,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Severe Laceration,C
+185938732,167853566,2022-06-20,Plano,TX0430600,13A,B,B,N,F,35,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+175185899,158456250,2022-06-21,Plano,TX0430600,13A,B,B,N,F,34,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Unconscious,C
+173859619,157301071,2022-06-25,Plano,TX0430600,13A,A,A,N,M,29,N,N,ST,Bar/Nightclub,Bar & Nightclub,Other,Minor Injury,C
+177161672,160178854,2022-06-26,Plano,TX0430600,13A,W,W,N,F,35,R,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Apparent Broken Bones,C
+173859689,157301122,2022-06-27,Plano,TX0430600,13A,H,W,H,F,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Fire/Incendiary Device,Other Major Injury,C
+177161494,160178697,2022-06-27,Plano,TX0430600,13A,W,W,N,M,50,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+175186170,158456483,2022-06-28,Plano,TX0430600,13A,B,B,N,M,24,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+175186145,158456457,2022-06-29,Plano,TX0430600,13A,H,W,H,F,25,N,Y,BG,Residence/Home,Home,Handgun,,C
+178574998,161416994,2022-06-29,Plano,TX0430600,13A,B,B,N,F,25,R,Y,OK;XR,Residence/Home,Home,Handgun,,C
+173859983,157301370,2022-07-01,Plano,TX0430600,13A,B,B,N,M,41,R,Y,SE,Residence/Home,Home,Handgun,,C
+184330391,166439404,2022-07-01,Plano,TX0430600,13A,A,A,U,F,73,R,N,ST,Residence/Home,Home,Motor Vehicle/Vessel,Minor Injury,C
+177161482,160178687,2022-07-02,Plano,TX0430600,13A,H,B,H,F,31,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,Possible Internal Injury;Severe Laceration,C
+177161483,160178687,2022-07-02,Plano,TX0430600,13A,H,W,H,M,27,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,Possible Internal Injury;Severe Laceration,C
+181923105,164342785,2022-07-02,Plano,TX0430600,13A,A,A,N,M,43,N,N,ST,Restaurant,Restaurant,Handgun,,C
+181923106,164342785,2022-07-02,Plano,TX0430600,13A,A,A,N,F,15,N,N,AQ,Restaurant,Restaurant,Handgun,,C
+187882130,169543096,2022-07-03,Plano,TX0430600,13A,W,W,N,F,44,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Apparent Broken Bones;Other Major Injury;Possible Internal Injury;Severe Laceration;Unconscious,C
+187882131,169543096,2022-07-03,Plano,TX0430600,13A,W,W,N,M,28,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+187882132,169543096,2022-07-03,Plano,TX0430600,13A,W,W,N,F,29,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Possible Internal Injury,C
+187882133,169543096,2022-07-03,Plano,TX0430600,13A,W,W,N,F,12,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Possible Internal Injury,C
+187882134,169543096,2022-07-03,Plano,TX0430600,13A,W,W,N,F,3,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+173860941,157302227,2022-07-08,Plano,TX0430600,13A,W,W,N,F,43,N,N,IL,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+178579048,161420620,2022-07-09,Plano,TX0430600,13A,W,W,N,M,25,R,N,SB,Residence/Home,Home,Blunt Object,Minor Injury,C
+177161592,160178785,2022-07-11,Plano,TX0430600,13A,W,W,N,M,63,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+177161593,160178785,2022-07-11,Plano,TX0430600,13A,W,W,N,F,62,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+173861291,157302525,2022-07-12,Plano,TX0430600,13A,H,W,H,F,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+173861292,157302525,2022-07-12,Plano,TX0430600,13A,H,W,H,F,14,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+173861293,157302525,2022-07-12,Plano,TX0430600,13A,H,W,H,F,5,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+175186557,158456822,2022-07-12,Plano,TX0430600,13A,W,W,N,M,47,R,N,ST,Service/Gas Station,Gas Station,Blunt Object,Minor Injury,C
+177161616,160178804,2022-07-12,Plano,TX0430600,13A,A,A,N,F,38,R,Y,SE,Restaurant,Restaurant,Knife/Cutting Instrument,Severe Laceration,C
+177161617,160178804,2022-07-12,Plano,TX0430600,13A,A,A,N,M,53,N,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,Severe Laceration,C
+178575107,161417077,2022-07-12,Plano,TX0430600,13A,B,B,N,F,36,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+173861523,157302727,2022-07-14,Plano,TX0430600,13A,W,W,N,F,27,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+175186860,158457089,2022-07-16,Plano,TX0430600,13A,B,B,N,M,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+178575203,161417157,2022-07-17,Plano,TX0430600,13A,H,W,H,F,19,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+181923280,164342938,2022-07-18,Plano,TX0430600,13A,B,B,N,F,16,N,N,FR;ST,Residence/Home,Home,Firearm,,C
+181923281,164342938,2022-07-18,Plano,TX0430600,13A,B,B,N,F,46,R,N,ST,Residence/Home,Home,Firearm,,C
+175187079,158457285,2022-07-22,Plano,TX0430600,13A,A,A,N,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+175187080,158457285,2022-07-22,Plano,TX0430600,13A,W,W,N,F,23,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+175187152,158457349,2022-07-24,Plano,TX0430600,13A,W,W,N,M,17,R,N,AQ;VO,Residence/Home,Home,Personal Weapons,Unconscious,C
+175187324,158457495,2022-07-26,Plano,TX0430600,13A,H,W,H,F,35,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+175187551,158457700,2022-07-28,Plano,TX0430600,13A,B,B,N,M,35,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+185938672,167853514,2022-07-29,Plano,TX0430600,13A,H,W,H,M,53,R,N,IL,Residence/Home,Home,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+173863742,157304702,2022-07-30,Plano,TX0430600,13A,H,W,H,M,21,N,N,FR;OK,Residence/Home,Home,Handgun,,C
+175188024,158458128,2022-07-31,Plano,TX0430600,13A,W,W,N,F,34,N,N,FR,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Unconscious,C
+178575310,161417241,2022-08-02,Plano,TX0430600,13A,H,W,H,M,27,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+175188577,158458586,2022-08-04,Plano,TX0430600,13A,B,B,N,M,47,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+177161963,160179095,2022-08-05,Plano,TX0430600,13A,B,B,N,M,30,R,N,ST,Residence/Home,Home,Firearm,,C
+175188949,158458925,2022-08-07,Plano,TX0430600,13A,B,B,N,M,38,R,N,AQ;VO,Residence/Home,Home,Blunt Object,Severe Laceration,C
+178575374,161417294,2022-08-07,Plano,TX0430600,13A,H,W,H,M,36,N,N,ST,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Other Major Injury,C
+178575375,161417294,2022-08-07,Plano,TX0430600,13A,H,W,H,F,35,N,N,ST,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Minor Injury,C
+178575376,161417294,2022-08-07,Plano,TX0430600,13A,H,W,H,M,16,N,N,ST,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Minor Injury,C
+178575377,161417294,2022-08-07,Plano,TX0430600,13A,H,W,H,M,8,N,N,ST,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Possible Internal Injury,C
+178575378,161417294,2022-08-07,Plano,TX0430600,13A,H,W,H,F,10,N,N,ST,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Apparent Broken Bones;Other Major Injury;Possible Internal Injury;Severe Laceration,C
+178575466,161417369,2022-08-09,Plano,TX0430600,13A,H,W,H,M,39,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+175189902,158459760,2022-08-11,Plano,TX0430600,13A,W,W,N,M,36,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+177161969,160179100,2022-08-12,Plano,TX0430600,13A,H,W,H,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+177161971,160179100,2022-08-12,Plano,TX0430600,13A,H,W,H,M,19,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+177161972,160179100,2022-08-12,Plano,TX0430600,13A,H,W,H,M,19,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+177161973,160179100,2022-08-12,Plano,TX0430600,13A,H,W,H,M,24,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+175190491,158460284,2022-08-13,Plano,TX0430600,13A,B,B,N,M,16,R,N,AQ,Residence/Home,Home,Handgun,,C
+175190587,158460373,2022-08-14,Plano,TX0430600,13A,W,W,N,M,46,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+177161940,160179078,2022-08-15,Plano,TX0430600,13A,A,A,N,M,27,R,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Other,,C
+178575600,161417488,2022-08-17,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+180084905,162734463,2022-08-19,Plano,TX0430600,13A,B,B,N,M,32,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+180084939,162734494,2022-08-21,Plano,TX0430600,13A,B,B,N,M,22,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+180084940,162734494,2022-08-21,Plano,TX0430600,13A,W,W,U,M,19,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+180084941,162734494,2022-08-21,Plano,TX0430600,13A,U,U,U,M,,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+177168726,160185137,2022-08-25,Plano,TX0430600,13A,W,W,N,M,45,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+178575727,161417596,2022-08-26,Plano,TX0430600,13A,B,B,N,F,36,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+178575741,161417609,2022-08-27,Plano,TX0430600,13A,H,W,H,M,30,R,N,OK;ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+178576151,161417982,2022-08-30,Plano,TX0430600,13A,B,B,N,F,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+180085302,162734828,2022-09-14,Plano,TX0430600,13A,W,W,N,M,33,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Other Major Injury;Severe Laceration,C
+187882598,169543516,2022-09-14,Plano,TX0430600,13A,H,W,H,M,43,N,N,ER,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury,C
+177164221,160181103,2022-09-17,Plano,TX0430600,13A,H,W,H,M,34,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+181923573,164343193,2022-09-18,Plano,TX0430600,13A,W,W,N,M,54,R,N,NE,Residence/Home,Home,Handgun,Possible Internal Injury,C
+185939034,167853839,2022-09-18,Plano,TX0430600,13A,H,W,H,F,18,R,Y,AQ;XR,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+178576145,161417975,2022-09-19,Plano,TX0430600,13A,H,W,H,M,30,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+180085323,162734846,2022-09-19,Plano,TX0430600,13A,W,W,N,F,24,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+177164825,160181654,2022-09-20,Plano,TX0430600,13A,B,B,N,M,12,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+180085365,162734884,2022-09-21,Plano,TX0430600,13A,W,W,N,M,48,N,N,ST,Bar/Nightclub,Bar & Nightclub,Other,Minor Injury,C
+184330600,166439585,2022-09-25,Plano,TX0430600,13A,H,W,H,M,28,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+181923630,164343245,2022-09-28,Plano,TX0430600,13A,H,W,H,F,35,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+180085573,162735076,2022-09-30,Plano,TX0430600,13A,W,W,N,F,30,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+184330601,166439583,2022-10-02,Plano,TX0430600,13A,B,B,N,M,43,R,N,ST;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+184330554,166439546,2022-10-03,Plano,TX0430600,13A,H,W,H,M,35,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+180085774,162735253,2022-10-06,Plano,TX0430600,13A,B,B,N,F,20,N,N,ST,Restaurant,Restaurant,Other,Severe Laceration,C
+180085775,162735253,2022-10-06,Plano,TX0430600,13A,B,B,N,F,21,N,N,ST,Restaurant,Restaurant,Other,Minor Injury,C
+184331359,166440258,2022-10-06,Plano,TX0430600,13A,H,W,H,F,59,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+184331360,166440258,2022-10-06,Plano,TX0430600,13A,H,W,H,M,57,N,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+178576748,161418500,2022-10-07,Plano,TX0430600,13A,B,B,N,M,12,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+184330630,166439607,2022-10-09,Plano,TX0430600,13A,B,B,N,M,29,R,Y,SE,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury,C
+178576763,161418513,2022-10-11,Plano,TX0430600,13A,B,B,N,M,39,R,N,SP,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+178576785,161418535,2022-10-12,Plano,TX0430600,13A,W,W,N,F,62,R,N,,Residence/Home,Home,Firearm,,C
+180085963,162735414,2022-10-13,Plano,TX0430600,13A,B,B,U,M,,U,N,AQ;ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+178576968,161418701,2022-10-14,Plano,TX0430600,13A,B,B,N,M,38,R,N,OK,Field/Woods,Field & Woods,Knife/Cutting Instrument,,C
+181923976,164343555,2022-10-15,Plano,TX0430600,13A,H,W,H,F,41,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+181923968,164343551,2022-10-16,Plano,TX0430600,13A,W,W,N,M,14,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+181923969,164343551,2022-10-16,Plano,TX0430600,13A,W,W,N,M,16,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+181923970,164343551,2022-10-16,Plano,TX0430600,13A,W,W,N,M,14,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+181923971,164343551,2022-10-16,Plano,TX0430600,13A,W,W,N,M,14,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+180086031,162735472,2022-10-17,Plano,TX0430600,13A,W,W,N,F,76,R,N,GP,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+180086032,162735472,2022-10-17,Plano,TX0430600,13A,W,W,N,M,77,R,N,GP,Residence/Home,Home,Knife/Cutting Instrument,,C
+181924100,164343676,2022-10-19,Plano,TX0430600,13A,B,B,N,M,61,R,N,AQ,Construction Site,Construction Site,Handgun,,C
+181924157,164343727,2022-10-21,Plano,TX0430600,13A,W,W,N,F,51,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+181924246,164343814,2022-10-22,Plano,TX0430600,13A,H,W,H,M,61,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+184330704,166439677,2022-10-23,Plano,TX0430600,13A,B,B,N,M,20,R,N,,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones;Other Major Injury;Severe Laceration;Unconscious,C
+178577388,161419081,2022-10-25,Plano,TX0430600,13A,B,B,N,M,35,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+178577389,161419081,2022-10-25,Plano,TX0430600,13A,U,U,U,F,,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+180207761,162843241,2022-10-27,Plano,TX0430600,13A,B,B,N,M,34,N,N,ST,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+178577868,161419521,2022-10-30,Plano,TX0430600,13A,W,W,N,F,77,N,N,AQ,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Knife/Cutting Instrument,,C
+181924279,164343845,2022-10-30,Plano,TX0430600,13A,H,W,H,F,49,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+181924301,164343862,2022-10-30,Plano,TX0430600,13A,B,B,N,M,30,N,Y,OK;RU;XR,Parking/Drop Lot/Garage,Parking Lot,Blunt Object;Handgun;Personal Weapons,Minor Injury;Possible Internal Injury;Severe Laceration,C
+184330784,166439743,2022-11-02,Plano,TX0430600,13A,H,W,H,M,16,N,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Other Major Injury;Severe Laceration;Unconscious,C
+181924367,164343920,2022-11-03,Plano,TX0430600,13A,A,A,N,F,42,R,Y,SE,Residence/Home,Home,Blunt Object,Minor Injury,C
+180208096,162843540,2022-11-04,Plano,TX0430600,13A,H,W,H,M,23,R,N,OK,Residence/Home,Home,Handgun,Possible Internal Injury,C
+180087621,162736935,2022-11-05,Plano,TX0430600,13A,H,W,H,M,23,R,N,,Parking/Drop Lot/Garage,Parking Lot,Unknown,Unconscious,C
+181924441,164343988,2022-11-06,Plano,TX0430600,13A,B,B,N,F,55,N,N,CH,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+181924492,164344034,2022-11-06,Plano,TX0430600,13A,W,W,N,F,51,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Apparent Broken Bones;Possible Internal Injury,C
+181924456,164344000,2022-11-07,Plano,TX0430600,13A,H,W,H,F,51,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+181924460,164344000,2022-11-07,Plano,TX0430600,13A,H,W,H,M,22,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+181924646,164344166,2022-11-09,Plano,TX0430600,13A,B,B,N,M,33,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+180087838,162737130,2022-11-12,Plano,TX0430600,13A,W,W,N,M,19,R,Y,OK;XR,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+180087839,162737130,2022-11-12,Plano,TX0430600,13A,B,B,N,F,21,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+184330877,166439826,2022-11-14,Plano,TX0430600,13A,A,A,N,F,47,R,Y,XR,Residence/Home,Home,Handgun,Minor Injury,C
+181925124,164344599,2022-11-21,Plano,TX0430600,13A,H,W,H,M,34,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,,C
+184331037,166439969,2022-11-28,Plano,TX0430600,13A,H,W,H,M,27,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+181924934,164344426,2022-11-29,Plano,TX0430600,13A,W,W,N,M,20,R,N,ST,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+181925247,164344704,2022-11-29,Plano,TX0430600,13A,B,B,N,F,20,R,Y,ST;XR,Residence/Home,Home,Handgun,,C
+185939774,167854500,2022-12-01,Plano,TX0430600,13A,H,W,H,M,29,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+185939775,167854500,2022-12-01,Plano,TX0430600,13A,H,W,H,M,22,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+184331132,166440056,2022-12-03,Plano,TX0430600,13A,H,W,H,F,52,N,N,ER,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+184331133,166440056,2022-12-03,Plano,TX0430600,13A,H,W,H,M,41,R,N,ER,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+184331136,166440059,2022-12-04,Plano,TX0430600,13A,B,B,N,F,28,R,Y,SE,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+184331215,166440128,2022-12-06,Plano,TX0430600,13A,W,W,N,M,15,N,N,OK,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+184331372,166440268,2022-12-12,Plano,TX0430600,13A,W,W,N,M,25,N,N,OK,Residence/Home,Home,Firearm,,C
+184331442,166440332,2022-12-14,Plano,TX0430600,13A,U,U,U,M,,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+184335258,166443745,2022-12-14,Plano,TX0430600,13A,B,B,N,F,20,R,Y,XR,Shelter-Mission/Homeless,Shelter,Knife/Cutting Instrument,,C
+184335259,166443745,2022-12-14,Plano,TX0430600,13A,B,B,N,F,41,N,N,OK,Shelter-Mission/Homeless,Shelter,Knife/Cutting Instrument,,C
+184335260,166443745,2022-12-14,Plano,TX0430600,13A,B,B,N,M,19,N,N,ST,Shelter-Mission/Homeless,Shelter,Knife/Cutting Instrument,,C
+184332000,166440802,2022-12-17,Plano,TX0430600,13A,W,W,N,F,19,,N,,Amusement Park,Amusement Park,Personal Weapons,Unconscious,C
+184331544,166440422,2022-12-18,Plano,TX0430600,13A,H,W,H,M,32,R,Y,BG;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+184331545,166440422,2022-12-18,Plano,TX0430600,13A,W,W,N,F,61,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+184331546,166440422,2022-12-18,Plano,TX0430600,13A,W,W,N,M,52,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+185940669,167855303,2022-12-19,Plano,TX0430600,13A,A,A,N,M,42,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+181928268,164347422,2022-12-23,Plano,TX0430600,13A,A,A,N,M,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+184331581,166440452,2022-12-24,Plano,TX0430600,13A,B,B,N,M,26,R,N,OK,Residence/Home,Home,Handgun,Other Major Injury,C
+187883667,169544495,2022-12-25,Plano,TX0430600,13A,H,W,H,M,35,R,N,AQ;BE,Residence/Home,Home,Handgun,Apparent Broken Bones;Other Major Injury;Possible Internal Injury,C
+187883668,169544495,2022-12-25,Plano,TX0430600,13A,H,W,H,M,39,R,N,IL;OF,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury,C
+181928419,164347563,2022-12-26,Plano,TX0430600,13A,W,W,N,M,66,R,N,AQ;ST,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Unconscious,C
+184331661,166440518,2022-12-27,Plano,TX0430600,13A,W,W,N,F,64,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Severe Laceration,C
+185940676,167855308,2022-12-29,Plano,TX0430600,13A,B,B,N,M,34,U,Y,XR,Residence/Home,Home,Handgun,,C
+181928856,164347929,2022-12-30,Plano,TX0430600,13A,W,W,N,M,42,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+185941227,167855799,2023-01-01,Plano,TX0430600,13A,W,W,N,M,19,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+194405749,175241643,2023-01-01,Plano,TX0430600,13A,B,B,N,F,47,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,Minor Injury;Unconscious,C
+185941044,167855640,2023-01-02,Plano,TX0430600,13A,W,W,N,M,66,R,N,PA,Residence/Home,Home,Blunt Object,Apparent Broken Bones,C
+189629406,171069852,2023-01-08,Plano,TX0430600,13A,B,B,N,M,0,R,N,CH,Residence/Home,Home,Unknown,Other Major Injury,C
+184332747,166441473,2023-01-09,Plano,TX0430600,13A,B,B,N,M,28,N,N,AQ,Residence/Home,Home,Handgun,,C
+185940700,167855332,2023-01-09,Plano,TX0430600,13A,B,B,N,M,40,N,N,OK,Residence/Home,Home,Handgun,,C
+185941282,167855850,2023-01-11,Plano,TX0430600,13A,B,B,N,F,45,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+185941762,167856258,2023-01-14,Plano,TX0430600,13A,H,W,H,M,43,R,N,ST,Residence/Home,Home,Shotgun,,C
+187883875,169544687,2023-01-16,Plano,TX0430600,13A,B,B,N,M,16,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+185941220,167855792,2023-01-17,Plano,TX0430600,13A,W,W,N,F,44,U,N,SB,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+184333611,166442265,2023-01-18,Plano,TX0430600,13A,H,W,H,M,14,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Apparent Broken Bones,C
+185941241,167855810,2023-01-21,Plano,TX0430600,13A,W,W,N,M,72,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+194405769,175241661,2023-01-21,Plano,TX0430600,13A,B,B,N,M,19,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+194405770,175241661,2023-01-21,Plano,TX0430600,13A,B,B,N,M,18,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+185941339,167855904,2023-01-22,Plano,TX0430600,13A,W,W,N,M,55,R,N,PA,Residence/Home,Home,Blunt Object,Apparent Broken Bones;Severe Laceration,C
+187883536,169544372,2023-01-22,Plano,TX0430600,13A,H,W,H,M,3,R,N,GC;OK,Residence/Home,Home,Unknown,Apparent Broken Bones,C
+187883599,169544430,2023-01-25,Plano,TX0430600,13A,W,W,N,M,41,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+187883656,169544484,2023-01-26,Plano,TX0430600,13A,W,W,N,M,70,N,N,ST,Grocery/Supermarket,Grocery Store,Knife/Cutting Instrument,,C
+187883657,169544484,2023-01-26,Plano,TX0430600,13A,H,W,H,M,34,N,N,ST,Grocery/Supermarket,Grocery Store,Knife/Cutting Instrument,,C
+187885324,169545942,2023-01-27,Plano,TX0430600,13A,B,B,N,F,29,R,Y,BG,Residence/Home,Home,Handgun,,C
+184334670,166443206,2023-01-29,Plano,TX0430600,13A,B,B,N,M,26,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+184338965,166447130,2023-01-29,Plano,TX0430600,13A,H,W,H,M,61,N,N,ST,Department/Discount Store,Department Store,Motor Vehicle/Vessel,,C
+187884032,169544827,2023-01-30,Plano,TX0430600,13A,B,B,N,M,44,N,N,ST,Shelter-Mission/Homeless,Shelter,Knife/Cutting Instrument,,C
+200401375,180500444,2023-01-30,Plano,TX0430600,13A,W,W,N,F,40,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+208487573,187549824,2023-01-30,Plano,TX0430600,13A,U,U,U,M,,,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+208487574,187549824,2023-01-30,Plano,TX0430600,13A,U,U,U,M,,,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+208487575,187549824,2023-01-30,Plano,TX0430600,13A,B,B,U,M,17,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+187883925,169544730,2023-02-02,Plano,TX0430600,13A,B,B,N,M,48,R,N,SP,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+187884006,169544800,2023-02-04,Plano,TX0430600,13A,W,W,N,M,48,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+185942125,167856589,2023-02-09,Plano,TX0430600,13A,H,W,H,M,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+189629585,171069973,2023-02-09,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+189629586,171069973,2023-02-09,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+189630822,171070980,2023-02-12,Plano,TX0430600,13A,H,W,H,F,39,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones,C
+187884504,169545234,2023-02-13,Plano,TX0430600,13A,H,W,H,F,23,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+187885148,169545791,2023-02-13,Plano,TX0430600,13A,W,W,N,F,43,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+185943126,167857446,2023-02-14,Plano,TX0430600,13A,H,W,H,F,42,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+187884529,169545255,2023-02-14,Plano,TX0430600,13A,W,W,N,F,13,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+187884530,169545255,2023-02-14,Plano,TX0430600,13A,W,W,N,F,12,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+194405789,175241678,2023-02-14,Plano,TX0430600,13A,B,B,U,M,43,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+200401415,180500474,2023-02-14,Plano,TX0430600,13A,B,B,N,F,23,R,N,ST,Residence/Home,Home,Firearm,,C
+200401416,180500474,2023-02-14,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST,Residence/Home,Home,Firearm,,C
+200401417,180500474,2023-02-14,Plano,TX0430600,13A,B,B,N,M,0,R,N,ST,Residence/Home,Home,Firearm,,C
+189629633,171070008,2023-02-15,Plano,TX0430600,13A,B,B,N,F,24,N,N,EE,Residence/Home,Home,Asphyxiation;Personal Weapons,Unconscious,C
+187884729,169545417,2023-02-17,Plano,TX0430600,13A,H,W,H,M,29,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+189629699,171070064,2023-02-18,Plano,TX0430600,13A,B,B,N,F,64,R,N,OF,Residence/Home,Home,Firearm,,C
+200401428,180500483,2023-02-19,Plano,TX0430600,13A,H,W,H,F,22,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+185943615,167857880,2023-02-21,Plano,TX0430600,13A,A,A,N,F,38,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+187885458,169546056,2023-02-21,Plano,TX0430600,13A,W,W,N,M,59,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+187884905,169545573,2023-02-22,Plano,TX0430600,13A,W,W,N,M,45,R,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+194405806,175241694,2023-02-25,Plano,TX0430600,13A,W,W,N,F,27,N,N,ST,Residence/Home,Home,Shotgun,,C
+194405807,175241694,2023-02-25,Plano,TX0430600,13A,W,W,N,M,33,N,Y,SE,Residence/Home,Home,Shotgun,,C
+185944086,167858308,2023-02-26,Plano,TX0430600,13A,B,B,N,M,35,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+194405810,175241697,2023-02-26,Plano,TX0430600,13A,A,A,N,F,49,N,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+202165445,182038906,2023-02-26,Plano,TX0430600,13A,W,W,N,M,32,R,N,RU;ST,Residence/Home,Home,Handgun,,C
+202165446,182038906,2023-02-26,Plano,TX0430600,13A,H,W,H,F,34,R,N,RU;ST,Residence/Home,Home,Handgun,,C
+187885329,169545947,2023-02-28,Plano,TX0430600,13A,A,A,N,M,16,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+189629850,171070185,2023-03-01,Plano,TX0430600,13A,H,W,H,M,38,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+189629878,171070203,2023-03-01,Plano,TX0430600,13A,B,B,N,M,48,N,N,ST,Residence/Home,Home,Handgun,,C
+189629890,171070215,2023-03-02,Plano,TX0430600,13A,W,W,N,F,42,R,N,ST,Convenience Store,Convenience Store,Blunt Object,,C
+189629891,171070215,2023-03-02,Plano,TX0430600,13A,W,W,N,F,52,R,N,ST,Convenience Store,Convenience Store,Blunt Object,,C
+204378612,183967025,2023-03-03,Plano,TX0430600,13A,H,W,H,M,33,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury;Possible Internal Injury;Severe Laceration;Unconscious,C
+187885980,169546493,2023-03-04,Plano,TX0430600,13A,W,W,N,M,54,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+189630012,171070301,2023-03-05,Plano,TX0430600,13A,B,B,N,F,50,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Minor Injury,C
+200401501,180500517,2023-03-06,Plano,TX0430600,13A,B,B,N,M,30,N,N,OK,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Minor Injury,C
+189630196,171070457,2023-03-11,Plano,TX0430600,13A,H,W,H,M,37,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+189630197,171070457,2023-03-11,Plano,TX0430600,13A,H,W,H,M,18,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+187886709,169547155,2023-03-12,Plano,TX0430600,13A,W,W,N,F,65,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+189630432,171070655,2023-03-13,Plano,TX0430600,13A,W,W,N,F,78,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+189630298,171070537,2023-03-14,Plano,TX0430600,13A,H,W,H,F,23,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+200401535,180500541,2023-03-15,Plano,TX0430600,13A,W,W,N,F,49,R,N,ST,Specialty Store,Specialty Store,Handgun,,C
+200401536,180500541,2023-03-15,Plano,TX0430600,13A,W,W,N,F,74,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+200401546,180500550,2023-03-17,Plano,TX0430600,13A,H,W,H,M,45,R,N,OK;PA,Parking/Drop Lot/Garage,Parking Lot,Handgun;Rifle,,C
+200401547,180500550,2023-03-17,Plano,TX0430600,13A,H,W,H,F,38,R,N,OK;PA,Parking/Drop Lot/Garage,Parking Lot,Handgun;Rifle,,C
+204378619,183967032,2023-03-17,Plano,TX0430600,13A,W,W,N,M,61,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+187887519,169547884,2023-03-18,Plano,TX0430600,13A,B,B,N,F,23,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+189630658,171070846,2023-03-22,Plano,TX0430600,13A,B,B,N,M,14,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,,C
+202165464,182038919,2023-03-23,Plano,TX0430600,13A,B,B,N,M,46,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,Minor Injury,C
+200854404,180891964,2023-03-25,Plano,TX0430600,13A,W,W,N,F,81,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+187888494,169548736,2023-03-27,Plano,TX0430600,13A,B,B,N,M,21,N,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+200401640,180500618,2023-03-30,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Residence/Home,Home,Firearm,Minor Injury,C
+189630831,171070988,2023-03-31,Plano,TX0430600,13A,W,W,N,M,31,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+189631316,171071387,2023-04-01,Plano,TX0430600,13A,W,W,N,M,80,R,N,OK,Residence/Home,Home,Handgun,,C
+200401698,180500663,2023-04-05,Plano,TX0430600,13A,W,W,N,M,31,N,N,AQ,Convenience Store,Convenience Store,Knife/Cutting Instrument,Severe Laceration,C
+189631654,171071669,2023-04-06,Plano,TX0430600,13A,H,W,H,F,16,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Apparent Broken Bones,C
+200401722,180500678,2023-04-07,Plano,TX0430600,13A,H,W,H,M,36,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Blunt Object,Minor Injury,C
+200401727,180500681,2023-04-07,Plano,TX0430600,13A,W,W,N,M,33,U,N,AQ;VO,Parking/Drop Lot/Garage,Parking Lot,Other,Severe Laceration,C
+200401751,180500700,2023-04-10,Plano,TX0430600,13A,W,W,N,M,23,R,N,ST,Restaurant,Restaurant,Blunt Object,Loss of Teeth;Severe Laceration,C
+189631560,171071584,2023-04-11,Plano,TX0430600,13A,W,W,N,M,40,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200401799,180500739,2023-04-14,Plano,TX0430600,13A,W,W,N,F,53,N,Y,XR,Residence/Home,Home,Personal Weapons,Loss of Teeth;Other Major Injury,C
+200401802,180500741,2023-04-14,Plano,TX0430600,13A,H,W,H,M,28,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+200401805,180500743,2023-04-15,Plano,TX0430600,13A,W,W,N,M,53,R,N,ST,Auto Dealership New/Used,Auto Dealership,Handgun,,C
+189631987,171071956,2023-04-17,Plano,TX0430600,13A,H,W,H,M,13,R,N,AQ,School-Elementary/Secondary,K-12 School,Asphyxiation;Personal Weapons,Unconscious,C
+194405931,175241786,2023-04-19,Plano,TX0430600,13A,B,B,N,M,46,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel;Other,,C
+194405932,175241786,2023-04-19,Plano,TX0430600,13A,B,B,N,F,22,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel;Other,Minor Injury,C
+200401860,180500790,2023-04-20,Plano,TX0430600,13A,A,A,N,F,21,R,N,CH,Residence/Home,Home,Other,Minor Injury,C
+196198792,176800577,2023-04-23,Plano,TX0430600,13A,W,W,N,M,49,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+196198793,176800577,2023-04-23,Plano,TX0430600,13A,W,W,N,M,20,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+200401900,180500827,2023-04-23,Plano,TX0430600,13A,B,B,N,F,43,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+200401935,180500856,2023-04-25,Plano,TX0430600,13A,W,W,N,M,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+194405957,175241811,2023-04-27,Plano,TX0430600,13A,H,W,H,M,28,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,,C
+200401988,180500902,2023-04-28,Plano,TX0430600,13A,W,W,N,M,15,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+194405968,175241819,2023-04-29,Plano,TX0430600,13A,W,W,U,F,26,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+200402033,180500935,2023-04-30,Plano,TX0430600,13A,H,W,H,F,26,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+194405973,175241823,2023-05-01,Plano,TX0430600,13A,H,W,H,F,28,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+206739316,186025329,2023-05-01,Plano,TX0430600,13A,W,W,N,M,36,N,Y,XR,Residence/Home,Home,Handgun,,C
+201453517,181415263,2023-05-03,Plano,TX0430600,13A,B,B,N,M,16,R,N,AQ,School-Elementary/Secondary,K-12 School,Asphyxiation;Personal Weapons,Unconscious,C
+193329502,174293315,2023-05-05,Plano,TX0430600,13A,W,W,N,M,40,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,,C
+200854504,180892045,2023-05-05,Plano,TX0430600,13A,W,W,N,F,41,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200854505,180892045,2023-05-05,Plano,TX0430600,13A,W,W,N,M,43,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200854506,180892045,2023-05-05,Plano,TX0430600,13A,W,W,N,F,78,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200854507,180892045,2023-05-05,Plano,TX0430600,13A,W,W,N,F,0,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+196198765,176800554,2023-05-07,Plano,TX0430600,13A,H,W,H,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+194406040,175241880,2023-05-11,Plano,TX0430600,13A,B,B,N,F,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+197978189,178352474,2023-05-12,Plano,TX0430600,13A,B,B,N,F,25,R,Y,BG;ST,Parking/Drop Lot/Garage,Parking Lot,Handgun;Personal Weapons,Minor Injury,C
+197978190,178352474,2023-05-12,Plano,TX0430600,13A,B,B,N,F,42,N,N,OK;ST,Parking/Drop Lot/Garage,Parking Lot,Handgun;Personal Weapons,Minor Injury,C
+194406062,175241898,2023-05-15,Plano,TX0430600,13A,B,B,N,M,41,R,N,SC,Residence/Home,Home,Other,Minor Injury,C
+194406075,175241905,2023-05-16,Plano,TX0430600,13A,B,B,N,F,39,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+194406097,175241922,2023-05-18,Plano,TX0430600,13A,W,W,N,F,24,N,N,AQ;FR,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+194406098,175241922,2023-05-18,Plano,TX0430600,13A,W,W,N,F,23,R,N,AQ;FR,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+194406147,175241962,2023-05-24,Plano,TX0430600,13A,B,B,N,F,19,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+197978222,178352497,2023-05-28,Plano,TX0430600,13A,B,B,N,F,51,R,Y,SE;VO,Residence/Home,Home,Handgun,,C
+197978223,178352497,2023-05-28,Plano,TX0430600,13A,B,B,N,M,54,R,Y,SE;VO,Residence/Home,Home,Handgun,,C
+194406199,175241998,2023-05-29,Plano,TX0430600,13A,H,W,H,F,42,R,N,AQ;ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+193330403,174294084,2023-06-01,Plano,TX0430600,13A,B,B,N,M,39,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+194406275,175242064,2023-06-01,Plano,TX0430600,13A,A,A,N,M,19,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+200854628,180892145,2023-06-05,Plano,TX0430600,13A,B,B,N,F,20,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+193330583,174294243,2023-06-06,Plano,TX0430600,13A,H,W,H,M,31,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+193330584,174294243,2023-06-06,Plano,TX0430600,13A,H,W,H,M,29,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+196198945,176800701,2023-06-08,Plano,TX0430600,13A,B,B,N,F,34,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+206738583,186024735,2023-06-08,Plano,TX0430600,13A,W,W,N,F,40,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+193330881,174294501,2023-06-16,Plano,TX0430600,13A,B,B,N,M,29,R,Y,SE;VO,Residence/Home,Home,Other,Minor Injury,C
+193330882,174294501,2023-06-16,Plano,TX0430600,13A,B,B,N,F,32,N,Y,SE;VO,Residence/Home,Home,Other,Minor Injury,C
+196198998,176800745,2023-06-17,Plano,TX0430600,13A,H,W,H,F,57,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+196199006,176800753,2023-06-19,Plano,TX0430600,13A,H,W,H,F,40,R,N,ST,Convenience Store,Convenience Store,Firearm,,C
+196199007,176800753,2023-06-19,Plano,TX0430600,13A,W,W,N,M,68,R,N,ST,Convenience Store,Convenience Store,Firearm,,C
+196199008,176800753,2023-06-19,Plano,TX0430600,13A,B,B,N,M,29,R,N,ST,Convenience Store,Convenience Store,Firearm,,C
+196199009,176800753,2023-06-19,Plano,TX0430600,13A,B,B,N,F,62,N,N,ST,Convenience Store,Convenience Store,Firearm,,C
+193331005,174294611,2023-06-21,Plano,TX0430600,13A,H,W,H,M,35,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+196199032,176800771,2023-06-22,Plano,TX0430600,13A,B,B,N,M,41,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+197978284,178352550,2023-06-22,Plano,TX0430600,13A,B,B,N,M,45,R,Y,BG,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+193331149,174294738,2023-06-25,Plano,TX0430600,13A,H,W,H,M,38,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+194406516,175242277,2023-06-25,Plano,TX0430600,13A,B,B,N,M,25,N,N,AQ,Residence/Home,Home,Handgun,,C
+197978310,178352573,2023-06-27,Plano,TX0430600,13A,H,W,H,M,40,R,N,NE;VO,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+200854696,180892206,2023-06-28,Plano,TX0430600,13A,B,B,N,M,41,N,N,ST,Restaurant,Restaurant,Other,Minor Injury,C
+196199107,176800838,2023-07-01,Plano,TX0430600,13A,B,B,N,F,37,R,Y,BG,Residence/Home,Home,Asphyxiation;Handgun;Personal Weapons,Unconscious,C
+194406712,175242428,2023-07-03,Plano,TX0430600,13A,H,W,H,M,,R,N,,Parking/Drop Lot/Garage,Parking Lot,Other,Severe Laceration,C
+194406713,175242428,2023-07-03,Plano,TX0430600,13A,H,W,H,M,19,,N,,Parking/Drop Lot/Garage,Parking Lot,Other,,C
+194406720,175242435,2023-07-03,Plano,TX0430600,13A,W,W,N,M,67,R,N,PA,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+208488034,187550190,2023-07-04,Plano,TX0430600,13A,W,W,N,F,42,R,Y,SE,Residence/Home,Home,Handgun,,C
+194406834,175242521,2023-07-05,Plano,TX0430600,13A,W,W,N,M,23,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+194406962,175242626,2023-07-09,Plano,TX0430600,13A,W,W,N,M,45,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+197978427,178352659,2023-07-09,Plano,TX0430600,13A,W,W,U,F,33,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+196199265,176800953,2023-07-11,Plano,TX0430600,13A,W,W,N,M,51,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197978438,178352669,2023-07-11,Plano,TX0430600,13A,H,W,H,F,22,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+194407143,175242789,2023-07-14,Plano,TX0430600,13A,W,W,N,M,60,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Severe Laceration,C
+200854816,180892293,2023-07-17,Plano,TX0430600,13A,B,B,N,F,37,R,Y,XR,Residence/Home,Home,Handgun,,C
+197978513,178352739,2023-07-20,Plano,TX0430600,13A,W,W,N,F,31,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+202165518,182038965,2023-07-22,Plano,TX0430600,13A,H,W,H,M,40,R,N,OK,Residence/Home,Home,Other,Minor Injury,C
+197978551,178352769,2023-07-23,Plano,TX0430600,13A,B,B,N,M,36,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+194431051,175264028,2023-07-24,Plano,TX0430600,13A,H,W,H,F,16,N,N,AQ,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Apparent Broken Bones,C
+197978565,178352783,2023-07-24,Plano,TX0430600,13A,W,W,N,M,45,R,N,AQ,Residence/Home,Home,Handgun,,C
+196199493,176801138,2023-07-25,Plano,TX0430600,13A,W,W,N,M,58,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+196199571,176801206,2023-07-28,Plano,TX0430600,13A,W,W,N,M,45,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+196199593,176801224,2023-07-29,Plano,TX0430600,13A,H,W,H,M,41,R,N,ST,Residence/Home,Home,Handgun,,C
+197978634,178352843,2023-07-29,Plano,TX0430600,13A,H,W,H,M,37,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+208487720,187549933,2023-07-29,Plano,TX0430600,13A,H,W,H,M,22,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Possible Internal Injury,C
+196199672,176801293,2023-08-01,Plano,TX0430600,13A,H,W,H,M,15,N,N,AQ,Construction Site,Construction Site,Other,Minor Injury,C
+196199677,176801298,2023-08-01,Plano,TX0430600,13A,B,B,N,M,12,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+196199678,176801298,2023-08-01,Plano,TX0430600,13A,B,B,N,M,17,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+197978674,178352878,2023-08-01,Plano,TX0430600,13A,W,W,U,F,33,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+197978698,178352893,2023-08-02,Plano,TX0430600,13A,W,W,N,F,51,R,N,PA,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+197978699,178352893,2023-08-02,Plano,TX0430600,13A,W,W,N,F,21,R,N,SB,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+197978712,178352906,2023-08-02,Plano,TX0430600,13A,A,A,N,M,84,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury;Severe Laceration,C
+196199783,176801389,2023-08-04,Plano,TX0430600,13A,H,W,H,M,28,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+196199784,176801389,2023-08-04,Plano,TX0430600,13A,H,W,H,F,25,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+196199787,176801392,2023-08-04,Plano,TX0430600,13A,B,B,N,M,38,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200854961,180892417,2023-08-05,Plano,TX0430600,13A,B,B,N,F,44,R,Y,SE,Residence/Home,Home,Handgun,,C
+197978810,178352985,2023-08-09,Plano,TX0430600,13A,B,B,N,M,29,N,N,AQ,Residence/Home,Home,Handgun,,C
+196200037,176801608,2023-08-11,Plano,TX0430600,13A,B,B,N,M,34,N,N,ST,Service/Gas Station,Gas Station,Handgun,,C
+200855023,180892472,2023-08-11,Plano,TX0430600,13A,W,W,N,F,40,R,N,OK,Residence/Home,Home,Blunt Object,Minor Injury,C
+204378735,183967127,2023-08-11,Plano,TX0430600,13A,H,W,H,M,40,R,Y,XS,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+196200089,176801648,2023-08-12,Plano,TX0430600,13A,W,W,N,F,29,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+196200090,176801648,2023-08-12,Plano,TX0430600,13A,B,B,N,M,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197978908,178353071,2023-08-18,Plano,TX0430600,13A,B,B,N,M,36,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+197978909,178353071,2023-08-18,Plano,TX0430600,13A,B,B,N,M,37,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+200855120,180892553,2023-08-19,Plano,TX0430600,13A,B,B,N,M,40,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Other,Severe Laceration,C
+197978951,178353108,2023-08-21,Plano,TX0430600,13A,H,W,H,M,47,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200855140,180892571,2023-08-21,Plano,TX0430600,13A,B,B,N,M,22,R,N,OK,Residence/Home,Home,Handgun,,C
+204378767,183967156,2023-08-25,Plano,TX0430600,13A,B,B,N,F,17,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+200855245,180892651,2023-08-26,Plano,TX0430600,13A,B,B,N,F,63,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+200855250,180892655,2023-08-26,Plano,TX0430600,13A,W,W,N,M,21,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+200855251,180892655,2023-08-26,Plano,TX0430600,13A,W,W,N,M,23,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+197979101,178353224,2023-08-29,Plano,TX0430600,13A,H,W,H,M,18,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+196200667,176802150,2023-08-30,Plano,TX0430600,13A,A,A,N,M,53,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+206740100,186026001,2023-09-01,Plano,TX0430600,13A,W,W,N,M,36,N,Y,XR,Residence/Home,Home,Handgun,,C
+197979260,178353370,2023-09-03,Plano,TX0430600,13A,W,W,N,F,16,R,N,FR,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+204378799,183967184,2023-09-04,Plano,TX0430600,13A,W,W,N,F,68,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+197979287,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,32,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979288,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,25,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979289,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,33,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979290,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,60,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979291,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,37,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979292,178353394,2023-09-05,Plano,TX0430600,13A,H,W,H,M,37,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+197979471,178353551,2023-09-09,Plano,TX0430600,13A,W,W,N,M,38,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197979472,178353551,2023-09-09,Plano,TX0430600,13A,W,W,N,F,36,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197979473,178353551,2023-09-09,Plano,TX0430600,13A,W,W,N,M,7,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197979474,178353551,2023-09-09,Plano,TX0430600,13A,W,W,N,M,7,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+202165745,182039155,2023-09-10,Plano,TX0430600,13A,W,W,N,M,24,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200855567,180892936,2023-09-16,Plano,TX0430600,13A,W,W,N,M,27,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+200855568,180892936,2023-09-16,Plano,TX0430600,13A,W,W,N,M,27,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+200855605,180892964,2023-09-16,Plano,TX0430600,13A,W,W,N,F,33,R,Y,XR,Residence/Home,Home,Handgun,,C
+200856133,180893421,2023-09-16,Plano,TX0430600,13A,H,W,H,F,13,N,N,ST,Park/Playground,Park & Playground,Personal Weapons,Possible Internal Injury,C
+202165842,182039236,2023-09-17,Plano,TX0430600,13A,B,B,N,F,19,R,Y,BG,Residence/Home,Home,Rifle,Minor Injury,C
+202165979,182039365,2023-09-17,Plano,TX0430600,13A,H,W,H,M,17,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+200855628,180892979,2023-09-20,Plano,TX0430600,13A,W,W,N,M,38,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+197979954,178353952,2023-09-22,Plano,TX0430600,13A,H,W,H,M,13,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+200855672,180893009,2023-09-22,Plano,TX0430600,13A,W,W,N,M,53,R,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+200855674,180893011,2023-09-23,Plano,TX0430600,13A,H,W,H,M,28,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+202165895,182039286,2023-09-24,Plano,TX0430600,13A,B,B,N,M,30,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+200855725,180893057,2023-09-27,Plano,TX0430600,13A,B,B,N,M,34,N,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+202165917,182039307,2023-09-27,Plano,TX0430600,13A,A,A,N,M,45,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+202165936,182039323,2023-09-28,Plano,TX0430600,13A,B,B,N,M,41,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197980255,178354222,2023-09-29,Plano,TX0430600,13A,H,W,H,M,39,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197980256,178354222,2023-09-29,Plano,TX0430600,13A,H,W,H,M,28,N,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197980257,178354222,2023-09-29,Plano,TX0430600,13A,H,W,H,M,30,N,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+197980258,178354222,2023-09-29,Plano,TX0430600,13A,W,W,N,F,,N,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200457121,180549140,2023-10-01,Plano,TX0430600,13A,H,W,H,M,38,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+200855828,180893144,2023-10-01,Plano,TX0430600,13A,A,A,N,M,21,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+200856333,180893602,2023-10-02,Plano,TX0430600,13A,W,W,N,F,15,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+204378956,183967310,2023-10-04,Plano,TX0430600,13A,H,W,H,M,48,R,N,,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Loss of Teeth,C
+200856284,180893555,2023-10-14,Plano,TX0430600,13A,A,A,N,M,47,N,N,ST,Park/Playground,Park & Playground,Personal Weapons,Apparent Broken Bones,C
+204379038,183967376,2023-10-17,Plano,TX0430600,13A,H,W,H,M,38,N,N,ST,Construction Site,Construction Site,Firearm,,C
+206738788,186024901,2023-10-20,Plano,TX0430600,13A,W,W,N,M,48,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+206738845,186024952,2023-10-27,Plano,TX0430600,13A,W,W,N,M,54,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+206738852,186024959,2023-10-28,Plano,TX0430600,13A,H,W,H,M,13,R,N,CH,Residence/Home,Home,Personal Weapons,Unconscious,C
+202166474,182039773,2023-11-03,Plano,TX0430600,13A,H,W,H,F,11,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+202166488,182039786,2023-11-04,Plano,TX0430600,13A,W,W,N,M,35,N,N,,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury;Possible Internal Injury,C
+206738952,186025038,2023-11-04,Plano,TX0430600,13A,B,B,N,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+206738953,186025038,2023-11-04,Plano,TX0430600,13A,W,W,N,F,35,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+206738997,186025070,2023-11-08,Plano,TX0430600,13A,B,B,N,M,65,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+202166752,182040000,2023-11-10,Plano,TX0430600,13A,W,W,N,M,12,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Severe Laceration,C
+206739025,186025094,2023-11-10,Plano,TX0430600,13A,A,A,N,F,23,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+206739088,186025145,2023-11-14,Plano,TX0430600,13A,B,B,N,F,0,N,N,CH,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+206739085,186025143,2023-11-15,Plano,TX0430600,13A,H,W,H,M,39,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+204379953,183968158,2023-11-20,Plano,TX0430600,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+206739130,186025179,2023-11-20,Plano,TX0430600,13A,W,W,N,F,29,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+208487951,187550124,2023-11-20,Plano,TX0430600,13A,B,B,N,M,30,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury;Severe Laceration,C
+206739152,186025200,2023-11-22,Plano,TX0430600,13A,H,W,H,M,54,R,N,OK,Residence/Home,Home,Handgun,,C
+204379462,183967747,2023-11-23,Plano,TX0430600,13A,H,W,H,F,31,R,N,ST,Bar/Nightclub,Bar & Nightclub,Other,Minor Injury,C
+202167244,182040423,2023-11-25,Plano,TX0430600,13A,A,A,N,M,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+206739177,186025218,2023-11-25,Plano,TX0430600,13A,B,B,N,M,40,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+206739179,186025219,2023-11-25,Plano,TX0430600,13A,B,B,N,M,23,N,N,OK,Residence/Home,Home,Handgun,,C
+206739180,186025219,2023-11-25,Plano,TX0430600,13A,B,B,N,F,22,R,N,SB,Residence/Home,Home,Handgun,,C
+206739189,186025227,2023-11-26,Plano,TX0430600,13A,W,W,N,M,0,R,N,CH;OF,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+206739224,186025259,2023-12-01,Plano,TX0430600,13A,B,B,N,M,38,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+208488002,187550163,2023-12-01,Plano,TX0430600,13A,W,W,N,M,53,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+204379689,183967931,2023-12-02,Plano,TX0430600,13A,B,B,N,F,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+208488008,187550168,2023-12-02,Plano,TX0430600,13A,B,B,N,F,20,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+204380285,183968460,2023-12-08,Plano,TX0430600,13A,H,W,H,M,15,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+206739338,186025346,2023-12-08,Plano,TX0430600,13A,W,W,N,F,48,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+204379935,183968145,2023-12-09,Plano,TX0430600,13A,W,W,N,F,72,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+206739356,186025362,2023-12-09,Plano,TX0430600,13A,H,W,H,M,53,R,N,,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+208488060,187550214,2023-12-09,Plano,TX0430600,13A,A,A,N,M,28,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+208488064,187550218,2023-12-09,Plano,TX0430600,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+206739384,186025382,2023-12-11,Plano,TX0430600,13A,H,W,H,M,36,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+208488077,187550230,2023-12-11,Plano,TX0430600,13A,W,W,N,M,44,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+208488101,187550249,2023-12-14,Plano,TX0430600,13A,A,A,N,M,56,N,N,ST,Commercial/Office Building,Office Building,Other,Minor Injury,C
+208489553,187551501,2023-12-15,Plano,TX0430600,13A,B,B,N,M,27,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+204380142,183968330,2023-12-16,Plano,TX0430600,13A,W,W,N,F,36,N,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+206739511,186025502,2023-12-16,Plano,TX0430600,13A,W,W,N,F,27,N,Y,XR,Residence/Home,Home,Other,Possible Internal Injury,C
+208488119,187550264,2023-12-17,Plano,TX0430600,13A,B,B,N,M,30,,Y,SE;VO,Residence/Home,Home,Handgun,Minor Injury,C
+208488125,187550268,2023-12-18,Plano,TX0430600,13A,W,W,N,F,34,N,Y,XR,Residence/Home,Home,Handgun,,C
+208488138,187550280,2023-12-19,Plano,TX0430600,13A,A,A,N,M,21,N,N,AQ,Specialty Store,Specialty Store,Knife/Cutting Instrument,,C
+208488153,187550292,2023-12-21,Plano,TX0430600,13A,W,W,N,M,68,R,N,OK,Residence/Home,Home,Other,,C
+208488165,187550303,2023-12-23,Plano,TX0430600,13A,B,B,N,F,22,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+208488171,187550308,2023-12-23,Plano,TX0430600,13A,W,W,N,M,42,R,N,OK,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Other,,C
+208488172,187550308,2023-12-23,Plano,TX0430600,13A,W,W,N,M,22,N,N,OK,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Other,,C
+208488173,187550308,2023-12-23,Plano,TX0430600,13A,W,W,N,M,23,N,N,OK,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Other,,C
+204380477,183968614,2023-12-27,Plano,TX0430600,13A,H,W,H,M,21,R,N,RU;ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+215759128,193874180,2024-01-05,Plano,TX0430600,13A,A,A,N,M,25,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+213810421,192180302,2024-01-06,Plano,TX0430600,13A,B,B,N,M,16,R,N,ST,Residence/Home,Home,Handgun,,C
+222971815,200142904,2024-01-06,Plano,TX0430600,13A,W,W,N,M,0,R,N,CH,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Other Major Injury;Possible Internal Injury,C
+208488295,187550409,2024-01-07,Plano,TX0430600,13A,W,W,N,F,44,N,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+220742416,198205472,2024-01-07,Plano,TX0430600,13A,W,W,N,M,19,R,N,OK;ST,Residence/Home,Home,Handgun,Other Major Injury,C
+206739880,186025813,2024-01-09,Plano,TX0430600,13A,B,B,N,M,42,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+206739907,186025835,2024-01-10,Plano,TX0430600,13A,W,W,N,M,44,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+210323514,189146629,2024-01-12,Plano,TX0430600,13A,B,B,N,M,16,U,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+212203415,190781049,2024-01-15,Plano,TX0430600,13A,W,W,N,F,44,R,Y,BG,Residence/Home,Home,Handgun,,C
+210323550,189146658,2024-01-17,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+222971810,200142901,2024-01-19,Plano,TX0430600,13A,W,W,N,M,3,N,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Apparent Broken Bones,C
+208488431,187550525,2024-01-21,Plano,TX0430600,13A,W,W,N,F,53,R,Y,SE,Residence/Home,Home,Handgun,Minor Injury,C
+215759136,193874188,2024-01-21,Plano,TX0430600,13A,W,W,N,F,68,R,Y,SE,Residence/Home,Home,Handgun,,C
+212203438,190781070,2024-01-26,Plano,TX0430600,13A,B,B,N,F,31,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+222971832,200142913,2024-01-28,Plano,TX0430600,13A,B,B,N,M,56,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+208488543,187550617,2024-01-30,Plano,TX0430600,13A,A,A,N,F,40,R,Y,SE,Residence/Home,Home,Other,,C
+215759156,193874206,2024-02-03,Plano,TX0430600,13A,A,A,N,M,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other Firearm,Apparent Broken Bones,C
+222971842,200142922,2024-02-04,Plano,TX0430600,13A,B,B,N,F,22,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Other,Minor Injury,C
+215759168,193874217,2024-02-12,Plano,TX0430600,13A,W,W,N,F,26,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Other Major Injury,C
+212203578,190781188,2024-02-17,Plano,TX0430600,13A,H,W,H,M,35,R,N,AQ,Residence/Home,Home,Handgun,,C
+222971866,200142942,2024-02-17,Plano,TX0430600,13A,H,W,H,M,40,R,N,ST,Residence/Home,Home,Handgun,Other Major Injury,C
+210323848,189146906,2024-02-18,Plano,TX0430600,13A,B,B,N,F,21,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+210323853,189146911,2024-02-18,Plano,TX0430600,13A,B,B,N,M,39,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+212203586,190781195,2024-02-19,Plano,TX0430600,13A,B,B,N,M,56,R,N,OK,Residence/Home,Home,Other,Minor Injury,C
+212203634,190781229,2024-02-24,Plano,TX0430600,13A,H,W,H,M,42,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,,C
+212203635,190781229,2024-02-24,Plano,TX0430600,13A,H,W,H,M,30,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+213810538,192180395,2024-03-03,Plano,TX0430600,13A,W,W,N,M,18,R,N,AQ,Residence/Home,Home,Handgun,,C
+213810539,192180395,2024-03-03,Plano,TX0430600,13A,W,W,N,M,16,R,N,AQ,Residence/Home,Home,Handgun,,C
+212203712,190781293,2024-03-04,Plano,TX0430600,13A,B,B,N,F,22,R,Y,BG,Residence/Home,Home,Handgun,,C
+217493295,195380011,2024-03-04,Plano,TX0430600,13A,B,B,N,M,47,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Loss of Teeth;Severe Laceration,C
+212203735,190781316,2024-03-07,Plano,TX0430600,13A,W,W,N,M,52,R,N,NE,Residence/Home,Home,Other,Minor Injury,C
+210324398,189147384,2024-03-09,Plano,TX0430600,13A,B,B,N,M,28,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+210324427,189147405,2024-03-09,Plano,TX0430600,13A,W,W,N,F,27,N,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+212203764,190781341,2024-03-09,Plano,TX0430600,13A,B,B,N,M,40,R,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+212203765,190781341,2024-03-09,Plano,TX0430600,13A,B,B,N,F,18,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+212203775,190781351,2024-03-11,Plano,TX0430600,13A,H,W,H,F,23,R,Y,SE,Residence/Home,Home,Other,Minor Injury,C
+212203780,190781356,2024-03-11,Plano,TX0430600,13A,B,B,N,M,16,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,,C
+222971898,200142971,2024-03-13,Plano,TX0430600,13A,B,B,N,M,36,R,Y,XR,Residence/Home,Home,Other,Minor Injury,C
+210324816,189147736,2024-03-16,Plano,TX0430600,13A,H,W,H,M,44,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+219282880,196931574,2024-03-16,Plano,TX0430600,13A,B,B,N,M,33,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+213810598,192180443,2024-03-21,Plano,TX0430600,13A,W,W,N,F,19,R,Y,XR,Residence/Home,Home,Handgun,Minor Injury,C
+213810614,192180456,2024-03-23,Plano,TX0430600,13A,H,W,H,F,37,N,N,IL,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Apparent Broken Bones;Other Major Injury,C
+212203922,190781469,2024-03-24,Plano,TX0430600,13A,H,W,H,M,26,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+210325290,189148127,2024-03-28,Plano,TX0430600,13A,B,B,N,F,29,R,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+213810650,192180487,2024-03-28,Plano,TX0430600,13A,B,B,N,M,24,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+212204027,190781561,2024-03-31,Plano,TX0430600,13A,H,W,H,M,30,N,N,ST,Residence/Home,Home,Shotgun,Minor Injury,C
+212204059,190781586,2024-04-01,Plano,TX0430600,13A,B,B,N,F,30,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+213810693,192180525,2024-04-02,Plano,TX0430600,13A,W,W,N,F,31,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+213810724,192180552,2024-04-05,Plano,TX0430600,13A,H,W,H,M,53,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+217493345,195380054,2024-04-05,Plano,TX0430600,13A,H,W,H,M,29,R,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+222971946,200143007,2024-04-07,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Restaurant,Restaurant,Handgun,,C
+222971947,200143007,2024-04-07,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Restaurant,Restaurant,Handgun,,C
+222971948,200143007,2024-04-07,Plano,TX0430600,13A,H,W,H,M,18,R,N,ST,Restaurant,Restaurant,Handgun,,C
+222971949,200143007,2024-04-07,Plano,TX0430600,13A,H,W,H,M,17,U,N,ST,Restaurant,Restaurant,Handgun,,C
+222971950,200143007,2024-04-07,Plano,TX0430600,13A,H,W,H,M,18,,N,ST,Restaurant,Restaurant,Handgun,,C
+213810733,192180560,2024-04-08,Plano,TX0430600,13A,H,W,H,M,44,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+215759378,193874370,2024-04-08,Plano,TX0430600,13A,H,W,H,F,47,N,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+213810742,192180568,2024-04-09,Plano,TX0430600,13A,W,W,N,M,65,N,N,ST,Convenience Store,Convenience Store,Blunt Object,Apparent Broken Bones;Other Major Injury;Severe Laceration,C
+212204406,190781879,2024-04-12,Plano,TX0430600,13A,W,W,N,M,52,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+212204417,190781888,2024-04-13,Plano,TX0430600,13A,W,W,N,M,18,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+212204418,190781888,2024-04-13,Plano,TX0430600,13A,W,W,N,M,15,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+212204419,190781888,2024-04-13,Plano,TX0430600,13A,W,W,N,F,22,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+212204420,190781888,2024-04-13,Plano,TX0430600,13A,W,W,N,F,20,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+219282934,196931617,2024-04-13,Plano,TX0430600,13A,W,W,N,M,36,N,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+220742490,198205532,2024-04-13,Plano,TX0430600,13A,W,W,N,F,36,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+215759422,193874408,2024-04-14,Plano,TX0430600,13A,H,W,H,F,40,R,Y,SE,Residence/Home,Home,Blunt Object,,C
+220742491,198205533,2024-04-14,Plano,TX0430600,13A,B,B,N,F,42,R,N,AQ;PA,Residence/Home,Home,Firearm,,C
+220742492,198205533,2024-04-14,Plano,TX0430600,13A,B,B,N,F,68,R,N,AQ;GP;ST,Residence/Home,Home,Firearm,,C
+220742493,198205533,2024-04-14,Plano,TX0430600,13A,B,B,N,F,15,R,N,AQ;SB;ST,Residence/Home,Home,Firearm,,C
+213810852,192180660,2024-04-21,Plano,TX0430600,13A,B,B,N,F,45,R,Y,SE,Residence/Home,Home,Handgun,,C
+212204769,190782183,2024-04-23,Plano,TX0430600,13A,H,W,H,M,15,N,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+212204867,190782275,2024-04-26,Plano,TX0430600,13A,B,B,U,M,49,N,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury;Possible Internal Injury,C
+222971988,200143040,2024-04-27,Plano,TX0430600,13A,A,A,N,F,44,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+217493421,195380111,2024-05-02,Plano,TX0430600,13A,H,W,H,M,25,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+215759587,193874546,2024-05-03,Plano,TX0430600,13A,B,B,N,M,42,U,N,ST,Government/Public Building,Government Building,Knife/Cutting Instrument,,C
+213811157,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,F,24,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+213811158,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,23,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+213811159,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,17,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+213811160,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,16,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+213811161,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,16,R,N,AQ;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+213811162,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,25,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+213811163,192180918,2024-05-07,Plano,TX0430600,13A,H,W,H,M,23,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217493459,195380142,2024-05-08,Plano,TX0430600,13A,W,W,N,F,44,N,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+215759653,193874608,2024-05-11,Plano,TX0430600,13A,B,B,N,M,65,N,N,AQ;VO,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+217493491,195380167,2024-05-11,Plano,TX0430600,13A,H,W,H,M,56,R,N,PA,Residence/Home,Home,Other,Minor Injury,C
+217493492,195380167,2024-05-11,Plano,TX0430600,13A,H,A,H,M,11,R,N,SB,Residence/Home,Home,Other,Minor Injury,C
+217493497,195380170,2024-05-12,Plano,TX0430600,13A,W,W,N,M,64,R,N,OK;VO,Residence/Home,Home,Handgun;Personal Weapons,Apparent Broken Bones;Unconscious,C
+217493498,195380170,2024-05-12,Plano,TX0430600,13A,H,W,H,M,35,R,N,OK;VO,Residence/Home,Home,Handgun;Personal Weapons,,C
+217493499,195380171,2024-05-12,Plano,TX0430600,13A,B,B,N,F,39,N,N,ST,Residence/Home,Home,Blunt Object,,C
+217493509,195380179,2024-05-12,Plano,TX0430600,13A,B,B,N,M,42,N,N,OK,Residence/Home,Home,Handgun,,C
+219283015,196931686,2024-05-13,Plano,TX0430600,13A,A,A,N,F,22,R,N,SB,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Severe Laceration,C
+213811377,192181111,2024-05-14,Plano,TX0430600,13A,W,W,N,M,48,U,N,AQ,Specialty Store,Specialty Store,Knife/Cutting Instrument,Apparent Broken Bones;Severe Laceration,C
+213811458,192181183,2024-05-16,Plano,TX0430600,13A,A,A,N,M,20,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217493529,195380195,2024-05-16,Plano,TX0430600,13A,A,A,N,M,29,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument;Other,Minor Injury,C
+213811494,192181213,2024-05-17,Plano,TX0430600,13A,W,W,N,M,15,R,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+219283039,196931706,2024-05-17,Plano,TX0430600,13A,W,W,N,M,40,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+219283040,196931707,2024-05-17,Plano,TX0430600,13A,B,B,N,M,27,R,Y,BG,Residence/Home,Home,Handgun,Severe Laceration,C
+217493537,195380201,2024-05-18,Plano,TX0430600,13A,H,W,H,F,34,R,Y,BG,Residence/Home,Home,Personal Weapons,Severe Laceration,C
+213811646,192181330,2024-05-20,Plano,TX0430600,13A,H,W,H,M,56,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object;Personal Weapons,Apparent Broken Bones,C
+213811647,192181330,2024-05-20,Plano,TX0430600,13A,W,W,N,M,45,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object;Personal Weapons,,C
+215759789,193874723,2024-05-23,Plano,TX0430600,13A,W,W,N,M,64,R,N,PA,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+215759850,193874774,2024-05-27,Plano,TX0430600,13A,H,W,H,F,58,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+222972031,200143076,2024-05-28,Plano,TX0430600,13A,W,W,N,M,57,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+215759926,193874840,2024-05-31,Plano,TX0430600,13A,W,W,N,M,30,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+217493582,195380239,2024-06-01,Plano,TX0430600,13A,W,W,N,F,78,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+219283138,196931782,2024-06-02,Plano,TX0430600,13A,B,B,N,M,49,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+219283141,196931785,2024-06-02,Plano,TX0430600,13A,H,W,H,F,25,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+220742619,198205632,2024-06-06,Plano,TX0430600,13A,H,W,H,M,45,R,Y,CS,Residence/Home,Home,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+220742620,198205633,2024-06-06,Plano,TX0430600,13A,W,W,N,M,49,N,N,ST,Restaurant,Restaurant,Handgun,,C
+217493636,195380280,2024-06-09,Plano,TX0430600,13A,B,B,N,F,34,R,N,ST,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury;Unconscious,C
+222972048,200143090,2024-06-09,Plano,TX0430600,13A,H,W,H,M,41,R,Y,SE,Other/Unknown,Other & Unknown,Knife/Cutting Instrument,Minor Injury,C
+217493640,195380284,2024-06-10,Plano,TX0430600,13A,B,B,N,F,29,N,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+215760300,193875159,2024-06-12,Plano,TX0430600,13A,H,W,H,F,18,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+222972063,200143103,2024-06-14,Plano,TX0430600,13A,W,W,N,F,36,R,Y,SE,Residence/Home,Home,Blunt Object,,C
+222972064,200143104,2024-06-16,Plano,TX0430600,13A,B,B,N,M,23,R,N,SB,Residence/Home,Home,Handgun,,C
+217493672,195380311,2024-06-17,Plano,TX0430600,13A,H,W,H,M,19,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+220742683,198205687,2024-06-17,Plano,TX0430600,13A,A,A,N,M,21,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+215760502,193875337,2024-06-18,Plano,TX0430600,13A,H,W,H,M,34,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+215760503,193875337,2024-06-18,Plano,TX0430600,13A,H,W,H,M,30,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+215760504,193875337,2024-06-18,Plano,TX0430600,13A,H,W,H,F,35,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+215760525,193875358,2024-06-18,Plano,TX0430600,13A,W,W,N,M,21,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217493682,195380321,2024-06-18,Plano,TX0430600,13A,H,W,H,M,52,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+220742686,198205690,2024-06-18,Plano,TX0430600,13A,H,W,H,M,19,R,Y,VO;XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+217493688,195380327,2024-06-19,Plano,TX0430600,13A,W,W,N,M,73,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Severe Laceration,C
+220742740,198205738,2024-06-19,Plano,TX0430600,13A,H,W,H,M,38,N,N,AQ,Specialty Store,Specialty Store,Knife/Cutting Instrument,,C
+215760626,193875452,2024-06-23,Plano,TX0430600,13A,W,W,N,M,62,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+217493735,195380368,2024-06-24,Plano,TX0430600,13A,H,W,H,M,17,R,N,AQ,Residence/Home,Home,Handgun,,C
+217493736,195380368,2024-06-24,Plano,TX0430600,13A,H,W,H,F,,R,N,ST,Residence/Home,Home,Handgun,,C
+217493737,195380368,2024-06-24,Plano,TX0430600,13A,U,U,U,M,3,R,N,ST,Residence/Home,Home,Handgun,,C
+219283233,196931865,2024-06-24,Plano,TX0430600,13A,B,B,N,M,42,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+226703669,203401035,2024-06-25,Plano,TX0430600,13A,H,W,H,F,16,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+220742746,198205744,2024-06-27,Plano,TX0430600,13A,W,W,N,M,16,R,N,OK,Residence/Home,Home,Handgun,,C
+220742747,198205744,2024-06-27,Plano,TX0430600,13A,H,W,H,M,16,N,N,OK,Residence/Home,Home,Handgun,,C
+220742748,198205744,2024-06-27,Plano,TX0430600,13A,H,W,H,M,16,R,N,OK,Residence/Home,Home,Handgun,,C
+220742788,198205779,2024-07-02,Plano,TX0430600,13A,B,B,N,M,24,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+224855347,201781453,2024-07-05,Plano,TX0430600,13A,B,B,N,M,51,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+220742803,198205794,2024-07-07,Plano,TX0430600,13A,B,B,N,M,20,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+217493990,195380591,2024-07-08,Plano,TX0430600,13A,W,W,N,M,64,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+220742818,198205806,2024-07-08,Plano,TX0430600,13A,H,W,H,M,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+226703675,203401041,2024-07-08,Plano,TX0430600,13A,B,B,N,F,29,N,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+217494041,195380637,2024-07-09,Plano,TX0430600,13A,B,B,N,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+224855354,201781458,2024-07-10,Plano,TX0430600,13A,H,W,H,M,15,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217494089,195380679,2024-07-11,Plano,TX0430600,13A,W,W,N,M,61,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217494090,195380679,2024-07-11,Plano,TX0430600,13A,A,A,N,F,50,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+219283307,196931930,2024-07-11,Plano,TX0430600,13A,W,W,N,M,81,R,N,OK,Residence/Home,Home,Other,Apparent Broken Bones;Possible Internal Injury,C
+217494203,195380785,2024-07-13,Plano,TX0430600,13A,W,W,N,F,29,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+222972124,200143149,2024-07-13,Plano,TX0430600,13A,W,W,N,M,51,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+222972125,200143149,2024-07-13,Plano,TX0430600,13A,W,W,N,M,14,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+217494156,195380740,2024-07-14,Plano,TX0430600,13A,H,W,H,M,30,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration;Unconscious,C
+222972131,200143154,2024-07-14,Plano,TX0430600,13A,B,B,N,F,36,R,Y,XR,Residence/Home,Home,Other,Minor Injury,C
+222972132,200143154,2024-07-14,Plano,TX0430600,13A,B,B,N,M,17,R,N,CH,Residence/Home,Home,Other,Minor Injury,C
+222972253,200143255,2024-07-17,Plano,TX0430600,13A,H,W,H,M,23,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+217494271,195380849,2024-07-18,Plano,TX0430600,13A,B,B,N,F,22,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+217494321,195380891,2024-07-19,Plano,TX0430600,13A,B,B,N,M,34,R,Y,ST;XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+219283379,196931993,2024-07-20,Plano,TX0430600,13A,H,W,H,F,27,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+220742891,198205877,2024-07-24,Plano,TX0430600,13A,B,B,N,M,43,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+220742909,198205889,2024-07-25,Plano,TX0430600,13A,B,B,N,M,24,R,N,OK,Residence/Home,Home,Other,Minor Injury,C
+220742919,198205898,2024-07-28,Plano,TX0430600,13A,A,A,N,M,33,R,N,AQ,Government/Public Building,Government Building,Personal Weapons,Severe Laceration,C
+217494644,195381166,2024-07-29,Plano,TX0430600,13A,B,B,N,M,32,N,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Other Major Injury;Severe Laceration;Unconscious,C
+222972337,200143331,2024-07-29,Plano,TX0430600,13A,W,W,N,F,44,R,Y,BG;VO,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+226703752,203401102,2024-08-02,Plano,TX0430600,13A,B,B,N,M,51,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+222972363,200143354,2024-08-03,Plano,TX0430600,13A,B,B,N,F,27,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+220742970,198205942,2024-08-04,Plano,TX0430600,13A,W,W,U,F,35,R,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+219283680,196932257,2024-08-06,Plano,TX0430600,13A,W,W,N,F,54,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224855400,201781499,2024-08-08,Plano,TX0430600,13A,H,W,H,M,36,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+222972408,200143392,2024-08-10,Plano,TX0430600,13A,H,W,H,M,18,R,N,AQ,Park/Playground,Park & Playground,Rifle,,C
+224855403,201781502,2024-08-11,Plano,TX0430600,13A,H,W,H,M,28,N,N,OK;ST;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun;Other,Severe Laceration,C
+224855404,201781502,2024-08-11,Plano,TX0430600,13A,H,W,H,M,45,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun;Other,,C
+220743034,198205997,2024-08-12,Plano,TX0430600,13A,B,B,N,M,54,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+228841768,205272606,2024-08-12,Plano,TX0430600,13A,B,B,N,F,31,N,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+228841769,205272606,2024-08-12,Plano,TX0430600,13A,B,B,N,M,63,N,N,FR;ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+222972430,200143410,2024-08-13,Plano,TX0430600,13A,H,W,H,F,37,R,Y,SE,Residence/Home,Home,Other,Minor Injury,C
+219283910,196932466,2024-08-14,Plano,TX0430600,13A,W,W,N,F,51,R,N,IL,Residence/Home,Home,Other,Other Major Injury;Possible Internal Injury,C
+220743047,198206010,2024-08-14,Plano,TX0430600,13A,B,B,N,F,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+220743069,198206030,2024-08-16,Plano,TX0430600,13A,H,W,H,M,38,N,N,AQ,Residence/Home,Home,Handgun,,C
+219284012,196932558,2024-08-17,Plano,TX0430600,13A,B,B,N,M,49,N,N,AQ,Convenience Store,Convenience Store,Knife/Cutting Instrument,Minor Injury,C
+220743079,198206039,2024-08-18,Plano,TX0430600,13A,H,W,H,F,37,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+219284082,196932612,2024-08-19,Plano,TX0430600,13A,B,B,N,M,15,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+219284212,196932730,2024-08-23,Plano,TX0430600,13A,W,W,N,F,71,R,Y,SE,Residence/Home,Home,Blunt Object,Minor Injury;Severe Laceration,C
+219284225,196932743,2024-08-24,Plano,TX0430600,13A,B,B,N,M,32,N,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+230628453,206826268,2024-08-25,Plano,TX0430600,13A,H,W,H,M,13,R,N,ST,Residence/Home,Home,Handgun,,C
+220743335,198206257,2024-09-03,Plano,TX0430600,13A,W,W,N,F,27,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,Unconscious,C
+220743523,198206400,2024-09-07,Plano,TX0430600,13A,W,W,N,F,20,R,Y,AQ;XR,Residence/Home,Home,Handgun,Minor Injury,C
+220743593,198206462,2024-09-09,Plano,TX0430600,13A,H,W,H,M,23,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+220743594,198206462,2024-09-09,Plano,TX0430600,13A,H,W,H,M,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+220743595,198206462,2024-09-09,Plano,TX0430600,13A,H,W,H,M,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+220743629,198206494,2024-09-10,Plano,TX0430600,13A,B,B,N,F,23,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+220743676,198206533,2024-09-11,Plano,TX0430600,13A,H,W,H,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+222972625,200143571,2024-09-11,Plano,TX0430600,13A,B,B,N,F,34,R,Y,BG,Residence/Home,Home,Handgun,,C
+222972630,200143576,2024-09-12,Plano,TX0430600,13A,W,W,N,M,55,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+222972631,200143576,2024-09-12,Plano,TX0430600,13A,W,W,N,F,59,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+220743800,198206646,2024-09-15,Plano,TX0430600,13A,B,B,N,F,28,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+230628482,206826293,2024-09-19,Plano,TX0430600,13A,H,W,H,M,60,N,N,AQ,Construction Site,Construction Site,Personal Weapons,Apparent Broken Bones,C
+220744013,198206830,2024-09-20,Plano,TX0430600,13A,H,W,H,F,40,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+222972751,200143678,2024-09-22,Plano,TX0430600,13A,B,B,N,F,18,N,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+222972793,200143713,2024-09-23,Plano,TX0430600,13A,H,W,H,F,5,R,N,OK,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+226703943,203401264,2024-09-23,Plano,TX0430600,13A,H,W,H,F,14,R,N,CH;VO,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+222972808,200143727,2024-09-24,Plano,TX0430600,13A,B,B,N,M,44,R,Y,BG,Residence/Home,Home,Other,Minor Injury;Possible Internal Injury;Unconscious,C
+230628495,206826303,2024-09-28,Plano,TX0430600,13A,W,W,N,M,30,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230628497,206826305,2024-09-29,Plano,TX0430600,13A,H,W,H,M,31,U,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury;Severe Laceration,C
+222972914,200143816,2024-10-01,Plano,TX0430600,13A,A,A,N,M,16,N,N,AQ;VO,School-Elementary/Secondary,K-12 School,Personal Weapons,Apparent Broken Bones,C
+226704011,203401321,2024-10-03,Plano,TX0430600,13A,H,W,H,F,20,N,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+226704013,203401321,2024-10-03,Plano,TX0430600,13A,H,W,H,M,26,N,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+226704014,203401321,2024-10-03,Plano,TX0430600,13A,W,W,N,M,28,N,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+230628506,206826313,2024-10-04,Plano,TX0430600,13A,B,B,N,M,22,R,Y,BG,Residence/Home,Home,Handgun,,C
+222973067,200143948,2024-10-05,Plano,TX0430600,13A,H,W,H,M,30,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+228841873,205272684,2024-10-05,Plano,TX0430600,13A,W,W,N,M,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+222973209,200144072,2024-10-10,Plano,TX0430600,13A,W,W,N,M,63,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+222973235,200144097,2024-10-11,Plano,TX0430600,13A,H,W,H,M,32,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+226704079,203401378,2024-10-11,Plano,TX0430600,13A,A,A,N,F,36,N,N,AQ,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+226704090,203401386,2024-10-13,Plano,TX0430600,13A,H,W,H,M,22,R,N,ST,Restaurant,Restaurant,Handgun,,C
+230628527,206826332,2024-10-18,Plano,TX0430600,13A,W,W,N,M,42,R,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+222973593,200144411,2024-10-19,Plano,TX0430600,13A,B,B,N,F,35,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+226704167,203401455,2024-10-19,Plano,TX0430600,13A,H,W,H,M,27,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224855989,201782000,2024-10-20,Plano,TX0430600,13A,H,W,H,F,49,N,Y,XR,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+224856016,201782020,2024-10-20,Plano,TX0430600,13A,H,W,H,M,38,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+222973663,200144469,2024-10-22,Plano,TX0430600,13A,B,B,N,M,39,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+222973732,200144532,2024-10-24,Plano,TX0430600,13A,H,W,H,F,26,N,Y,BG,Field/Woods,Field & Woods,Knife/Cutting Instrument,Minor Injury,C
+222973822,200144599,2024-10-26,Plano,TX0430600,13A,W,W,N,M,57,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+222973845,200144619,2024-10-27,Plano,TX0430600,13A,H,W,H,M,35,N,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Unconscious,C
+222973928,200144693,2024-10-27,Plano,TX0430600,13A,H,W,H,F,17,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+226704385,203401653,2024-10-27,Plano,TX0430600,13A,W,W,N,F,19,R,N,SB,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+226704330,203401604,2024-10-29,Plano,TX0430600,13A,W,W,N,M,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury;Possible Internal Injury,C
+228860671,205288741,2024-10-31,Plano,TX0430600,13A,W,W,N,F,24,N,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+228860684,205288753,2024-11-03,Plano,TX0430600,13A,H,W,H,M,24,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+228860685,205288753,2024-11-03,Plano,TX0430600,13A,H,W,H,M,28,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+228860686,205288753,2024-11-03,Plano,TX0430600,13A,H,W,H,M,23,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+228860687,205288753,2024-11-03,Plano,TX0430600,13A,H,W,H,M,26,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+228860689,205288754,2024-11-03,Plano,TX0430600,13A,W,W,N,M,38,N,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+224856378,201782343,2024-11-04,Plano,TX0430600,13A,A,A,N,M,13,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Unconscious,C
+226704439,203401704,2024-11-06,Plano,TX0430600,13A,B,B,N,F,45,R,N,PA,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+226704440,203401704,2024-11-06,Plano,TX0430600,13A,B,B,N,F,23,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224856372,201782337,2024-11-07,Plano,TX0430600,13A,B,B,N,M,38,N,Y,XR,Residence/Home,Home,Handgun,,C
+228860742,205288802,2024-11-11,Plano,TX0430600,13A,A,A,N,M,52,N,N,ST,Restaurant,Restaurant,Handgun;Personal Weapons,,C
+224856521,201782468,2024-11-12,Plano,TX0430600,13A,A,A,N,F,49,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+224856522,201782468,2024-11-12,Plano,TX0430600,13A,A,A,N,F,17,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+224856617,201782547,2024-11-15,Plano,TX0430600,13A,H,W,H,F,68,R,Y,SE,Residence/Home,Home,Handgun,,C
+224856737,201782647,2024-11-19,Plano,TX0430600,13A,H,W,H,F,22,R,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Other,,C
+226704726,203401960,2024-11-20,Plano,TX0430600,13A,H,W,H,M,29,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument;Other,Minor Injury,C
+226704727,203401960,2024-11-20,Plano,TX0430600,13A,H,W,H,M,19,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument;Other,,C
+226704771,203401995,2024-11-20,Plano,TX0430600,13A,H,W,H,M,29,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun;Knife/Cutting Instrument,,C
+226704816,203402037,2024-11-22,Plano,TX0430600,13A,W,W,N,F,28,R,Y,BG,Residence/Home,Home,Firearm,Minor Injury,C
+224856980,201782862,2024-11-23,Plano,TX0430600,13A,B,B,N,M,47,R,Y,CS,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+226704977,203402183,2024-11-30,Plano,TX0430600,13A,B,B,N,F,57,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+226705466,203402594,2024-12-06,Plano,TX0430600,13A,W,W,N,M,31,R,N,SP,Residence/Home,Home,Knife/Cutting Instrument,,C
+228860961,205288992,2024-12-11,Plano,TX0430600,13A,W,W,N,M,43,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+226706331,203403282,2024-12-13,Plano,TX0430600,13A,A,A,N,F,41,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+226706395,203403342,2024-12-14,Plano,TX0430600,13A,W,W,N,F,45,N,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Apparent Broken Bones,C
+228861028,205289045,2024-12-17,Plano,TX0430600,13A,B,B,N,M,45,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+228861060,205289072,2024-12-19,Plano,TX0430600,13A,W,W,N,M,25,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230628788,206826544,2024-12-21,Plano,TX0430600,13A,B,B,N,F,34,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+228861089,205289096,2024-12-22,Plano,TX0430600,13A,A,A,N,M,33,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230628800,206826554,2024-12-22,Plano,TX0430600,13A,B,B,N,M,28,N,N,ST,Bar/Nightclub,Bar & Nightclub,Handgun,Minor Injury,C
+228861113,205289116,2024-12-25,Plano,TX0430600,13A,H,W,H,M,28,R,N,FR;IL,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+230628829,206826575,2024-12-28,Plano,TX0430600,13A,H,W,H,M,36,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+228861183,205289182,2024-12-30,Plano,TX0430600,13A,W,W,N,F,45,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+228861184,205289182,2024-12-30,Plano,TX0430600,13A,W,W,N,M,15,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230628883,206826626,2024-12-30,Plano,TX0430600,13A,B,B,N,F,28,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+228861228,205289222,2025-01-01,Plano,TX0430600,13A,B,B,N,F,32,N,N,ST,Department/Discount Store,Department Store,Knife/Cutting Instrument,,C
+230628851,206826596,2025-01-01,Plano,TX0430600,13A,A,A,N,M,53,R,N,AQ,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+233037593,208937754,2025-01-04,Plano,TX0430600,13A,H,W,H,M,30,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+228861443,205289409,2025-01-07,Plano,TX0430600,13A,W,W,N,F,83,R,N,AQ,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Other,Minor Injury,C
+233037659,208937818,2025-01-09,Plano,TX0430600,13A,B,B,N,M,25,R,Y,AQ;BG,Residence/Home,Home,Firearm,Minor Injury,C
+228861526,205289486,2025-01-10,Plano,TX0430600,13A,W,W,N,F,28,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury;Possible Internal Injury,C
+228861545,205289503,2025-01-11,Plano,TX0430600,13A,A,A,N,M,67,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+228861546,205289504,2025-01-11,Plano,TX0430600,13A,W,W,N,M,28,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230628919,206826658,2025-01-13,Plano,TX0430600,13A,W,W,N,F,37,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+244954801,219338101,2025-01-15,Plano,TX0430600,13A,B,B,N,M,11,N,N,AQ;OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Other Major Injury,C
+252533595,225959950,2025-01-18,Plano,TX0430600,13A,W,W,N,M,62,R,N,OK;VO,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+230629001,206826729,2025-01-22,Plano,TX0430600,13A,W,W,N,F,35,R,Y,PA;XR,Residence/Home,Home,Handgun;Knife/Cutting Instrument;Personal Weapons,,C
+230629002,206826729,2025-01-22,Plano,TX0430600,13A,B,B,N,M,31,N,N,ST,Residence/Home,Home,Handgun;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+233037860,208937992,2025-01-25,Plano,TX0430600,13A,B,B,N,M,19,N,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+228861967,205289867,2025-01-27,Plano,TX0430600,13A,B,B,N,F,36,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Possible Internal Injury;Severe Laceration,C
+233037905,208938032,2025-01-28,Plano,TX0430600,13A,B,B,N,M,41,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230629087,206826796,2025-01-30,Plano,TX0430600,13A,H,W,H,F,27,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+237938782,213215368,2025-01-31,Plano,TX0430600,13A,H,B,H,M,36,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury;Unconscious,C
+237938783,213215368,2025-01-31,Plano,TX0430600,13A,H,B,H,M,33,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Other Major Injury,C
+236145529,211651891,2025-02-01,Plano,TX0430600,13A,W,W,N,F,30,N,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Unconscious,C
+230629141,206826838,2025-02-02,Plano,TX0430600,13A,W,W,N,M,43,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+233037970,208938087,2025-02-02,Plano,TX0430600,13A,B,B,N,F,22,N,N,OK,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+230629200,206826891,2025-02-04,Plano,TX0430600,13A,W,W,N,F,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230629201,206826891,2025-02-04,Plano,TX0430600,13A,W,W,N,M,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+234496887,210206578,2025-02-05,Plano,TX0430600,13A,B,B,N,F,20,N,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+234496892,210206582,2025-02-05,Plano,TX0430600,13A,W,W,N,F,61,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+230629251,206826934,2025-02-06,Plano,TX0430600,13A,H,W,H,F,36,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+234496901,210206590,2025-02-07,Plano,TX0430600,13A,H,W,H,F,48,R,N,OF,Residence/Home,Home,Handgun,,C
+244954820,219338117,2025-02-08,Plano,TX0430600,13A,H,W,H,F,29,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237938828,213215409,2025-02-13,Plano,TX0430600,13A,B,B,N,F,35,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+230629523,206827171,2025-02-14,Plano,TX0430600,13A,H,W,H,F,10,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+236145413,211651791,2025-02-16,Plano,TX0430600,13A,W,W,N,M,20,N,N,ST,Residence/Home,Home,Rifle,Minor Injury;Possible Internal Injury,C
+230629579,206827223,2025-02-17,Plano,TX0430600,13A,W,W,N,F,21,R,N,CH,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+234496980,210206657,2025-02-19,Plano,TX0430600,13A,H,W,H,F,27,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+233038494,208938522,2025-02-25,Plano,TX0430600,13A,B,B,N,M,36,N,N,FR,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+234497028,210206703,2025-02-25,Plano,TX0430600,13A,B,B,N,M,13,R,N,AQ;VO,School-Elementary/Secondary,K-12 School,Blunt Object;Personal Weapons,Minor Injury,C
+234497034,210206707,2025-02-26,Plano,TX0430600,13A,B,B,N,M,43,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+234497035,210206708,2025-02-27,Plano,TX0430600,13A,W,W,N,M,33,N,N,AQ,Service/Gas Station,Gas Station,Personal Weapons,Severe Laceration,C
+239750677,214801102,2025-02-27,Plano,TX0430600,13A,B,B,N,M,56,R,N,AQ,Residence/Home,Home,Handgun,,C
+233039124,208939066,2025-03-03,Plano,TX0430600,13A,W,W,N,F,41,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+236145501,211651867,2025-03-06,Plano,TX0430600,13A,B,B,N,F,22,R,Y,BG;VO,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Unconscious,C
+236145502,211651867,2025-03-06,Plano,TX0430600,13A,B,B,N,M,22,R,Y,BG;VO,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Severe Laceration,C
+233039001,208938958,2025-03-07,Plano,TX0430600,13A,H,W,H,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237938879,213215452,2025-03-07,Plano,TX0430600,13A,A,A,N,M,47,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+233039150,208939092,2025-03-10,Plano,TX0430600,13A,B,B,N,M,25,N,Y,XR,Residence/Home,Home,Other,Severe Laceration,C
+233039527,208939415,2025-03-14,Plano,TX0430600,13A,B,B,N,M,31,R,N,OK,Residence/Home,Home,Handgun,Minor Injury,C
+239750706,214801126,2025-03-14,Plano,TX0430600,13A,W,W,N,M,35,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+233039575,208939452,2025-03-15,Plano,TX0430600,13A,W,W,N,M,61,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237938909,213215480,2025-03-16,Plano,TX0430600,13A,H,W,H,M,70,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481287,216311467,2025-03-16,Plano,TX0430600,13A,B,B,N,M,21,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+243224586,217828687,2025-03-16,Plano,TX0430600,13A,W,W,N,M,37,N,N,FR,Residence/Home,Home,Handgun;Knife/Cutting Instrument,,C
+233039763,208939621,2025-03-18,Plano,TX0430600,13A,H,W,H,F,61,R,N,OK,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+234497165,210206819,2025-03-18,Plano,TX0430600,13A,W,W,N,M,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237938932,213215500,2025-03-19,Plano,TX0430600,13A,B,B,N,M,22,R,N,ST,Residence/Home,Home,Handgun,,C
+243224588,217828689,2025-03-19,Plano,TX0430600,13A,W,W,N,M,32,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237938941,213215507,2025-03-20,Plano,TX0430600,13A,A,A,N,F,37,N,N,ST,Amusement Park,Amusement Park,Handgun,,C
+237938942,213215507,2025-03-20,Plano,TX0430600,13A,A,A,N,M,38,N,N,ST,Amusement Park,Amusement Park,Handgun,,C
+233039947,208939790,2025-03-21,Plano,TX0430600,13A,W,W,N,F,35,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237938972,213215533,2025-03-23,Plano,TX0430600,13A,A,A,N,M,26,N,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+234497196,210206848,2025-03-24,Plano,TX0430600,13A,B,B,N,F,32,N,N,AQ;FR,Residence/Home,Home,Rifle,,C
+237938990,213215549,2025-03-24,Plano,TX0430600,13A,B,B,N,F,37,N,N,FR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+237939003,213215558,2025-03-25,Plano,TX0430600,13A,B,B,N,F,21,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+239750723,214801143,2025-03-26,Plano,TX0430600,13A,B,B,N,M,18,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+233040415,208940199,2025-03-27,Plano,TX0430600,13A,W,W,N,M,47,N,N,ST,Field/Woods,Field & Woods,Knife/Cutting Instrument,Severe Laceration,C
+237939025,213215577,2025-03-30,Plano,TX0430600,13A,H,W,H,M,,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237939026,213215577,2025-03-30,Plano,TX0430600,13A,H,W,H,M,,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+234497285,210206930,2025-04-01,Plano,TX0430600,13A,W,W,N,M,14,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Other Major Injury,C
+237939043,213215593,2025-04-02,Plano,TX0430600,13A,W,W,N,M,41,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+237939044,213215593,2025-04-02,Plano,TX0430600,13A,W,W,N,F,49,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+237939045,213215593,2025-04-02,Plano,TX0430600,13A,H,W,H,M,33,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+243224607,217828707,2025-04-03,Plano,TX0430600,13A,B,B,N,F,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+252533614,225959966,2025-04-03,Plano,TX0430600,13A,B,B,N,F,15,R,N,ST,Residence/Home,Home,Other,Apparent Broken Bones;Severe Laceration,C
+234497362,210206993,2025-04-04,Plano,TX0430600,13A,B,B,N,M,30,N,N,AQ,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+243227856,217831436,2025-04-05,Plano,TX0430600,13A,W,W,N,F,28,R,N,OK,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Other Major Injury,C
+234497726,210207297,2025-04-17,Plano,TX0430600,13A,A,A,N,F,46,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+239750782,214801194,2025-04-17,Plano,TX0430600,13A,W,W,N,M,59,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+236145825,211652132,2025-04-20,Plano,TX0430600,13A,B,B,N,F,22,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+236145859,211652162,2025-04-23,Plano,TX0430600,13A,W,W,N,F,40,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+236145873,211652173,2025-04-24,Plano,TX0430600,13A,W,W,N,F,33,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+234498042,210207578,2025-04-30,Plano,TX0430600,13A,W,W,N,M,44,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+237939253,213215761,2025-05-02,Plano,TX0430600,13A,B,B,N,M,60,N,N,AQ,Other/Unknown,Other & Unknown,Knife/Cutting Instrument,Minor Injury,C
+237939259,213215766,2025-05-02,Plano,TX0430600,13A,H,W,H,M,22,R,N,SB,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+239750858,214801262,2025-05-04,Plano,TX0430600,13A,W,W,N,M,14,R,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+239750863,214801266,2025-05-04,Plano,TX0430600,13A,W,W,N,M,21,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+236146153,211652427,2025-05-08,Plano,TX0430600,13A,H,W,H,M,37,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury;Possible Internal Injury;Unconscious,C
+239750887,214801288,2025-05-10,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+239750888,214801288,2025-05-10,Plano,TX0430600,13A,H,W,H,M,17,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+239750889,214801288,2025-05-10,Plano,TX0430600,13A,H,W,H,M,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+248637713,222560744,2025-05-10,Plano,TX0430600,13A,W,W,N,M,79,R,Y,CS,Residence/Home,Home,Other,Minor Injury,C
+237939392,213215883,2025-05-13,Plano,TX0430600,13A,A,A,N,M,19,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237939399,213215890,2025-05-13,Plano,TX0430600,13A,B,B,N,F,25,N,N,OK,Residence/Home,Home,Handgun,,C
+237939400,213215890,2025-05-13,Plano,TX0430600,13A,B,B,N,F,48,N,N,OK,Residence/Home,Home,Handgun,,C
+248637737,222560764,2025-05-16,Plano,TX0430600,13A,B,B,N,F,53,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,,C
+237939460,213215937,2025-05-17,Plano,TX0430600,13A,H,W,H,M,41,R,N,AQ;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+239750929,214801325,2025-05-17,Plano,TX0430600,13A,W,W,N,M,52,R,N,ST,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,,C
+239750935,214801331,2025-05-19,Plano,TX0430600,13A,H,W,H,M,28,N,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+239750936,214801331,2025-05-19,Plano,TX0430600,13A,H,W,H,M,25,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+243224665,217828757,2025-05-21,Plano,TX0430600,13A,H,W,H,F,62,R,N,PA,Residence/Home,Home,Firearm,Other Major Injury,C
+244954985,219338264,2025-05-21,Plano,TX0430600,13A,W,W,N,F,32,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+239750959,214801351,2025-05-22,Plano,TX0430600,13A,H,W,H,F,20,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones;Possible Internal Injury;Unconscious,C
+241481266,216311452,2025-05-23,Plano,TX0430600,13A,W,W,N,M,67,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+236144872,211651325,2025-05-25,Plano,TX0430600,13A,W,W,N,M,59,N,N,,Parking/Drop Lot/Garage,Parking Lot,Unknown,Apparent Broken Bones;Loss of Teeth,C
+239750981,214801362,2025-05-26,Plano,TX0430600,13A,B,B,N,M,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+236144991,211651428,2025-05-29,Plano,TX0430600,13A,W,W,N,M,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237939828,213216264,2025-06-05,Plano,TX0430600,13A,H,W,H,F,28,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751033,214801405,2025-06-07,Plano,TX0430600,13A,H,W,H,M,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751034,214801405,2025-06-07,Plano,TX0430600,13A,H,W,H,M,18,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751035,214801405,2025-06-07,Plano,TX0430600,13A,H,W,H,M,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481394,216311555,2025-06-07,Plano,TX0430600,13A,W,W,N,M,19,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+243224725,217828802,2025-06-07,Plano,TX0430600,13A,W,W,N,M,51,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481408,216311568,2025-06-08,Plano,TX0430600,13A,W,W,N,F,33,R,Y,BG,Residence/Home,Home,Handgun,,C
+246876404,221026725,2025-06-08,Plano,TX0430600,13A,W,W,N,F,60,R,Y,SE,Residence/Home,Home,Handgun,,C
+243224735,217828810,2025-06-09,Plano,TX0430600,13A,W,W,N,F,35,N,N,AQ,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+237974605,213247295,2025-06-11,Plano,TX0430600,13A,B,B,N,F,38,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+243224761,217828827,2025-06-12,Plano,TX0430600,13A,W,W,N,F,39,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237974702,213247378,2025-06-13,Plano,TX0430600,13A,B,B,N,M,35,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481449,216311599,2025-06-16,Plano,TX0430600,13A,W,W,N,F,36,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+237974888,213247550,2025-06-18,Plano,TX0430600,13A,B,B,N,F,49,R,Y,CS,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+239751090,214801456,2025-06-18,Plano,TX0430600,13A,W,W,N,F,37,R,N,ST,Residence/Home,Home,Motor Vehicle/Vessel,Apparent Broken Bones,C
+243224810,217828866,2025-06-19,Plano,TX0430600,13A,W,W,N,M,37,N,Y,BG;VO,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+248637812,222560829,2025-06-19,Plano,TX0430600,13A,B,B,N,M,33,N,Y,XR,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+237975198,213247823,2025-06-25,Plano,TX0430600,13A,B,B,N,M,28,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+241481505,216311640,2025-06-26,Plano,TX0430600,13A,W,W,N,F,43,R,Y,BG,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+252533652,225959991,2025-06-26,Plano,TX0430600,13A,W,W,N,F,81,R,Y,SE,Residence/Home,Home,Drugs/Narcotics/Sleeping Pills,Unconscious,C
+241481515,216311648,2025-06-27,Plano,TX0430600,13A,W,W,N,M,43,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481516,216311648,2025-06-27,Plano,TX0430600,13A,B,B,N,M,35,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481520,216311650,2025-06-27,Plano,TX0430600,13A,B,B,N,F,19,R,N,SB,Residence/Home,Home,Personal Weapons,Severe Laceration,C
+243224922,217828961,2025-06-28,Plano,TX0430600,13A,B,B,N,M,27,R,N,ST,Residence/Home,Home,Other,Apparent Broken Bones,C
+239751211,214801555,2025-07-01,Plano,TX0430600,13A,B,B,N,M,38,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751228,214801571,2025-07-02,Plano,TX0430600,13A,W,W,N,M,56,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751274,214801612,2025-07-03,Plano,TX0430600,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+241481553,216311679,2025-07-03,Plano,TX0430600,13A,B,B,N,M,52,R,N,OK;VO,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+239751289,214801626,2025-07-04,Plano,TX0430600,13A,H,W,H,M,44,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+246876430,221026751,2025-07-06,Plano,TX0430600,13A,B,B,N,M,22,N,N,FR;ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,Other Major Injury,C
+243224967,217828995,2025-07-08,Plano,TX0430600,13A,W,W,N,F,17,R,N,ST,Field/Woods,Field & Woods,Knife/Cutting Instrument,Minor Injury,C
+243224991,217829019,2025-07-10,Plano,TX0430600,13A,B,B,N,M,36,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+244955110,219338374,2025-07-10,Plano,TX0430600,13A,B,B,N,F,26,R,Y,BG,Residence/Home,Home,Firearm,Minor Injury,C
+243225013,217829041,2025-07-12,Plano,TX0430600,13A,B,B,N,F,40,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+252533660,225959999,2025-07-12,Plano,TX0430600,13A,A,A,N,M,20,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+241481610,216311722,2025-07-13,Plano,TX0430600,13A,H,W,H,M,17,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+243225026,217829051,2025-07-14,Plano,TX0430600,13A,W,W,N,M,33,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+243225039,217829062,2025-07-15,Plano,TX0430600,13A,W,W,N,M,48,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+248637926,222560928,2025-07-15,Plano,TX0430600,13A,A,A,N,M,35,R,N,AQ,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+241481628,216311738,2025-07-16,Plano,TX0430600,13A,W,W,N,M,57,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+241481640,216311750,2025-07-18,Plano,TX0430600,13A,B,B,N,M,65,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+243225079,217829095,2025-07-18,Plano,TX0430600,13A,H,B,H,M,40,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481660,216311767,2025-07-21,Plano,TX0430600,13A,B,B,N,M,47,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+243225112,217829121,2025-07-21,Plano,TX0430600,13A,B,B,N,M,27,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+239751804,214802076,2025-07-23,Plano,TX0430600,13A,H,W,H,F,37,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+241481679,216311781,2025-07-23,Plano,TX0430600,13A,H,W,H,F,22,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+244955174,219338429,2025-07-23,Plano,TX0430600,13A,H,W,H,M,28,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+243225163,217829156,2025-07-24,Plano,TX0430600,13A,W,W,N,F,53,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+243225172,217829164,2025-07-24,Plano,TX0430600,13A,B,B,N,M,52,R,Y,SE,Residence/Home,Home,Other,Minor Injury,C
+243225192,217829177,2025-07-27,Plano,TX0430600,13A,H,W,H,M,23,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+243225207,217829187,2025-07-27,Plano,TX0430600,13A,B,B,N,F,27,N,N,ST,Residence/Home,Home,Other,Other Major Injury,C
+243225208,217829187,2025-07-27,Plano,TX0430600,13A,B,B,N,F,32,R,N,ST,Residence/Home,Home,Other,Apparent Broken Bones;Other Major Injury,C
+243225209,217829187,2025-07-27,Plano,TX0430600,13A,B,B,N,M,25,N,N,ST,Residence/Home,Home,Other,Other Major Injury,C
+246876525,221026829,2025-07-28,Plano,TX0430600,13A,H,W,H,M,32,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+252533678,225960007,2025-07-28,Plano,TX0430600,13A,H,W,H,M,41,N,N,ER,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+244955200,219338452,2025-07-29,Plano,TX0430600,13A,A,A,N,M,49,R,N,OF,Residence/Home,Home,Personal Weapons,Severe Laceration;Unconscious,C
+252533897,225960201,2025-07-31,Plano,TX0430600,13A,A,A,N,F,31,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+243225272,217829239,2025-08-01,Plano,TX0430600,13A,H,W,H,F,27,N,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,,C
+241481811,216311889,2025-08-04,Plano,TX0430600,13A,H,W,H,M,71,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Severe Laceration;Unconscious,C
+241481825,216311903,2025-08-04,Plano,TX0430600,13A,B,B,N,M,33,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+241481836,216311914,2025-08-04,Plano,TX0430600,13A,B,B,N,F,31,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+248637995,222560986,2025-08-05,Plano,TX0430600,13A,W,W,N,M,21,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241481879,216311950,2025-08-06,Plano,TX0430600,13A,W,W,N,M,32,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+244955234,219338481,2025-08-07,Plano,TX0430600,13A,B,B,N,M,40,N,Y,SE;VO,Residence/Home,Home,Handgun,,C
+243225368,217829323,2025-08-09,Plano,TX0430600,13A,W,W,N,M,39,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+241482005,216312065,2025-08-10,Plano,TX0430600,13A,B,B,N,M,27,N,N,ST,Residence/Home,Home,Handgun,Other Major Injury,C
+243225402,217829354,2025-08-12,Plano,TX0430600,13A,A,A,N,M,47,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+243225425,217829370,2025-08-13,Plano,TX0430600,13A,W,W,N,F,22,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+241482160,216312198,2025-08-15,Plano,TX0430600,13A,B,B,N,F,35,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+243225440,217829384,2025-08-15,Plano,TX0430600,13A,B,B,N,M,63,R,N,NE,Residence/Home,Home,Blunt Object,Minor Injury,C
+244955269,219338507,2025-08-15,Plano,TX0430600,13A,B,B,N,M,32,R,N,ST;VO,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+244955282,219338517,2025-08-16,Plano,TX0430600,13A,W,W,N,F,36,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+243225472,217829406,2025-08-17,Plano,TX0430600,13A,W,W,N,M,38,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+243225473,217829406,2025-08-17,Plano,TX0430600,13A,H,W,H,M,33,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+243225477,217829410,2025-08-17,Plano,TX0430600,13A,H,W,H,M,26,R,N,FR;OK;VO,Residence/Home,Home,Handgun;Knife/Cutting Instrument,Severe Laceration,C
+243225478,217829410,2025-08-17,Plano,TX0430600,13A,H,W,H,M,26,R,N,FR;OK;VO,Residence/Home,Home,Handgun;Knife/Cutting Instrument,,C
+244955306,219338536,2025-08-18,Plano,TX0430600,13A,A,A,N,M,67,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+241482459,216312456,2025-08-22,Plano,TX0430600,13A,B,B,N,F,25,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Possible Internal Injury,C
+243225588,217829505,2025-08-22,Plano,TX0430600,13A,H,W,H,M,21,R,N,OK;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+246876498,221026811,2025-08-24,Plano,TX0430600,13A,H,W,H,M,16,N,N,OK;VO,Residence/Home,Home,Handgun,,C
+246876499,221026811,2025-08-24,Plano,TX0430600,13A,B,B,N,M,16,R,N,OK;VO,Residence/Home,Home,Handgun,,C
+246876500,221026811,2025-08-24,Plano,TX0430600,13A,B,B,N,M,16,N,N,OK;VO,Residence/Home,Home,Handgun,,C
+246876501,221026811,2025-08-24,Plano,TX0430600,13A,B,B,N,M,16,N,N,OK;VO,Residence/Home,Home,Handgun,,C
+243225633,217829548,2025-08-25,Plano,TX0430600,13A,B,B,N,M,31,N,N,OK,Commercial/Office Building,Office Building,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+244955424,219338639,2025-08-27,Plano,TX0430600,13A,W,W,N,M,22,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+244955428,219338643,2025-08-27,Plano,TX0430600,13A,H,W,H,F,33,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+248638120,222561100,2025-08-28,Plano,TX0430600,13A,H,W,H,M,16,R,N,OK,School-Elementary/Secondary,K-12 School,Knife/Cutting Instrument,,C
+244955467,219338676,2025-08-29,Plano,TX0430600,13A,W,W,N,F,34,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Unconscious,C
+244955490,219338697,2025-08-31,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Minor Injury,C
+252533845,225960154,2025-08-31,Plano,TX0430600,13A,A,A,N,F,49,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+243225913,217829783,2025-09-03,Plano,TX0430600,13A,H,W,H,F,40,N,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+248638198,222561173,2025-09-05,Plano,TX0430600,13A,W,W,N,M,22,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+244955585,219338777,2025-09-07,Plano,TX0430600,13A,B,B,N,F,38,R,N,OK;ST,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+248638226,222561198,2025-09-08,Plano,TX0430600,13A,W,W,N,M,43,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+243226395,217830182,2025-09-09,Plano,TX0430600,13A,H,W,H,M,33,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+243227171,217830840,2025-09-17,Plano,TX0430600,13A,B,B,N,F,60,N,N,AQ,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+248638417,222561362,2025-09-19,Plano,TX0430600,13A,W,W,N,F,17,R,N,ST,Residence/Home,Home,Handgun,,C
+248638418,222561362,2025-09-19,Plano,TX0430600,13A,H,W,H,F,17,R,N,ST,Residence/Home,Home,Handgun,,C
+244955838,219338980,2025-09-22,Plano,TX0430600,13A,W,W,N,M,21,N,N,ST,Residence/Home,Home,Handgun,,C
+250472170,224162572,2025-09-22,Plano,TX0430600,13A,H,W,H,M,14,R,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Apparent Broken Bones,C
+244955863,219339003,2025-09-24,Plano,TX0430600,13A,B,B,N,M,36,R,N,GC,Residence/Home,Home,Handgun,,C
+244955864,219339003,2025-09-24,Plano,TX0430600,13A,B,B,N,M,9,R,N,OF,Residence/Home,Home,Handgun,,C
+248639797,222562603,2025-09-25,Plano,TX0430600,13A,B,B,N,F,34,R,Y,XR,Residence/Home,Home,Personal Weapons,Unconscious,C
+243227572,217831181,2025-09-26,Plano,TX0430600,13A,W,W,N,F,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+250472187,224162587,2025-09-26,Plano,TX0430600,13A,B,B,N,M,49,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+246876707,221026975,2025-09-28,Plano,TX0430600,13A,H,W,H,F,62,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury;Severe Laceration,C
+246876708,221026975,2025-09-28,Plano,TX0430600,13A,H,W,H,F,22,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury;Severe Laceration,C
+243227748,217831339,2025-09-29,Plano,TX0430600,13A,B,B,N,F,31,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+244955942,219339072,2025-09-30,Plano,TX0430600,13A,W,W,N,M,12,,N,AQ,School-Elementary/Secondary,K-12 School,Personal Weapons,Severe Laceration,C
+246876736,221027000,2025-10-01,Plano,TX0430600,13A,B,B,N,M,28,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun;Personal Weapons,Minor Injury,C
+246876742,221027005,2025-10-02,Plano,TX0430600,13A,A,A,N,M,36,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm;Handgun,,C
+246876743,221027005,2025-10-02,Plano,TX0430600,13A,A,A,N,F,35,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm;Handgun,,C
+244956085,219339194,2025-10-03,Plano,TX0430600,13A,A,A,N,M,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+244956086,219339194,2025-10-03,Plano,TX0430600,13A,A,A,N,F,25,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+246876762,221027022,2025-10-04,Plano,TX0430600,13A,B,B,N,F,26,N,Y,BG,Rental Storage Facility,Storage Facility,Blunt Object,Minor Injury,C
+244956242,219339318,2025-10-06,Plano,TX0430600,13A,B,B,N,F,19,R,Y,XR,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+246876774,221027032,2025-10-06,Plano,TX0430600,13A,W,W,N,M,40,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+246876805,221027060,2025-10-09,Plano,TX0430600,13A,W,W,N,F,42,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+246876813,221027068,2025-10-11,Plano,TX0430600,13A,B,B,N,M,32,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Apparent Broken Bones,C
+246876856,221027106,2025-10-15,Plano,TX0430600,13A,W,W,N,M,30,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+248638960,222561838,2025-10-22,Plano,TX0430600,13A,B,B,N,M,15,N,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+248638961,222561838,2025-10-22,Plano,TX0430600,13A,B,B,N,M,14,N,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+250472325,224162710,2025-10-22,Plano,TX0430600,13A,W,W,N,M,51,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+246877009,221027232,2025-10-28,Plano,TX0430600,13A,B,B,N,F,40,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+248639153,222562012,2025-10-28,Plano,TX0430600,13A,H,W,H,M,55,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+244957509,219340418,2025-10-30,Plano,TX0430600,13A,W,W,N,F,18,N,N,ST,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Possible Internal Injury,C
+252533812,225960124,2025-10-31,Plano,TX0430600,13A,W,W,N,M,23,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+246877088,221027298,2025-11-01,Plano,TX0430600,13A,B,B,N,M,23,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+248639325,222562167,2025-11-05,Plano,TX0430600,13A,W,W,N,M,46,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+246877351,221027522,2025-11-06,Plano,TX0430600,13A,B,B,N,F,43,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+248639343,222562184,2025-11-06,Plano,TX0430600,13A,W,W,N,F,19,R,N,SB,Residence/Home,Home,Handgun,Minor Injury,C
+250472395,224162771,2025-11-06,Plano,TX0430600,13A,W,W,N,M,44,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+248639369,222562207,2025-11-07,Plano,TX0430600,13A,A,A,N,M,21,N,N,ST,Specialty Store,Specialty Store,Handgun,,C
+248639375,222562213,2025-11-08,Plano,TX0430600,13A,B,B,N,F,26,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+248639417,222562253,2025-11-10,Plano,TX0430600,13A,H,W,H,F,11,R,N,OF,School-Elementary/Secondary,K-12 School,Personal Weapons,Severe Laceration,C
+248639592,222562418,2025-11-17,Plano,TX0430600,13A,B,B,N,F,28,R,Y,BG,Residence/Home,Home,Handgun,,C
+248639621,222562444,2025-11-17,Plano,TX0430600,13A,H,W,H,F,21,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+252533841,225960152,2025-11-17,Plano,TX0430600,13A,B,B,N,M,22,N,N,FR;ST,Residence/Home,Home,Handgun,Other Major Injury,C
+252533842,225960152,2025-11-17,Plano,TX0430600,13A,H,W,H,M,45,R,N,ST,Residence/Home,Home,Handgun,,C
+248639646,222562466,2025-11-18,Plano,TX0430600,13A,H,W,H,F,27,R,Y,SE,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+248639656,222562476,2025-11-19,Plano,TX0430600,13A,W,W,N,F,61,N,N,OK,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Apparent Broken Bones,C
+252533850,225960159,2025-11-21,Plano,TX0430600,13A,W,W,N,F,53,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Other Major Injury,C
+250472470,224162842,2025-11-23,Plano,TX0430600,13A,B,B,N,M,28,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+250472473,224162844,2025-11-23,Plano,TX0430600,13A,H,W,H,M,30,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+248639849,222562645,2025-11-26,Plano,TX0430600,13A,A,A,N,M,49,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+248639850,222562645,2025-11-26,Plano,TX0430600,13A,A,A,N,F,62,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+248639852,222562647,2025-11-26,Plano,TX0430600,13A,W,W,N,F,77,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+248639855,222562650,2025-11-26,Plano,TX0430600,13A,W,W,N,F,36,R,Y,SE,Residence/Home,Home,Handgun,,C
+248639856,222562650,2025-11-26,Plano,TX0430600,13A,W,W,N,M,29,N,N,ST,Residence/Home,Home,Handgun,,C
+250472492,224162860,2025-11-27,Plano,TX0430600,13A,B,B,N,M,37,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+252533868,225960175,2025-12-02,Plano,TX0430600,13A,W,W,N,M,42,R,N,OK;ST,Residence/Home,Home,Other;Personal Weapons,Minor Injury;Possible Internal Injury;Severe Laceration,C
+252533877,225960183,2025-12-03,Plano,TX0430600,13A,W,W,N,M,38,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+250472726,224163065,2025-12-04,Plano,TX0430600,13A,W,W,N,M,39,R,Y,BG,Residence/Home,Home,Handgun;Shotgun,,C
+250472542,224162900,2025-12-05,Plano,TX0430600,13A,H,W,H,M,21,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+250472546,224162904,2025-12-06,Plano,TX0430600,13A,H,W,H,M,35,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+250473479,224163707,2025-12-06,Plano,TX0430600,13A,B,B,N,F,27,N,Y,CS,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Apparent Broken Bones,C
+250472559,224162916,2025-12-09,Plano,TX0430600,13A,B,B,N,M,48,R,N,SP,Residence/Home,Home,Handgun,,C
+248640644,222563315,2025-12-11,Plano,TX0430600,13A,H,W,H,M,38,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+250472600,224162954,2025-12-11,Plano,TX0430600,13A,A,A,N,M,21,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+250472601,224162954,2025-12-11,Plano,TX0430600,13A,A,A,N,M,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+248640905,222563535,2025-12-15,Plano,TX0430600,13A,B,B,N,F,44,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun;Knife/Cutting Instrument,,C
+250472687,224163032,2025-12-16,Plano,TX0430600,13A,W,W,N,M,40,N,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+250472688,224163032,2025-12-16,Plano,TX0430600,13A,W,W,U,F,35,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+252533911,225960213,2025-12-17,Plano,TX0430600,13A,W,W,N,M,43,N,N,AQ;VO,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument;Personal Weapons,,C
+252533912,225960213,2025-12-17,Plano,TX0430600,13A,B,B,N,M,41,N,N,AQ;VO,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument;Personal Weapons,Severe Laceration,C
+248641241,222563824,2025-12-20,Plano,TX0430600,13A,A,A,N,M,46,N,N,AQ,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+250472798,224163130,2025-12-21,Plano,TX0430600,13A,H,W,H,M,19,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+250473039,224163311,2025-12-22,Plano,TX0430600,13A,B,B,N,M,55,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+248641413,222563974,2025-12-23,Plano,TX0430600,13A,W,W,N,F,52,N,Y,SE,Residence/Home,Home,Other,Minor Injury,C
+252533967,225960247,2025-12-24,Plano,TX0430600,13A,W,W,N,M,35,R,N,OK,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Other Major Injury;Unconscious,C
+252533940,225960236,2025-12-25,Plano,TX0430600,13A,B,B,N,M,32,R,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+248641615,222564133,2025-12-27,Plano,TX0430600,13A,H,W,H,M,27,R,N,ST,Specialty Store,Specialty Store,Handgun,,C
+252534649,225960841,2025-12-27,Plano,TX0430600,13A,H,W,H,F,25,R,Y,XR,Residence/Home,Home,Personal Weapons,Unconscious,C
+250473033,224163307,2025-12-31,Plano,TX0430600,13A,B,B,N,F,17,R,N,FR,Residence/Home,Home,Handgun,Minor Injury,C
+250473041,224163312,2025-12-31,Plano,TX0430600,13A,H,W,H,M,21,R,N,ST,Residence/Home,Home,Firearm,,C
+250473042,224163312,2025-12-31,Plano,TX0430600,13A,H,W,H,M,31,R,N,ST,Residence/Home,Home,Firearm,,C
+250473043,224163312,2025-12-31,Plano,TX0430600,13A,H,W,H,M,29,R,N,ST,Residence/Home,Home,Firearm,,C
+250473044,224163312,2025-12-31,Plano,TX0430600,13A,H,W,H,M,22,R,N,ST,Residence/Home,Home,Firearm,,C

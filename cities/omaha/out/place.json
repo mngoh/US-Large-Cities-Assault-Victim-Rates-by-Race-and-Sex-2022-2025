@@ -1,0 +1,7 @@
+{
+ "query": "Omaha, NE",
+ "census_geoid": "16000US3137000",
+ "display_name": "Omaha, NE",
+ "population": 488837,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

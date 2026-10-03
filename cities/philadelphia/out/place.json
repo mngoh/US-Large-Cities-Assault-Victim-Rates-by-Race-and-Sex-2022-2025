@@ -1,0 +1,7 @@
+{
+ "query": "Philadelphia, PA",
+ "census_geoid": "16000US4260000",
+ "display_name": "Philadelphia, PA",
+ "population": 1579706,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

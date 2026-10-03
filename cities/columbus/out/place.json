@@ -1,0 +1,7 @@
+{
+ "query": "Columbus, OH",
+ "census_geoid": "16000US3918000",
+ "display_name": "Columbus, OH",
+ "population": 914802,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

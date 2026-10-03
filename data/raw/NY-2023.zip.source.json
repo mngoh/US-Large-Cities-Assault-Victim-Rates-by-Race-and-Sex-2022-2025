@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/NY-2023.zip",
+ "key": "nibrs/incident/2023/NY-2023.zip",
+ "fetched_at": "2026-10-02T21:17:09",
+ "bytes": 60520000,
+ "sha256": "c9f3ccde2b6c4e3651f1091f22091df7c8bb38103301d74c7f20c548f53152da",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NY 2023, as received"
+}

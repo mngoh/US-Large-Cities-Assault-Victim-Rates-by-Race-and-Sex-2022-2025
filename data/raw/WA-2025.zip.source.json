@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/WA-2025.zip",
+ "key": "nibrs/incident/2025/WA-2025.zip",
+ "fetched_at": "2026-10-02T21:17:54",
+ "bytes": 27435533,
+ "sha256": "79e435ad4c64f00d9e752cd9033a4768d07d7993a83b244af4e6e5baebf9571a",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, WA 2025, as received"
+}

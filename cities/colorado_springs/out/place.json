@@ -1,0 +1,7 @@
+{
+ "query": "Colorado Springs, CO",
+ "census_geoid": "16000US0816000",
+ "display_name": "Colorado Springs, CO",
+ "population": 487887,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

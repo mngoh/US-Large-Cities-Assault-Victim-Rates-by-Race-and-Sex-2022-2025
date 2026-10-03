@@ -1,0 +1,114 @@
+{
+ "title": "Assault victims in Long Beach",
+ "author": "Martin Ngoh",
+ "place": {
+  "name": "Long Beach",
+  "short": "Long Beach",
+  "census_geoid": "16000US0643000"
+ },
+ "acs_release": "acs2024_5yr",
+ "window": {
+  "start": "2024-01-01",
+  "end": "2025-12-31"
+ },
+ "event": {
+  "noun": "assault",
+  "plural": "assaults",
+  "verb": "assaulted"
+ },
+ "incidents": [
+  {
+   "path": "data/long_beach_simple.csv",
+   "kind": "simple"
+  },
+  {
+   "path": "data/long_beach_aggravated.csv",
+   "kind": "aggravated"
+  }
+ ],
+ "kind_labels": {
+  "simple": "Simple assault",
+  "aggravated": "Aggravated assault"
+ },
+ "columns": {
+  "id": "victim_id",
+  "date": "incident_date",
+  "race": "race_group",
+  "sex": "sex",
+  "age": "age",
+  "premise": "premise",
+  "weapon": "weapon",
+  "code": "offense_code"
+ },
+ "race_map": {
+  "B": "Black",
+  "H": "Hispanic",
+  "W": "White",
+  "A": "Asian"
+ },
+ "sex_values": {
+  "F": "F",
+  "M": "M"
+ },
+ "groups": [
+  "Black",
+  "Hispanic",
+  "White",
+  "Asian"
+ ],
+ "focus": {
+  "group": "Black",
+  "sex": "F",
+  "label": "Black women"
+ },
+ "flags": {
+  "partner": {
+   "column": "partner",
+   "values": [
+    "Y"
+   ],
+   "label": "Intimate partner"
+  }
+ },
+ "weapon_classes": [
+  {
+   "label": "Firearm",
+   "keywords": [
+    "FIREARM",
+    "HANDGUN",
+    "RIFLE",
+    "SHOTGUN"
+   ]
+  },
+  {
+   "label": "Knife or cutting",
+   "keywords": [
+    "KNIFE",
+    "CUTTING"
+   ]
+  },
+  {
+   "label": "Blunt object or vehicle",
+   "keywords": [
+    "BLUNT",
+    "CLUB",
+    "MOTOR VEHICLE"
+   ]
+  },
+  {
+   "label": "Hands, fists, feet",
+   "keywords": [
+    "PERSONAL WEAPON",
+    "ASPHYXIATION",
+    "STRANGULATION"
+   ]
+  }
+ ],
+ "sources": [
+  "FBI National Incident-Based Reporting System (NIBRS) state files for California, Long Beach Police Department (CA0194100), 2024 to 2025",
+  "US Census Bureau ACS 2020 to 2024 five-year estimates via Census Reporter"
+ ],
+ "_ori": "CA0194100",
+ "_state": "CA",
+ "_tier": 2
+}

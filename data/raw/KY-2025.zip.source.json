@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/KY-2025.zip",
+ "key": "nibrs/incident/2025/KY-2025.zip",
+ "fetched_at": "2026-10-02T21:16:00",
+ "bytes": 14699253,
+ "sha256": "4bc341da607219f8ba9250e1af287b5a67d7bd95d964f0ec13896d62bfca7a00",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, KY 2025, as received"
+}

@@ -1,0 +1,7 @@
+{
+ "query": "Louisville/Jefferson County metro government (balance), KY",
+ "census_geoid": "16000US2148006",
+ "display_name": "Louisville/Jefferson County metro government (balance), KY",
+ "population": 631818,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

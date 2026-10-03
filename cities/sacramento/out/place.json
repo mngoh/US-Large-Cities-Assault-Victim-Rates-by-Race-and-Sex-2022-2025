@@ -1,0 +1,7 @@
+{
+ "query": "Sacramento, CA",
+ "census_geoid": "16000US0664000",
+ "display_name": "Sacramento, CA",
+ "population": 528706,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

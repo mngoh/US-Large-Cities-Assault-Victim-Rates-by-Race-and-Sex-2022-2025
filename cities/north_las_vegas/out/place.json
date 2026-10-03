@@ -1,0 +1,7 @@
+{
+ "query": "North Las Vegas, NV",
+ "census_geoid": "16000US3251800",
+ "display_name": "North Las Vegas, NV",
+ "population": 278595,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

@@ -1,0 +1,8083 @@
+{
+ "summary": {
+  "tier_1": {
+   "cities": 46,
+   "with_comparison": {
+    "Hispanic": 41,
+    "White": 46
+   },
+   "ratio_above_1": {
+    "Hispanic": 41,
+    "White": 46
+   },
+   "lowest_bound_above_1": {
+    "Hispanic": 40,
+    "White": 46
+   },
+   "aggravated_gap_wider": {
+    "Hispanic": 35,
+    "White": 45
+   },
+   "ratio_range": {
+    "Hispanic": [
+     [
+      "Buffalo",
+      1.51
+     ],
+     [
+      "Cincinnati",
+      4.82
+     ]
+    ],
+    "White": [
+     [
+      "Stockton",
+      1.81
+     ],
+     [
+      "DC",
+      10.21
+     ]
+    ]
+   },
+   "white_ratio_not_recorded": {
+    "Toledo": 2.68,
+    "Cleveland": 2.1,
+    "Tulsa": 2.21,
+    "Detroit": 1.15,
+    "Oklahoma City": 2.46
+   },
+   "rate_range": [
+    [
+     "El Paso",
+     2036
+    ],
+    [
+     "Toledo",
+     9398
+    ]
+   ]
+  },
+  "tier_2": {
+   "cities": 13,
+   "with_comparison": {
+    "Hispanic": 13,
+    "White": 13
+   },
+   "ratio_above_1": {
+    "Hispanic": 13,
+    "White": 13
+   },
+   "lowest_bound_above_1": {
+    "Hispanic": 11,
+    "White": 13
+   },
+   "aggravated_gap_wider": {
+    "Hispanic": 13,
+    "White": 13
+   },
+   "ratio_range": {
+    "Hispanic": [
+     [
+      "San Jose",
+      1.28
+     ],
+     [
+      "Omaha",
+      3.54
+     ]
+    ],
+    "White": [
+     [
+      "North Las Vegas",
+      2.58
+     ],
+     [
+      "Omaha",
+      5.4
+     ]
+    ]
+   },
+   "white_ratio_not_recorded": {},
+   "rate_range": [
+    [
+     "New York",
+     2216
+    ],
+    [
+     "Sacramento",
+     5457
+    ]
+   ]
+  }
+ },
+ "rows": [
+  {
+   "slug": "toledo",
+   "city": "Toledo",
+   "state": "OH",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OH0480700",
+   "black_women_rate": 9398,
+   "rates_women": {
+    "Black": 9398,
+    "Hispanic": 1006,
+    "White": 3510,
+    "Asian": null
+   },
+   "black_men_rate": 6252,
+   "ratio": {
+    "Hispanic": null,
+    "White": 2.68,
+    "Asian": null
+   },
+   "bounds": {
+    "Hispanic": null,
+    "White": [
+     2.29,
+     2.68
+    ]
+   },
+   "ethnicity_recording": "not recorded",
+   "race_coding_worst": {
+    "Hispanic": 7.98,
+    "White": 2.29
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": null,
+    "White": 2.55,
+    "Asian": null
+   },
+   "aggravated": {
+    "Hispanic": null,
+    "White": 3.23,
+    "Asian": null
+   },
+   "simple": {
+    "Hispanic": null,
+    "White": 2.58,
+    "Asian": null
+   },
+   "partner_share": {
+    "Black": 27.1,
+    "Hispanic": 22.2,
+    "White": 31.4,
+    "Asian": 48.8
+   },
+   "partner_ratio": {
+    "Hispanic": null,
+    "White": 2.31,
+    "Asian": null
+   },
+   "non_partner_ratio": {
+    "Hispanic": null,
+    "White": 2.85,
+    "Asian": null
+   },
+   "women_over_men": {
+    "Black": 1.5,
+    "Hispanic": 1.39,
+    "White": 1.46
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": null,
+     "White": 2.55,
+     "Asian": 15.75
+    },
+    "second": {
+     "Hispanic": null,
+     "White": 2.82,
+     "Asian": 16.49
+    }
+   },
+   "women_victims": {
+    "Black": 14939,
+    "Hispanic": 490,
+    "White": 10635,
+    "Asian": 43
+   },
+   "women_residents": {
+    "Black": 39741.0,
+    "Hispanic": 12177.0,
+    "White": 75744.0,
+    "Asian": 1843.0
+   },
+   "unknown_race_pct": 1.1,
+   "outside_groups_pct": 1.1,
+   "unknown_ethnicity_pct": 98.1,
+   "unknown_relationship_pct": 12.1,
+   "combo_ratio": 1.171,
+   "flags": [
+    "unknown ethnicity 98.1% of women victims",
+    "ethnicity not recorded (Hispanic or not Hispanic for 1.9% of women victims): no Hispanic comparison, and White victims include Hispanic White victims, so the ratio to White women runs low",
+    "Asian women residents 1,843, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "lubbock",
+   "city": "Lubbock",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX1520200",
+   "black_women_rate": 6391,
+   "rates_women": {
+    "Black": 6391,
+    "Hispanic": 3820,
+    "White": 1401,
+    "Asian": 631
+   },
+   "black_men_rate": 4222,
+   "ratio": {
+    "Hispanic": 1.67,
+    "White": 4.56,
+    "Asian": 10.13
+   },
+   "bounds": {
+    "Hispanic": [
+     1.36,
+     1.67
+    ],
+    "White": [
+     3.72,
+     4.73
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.36,
+    "White": 3.72,
+    "Asian": 8.26
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.67,
+     "White": 4.56
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.67,
+     "White": 4.73
+    },
+    "split in known proportion": {
+     "Hispanic": 1.65,
+     "White": 4.68
+    },
+    "all Hispanic": {
+     "Hispanic": 1.64,
+     "White": 4.73
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.66,
+    "White": 4.2,
+    "Asian": 78.05
+   },
+   "aggravated": {
+    "Hispanic": 1.99,
+    "White": 6.98,
+    "Asian": 25.15
+   },
+   "simple": {
+    "Hispanic": 1.58,
+    "White": 4.02,
+    "Asian": 8.22
+   },
+   "partner_share": {
+    "Black": 43.0,
+    "Hispanic": 50.7,
+    "White": 46.0,
+    "Asian": 43.8
+   },
+   "partner_ratio": {
+    "Hispanic": 1.42,
+    "White": 4.26,
+    "Asian": 9.92
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.93,
+    "White": 4.82,
+    "Asian": 10.26
+   },
+   "women_over_men": {
+    "Black": 1.51,
+    "Hispanic": 1.66,
+    "White": 1.33,
+    "Asian": 1.89
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.56,
+     "White": 4.26,
+     "Asian": 13.06
+    },
+    "second": {
+     "Hispanic": 1.81,
+     "White": 4.93,
+     "Asian": 8.22
+    }
+   },
+   "women_victims": {
+    "Black": 2913,
+    "Hispanic": 7506,
+    "White": 3768,
+    "Asian": 89
+   },
+   "women_residents": {
+    "Black": 11395.0,
+    "Hispanic": 49118.0,
+    "White": 67256.0,
+    "Asian": 3524.0
+   },
+   "unknown_race_pct": 0.4,
+   "outside_groups_pct": 0.4,
+   "unknown_ethnicity_pct": 1.4,
+   "unknown_relationship_pct": 6.7,
+   "combo_ratio": 1.227,
+   "flags": [
+    "Asian women residents 3,524, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "memphis",
+   "city": "Memphis",
+   "state": "TN",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TNMPD0000",
+   "black_women_rate": 6371,
+   "rates_women": {
+    "Black": 6371,
+    "Hispanic": 2649,
+    "White": 1675,
+    "Asian": 1080
+   },
+   "black_men_rate": 4401,
+   "ratio": {
+    "Hispanic": 2.41,
+    "White": 3.8,
+    "Asian": 5.9
+   },
+   "bounds": {
+    "Hispanic": [
+     2.34,
+     2.41
+    ],
+    "White": [
+     3.7,
+     3.81
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.34,
+    "White": 3.7,
+    "Asian": 5.74
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.4,
+     "White": 3.8
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.4,
+     "White": 3.81
+    },
+    "split in known proportion": {
+     "Hispanic": 2.4,
+     "White": 3.81
+    },
+    "all Hispanic": {
+     "Hispanic": 2.4,
+     "White": 3.81
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.45,
+    "White": 3.58,
+    "Asian": 11.71
+   },
+   "aggravated": {
+    "Hispanic": 2.2,
+    "White": 4.76,
+    "Asian": 6.41
+   },
+   "simple": {
+    "Hispanic": 2.55,
+    "White": 3.39,
+    "Asian": 5.63
+   },
+   "partner_share": {
+    "Black": 41.3,
+    "Hispanic": 41.7,
+    "White": 39.3,
+    "Asian": 29.1
+   },
+   "partner_ratio": {
+    "Hispanic": 2.38,
+    "White": 4.0,
+    "Asian": 8.36
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.42,
+    "White": 3.68,
+    "Asian": 4.89
+   },
+   "women_over_men": {
+    "Black": 1.45,
+    "Hispanic": 1.06,
+    "White": 1.04,
+    "Asian": 0.47
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.48,
+     "White": 3.64,
+     "Asian": 5.34
+    },
+    "second": {
+     "Hispanic": 2.33,
+     "White": 3.98,
+     "Asian": 6.62
+    }
+   },
+   "women_victims": {
+    "Black": 53518,
+    "Hispanic": 3266,
+    "White": 4715,
+    "Asian": 223
+   },
+   "women_residents": {
+    "Black": 210013.0,
+    "Hispanic": 30822.0,
+    "White": 70380.0,
+    "Asian": 5163.0
+   },
+   "unknown_race_pct": 0.0,
+   "outside_groups_pct": 0.2,
+   "unknown_ethnicity_pct": 0.1,
+   "unknown_relationship_pct": 15.0,
+   "combo_ratio": 1.028,
+   "flags": [
+    "Asian women residents 5,163, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "kansas_city",
+   "city": "Kansas City",
+   "state": "MO",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "MOKPD0000",
+   "black_women_rate": 6177,
+   "rates_women": {
+    "Black": 6177,
+    "Hispanic": 2258,
+    "White": 1566,
+    "Asian": 672
+   },
+   "black_men_rate": 4736,
+   "ratio": {
+    "Hispanic": 2.74,
+    "White": 3.94,
+    "Asian": 9.19
+   },
+   "bounds": {
+    "Hispanic": [
+     1.53,
+     2.74
+    ],
+    "White": [
+     3.53,
+     5.36
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.46,
+    "White": 3.53,
+    "Asian": 8.23
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.74,
+     "White": 3.94
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.74,
+     "White": 5.36
+    },
+    "split in known proportion": {
+     "Hispanic": 2.21,
+     "White": 4.29
+    },
+    "all Hispanic": {
+     "Hispanic": 1.53,
+     "White": 5.36
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.05,
+    "White": 4.22,
+    "Asian": 12.81
+   },
+   "aggravated": {
+    "Hispanic": 2.45,
+    "White": 5.14,
+    "Asian": 9.87
+   },
+   "simple": {
+    "Hispanic": 2.97,
+    "White": 3.41,
+    "Asian": 8.78
+   },
+   "partner_share": {
+    "Black": 40.0,
+    "Hispanic": 38.9,
+    "White": 42.8,
+    "Asian": 39.6
+   },
+   "partner_ratio": {
+    "Hispanic": 2.81,
+    "White": 3.68,
+    "Asian": 9.28
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.69,
+    "White": 4.14,
+    "Asian": 9.14
+   },
+   "women_over_men": {
+    "Black": 1.3,
+    "Hispanic": 0.93,
+    "White": 1.07,
+    "Asian": 0.97
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.82,
+     "White": 3.81,
+     "Asian": 8.43
+    },
+    "second": {
+     "Hispanic": 2.66,
+     "White": 4.08,
+     "Asian": 10.02
+    }
+   },
+   "women_victims": {
+    "Black": 17244,
+    "Hispanic": 2918,
+    "White": 8774,
+    "Asian": 207
+   },
+   "women_residents": {
+    "Black": 69787.0,
+    "Hispanic": 32304.0,
+    "White": 140071.0,
+    "Asian": 7698.0
+   },
+   "unknown_race_pct": 1.2,
+   "outside_groups_pct": 1.5,
+   "unknown_ethnicity_pct": 22.8,
+   "unknown_relationship_pct": 22.2,
+   "combo_ratio": 1.116,
+   "flags": [
+    "unknown ethnicity 22.8% of women victims",
+    "Asian women residents 7,698, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "cleveland",
+   "city": "Cleveland",
+   "state": "OH",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OHCLP0000",
+   "black_women_rate": 6130,
+   "rates_women": {
+    "Black": 6130,
+    "Hispanic": 67,
+    "White": 2922,
+    "Asian": 654
+   },
+   "black_men_rate": 4055,
+   "ratio": {
+    "Hispanic": null,
+    "White": 2.1,
+    "Asian": 9.37
+   },
+   "bounds": {
+    "Hispanic": null,
+    "White": [
+     1.9,
+     2.1
+    ]
+   },
+   "ethnicity_recording": "not recorded",
+   "race_coding_worst": {
+    "Hispanic": 82.57,
+    "White": 1.9,
+    "Asian": 8.46
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": null,
+    "White": 2.26,
+    "Asian": 20.44
+   },
+   "aggravated": {
+    "Hispanic": null,
+    "White": 2.83,
+    "Asian": 11.41
+   },
+   "simple": {
+    "Hispanic": null,
+    "White": 1.93,
+    "Asian": 8.84
+   },
+   "partner_share": {
+    "Black": 38.1,
+    "Hispanic": 45.5,
+    "White": 39.0,
+    "Asian": 28.6
+   },
+   "partner_ratio": {
+    "Hispanic": null,
+    "White": 2.05,
+    "Asian": 12.5
+   },
+   "non_partner_ratio": {
+    "Hispanic": null,
+    "White": 2.13,
+    "Asian": 8.12
+   },
+   "women_over_men": {
+    "Black": 1.51,
+    "Hispanic": 1.68,
+    "White": 1.35,
+    "Asian": 1.78
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": null,
+     "White": 1.95,
+     "Asian": 8.02
+    },
+    "second": {
+     "Hispanic": null,
+     "White": 2.28,
+     "Asian": 11.44
+    }
+   },
+   "women_victims": {
+    "Black": 22011,
+    "Hispanic": 66,
+    "White": 7064,
+    "Asian": 126
+   },
+   "women_residents": {
+    "Black": 89771.0,
+    "Hispanic": 24646.0,
+    "White": 60443.0,
+    "Asian": 4817.0
+   },
+   "unknown_race_pct": 5.4,
+   "outside_groups_pct": 5.2,
+   "unknown_ethnicity_pct": 99.8,
+   "unknown_relationship_pct": 20.7,
+   "combo_ratio": 1.108,
+   "flags": [
+    "unknown race 5.4% of women victims (if all were in the comparison group: White 1.7)",
+    "unknown ethnicity 99.8% of women victims",
+    "ethnicity not recorded (Hispanic or not Hispanic for 0.2% of women victims): no Hispanic comparison, and White victims include Hispanic White victims, so the ratio to White women runs low",
+    "Asian women residents 4,817, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "tulsa",
+   "city": "Tulsa",
+   "state": "OK",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OK0720500",
+   "black_women_rate": 6108,
+   "rates_women": {
+    "Black": 6108,
+    "Hispanic": 0,
+    "White": 2768,
+    "Asian": 595
+   },
+   "black_men_rate": 3579,
+   "ratio": {
+    "Hispanic": null,
+    "White": 2.21,
+    "Asian": 10.27
+   },
+   "bounds": {
+    "Hispanic": null,
+    "White": [
+     1.74,
+     2.21
+    ]
+   },
+   "ethnicity_recording": "not recorded",
+   "race_coding_worst": {
+    "White": 1.74,
+    "Asian": 8.09
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": null,
+    "White": 2.02,
+    "Asian": 12.36
+   },
+   "aggravated": {
+    "Hispanic": null,
+    "White": 2.74,
+    "Asian": 13.89
+   },
+   "simple": {
+    "Hispanic": null,
+    "White": 2.02,
+    "Asian": 9.16
+   },
+   "partner_share": {
+    "Black": 41.5,
+    "Hispanic": null,
+    "White": 47.6,
+    "Asian": 58.2
+   },
+   "partner_ratio": {
+    "Hispanic": null,
+    "White": 1.92,
+    "Asian": 7.32
+   },
+   "non_partner_ratio": {
+    "Hispanic": null,
+    "White": 2.46,
+    "Asian": 14.36
+   },
+   "women_over_men": {
+    "Black": 1.71,
+    "White": 1.51,
+    "Asian": 1.09
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": null,
+     "White": 2.12,
+     "Asian": 13.04
+    },
+    "second": {
+     "Hispanic": null,
+     "White": 2.3,
+     "Asian": 8.46
+    }
+   },
+   "women_victims": {
+    "Black": 7481,
+    "Hispanic": 0,
+    "White": 11831,
+    "Asian": 177
+   },
+   "women_residents": {
+    "Black": 30620.0,
+    "Hispanic": 39543.0,
+    "White": 106841.0,
+    "Asian": 7443.0
+   },
+   "unknown_race_pct": 2.6,
+   "outside_groups_pct": 7.7,
+   "unknown_ethnicity_pct": 100.0,
+   "unknown_relationship_pct": 4.0,
+   "combo_ratio": 1.269,
+   "flags": [
+    "unknown ethnicity 100.0% of women victims",
+    "ethnicity not recorded (Hispanic or not Hispanic for 0.0% of women victims): no Hispanic comparison, and White victims include Hispanic White victims, so the ratio to White women runs low",
+    "Asian women residents 7,443, under 10,000",
+    "intimidation (13C, left out) moves from 21.3% to 32.5% of assault-type victims across years (2022 21.3%, 2023 26.9%, 2024 32.5%, 2025 32.2%): a coding change"
+   ],
+   "already": null
+  },
+  {
+   "slug": "winston_salem",
+   "city": "Winston-Salem",
+   "state": "NC",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NC0340200",
+   "black_women_rate": 5672,
+   "rates_women": {
+    "Black": 5672,
+    "Hispanic": 2154,
+    "White": 1991,
+    "Asian": 455
+   },
+   "black_men_rate": 4549,
+   "ratio": {
+    "Hispanic": 2.63,
+    "White": 2.85,
+    "Asian": 12.47
+   },
+   "bounds": {
+    "Hispanic": [
+     2.17,
+     2.63
+    ],
+    "White": [
+     2.57,
+     3.13
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.37,
+    "White": 2.57,
+    "Asian": 11.22
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.63,
+     "White": 2.85
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.63,
+     "White": 3.13
+    },
+    "split in known proportion": {
+     "Hispanic": 2.47,
+     "White": 2.93
+    },
+    "all Hispanic": {
+     "Hispanic": 2.17,
+     "White": 3.13
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.58,
+    "White": 2.7,
+    "Asian": 48.59
+   },
+   "aggravated": {
+    "Hispanic": 2.31,
+    "White": 3.73,
+    "Asian": 16.99
+   },
+   "simple": {
+    "Hispanic": 2.74,
+    "White": 2.67,
+    "Asian": 11.6
+   },
+   "partner_share": {
+    "Black": 41.9,
+    "Hispanic": 47.4,
+    "White": 40.7,
+    "Asian": 38.7
+   },
+   "partner_ratio": {
+    "Hispanic": 2.33,
+    "White": 2.94,
+    "Asian": 13.52
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.9,
+    "White": 2.79,
+    "Asian": 11.8
+   },
+   "women_over_men": {
+    "Black": 1.25,
+    "Hispanic": 1.22,
+    "White": 1.15,
+    "Asian": 0.78
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.76,
+     "White": 2.86,
+     "Asian": 12.54
+    },
+    "second": {
+     "Hispanic": 2.5,
+     "White": 2.83,
+     "Asian": 12.37
+    }
+   },
+   "women_victims": {
+    "Black": 10159,
+    "Hispanic": 1989,
+    "White": 4640,
+    "Asian": 62
+   },
+   "women_residents": {
+    "Black": 44776.0,
+    "Hispanic": 23087.0,
+    "White": 58254.0,
+    "Asian": 3405.0
+   },
+   "unknown_race_pct": 0.2,
+   "outside_groups_pct": 0.2,
+   "unknown_ethnicity_pct": 6.0,
+   "unknown_relationship_pct": 17.1,
+   "combo_ratio": 1.111,
+   "flags": [
+    "Asian women residents 3,405, under 10,000",
+    "assault victims a year against the median year: 2022 1.25x"
+   ],
+   "already": null
+  },
+  {
+   "slug": "detroit",
+   "city": "Detroit",
+   "state": "MI",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "MI8234900",
+   "black_women_rate": 5529,
+   "rates_women": {
+    "Black": 5529,
+    "Hispanic": 0,
+    "White": 4814,
+    "Asian": 357
+   },
+   "black_men_rate": 3594,
+   "ratio": {
+    "Hispanic": null,
+    "White": 1.15,
+    "Asian": 15.49
+   },
+   "bounds": {
+    "Hispanic": null,
+    "White": [
+     1.11,
+     1.15
+    ]
+   },
+   "ethnicity_recording": "not recorded",
+   "race_coding_worst": {
+    "White": 1.11,
+    "Asian": 14.92
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": null,
+    "White": 1.35,
+    "Asian": 30.27
+   },
+   "aggravated": {
+    "Hispanic": null,
+    "White": 1.44,
+    "Asian": 22.07
+   },
+   "simple": {
+    "Hispanic": null,
+    "White": 1.05,
+    "Asian": 13.71
+   },
+   "partner_share": {
+    "Black": 18.4,
+    "Hispanic": null,
+    "White": 21.5,
+    "Asian": 18.7
+   },
+   "partner_ratio": {
+    "Hispanic": null,
+    "White": 0.98,
+    "Asian": 15.19
+   },
+   "non_partner_ratio": {
+    "Hispanic": null,
+    "White": 1.19,
+    "Asian": 15.56
+   },
+   "women_over_men": {
+    "Black": 1.54,
+    "White": 1.14,
+    "Asian": 0.37
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": null,
+     "White": 1.18,
+     "Asian": 14.71
+    },
+    "second": {
+     "Hispanic": null,
+     "White": 1.12,
+     "Asian": 16.36
+    }
+   },
+   "women_victims": {
+    "Black": 57332,
+    "Hispanic": 0,
+    "White": 6421,
+    "Asian": 75
+   },
+   "women_residents": {
+    "Black": 259226.0,
+    "Hispanic": 25593.0,
+    "White": 33342.0,
+    "Asian": 5250.0
+   },
+   "unknown_race_pct": 1.3,
+   "outside_groups_pct": 1.3,
+   "unknown_ethnicity_pct": 100.0,
+   "unknown_relationship_pct": 21.7,
+   "combo_ratio": 1.038,
+   "flags": [
+    "unknown ethnicity 100.0% of women victims",
+    "ethnicity not recorded (Hispanic or not Hispanic for 0.0% of women victims): no Hispanic comparison, and White victims include Hispanic White victims, so the ratio to White women runs low",
+    "Asian women residents 5,250, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "minneapolis",
+   "city": "Minneapolis",
+   "state": "MN",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "MN0271100",
+   "black_women_rate": 5516,
+   "rates_women": {
+    "Black": 5516,
+    "Hispanic": 2170,
+    "White": 716,
+    "Asian": 410
+   },
+   "black_men_rate": 3895,
+   "ratio": {
+    "Hispanic": 2.54,
+    "White": 7.7,
+    "Asian": 13.45
+   },
+   "bounds": {
+    "Hispanic": [
+     1.38,
+     2.54
+    ],
+    "White": [
+     6.51,
+     13.33
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.15,
+    "White": 6.51,
+    "Asian": 11.37
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.54,
+     "White": 7.71
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.54,
+     "White": 13.33
+    },
+    "split in known proportion": {
+     "Hispanic": 1.94,
+     "White": 9.14
+    },
+    "all Hispanic": {
+     "Hispanic": 1.38,
+     "White": 13.33
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.81,
+    "White": 8.14,
+    "Asian": 20.52
+   },
+   "aggravated": {
+    "Hispanic": 3.15,
+    "White": 9.99,
+    "Asian": 16.44
+   },
+   "simple": {
+    "Hispanic": 2.27,
+    "White": 6.76,
+    "Asian": 12.11
+   },
+   "partner_share": {
+    "Black": 40.1,
+    "Hispanic": 51.7,
+    "White": 39.7,
+    "Asian": 36.9
+   },
+   "partner_ratio": {
+    "Hispanic": 1.98,
+    "White": 7.8,
+    "Asian": 14.66
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.15,
+    "White": 7.65,
+    "Asian": 12.8
+   },
+   "women_over_men": {
+    "Black": 1.42,
+    "Hispanic": 1.13,
+    "White": 1.0,
+    "Asian": 0.86
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.16,
+     "White": 7.37,
+     "Asian": 12.4
+    },
+    "second": {
+     "Hispanic": 2.13,
+     "White": 8.08,
+     "Asian": 14.75
+    }
+   },
+   "women_victims": {
+    "Black": 8682,
+    "Hispanic": 1773,
+    "White": 3538,
+    "Asian": 187
+   },
+   "women_residents": {
+    "Black": 39347.0,
+    "Hispanic": 20430.0,
+    "White": 123619.0,
+    "Asian": 11413.0
+   },
+   "unknown_race_pct": 10.4,
+   "outside_groups_pct": 13.2,
+   "unknown_ethnicity_pct": 38.0,
+   "unknown_relationship_pct": 20.4,
+   "combo_ratio": 1.183,
+   "flags": [
+    "unknown race 10.4% of women victims (if all were in the comparison group: Hispanic 1.3, White 5.21)",
+    "unknown ethnicity 38.0% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "henderson",
+   "city": "Henderson",
+   "state": "NV",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NV0020300",
+   "black_women_rate": 5477,
+   "rates_women": {
+    "Black": 5477,
+    "Hispanic": 1218,
+    "White": 1135,
+    "Asian": 412
+   },
+   "black_men_rate": 2906,
+   "ratio": {
+    "Hispanic": 4.5,
+    "White": 4.83,
+    "Asian": 13.29
+   },
+   "bounds": {
+    "Hispanic": [
+     3.22,
+     4.5
+    ],
+    "White": [
+     3.45,
+     5.12
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 3.22,
+    "White": 3.45,
+    "Asian": 9.51
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 4.5,
+     "White": 4.83
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 4.5,
+     "White": 5.12
+    },
+    "split in known proportion": {
+     "Hispanic": 4.31,
+     "White": 4.9
+    },
+    "all Hispanic": {
+     "Hispanic": 3.87,
+     "White": 5.12
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.83,
+    "White": 3.53,
+    "Asian": 10.79
+   },
+   "aggravated": {
+    "Hispanic": 6.06,
+    "White": 6.1,
+    "Asian": 20.7
+   },
+   "simple": {
+    "Hispanic": 4.26,
+    "White": 4.62,
+    "Asian": 12.36
+   },
+   "partner_share": {
+    "Black": 59.1,
+    "Hispanic": 64.2,
+    "White": 56.6,
+    "Asian": 59.2
+   },
+   "partner_ratio": {
+    "Hispanic": 4.15,
+    "White": 5.04,
+    "Asian": 13.27
+   },
+   "non_partner_ratio": {
+    "Hispanic": 5.13,
+    "White": 4.55,
+    "Asian": 13.32
+   },
+   "women_over_men": {
+    "Black": 1.88,
+    "Hispanic": 1.28,
+    "White": 1.44,
+    "Asian": 1.29
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 4.99,
+     "White": 4.66,
+     "Asian": 12.83
+    },
+    "second": {
+     "Hispanic": 4.06,
+     "White": 5.02,
+     "Asian": 13.86
+    }
+   },
+   "women_victims": {
+    "Black": 2416,
+    "Hispanic": 1493,
+    "White": 4282,
+    "Asian": 306
+   },
+   "women_residents": {
+    "Black": 11028.0,
+    "Hispanic": 30648.0,
+    "White": 94329.0,
+    "Asian": 18583.0
+   },
+   "unknown_race_pct": 0.4,
+   "outside_groups_pct": 2.2,
+   "unknown_ethnicity_pct": 4.2,
+   "unknown_relationship_pct": 3.1,
+   "combo_ratio": 1.398,
+   "flags": [
+    "department population 358,366 is 1.08x the city's"
+   ],
+   "already": null
+  },
+  {
+   "slug": "portland",
+   "city": "Portland",
+   "state": "OR",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OR0260200",
+   "black_women_rate": 5457,
+   "rates_women": {
+    "Black": 5457,
+    "Hispanic": 1372,
+    "White": 1129,
+    "Asian": 464
+   },
+   "black_men_rate": 3601,
+   "ratio": {
+    "Hispanic": 3.98,
+    "White": 4.83,
+    "Asian": 11.76
+   },
+   "bounds": {
+    "Hispanic": [
+     2.76,
+     3.98
+    ],
+    "White": [
+     3.35,
+     4.83
+    ]
+   },
+   "ethnicity_recording": "Hispanic only",
+   "race_coding_worst": {
+    "Hispanic": 2.76,
+    "White": 3.35,
+    "Asian": 8.15
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": 4.5,
+    "White": 4.84,
+    "Asian": 12.09
+   },
+   "aggravated": {
+    "Hispanic": 4.28,
+    "White": 5.54,
+    "Asian": 13.78
+   },
+   "simple": {
+    "Hispanic": 3.84,
+    "White": 4.54,
+    "Asian": 10.95
+   },
+   "partner_share": {
+    "Black": 48.8,
+    "Hispanic": 53.7,
+    "White": 44.3,
+    "Asian": 44.8
+   },
+   "partner_ratio": {
+    "Hispanic": 3.62,
+    "White": 5.33,
+    "Asian": 12.8
+   },
+   "non_partner_ratio": {
+    "Hispanic": 4.39,
+    "White": 4.44,
+    "Asian": 10.91
+   },
+   "women_over_men": {
+    "Black": 1.52,
+    "Hispanic": 1.07,
+    "White": 0.98,
+    "Asian": 0.97
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.91,
+     "White": 4.43,
+     "Asian": 10.56
+    },
+    "second": {
+     "Hispanic": 4.04,
+     "White": 5.26,
+     "Asian": 13.05
+    }
+   },
+   "women_victims": {
+    "Black": 3850,
+    "Hispanic": 2033,
+    "White": 9532,
+    "Asian": 518
+   },
+   "women_residents": {
+    "Black": 17637.0,
+    "Hispanic": 37052.0,
+    "White": 211148.0,
+    "Asian": 27894.0
+   },
+   "unknown_race_pct": 4.2,
+   "outside_groups_pct": 6.3,
+   "unknown_ethnicity_pct": 86.9,
+   "unknown_relationship_pct": 17.9,
+   "combo_ratio": 1.443,
+   "flags": [
+    "unknown ethnicity 86.9% of women victims",
+    "'not Hispanic' coded for only 1.1% of women victims: unspecified ethnicity is the default, so the Hispanic comparison cannot be bounded (bounds from race coding only)"
+   ],
+   "already": null
+  },
+  {
+   "slug": "nashville",
+   "city": "Nashville",
+   "state": "TN",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TN0190100",
+   "black_women_rate": 5374,
+   "rates_women": {
+    "Black": 5374,
+    "Hispanic": 2549,
+    "White": 1554,
+    "Asian": 659
+   },
+   "black_men_rate": 3883,
+   "ratio": {
+    "Hispanic": 2.11,
+    "White": 3.46,
+    "Asian": 8.15
+   },
+   "bounds": {
+    "Hispanic": [
+     1.9,
+     2.11
+    ],
+    "White": [
+     3.12,
+     3.51
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.9,
+    "White": 3.12,
+    "Asian": 7.36
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.11,
+     "White": 3.46
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.11,
+     "White": 3.51
+    },
+    "split in known proportion": {
+     "Hispanic": 2.09,
+     "White": 3.47
+    },
+    "all Hispanic": {
+     "Hispanic": 2.03,
+     "White": 3.51
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.1,
+    "White": 3.52,
+    "Asian": 9.19
+   },
+   "aggravated": {
+    "Hispanic": 2.3,
+    "White": 4.44,
+    "Asian": 11.0
+   },
+   "simple": {
+    "Hispanic": 2.03,
+    "White": 3.13,
+    "Asian": 7.26
+   },
+   "partner_share": {
+    "Black": 40.5,
+    "Hispanic": 46.3,
+    "White": 40.4,
+    "Asian": 46.8
+   },
+   "partner_ratio": {
+    "Hispanic": 1.84,
+    "White": 3.46,
+    "Asian": 7.04
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.34,
+    "White": 3.45,
+    "Asian": 9.14
+   },
+   "women_over_men": {
+    "Black": 1.38,
+    "Hispanic": 1.11,
+    "White": 0.96,
+    "Asian": 0.8
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.24,
+     "White": 3.33,
+     "Asian": 8.23
+    },
+    "second": {
+     "Hispanic": 2.0,
+     "White": 3.59,
+     "Asian": 8.09
+    }
+   },
+   "women_victims": {
+    "Black": 19729,
+    "Hispanic": 4742,
+    "White": 11596,
+    "Asian": 331
+   },
+   "women_residents": {
+    "Black": 91775.0,
+    "Hispanic": 46515.0,
+    "White": 186531.0,
+    "Asian": 12560.0
+   },
+   "unknown_race_pct": 0.5,
+   "outside_groups_pct": 0.6,
+   "unknown_ethnicity_pct": 1.1,
+   "unknown_relationship_pct": 21.3,
+   "combo_ratio": 1.108,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "chicago",
+   "city": "Chicago",
+   "state": "IL",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "ILCPD0000",
+   "black_women_rate": 5266,
+   "rates_women": {
+    "Black": 5266,
+    "Hispanic": 2083,
+    "White": 719,
+    "Asian": 448
+   },
+   "black_men_rate": 3490,
+   "ratio": {
+    "Hispanic": 2.53,
+    "White": 7.32,
+    "Asian": 11.75
+   },
+   "bounds": {
+    "Hispanic": [
+     2.36,
+     2.53
+    ],
+    "White": [
+     6.82,
+     7.32
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.36,
+    "White": 6.82,
+    "Asian": 10.94
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.53,
+     "White": 7.32
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.53,
+     "White": 7.32
+    },
+    "split in known proportion": {
+     "Hispanic": 2.53,
+     "White": 7.32
+    },
+    "all Hispanic": {
+     "Hispanic": 2.53,
+     "White": 7.32
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.84,
+    "White": 8.62,
+    "Asian": 14.36
+   },
+   "aggravated": {
+    "Hispanic": 3.39,
+    "White": 9.41,
+    "Asian": 18.82
+   },
+   "simple": {
+    "Hispanic": 2.5,
+    "White": 7.26,
+    "Asian": 11.58
+   },
+   "partner_share": {
+    "Black": 43.3,
+    "Hispanic": 44.4,
+    "White": 37.3,
+    "Asian": 38.4
+   },
+   "partner_ratio": {
+    "Hispanic": 2.46,
+    "White": 8.5,
+    "Asian": 13.25
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.58,
+    "White": 6.64,
+    "Asian": 10.82
+   },
+   "women_over_men": {
+    "Black": 1.51,
+    "Hispanic": 1.18,
+    "White": 0.88,
+    "Asian": 0.64
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.73,
+     "White": 7.48,
+     "Asian": 12.67
+    },
+    "second": {
+     "Hispanic": 2.35,
+     "White": 7.18,
+     "Asian": 10.96
+    }
+   },
+   "women_victims": {
+    "Black": 87315,
+    "Hispanic": 33081,
+    "White": 12559,
+    "Asian": 1847
+   },
+   "women_residents": {
+    "Black": 414538.0,
+    "Hispanic": 397056.0,
+    "White": 436715.0,
+    "Asian": 103111.0
+   },
+   "unknown_race_pct": 1.9,
+   "outside_groups_pct": 2.1,
+   "unknown_ethnicity_pct": 1.9,
+   "unknown_relationship_pct": 9.8,
+   "combo_ratio": 1.074,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "fresno",
+   "city": "Fresno",
+   "state": "CA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CA0100500",
+   "black_women_rate": 4925,
+   "rates_women": {
+    "Black": 4925,
+    "Hispanic": 1926,
+    "White": 1802,
+    "Asian": 556
+   },
+   "black_men_rate": 2945,
+   "ratio": {
+    "Hispanic": 2.56,
+    "White": 2.73,
+    "Asian": 8.86
+   },
+   "bounds": {
+    "Hispanic": [
+     1.9,
+     2.56
+    ],
+    "White": [
+     2.02,
+     4.42
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.9,
+    "White": 2.02,
+    "Asian": 6.57
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.56,
+     "White": 2.73
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.56,
+     "White": 4.42
+    },
+    "split in known proportion": {
+     "Hispanic": 2.25,
+     "White": 3.88
+    },
+    "all Hispanic": {
+     "Hispanic": 2.18,
+     "White": 4.42
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.55,
+    "White": 2.24,
+    "Asian": 8.73
+   },
+   "aggravated": {
+    "Hispanic": 2.62,
+    "White": 2.94,
+    "Asian": 8.26
+   },
+   "simple": {
+    "Hispanic": 2.53,
+    "White": 2.65,
+    "Asian": 9.15
+   },
+   "partner_share": {
+    "Black": 47.4,
+    "Hispanic": 53.7,
+    "White": 45.2,
+    "Asian": 55.8
+   },
+   "partner_ratio": {
+    "Hispanic": 2.25,
+    "White": 2.87,
+    "Asian": 7.53
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.91,
+    "White": 2.62,
+    "Asian": 10.54
+   },
+   "women_over_men": {
+    "Black": 1.67,
+    "Hispanic": 1.47,
+    "White": 1.17,
+    "Asian": 0.98
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.67,
+     "White": 2.66,
+     "Asian": 8.43
+    },
+    "second": {
+     "Hispanic": 2.45,
+     "White": 2.81,
+     "Asian": 9.31
+    }
+   },
+   "women_victims": {
+    "Black": 3601,
+    "Hispanic": 10544,
+    "White": 4818,
+    "Asian": 853
+   },
+   "women_residents": {
+    "Black": 18278.0,
+    "Hispanic": 136834.0,
+    "White": 66849.0,
+    "Asian": 38344.0
+   },
+   "unknown_race_pct": 2.9,
+   "outside_groups_pct": 3.0,
+   "unknown_ethnicity_pct": 14.4,
+   "unknown_relationship_pct": 21.1,
+   "combo_ratio": 1.349,
+   "flags": [
+    "unknown ethnicity 14.4% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "stockton",
+   "city": "Stockton",
+   "state": "CA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CA0390500",
+   "black_women_rate": 4921,
+   "rates_women": {
+    "Black": 4921,
+    "Hispanic": 1876,
+    "White": 2720,
+    "Asian": 606
+   },
+   "black_men_rate": 3810,
+   "ratio": {
+    "Hispanic": 2.62,
+    "White": 1.81,
+    "Asian": 8.12
+   },
+   "bounds": {
+    "Hispanic": [
+     2.04,
+     2.62
+    ],
+    "White": [
+     1.41,
+     2.25
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.04,
+    "White": 1.41,
+    "Asian": 6.33
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.62,
+     "White": 1.81
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.62,
+     "White": 2.25
+    },
+    "split in known proportion": {
+     "Hispanic": 2.45,
+     "White": 2.09
+    },
+    "all Hispanic": {
+     "Hispanic": 2.38,
+     "White": 2.25
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.55,
+    "White": 1.44,
+    "Asian": 7.58
+   },
+   "aggravated": {
+    "Hispanic": 2.87,
+    "White": 1.98,
+    "Asian": 7.03
+   },
+   "simple": {
+    "Hispanic": 2.52,
+    "White": 1.74,
+    "Asian": 8.78
+   },
+   "partner_share": {
+    "Black": 43.1,
+    "Hispanic": 48.6,
+    "White": 44.4,
+    "Asian": 38.6
+   },
+   "partner_ratio": {
+    "Hispanic": 2.33,
+    "White": 1.76,
+    "Asian": 9.07
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.9,
+    "White": 1.85,
+    "Asian": 7.52
+   },
+   "women_over_men": {
+    "Black": 1.29,
+    "Hispanic": 1.21,
+    "White": 1.25,
+    "Asian": 0.7
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.55,
+     "White": 1.9,
+     "Asian": 8.78
+    },
+    "second": {
+     "Hispanic": 2.7,
+     "White": 1.73,
+     "Asian": 7.55
+    }
+   },
+   "women_victims": {
+    "Black": 3852,
+    "Hispanic": 5602,
+    "White": 2981,
+    "Asian": 871
+   },
+   "women_residents": {
+    "Black": 19571.0,
+    "Hispanic": 74652.0,
+    "White": 27403.0,
+    "Asian": 35920.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.8,
+   "unknown_ethnicity_pct": 7.9,
+   "unknown_relationship_pct": 10.4,
+   "combo_ratio": 1.283,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "milwaukee",
+   "city": "Milwaukee",
+   "state": "WI",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "WIMPD0000",
+   "black_women_rate": 4435,
+   "rates_women": {
+    "Black": 4435,
+    "Hispanic": 1428,
+    "White": 805,
+    "Asian": 550
+   },
+   "black_men_rate": 2576,
+   "ratio": {
+    "Hispanic": 3.11,
+    "White": 5.51,
+    "Asian": 8.06
+   },
+   "bounds": {
+    "Hispanic": [
+     2.85,
+     3.11
+    ],
+    "White": [
+     5.07,
+     6.13
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.86,
+    "White": 5.07,
+    "Asian": 7.42
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.11,
+     "White": 5.51
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.11,
+     "White": 6.13
+    },
+    "split in known proportion": {
+     "Hispanic": 2.97,
+     "White": 5.83
+    },
+    "all Hispanic": {
+     "Hispanic": 2.85,
+     "White": 6.13
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.23,
+    "White": 5.87,
+    "Asian": 9.69
+   },
+   "aggravated": {
+    "Hispanic": 3.89,
+    "White": 6.92,
+    "Asian": 10.01
+   },
+   "simple": {
+    "Hispanic": 2.63,
+    "White": 4.67,
+    "Asian": 6.88
+   },
+   "partner_share": {
+    "Black": 52.9,
+    "Hispanic": 61.4,
+    "White": 53.8,
+    "Asian": 60.3
+   },
+   "partner_ratio": {
+    "Hispanic": 2.67,
+    "White": 5.42,
+    "Asian": 7.08
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.79,
+    "White": 5.62,
+    "Asian": 9.59
+   },
+   "women_over_men": {
+    "Black": 1.72,
+    "Hispanic": 1.67,
+    "White": 1.37,
+    "Asian": 1.19
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.39,
+     "White": 5.52,
+     "Asian": 7.8
+    },
+    "second": {
+     "Hispanic": 2.86,
+     "White": 5.5,
+     "Asian": 8.37
+    }
+   },
+   "women_victims": {
+    "Black": 20854,
+    "Hispanic": 3341,
+    "White": 2937,
+    "Asian": 307
+   },
+   "women_residents": {
+    "Black": 117546.0,
+    "Hispanic": 58505.0,
+    "White": 91245.0,
+    "Asian": 13962.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.6,
+   "unknown_ethnicity_pct": 6.3,
+   "unknown_relationship_pct": 11.6,
+   "combo_ratio": 1.086,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "st_paul",
+   "city": "St. Paul",
+   "state": "MN",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "MN0620900",
+   "black_women_rate": 4227,
+   "rates_women": {
+    "Black": 4227,
+    "Hispanic": 1181,
+    "White": 715,
+    "Asian": 427
+   },
+   "black_men_rate": 2420,
+   "ratio": {
+    "Hispanic": 3.58,
+    "White": 5.91,
+    "Asian": 9.9
+   },
+   "bounds": {
+    "Hispanic": [
+     1.95,
+     3.58
+    ],
+    "White": [
+     4.68,
+     7.89
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.83,
+    "White": 4.68,
+    "Asian": 7.83
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.58,
+     "White": 5.91
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.58,
+     "White": 7.89
+    },
+    "split in known proportion": {
+     "Hispanic": 3.09,
+     "White": 6.21
+    },
+    "all Hispanic": {
+     "Hispanic": 1.95,
+     "White": 7.89
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.83,
+    "White": 6.02,
+    "Asian": 10.27
+   },
+   "aggravated": {
+    "Hispanic": 4.58,
+    "White": 7.74,
+    "Asian": 11.82
+   },
+   "simple": {
+    "Hispanic": 3.27,
+    "White": 5.36,
+    "Asian": 9.23
+   },
+   "partner_share": {
+    "Black": 23.2,
+    "Hispanic": 26.6,
+    "White": 20.6,
+    "Asian": 23.3
+   },
+   "partner_ratio": {
+    "Hispanic": 3.13,
+    "White": 6.68,
+    "Asian": 9.82
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.74,
+    "White": 5.71,
+    "Asian": 9.93
+   },
+   "women_over_men": {
+    "Black": 1.75,
+    "Hispanic": 1.32,
+    "White": 1.28,
+    "Asian": 1.24
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.57,
+     "White": 5.79,
+     "Asian": 9.27
+    },
+    "second": {
+     "Hispanic": 3.59,
+     "White": 6.04,
+     "Asian": 10.59
+    }
+   },
+   "women_victims": {
+    "Black": 4113,
+    "Hispanic": 673,
+    "White": 2254,
+    "Asian": 463
+   },
+   "women_residents": {
+    "Black": 24323.0,
+    "Hispanic": 14252.0,
+    "White": 78825.0,
+    "Asian": 27118.0
+   },
+   "unknown_race_pct": 11.1,
+   "outside_groups_pct": 9.9,
+   "unknown_ethnicity_pct": 25.0,
+   "unknown_relationship_pct": 59.6,
+   "combo_ratio": 1.264,
+   "flags": [
+    "unknown race 11.1% of women victims (if all were in the comparison group: Hispanic 1.51, White 4.19)",
+    "unknown ethnicity 25.0% of women victims",
+    "unknown relationship 59.6% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "dc",
+   "city": "DC",
+   "state": "DC",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "DCMPD0000",
+   "black_women_rate": 4205,
+   "rates_women": {
+    "Black": 4205,
+    "Hispanic": 1304,
+    "White": 412,
+    "Asian": 415
+   },
+   "black_men_rate": 3114,
+   "ratio": {
+    "Hispanic": 3.22,
+    "White": 10.21,
+    "Asian": 10.13
+   },
+   "bounds": {
+    "Hispanic": [
+     2.22,
+     3.22
+    ],
+    "White": [
+     9.38,
+     19.12
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.96,
+    "White": 9.38,
+    "Asian": 9.31
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.22,
+     "White": 10.2
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.22,
+     "White": 19.12
+    },
+    "split in known proportion": {
+     "Hispanic": 2.59,
+     "White": 13.62
+    },
+    "all Hispanic": {
+     "Hispanic": 2.22,
+     "White": 19.12
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.6,
+    "White": 12.7,
+    "Asian": 13.4
+   },
+   "aggravated": {
+    "Hispanic": 4.73,
+    "White": 14.43,
+    "Asian": 21.37
+   },
+   "simple": {
+    "Hispanic": 3.07,
+    "White": 9.73,
+    "Asian": 9.35
+   },
+   "partner_share": {
+    "Black": 32.7,
+    "Hispanic": 30.3,
+    "White": 22.0,
+    "Asian": 17.6
+   },
+   "partner_ratio": {
+    "Hispanic": 3.49,
+    "White": 15.13,
+    "Asian": 18.86
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.11,
+    "White": 8.81,
+    "Asian": 8.27
+   },
+   "women_over_men": {
+    "Black": 1.35,
+    "Hispanic": 0.77,
+    "White": 0.67,
+    "Asian": 0.49
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.31,
+     "White": 10.12,
+     "Asian": 9.23
+    },
+    "second": {
+     "Hispanic": 3.14,
+     "White": 10.3,
+     "Asian": 11.26
+    }
+   },
+   "women_victims": {
+    "Black": 26341,
+    "Hispanic": 2110,
+    "White": 2056,
+    "Asian": 289
+   },
+   "women_residents": {
+    "Black": 156592.0,
+    "Hispanic": 40437.0,
+    "White": 124686.0,
+    "Asian": 17406.0
+   },
+   "unknown_race_pct": 5.4,
+   "outside_groups_pct": 3.4,
+   "unknown_ethnicity_pct": 30.6,
+   "unknown_relationship_pct": 21.2,
+   "combo_ratio": 1.088,
+   "flags": [
+    "unknown race 5.4% of women victims (if all were in the comparison group: Hispanic 1.77, White 5.54)",
+    "unknown ethnicity 30.6% of women victims"
+   ],
+   "already": "DC-Assault"
+  },
+  {
+   "slug": "austin",
+   "city": "Austin",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX2270100",
+   "black_women_rate": 4197,
+   "rates_women": {
+    "Black": 4197,
+    "Hispanic": 2024,
+    "White": 863,
+    "Asian": 222
+   },
+   "black_men_rate": 3105,
+   "ratio": {
+    "Hispanic": 2.07,
+    "White": 4.86,
+    "Asian": 18.91
+   },
+   "bounds": {
+    "Hispanic": [
+     1.66,
+     2.07
+    ],
+    "White": [
+     3.89,
+     5.11
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.66,
+    "White": 3.89,
+    "Asian": 15.14
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.07,
+     "White": 4.86
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.07,
+     "White": 5.11
+    },
+    "split in known proportion": {
+     "Hispanic": 2.04,
+     "White": 5.01
+    },
+    "all Hispanic": {
+     "Hispanic": 2.01,
+     "White": 5.11
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.07,
+    "White": 4.96,
+    "Asian": 20.38
+   },
+   "aggravated": {
+    "Hispanic": 2.27,
+    "White": 6.13,
+    "Asian": 21.31
+   },
+   "simple": {
+    "Hispanic": 2.02,
+    "White": 4.56,
+    "Asian": 18.24
+   },
+   "partner_share": {
+    "Black": 41.0,
+    "Hispanic": 50.0,
+    "White": 43.5,
+    "Asian": 48.6
+   },
+   "partner_ratio": {
+    "Hispanic": 1.7,
+    "White": 4.57,
+    "Asian": 15.93
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.45,
+    "White": 5.09,
+    "Asian": 21.74
+   },
+   "women_over_men": {
+    "Black": 1.35,
+    "Hispanic": 1.28,
+    "White": 1.01,
+    "Asian": 0.83
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.14,
+     "White": 4.86,
+     "Asian": 20.78
+    },
+    "second": {
+     "Hispanic": 2.01,
+     "White": 4.87,
+     "Asian": 17.23
+    }
+   },
+   "women_victims": {
+    "Black": 6207,
+    "Hispanic": 12241,
+    "White": 7744,
+    "Asian": 387
+   },
+   "women_residents": {
+    "Black": 36972.0,
+    "Hispanic": 151213.0,
+    "White": 224348.0,
+    "Asian": 43552.0
+   },
+   "unknown_race_pct": 1.0,
+   "outside_groups_pct": 1.1,
+   "unknown_ethnicity_pct": 2.7,
+   "unknown_relationship_pct": 12.1,
+   "combo_ratio": 1.249,
+   "flags": [],
+   "already": "Nine-Cities"
+  },
+  {
+   "slug": "houston",
+   "city": "Houston",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TXHPD0000",
+   "black_women_rate": 4193,
+   "rates_women": {
+    "Black": 4193,
+    "Hispanic": 1728,
+    "White": 1115,
+    "Asian": 519
+   },
+   "black_men_rate": 3103,
+   "ratio": {
+    "Hispanic": 2.43,
+    "White": 3.76,
+    "Asian": 8.08
+   },
+   "bounds": {
+    "Hispanic": [
+     2.23,
+     2.43
+    ],
+    "White": [
+     3.44,
+     3.97
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.23,
+    "White": 3.44,
+    "Asian": 7.4
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.43,
+     "White": 3.76
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.43,
+     "White": 3.97
+    },
+    "split in known proportion": {
+     "Hispanic": 2.39,
+     "White": 3.91
+    },
+    "all Hispanic": {
+     "Hispanic": 2.38,
+     "White": 3.97
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.46,
+    "White": 3.54,
+    "Asian": 8.67
+   },
+   "aggravated": {
+    "Hispanic": 2.76,
+    "White": 4.59,
+    "Asian": 10.2
+   },
+   "simple": {
+    "Hispanic": 2.27,
+    "White": 3.42,
+    "Asian": 7.24
+   },
+   "partner_share": {
+    "Black": 32.6,
+    "Hispanic": 42.6,
+    "White": 34.1,
+    "Asian": 32.9
+   },
+   "partner_ratio": {
+    "Hispanic": 1.86,
+    "White": 3.6,
+    "Asian": 8.0
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.85,
+    "White": 3.84,
+    "Asian": 8.12
+   },
+   "women_over_men": {
+    "Black": 1.35,
+    "Hispanic": 1.25,
+    "White": 1.09,
+    "Asian": 0.55
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.43,
+     "White": 3.66,
+     "Asian": 8.21
+    },
+    "second": {
+     "Hispanic": 2.42,
+     "White": 3.87,
+     "Asian": 7.96
+    }
+   },
+   "women_victims": {
+    "Black": 48362,
+    "Hispanic": 34772,
+    "White": 11929,
+    "Asian": 1734
+   },
+   "women_residents": {
+    "Black": 288344.0,
+    "Hispanic": 503035.0,
+    "White": 267579.0,
+    "Asian": 83567.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.4,
+   "unknown_ethnicity_pct": 1.4,
+   "unknown_relationship_pct": 8.0,
+   "combo_ratio": 1.092,
+   "flags": [],
+   "already": "Nine-Cities"
+  },
+  {
+   "slug": "oklahoma_city",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OK0550600",
+   "black_women_rate": 4089,
+   "rates_women": {
+    "Black": 4089,
+    "Hispanic": 0,
+    "White": 1659,
+    "Asian": 261
+   },
+   "black_men_rate": 3119,
+   "ratio": {
+    "Hispanic": null,
+    "White": 2.46,
+    "Asian": 15.67
+   },
+   "bounds": {
+    "Hispanic": null,
+    "White": [
+     1.93,
+     2.46
+    ]
+   },
+   "ethnicity_recording": "not recorded",
+   "race_coding_worst": {
+    "White": 1.93,
+    "Asian": 12.3
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": null,
+    "White": 2.26,
+    "Asian": 17.58
+   },
+   "aggravated": {
+    "Hispanic": null,
+    "White": 2.92,
+    "Asian": 19.87
+   },
+   "simple": {
+    "Hispanic": null,
+    "White": 2.29,
+    "Asian": 14.19
+   },
+   "partner_share": {
+    "Black": 24.6,
+    "Hispanic": null,
+    "White": 31.5,
+    "Asian": 42.4
+   },
+   "partner_ratio": {
+    "Hispanic": null,
+    "White": 1.93,
+    "Asian": 9.08
+   },
+   "non_partner_ratio": {
+    "Hispanic": null,
+    "White": 2.71,
+    "Asian": 20.54
+   },
+   "women_over_men": {
+    "Black": 1.31,
+    "White": 1.22,
+    "Asian": 0.9
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": null,
+     "White": 2.41,
+     "Asian": 16.06
+    },
+    "second": {
+     "Hispanic": null,
+     "White": 2.52,
+     "Asian": 15.36
+    }
+   },
+   "women_victims": {
+    "Black": 7901,
+    "Hispanic": 0,
+    "White": 11807,
+    "Asian": 177
+   },
+   "women_residents": {
+    "Black": 48305.0,
+    "Hispanic": 73324.0,
+    "White": 177937.0,
+    "Asian": 16959.0
+   },
+   "unknown_race_pct": 2.3,
+   "outside_groups_pct": 6.2,
+   "unknown_ethnicity_pct": 100.0,
+   "unknown_relationship_pct": 5.1,
+   "combo_ratio": 1.274,
+   "flags": [
+    "unknown ethnicity 100.0% of women victims",
+    "ethnicity not recorded (Hispanic or not Hispanic for 0.0% of women victims): no Hispanic comparison, and White victims include Hispanic White victims, so the ratio to White women runs low"
+   ],
+   "already": null
+  },
+  {
+   "slug": "jacksonville",
+   "city": "Jacksonville",
+   "state": "FL",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "FL0160000",
+   "black_women_rate": 4070,
+   "rates_women": {
+    "Black": 4070,
+    "Hispanic": 1270,
+    "White": 1484,
+    "Asian": 132
+   },
+   "black_men_rate": 2645,
+   "ratio": {
+    "Hispanic": 3.2,
+    "White": 2.74,
+    "Asian": 30.83
+   },
+   "bounds": {
+    "Hispanic": [
+     2.63,
+     3.21
+    ],
+    "White": [
+     2.48,
+     2.89
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.9,
+    "White": 2.48,
+    "Asian": 27.9
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.21,
+     "White": 2.74
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.21,
+     "White": 2.89
+    },
+    "split in known proportion": {
+     "Hispanic": 3.09,
+     "White": 2.77
+    },
+    "all Hispanic": {
+     "Hispanic": 2.63,
+     "White": 2.89
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.35,
+    "White": 2.55,
+    "Asian": 32.2
+   },
+   "aggravated": {
+    "Hispanic": 4.67,
+    "White": 3.84,
+    "Asian": 35.3
+   },
+   "simple": {
+    "Hispanic": 2.92,
+    "White": 2.52,
+    "Asian": 29.69
+   },
+   "partner_share": {
+    "Black": 8.3,
+    "Hispanic": 16.7,
+    "White": 12.0,
+    "Asian": 21.8
+   },
+   "partner_ratio": {
+    "Hispanic": 1.6,
+    "White": 1.91,
+    "Asian": 11.72
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.53,
+    "White": 2.86,
+    "Asian": 36.21
+   },
+   "women_over_men": {
+    "Black": 1.54,
+    "Hispanic": 1.39,
+    "White": 1.35,
+    "Asian": 1.21
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.51,
+     "White": 2.71,
+     "Asian": 28.17
+    },
+    "second": {
+     "Hispanic": 2.93,
+     "White": 2.78,
+     "Asian": 34.37
+    }
+   },
+   "women_victims": {
+    "Black": 25353,
+    "Hispanic": 3104,
+    "White": 13748,
+    "Asian": 142
+   },
+   "women_residents": {
+    "Black": 155730.0,
+    "Hispanic": 61108.0,
+    "White": 231599.0,
+    "Asian": 26903.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 2.6,
+   "unknown_ethnicity_pct": 4.5,
+   "unknown_relationship_pct": 14.3,
+   "combo_ratio": 1.105,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "fort_wayne",
+   "city": "Fort Wayne",
+   "state": "IN",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "IN0020100",
+   "black_women_rate": 4043,
+   "rates_women": {
+    "Black": 4043,
+    "Hispanic": 852,
+    "White": 953,
+    "Asian": 883
+   },
+   "black_men_rate": 2339,
+   "ratio": {
+    "Hispanic": 4.75,
+    "White": 4.24,
+    "Asian": 4.58
+   },
+   "bounds": {
+    "Hispanic": [
+     1.43,
+     4.75
+    ],
+    "White": [
+     3.27,
+     6.34
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 3.66,
+    "White": 3.27,
+    "Asian": 3.53
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 4.75,
+     "White": 4.24
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 4.75,
+     "White": 6.34
+    },
+    "split in known proportion": {
+     "Hispanic": 3.38,
+     "White": 4.5
+    },
+    "all Hispanic": {
+     "Hispanic": 1.43,
+     "White": 6.34
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 5.22,
+    "White": 4.2,
+    "Asian": 5.55
+   },
+   "aggravated": {
+    "Hispanic": 7.76,
+    "White": 5.47,
+    "Asian": 3.62
+   },
+   "simple": {
+    "Hispanic": 4.51,
+    "White": 4.12,
+    "Asian": 4.75
+   },
+   "partner_share": {
+    "Black": 46.5,
+    "Hispanic": 61.7,
+    "White": 47.4,
+    "Asian": 57.7
+   },
+   "partner_ratio": {
+    "Hispanic": 3.57,
+    "White": 4.16,
+    "Asian": 3.69
+   },
+   "non_partner_ratio": {
+    "Hispanic": 6.63,
+    "White": 4.32,
+    "Asian": 5.8
+   },
+   "women_over_men": {
+    "Black": 1.73,
+    "Hispanic": 1.57,
+    "White": 1.5,
+    "Asian": 1.34
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 6.48,
+     "White": 3.95,
+     "Asian": 4.53
+    },
+    "second": {
+     "Hispanic": 3.77,
+     "White": 4.57,
+     "Asian": 4.63
+    }
+   },
+   "women_victims": {
+    "Black": 3187,
+    "Hispanic": 478,
+    "White": 3342,
+    "Asian": 286
+   },
+   "women_residents": {
+    "Black": 19706.0,
+    "Hispanic": 14027.0,
+    "White": 87664.0,
+    "Asian": 8101.0
+   },
+   "unknown_race_pct": 2.0,
+   "outside_groups_pct": 2.1,
+   "unknown_ethnicity_pct": 27.5,
+   "unknown_relationship_pct": 14.9,
+   "combo_ratio": 1.297,
+   "flags": [
+    "unknown ethnicity 27.5% of women victims",
+    "Asian women residents 8,101, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "cincinnati",
+   "city": "Cincinnati",
+   "state": "OH",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OHCIP0000",
+   "black_women_rate": 3993,
+   "rates_women": {
+    "Black": 3993,
+    "Hispanic": 829,
+    "White": 1023,
+    "Asian": 267
+   },
+   "black_men_rate": 2628,
+   "ratio": {
+    "Hispanic": 4.82,
+    "White": 3.9,
+    "Asian": 14.96
+   },
+   "bounds": {
+    "Hispanic": [
+     0.7,
+     4.82
+    ],
+    "White": [
+     3.51,
+     9.5
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 4.34,
+    "White": 3.51,
+    "Asian": 13.48
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 4.82,
+     "White": 3.9
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 4.82,
+     "White": 9.5
+    },
+    "split in known proportion": {
+     "Hispanic": 3.47,
+     "White": 4.06
+    },
+    "all Hispanic": {
+     "Hispanic": 0.7,
+     "White": 9.5
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 5.3,
+    "White": 4.54,
+    "Asian": 63.18
+   },
+   "aggravated": {
+    "Hispanic": 5.92,
+    "White": 4.64,
+    "Asian": 13.59
+   },
+   "simple": {
+    "Hispanic": 4.56,
+    "White": 3.72,
+    "Asian": 15.42
+   },
+   "partner_share": {
+    "Black": 27.5,
+    "Hispanic": 38.0,
+    "White": 29.8,
+    "Asian": 30.2
+   },
+   "partner_ratio": {
+    "Hispanic": 3.49,
+    "White": 3.6,
+    "Asian": 13.56
+   },
+   "non_partner_ratio": {
+    "Hispanic": 5.63,
+    "White": 4.03,
+    "Asian": 15.56
+   },
+   "women_over_men": {
+    "Black": 1.52,
+    "Hispanic": 1.08,
+    "White": 1.34,
+    "Asian": 0.81
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.91,
+     "White": 3.9,
+     "Asian": 18.26
+    },
+    "second": {
+     "Hispanic": 6.37,
+     "White": 3.91,
+     "Asian": 12.6
+    }
+   },
+   "women_victims": {
+    "Black": 9805,
+    "Hispanic": 308,
+    "White": 3070,
+    "Asian": 43
+   },
+   "women_residents": {
+    "Black": 61394.0,
+    "Hispanic": 9292.0,
+    "White": 75004.0,
+    "Asian": 4030.0
+   },
+   "unknown_race_pct": 2.3,
+   "outside_groups_pct": 0.8,
+   "unknown_ethnicity_pct": 57.1,
+   "unknown_relationship_pct": 8.1,
+   "combo_ratio": 1.11,
+   "flags": [
+    "unknown ethnicity 57.1% of women victims",
+    "Hispanic women residents 9,292, under 10,000",
+    "Asian women residents 4,030, under 10,000",
+    "Asian ratio rests on 43 women victims",
+    "lowest bound vs Hispanic 0.7, at or below 1"
+   ],
+   "already": null
+  },
+  {
+   "slug": "denver",
+   "city": "Denver",
+   "state": "CO",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CODPD0000",
+   "black_women_rate": 3936,
+   "rates_women": {
+    "Black": 3936,
+    "Hispanic": 2101,
+    "White": 1019,
+    "Asian": 584
+   },
+   "black_men_rate": 3328,
+   "ratio": {
+    "Hispanic": 1.87,
+    "White": 3.86,
+    "Asian": 6.74
+   },
+   "bounds": {
+    "Hispanic": [
+     1.5,
+     1.87
+    ],
+    "White": [
+     3.11,
+     4.66
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.5,
+    "White": 3.11,
+    "Asian": 5.42
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.87,
+     "White": 3.86
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.87,
+     "White": 4.66
+    },
+    "split in known proportion": {
+     "Hispanic": 1.72,
+     "White": 4.26
+    },
+    "all Hispanic": {
+     "Hispanic": 1.61,
+     "White": 4.66
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.1,
+    "White": 4.29,
+    "Asian": 8.81
+   },
+   "aggravated": {
+    "Hispanic": 2.01,
+    "White": 4.51,
+    "Asian": 8.09
+   },
+   "simple": {
+    "Hispanic": 1.77,
+    "White": 3.46,
+    "Asian": 5.92
+   },
+   "partner_share": {
+    "Black": 46.5,
+    "Hispanic": 47.0,
+    "White": 42.4,
+    "Asian": 42.9
+   },
+   "partner_ratio": {
+    "Hispanic": 1.85,
+    "White": 4.24,
+    "Asian": 7.29
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.89,
+    "White": 3.58,
+    "Asian": 6.32
+   },
+   "women_over_men": {
+    "Black": 1.18,
+    "Hispanic": 1.13,
+    "White": 0.91,
+    "Asian": 0.69
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.96,
+     "White": 3.7,
+     "Asian": 7.11
+    },
+    "second": {
+     "Hispanic": 1.79,
+     "White": 4.04,
+     "Asian": 6.4
+    }
+   },
+   "women_victims": {
+    "Black": 5122,
+    "Hispanic": 8301,
+    "White": 7810,
+    "Asian": 340
+   },
+   "women_residents": {
+    "Black": 32533.0,
+    "Hispanic": 98764.0,
+    "White": 191556.0,
+    "Asian": 14555.0
+   },
+   "unknown_race_pct": 3.7,
+   "outside_groups_pct": 3.7,
+   "unknown_ethnicity_pct": 11.0,
+   "unknown_relationship_pct": 16.6,
+   "combo_ratio": 1.243,
+   "flags": [
+    "unknown ethnicity 11.0% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "seattle",
+   "city": "Seattle",
+   "state": "WA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "WASPD0000",
+   "black_women_rate": 3893,
+   "rates_women": {
+    "Black": 3893,
+    "Hispanic": 1061,
+    "White": 636,
+    "Asian": 314
+   },
+   "black_men_rate": 4165,
+   "ratio": {
+    "Hispanic": 3.67,
+    "White": 6.12,
+    "Asian": 12.4
+   },
+   "bounds": {
+    "Hispanic": [
+     1.23,
+     3.67
+    ],
+    "White": [
+     4.57,
+     11.59
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.74,
+    "White": 4.57,
+    "Asian": 9.25
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.67,
+     "White": 6.12
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.67,
+     "White": 11.59
+    },
+    "split in known proportion": {
+     "Hispanic": 2.57,
+     "White": 6.82
+    },
+    "all Hispanic": {
+     "Hispanic": 1.23,
+     "White": 11.59
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.98,
+    "White": 6.3,
+    "Asian": 13.42
+   },
+   "aggravated": {
+    "Hispanic": 3.97,
+    "White": 6.65,
+    "Asian": 14.85
+   },
+   "simple": {
+    "Hispanic": 3.5,
+    "White": 5.82,
+    "Asian": 11.25
+   },
+   "partner_share": {
+    "Black": 29.0,
+    "Hispanic": 37.2,
+    "White": 27.8,
+    "Asian": 32.0
+   },
+   "partner_ratio": {
+    "Hispanic": 2.87,
+    "White": 6.41,
+    "Asian": 11.29
+   },
+   "non_partner_ratio": {
+    "Hispanic": 4.15,
+    "White": 6.02,
+    "Asian": 12.98
+   },
+   "women_over_men": {
+    "Black": 0.93,
+    "Hispanic": 0.73,
+    "White": 0.75,
+    "Asian": 0.74
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.79,
+     "White": 5.48,
+     "Asian": 11.43
+    },
+    "second": {
+     "Hispanic": 3.56,
+     "White": 6.89,
+     "Asian": 13.51
+    }
+   },
+   "women_victims": {
+    "Black": 3705,
+    "Hispanic": 1307,
+    "White": 5481,
+    "Asian": 850
+   },
+   "women_residents": {
+    "Black": 23790.0,
+    "Hispanic": 30805.0,
+    "White": 215549.0,
+    "Asian": 67711.0
+   },
+   "unknown_race_pct": 23.1,
+   "outside_groups_pct": 23.2,
+   "unknown_ethnicity_pct": 50.4,
+   "unknown_relationship_pct": 32.5,
+   "combo_ratio": 1.34,
+   "flags": [
+    "unknown race 23.1% of women victims (if all were in the comparison group: Hispanic 1.02, White 3.77)",
+    "unknown ethnicity 50.4% of women victims",
+    "unknown relationship 32.5% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "san_antonio",
+   "city": "San Antonio",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TXSPD0000",
+   "black_women_rate": 3872,
+   "rates_women": {
+    "Black": 3872,
+    "Hispanic": 2099,
+    "White": 1744,
+    "Asian": 349
+   },
+   "black_men_rate": 2639,
+   "ratio": {
+    "Hispanic": 1.84,
+    "White": 2.22,
+    "Asian": 11.09
+   },
+   "bounds": {
+    "Hispanic": [
+     1.43,
+     1.84
+    ],
+    "White": [
+     1.73,
+     2.91
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.43,
+    "White": 1.73,
+    "Asian": 8.64
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.84,
+     "White": 2.22
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.84,
+     "White": 2.91
+    },
+    "split in known proportion": {
+     "Hispanic": 1.75,
+     "White": 2.75
+    },
+    "all Hispanic": {
+     "Hispanic": 1.73,
+     "White": 2.91
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.78,
+    "White": 1.98,
+    "Asian": 11.93
+   },
+   "aggravated": {
+    "Hispanic": 2.15,
+    "White": 2.89,
+    "Asian": 13.3
+   },
+   "simple": {
+    "Hispanic": 1.77,
+    "White": 2.08,
+    "Asian": 10.54
+   },
+   "partner_share": {
+    "Black": 42.8,
+    "Hispanic": 48.1,
+    "White": 45.3,
+    "Asian": 47.1
+   },
+   "partner_ratio": {
+    "Hispanic": 1.64,
+    "White": 2.1,
+    "Asian": 10.12
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.03,
+    "White": 2.32,
+    "Asian": 11.96
+   },
+   "women_over_men": {
+    "Black": 1.47,
+    "Hispanic": 1.4,
+    "White": 1.32,
+    "Asian": 1.02
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.89,
+     "White": 2.23,
+     "Asian": 11.01
+    },
+    "second": {
+     "Hispanic": 1.79,
+     "White": 2.21,
+     "Asian": 11.15
+    }
+   },
+   "women_victims": {
+    "Black": 7762,
+    "Hispanic": 40883,
+    "White": 11730,
+    "Asian": 325
+   },
+   "women_residents": {
+    "Black": 50121.0,
+    "Hispanic": 487005.0,
+    "White": 168118.0,
+    "Asian": 23254.0
+   },
+   "unknown_race_pct": 3.1,
+   "outside_groups_pct": 2.6,
+   "unknown_ethnicity_pct": 8.4,
+   "unknown_relationship_pct": 17.6,
+   "combo_ratio": 1.284,
+   "flags": [],
+   "already": "Nine-Cities"
+  },
+  {
+   "slug": "dallas",
+   "city": "Dallas",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TXDPD0000",
+   "black_women_rate": 3798,
+   "rates_women": {
+    "Black": 3798,
+    "Hispanic": 1679,
+    "White": 972,
+    "Asian": 281
+   },
+   "black_men_rate": 2506,
+   "ratio": {
+    "Hispanic": 2.26,
+    "White": 3.91,
+    "Asian": 13.52
+   },
+   "bounds": {
+    "Hispanic": [
+     2.11,
+     2.26
+    ],
+    "White": [
+     3.64,
+     4.04
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.11,
+    "White": 3.64,
+    "Asian": 12.6
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.26,
+     "White": 3.91
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.26,
+     "White": 4.04
+    },
+    "split in known proportion": {
+     "Hispanic": 2.24,
+     "White": 4.0
+    },
+    "all Hispanic": {
+     "Hispanic": 2.23,
+     "White": 4.04
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.38,
+    "White": 4.02,
+    "Asian": 15.74
+   },
+   "aggravated": {
+    "Hispanic": 2.65,
+    "White": 5.86,
+    "Asian": 19.93
+   },
+   "simple": {
+    "Hispanic": 2.16,
+    "White": 3.54,
+    "Asian": 12.24
+   },
+   "partner_share": {
+    "Black": 37.5,
+    "Hispanic": 43.7,
+    "White": 41.5,
+    "Asian": 44.2
+   },
+   "partner_ratio": {
+    "Hispanic": 1.94,
+    "White": 3.54,
+    "Asian": 11.5
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.51,
+    "White": 4.17,
+    "Asian": 15.11
+   },
+   "women_over_men": {
+    "Black": 1.52,
+    "Hispanic": 1.47,
+    "White": 1.17,
+    "Asian": 0.79
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.43,
+     "White": 3.88,
+     "Asian": 13.72
+    },
+    "second": {
+     "Hispanic": 2.09,
+     "White": 3.94,
+     "Asian": 13.29
+    }
+   },
+   "women_victims": {
+    "Black": 24838,
+    "Hispanic": 18016,
+    "White": 6924,
+    "Asian": 283
+   },
+   "women_residents": {
+    "Black": 163509.0,
+    "Hispanic": 268224.0,
+    "White": 178108.0,
+    "Asian": 25146.0
+   },
+   "unknown_race_pct": 0.1,
+   "outside_groups_pct": 0.2,
+   "unknown_ethnicity_pct": 1.0,
+   "unknown_relationship_pct": 13.6,
+   "combo_ratio": 1.073,
+   "flags": [],
+   "already": "Dallas"
+  },
+  {
+   "slug": "buffalo",
+   "city": "Buffalo",
+   "state": "NY",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NY0140100",
+   "black_women_rate": 3717,
+   "rates_women": {
+    "Black": 3717,
+    "Hispanic": 2464,
+    "White": 1574,
+    "Asian": 233
+   },
+   "black_men_rate": 2039,
+   "ratio": {
+    "Hispanic": 1.51,
+    "White": 2.36,
+    "Asian": 15.95
+   },
+   "bounds": {
+    "Hispanic": [
+     1.33,
+     1.51
+    ],
+    "White": [
+     2.08,
+     2.52
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.33,
+    "White": 2.08,
+    "Asian": 14.07
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.51,
+     "White": 2.36
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.51,
+     "White": 2.52
+    },
+    "split in known proportion": {
+     "Hispanic": 1.45,
+     "White": 2.41
+    },
+    "all Hispanic": {
+     "Hispanic": 1.33,
+     "White": 2.52
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.69,
+    "White": 2.56,
+    "Asian": 18.31
+   },
+   "aggravated": {
+    "Hispanic": 1.88,
+    "White": 3.26,
+    "Asian": 18.76
+   },
+   "simple": {
+    "Hispanic": 1.42,
+    "White": 2.18,
+    "Asian": 15.26
+   },
+   "partner_share": {
+    "Black": 55.0,
+    "Hispanic": 56.7,
+    "White": 47.5,
+    "Asian": 56.4
+   },
+   "partner_ratio": {
+    "Hispanic": 1.46,
+    "White": 2.73,
+    "Asian": 15.6
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.57,
+    "White": 2.02,
+    "Asian": 16.41
+   },
+   "women_over_men": {
+    "Black": 1.82,
+    "Hispanic": 2.36,
+    "White": 1.32,
+    "Asian": 1.1
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.47,
+     "White": 2.39,
+     "Asian": 15.42
+    },
+    "second": {
+     "Hispanic": 1.55,
+     "White": 2.33,
+     "Asian": 16.58
+    }
+   },
+   "women_victims": {
+    "Black": 7369,
+    "Hispanic": 1726,
+    "White": 3715,
+    "Asian": 117
+   },
+   "women_residents": {
+    "Black": 49566.0,
+    "Hispanic": 17514.0,
+    "White": 59007.0,
+    "Asian": 12558.0
+   },
+   "unknown_race_pct": 2.6,
+   "outside_groups_pct": 2.7,
+   "unknown_ethnicity_pct": 6.7,
+   "unknown_relationship_pct": 15.2,
+   "combo_ratio": 1.134,
+   "flags": [
+    "intimidation (13C, left out) moves from 26.5% to 41.2% of assault-type victims across years (2022 26.5%, 2023 37.7%, 2024 37.9%, 2025 41.2%): a coding change"
+   ],
+   "already": null
+  },
+  {
+   "slug": "st_louis",
+   "city": "St. Louis",
+   "state": "MO",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "MOSPD0000",
+   "black_women_rate": 3676,
+   "rates_women": {
+    "Black": 3676,
+    "Hispanic": 1486,
+    "White": 1027,
+    "Asian": 246
+   },
+   "black_men_rate": 3052,
+   "ratio": {
+    "Hispanic": 2.47,
+    "White": 3.58,
+    "Asian": 14.94
+   },
+   "bounds": {
+    "Hispanic": [
+     1.21,
+     2.47
+    ],
+    "White": [
+     3.37,
+     4.3
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.33,
+    "White": 3.37,
+    "Asian": 14.07
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.47,
+     "White": 3.58
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.47,
+     "White": 4.3
+    },
+    "split in known proportion": {
+     "Hispanic": 2.15,
+     "White": 3.67
+    },
+    "all Hispanic": {
+     "Hispanic": 1.21,
+     "White": 4.3
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.59,
+    "White": 4.13,
+    "Asian": 30.84
+   },
+   "aggravated": {
+    "Hispanic": 2.74,
+    "White": 4.82,
+    "Asian": 21.21
+   },
+   "simple": {
+    "Hispanic": 2.3,
+    "White": 2.97,
+    "Asian": 12.09
+   },
+   "partner_share": {
+    "Black": 41.0,
+    "Hispanic": 48.5,
+    "White": 35.3,
+    "Asian": 23.5
+   },
+   "partner_ratio": {
+    "Hispanic": 2.1,
+    "White": 4.17,
+    "Asian": 26.02
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.83,
+    "White": 3.27,
+    "Asian": 11.53
+   },
+   "women_over_men": {
+    "Black": 1.2,
+    "Hispanic": 1.31,
+    "White": 0.97,
+    "Asian": 0.62
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.53,
+     "White": 3.58,
+     "Asian": 15.87
+    },
+    "second": {
+     "Hispanic": 2.42,
+     "White": 3.58,
+     "Asian": 14.12
+    }
+   },
+   "women_victims": {
+    "Black": 9720,
+    "Hispanic": 421,
+    "White": 2608,
+    "Asian": 51
+   },
+   "women_residents": {
+    "Black": 66100.0,
+    "Hispanic": 7084.0,
+    "White": 63508.0,
+    "Asian": 5182.0
+   },
+   "unknown_race_pct": 0.2,
+   "outside_groups_pct": 0.2,
+   "unknown_ethnicity_pct": 13.6,
+   "unknown_relationship_pct": 24.1,
+   "combo_ratio": 1.062,
+   "flags": [
+    "unknown ethnicity 13.6% of women victims",
+    "Hispanic women residents 7,084, under 10,000",
+    "Asian women residents 5,182, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "charlotte",
+   "city": "Charlotte",
+   "state": "NC",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NC0600100",
+   "black_women_rate": 3614,
+   "rates_women": {
+    "Black": 3614,
+    "Hispanic": 1708,
+    "White": 791,
+    "Asian": 354
+   },
+   "black_men_rate": 2666,
+   "ratio": {
+    "Hispanic": 2.12,
+    "White": 4.57,
+    "Asian": 10.21
+   },
+   "bounds": {
+    "Hispanic": [
+     1.25,
+     2.12
+    ],
+    "White": [
+     4.22,
+     14.17
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.96,
+    "White": 4.22,
+    "Asian": 9.42
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.12,
+     "White": 4.57
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.12,
+     "White": 14.17
+    },
+    "split in known proportion": {
+     "Hispanic": 1.4,
+     "White": 9.15
+    },
+    "all Hispanic": {
+     "Hispanic": 1.25,
+     "White": 14.17
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.12,
+    "White": 4.58,
+    "Asian": 10.57
+   },
+   "aggravated": {
+    "Hispanic": 2.35,
+    "White": 6.88,
+    "Asian": 8.77
+   },
+   "simple": {
+    "Hispanic": 2.03,
+    "White": 4.02,
+    "Asian": 10.95
+   },
+   "partner_share": {
+    "Black": 40.9,
+    "Hispanic": 46.2,
+    "White": 38.8,
+    "Asian": 33.6
+   },
+   "partner_ratio": {
+    "Hispanic": 1.87,
+    "White": 4.81,
+    "Asian": 12.41
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.33,
+    "White": 4.42,
+    "Asian": 9.09
+   },
+   "women_over_men": {
+    "Black": 1.36,
+    "Hispanic": 1.1,
+    "White": 1.08,
+    "Asian": 1.21
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.23,
+     "White": 4.4,
+     "Asian": 10.64
+    },
+    "second": {
+     "Hispanic": 2.01,
+     "White": 4.75,
+     "Asian": 9.84
+    }
+   },
+   "women_victims": {
+    "Black": 23960,
+    "Hispanic": 5394,
+    "White": 5477,
+    "Asian": 411
+   },
+   "women_residents": {
+    "Black": 165741.0,
+    "Hispanic": 78959.0,
+    "White": 173052.0,
+    "Asian": 29057.0
+   },
+   "unknown_race_pct": 2.1,
+   "outside_groups_pct": 1.5,
+   "unknown_ethnicity_pct": 60.5,
+   "unknown_relationship_pct": 18.8,
+   "combo_ratio": 1.084,
+   "flags": [
+    "unknown ethnicity 60.5% of women victims",
+    "department population 1,035,037 is 1.15x the city's"
+   ],
+   "already": null
+  },
+  {
+   "slug": "arlington",
+   "city": "Arlington",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX2200100",
+   "black_women_rate": 3582,
+   "rates_women": {
+    "Black": 3582,
+    "Hispanic": 1503,
+    "White": 1387,
+    "Asian": 413
+   },
+   "black_men_rate": 2416,
+   "ratio": {
+    "Hispanic": 2.38,
+    "White": 2.58,
+    "Asian": 8.67
+   },
+   "bounds": {
+    "Hispanic": [
+     2.12,
+     2.38
+    ],
+    "White": [
+     2.32,
+     2.95
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.14,
+    "White": 2.32,
+    "Asian": 7.8
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.38,
+     "White": 2.58
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.38,
+     "White": 2.95
+    },
+    "split in known proportion": {
+     "Hispanic": 2.24,
+     "White": 2.77
+    },
+    "all Hispanic": {
+     "Hispanic": 2.12,
+     "White": 2.95
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.35,
+    "White": 2.16,
+    "Asian": 8.75
+   },
+   "aggravated": {
+    "Hispanic": 2.76,
+    "White": 3.21,
+    "Asian": 8.44
+   },
+   "simple": {
+    "Hispanic": 2.31,
+    "White": 2.47,
+    "Asian": 8.73
+   },
+   "partner_share": {
+    "Black": 33.2,
+    "Hispanic": 40.1,
+    "White": 34.7,
+    "Asian": 39.1
+   },
+   "partner_ratio": {
+    "Hispanic": 1.98,
+    "White": 2.48,
+    "Asian": 7.35
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.65,
+    "White": 2.64,
+    "Asian": 9.49
+   },
+   "women_over_men": {
+    "Black": 1.48,
+    "Hispanic": 1.37,
+    "White": 1.25,
+    "Asian": 1.0
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.68,
+     "White": 2.51,
+     "Asian": 8.74
+    },
+    "second": {
+     "Hispanic": 2.1,
+     "White": 2.69,
+     "Asian": 8.59
+    }
+   },
+   "women_victims": {
+    "Black": 6917,
+    "Hispanic": 3787,
+    "White": 3803,
+    "Asian": 235
+   },
+   "women_residents": {
+    "Black": 48271.0,
+    "Hispanic": 63004.0,
+    "White": 68568.0,
+    "Asian": 14214.0
+   },
+   "unknown_race_pct": 0.5,
+   "outside_groups_pct": 0.7,
+   "unknown_ethnicity_pct": 6.1,
+   "unknown_relationship_pct": 12.7,
+   "combo_ratio": 1.112,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "aurora",
+   "city": "Aurora",
+   "state": "CO",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CO0010100",
+   "black_women_rate": 3448,
+   "rates_women": {
+    "Black": 3448,
+    "Hispanic": 2137,
+    "White": 1218,
+    "Asian": 520
+   },
+   "black_men_rate": 2921,
+   "ratio": {
+    "Hispanic": 1.61,
+    "White": 2.83,
+    "Asian": 6.63
+   },
+   "bounds": {
+    "Hispanic": [
+     1.32,
+     1.61
+    ],
+    "White": [
+     2.32,
+     3.14
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.32,
+    "White": 2.32,
+    "Asian": 5.43
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.61,
+     "White": 2.83
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.61,
+     "White": 3.14
+    },
+    "split in known proportion": {
+     "Hispanic": 1.54,
+     "White": 3.01
+    },
+    "all Hispanic": {
+     "Hispanic": 1.5,
+     "White": 3.14
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.75,
+    "White": 2.63,
+    "Asian": 7.07
+   },
+   "aggravated": {
+    "Hispanic": 1.61,
+    "White": 3.21,
+    "Asian": 7.68
+   },
+   "simple": {
+    "Hispanic": 1.61,
+    "White": 2.67,
+    "Asian": 6.19
+   },
+   "partner_share": {
+    "Black": 36.4,
+    "Hispanic": 43.2,
+    "White": 38.3,
+    "Asian": 43.7
+   },
+   "partner_ratio": {
+    "Hispanic": 1.36,
+    "White": 2.69,
+    "Asian": 5.53
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.81,
+    "White": 2.92,
+    "Asian": 7.48
+   },
+   "women_over_men": {
+    "Black": 1.18,
+    "Hispanic": 1.01,
+    "White": 0.91,
+    "Asian": 0.69
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.79,
+     "White": 2.84,
+     "Asian": 6.62
+    },
+    "second": {
+     "Hispanic": 1.45,
+     "White": 2.82,
+     "Asian": 6.63
+    }
+   },
+   "women_victims": {
+    "Black": 4304,
+    "Hispanic": 5096,
+    "White": 3942,
+    "Asian": 268
+   },
+   "women_residents": {
+    "Black": 31205.0,
+    "Hispanic": 59616.0,
+    "White": 80922.0,
+    "Asian": 12879.0
+   },
+   "unknown_race_pct": 2.1,
+   "outside_groups_pct": 2.8,
+   "unknown_ethnicity_pct": 6.2,
+   "unknown_relationship_pct": 13.1,
+   "combo_ratio": 1.221,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "raleigh",
+   "city": "Raleigh",
+   "state": "NC",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NC0920100",
+   "black_women_rate": 3364,
+   "rates_women": {
+    "Black": 3364,
+    "Hispanic": 1983,
+    "White": 637,
+    "Asian": 315
+   },
+   "black_men_rate": 2972,
+   "ratio": {
+    "Hispanic": 1.7,
+    "White": 5.28,
+    "Asian": 10.68
+   },
+   "bounds": {
+    "Hispanic": [
+     1.53,
+     1.7
+    ],
+    "White": [
+     4.74,
+     5.28
+    ]
+   },
+   "ethnicity_recording": "Hispanic only",
+   "race_coding_worst": {
+    "Hispanic": 1.53,
+    "White": 4.74,
+    "Asian": 9.6
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": 1.82,
+    "White": 5.27,
+    "Asian": 12.8
+   },
+   "aggravated": {
+    "Hispanic": 1.78,
+    "White": 7.01,
+    "Asian": 11.24
+   },
+   "simple": {
+    "Hispanic": 1.68,
+    "White": 4.98,
+    "Asian": 10.55
+   },
+   "partner_share": {
+    "Black": 42.3,
+    "Hispanic": 45.4,
+    "White": 39.4,
+    "Asian": 34.0
+   },
+   "partner_ratio": {
+    "Hispanic": 1.58,
+    "White": 5.67,
+    "Asian": 13.31
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.79,
+    "White": 5.02,
+    "Asian": 9.32
+   },
+   "women_over_men": {
+    "Black": 1.13,
+    "Hispanic": 1.06,
+    "White": 0.96,
+    "Asian": 0.95
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.8,
+     "White": 5.14,
+     "Asian": 12.15
+    },
+    "second": {
+     "Hispanic": 1.6,
+     "White": 5.43,
+     "Asian": 9.53
+    }
+   },
+   "women_victims": {
+    "Black": 9433,
+    "Hispanic": 2406,
+    "White": 3163,
+    "Asian": 153
+   },
+   "women_residents": {
+    "Black": 70111.0,
+    "Hispanic": 30326.0,
+    "White": 124052.0,
+    "Asian": 12142.0
+   },
+   "unknown_race_pct": 4.6,
+   "outside_groups_pct": 2.5,
+   "unknown_ethnicity_pct": 84.5,
+   "unknown_relationship_pct": 18.0,
+   "combo_ratio": 1.113,
+   "flags": [
+    "unknown ethnicity 84.5% of women victims",
+    "'not Hispanic' coded for only 0.0% of women victims: unspecified ethnicity is the default, so the Hispanic comparison cannot be bounded (bounds from race coding only)"
+   ],
+   "already": null
+  },
+  {
+   "slug": "chesapeake",
+   "city": "Chesapeake",
+   "state": "VA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "VA1030000",
+   "black_women_rate": 3232,
+   "rates_women": {
+    "Black": 3232,
+    "Hispanic": 982,
+    "White": 1132,
+    "Asian": 14
+   },
+   "black_men_rate": 2387,
+   "ratio": {
+    "Hispanic": 3.29,
+    "White": 2.86,
+    "Asian": 230.86
+   },
+   "bounds": {
+    "Hispanic": [
+     2.79,
+     3.29
+    ],
+    "White": [
+     2.54,
+     2.92
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.92,
+    "White": 2.54,
+    "Asian": 204.66
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.29,
+     "White": 2.85
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.29,
+     "White": 2.92
+    },
+    "split in known proportion": {
+     "Hispanic": 3.23,
+     "White": 2.86
+    },
+    "all Hispanic": {
+     "Hispanic": 2.79,
+     "White": 2.92
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.85,
+    "White": 2.63,
+    "Asian": 766.0
+   },
+   "aggravated": {
+    "Hispanic": 3.63,
+    "White": 4.02,
+    "Asian": null
+   },
+   "simple": {
+    "Hispanic": 3.21,
+    "White": 2.65,
+    "Asian": 182.64
+   },
+   "partner_share": {
+    "Black": 38.0,
+    "Hispanic": 51.6,
+    "White": 43.0,
+    "Asian": 0.0
+   },
+   "partner_ratio": {
+    "Hispanic": 2.43,
+    "White": 2.53,
+    "Asian": null
+   },
+   "non_partner_ratio": {
+    "Hispanic": 4.22,
+    "White": 3.11,
+    "Asian": 143.07
+   },
+   "women_over_men": {
+    "Black": 1.35,
+    "Hispanic": 1.19,
+    "White": 1.16,
+    "Asian": 1.27
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.23,
+     "White": 2.83,
+     "Asian": 172.08
+    },
+    "second": {
+     "Hispanic": 3.36,
+     "White": 2.87,
+     "Asian": 336.37
+    }
+   },
+   "women_victims": {
+    "Black": 5062,
+    "Hispanic": 380,
+    "White": 3071,
+    "Asian": 3
+   },
+   "women_residents": {
+    "Black": 39150.0,
+    "Hispanic": 9675.0,
+    "White": 67810.0,
+    "Asian": 5301.0
+   },
+   "unknown_race_pct": 0.6,
+   "outside_groups_pct": 1.1,
+   "unknown_ethnicity_pct": 2.5,
+   "unknown_relationship_pct": 3.2,
+   "combo_ratio": 1.128,
+   "flags": [
+    "Hispanic women residents 9,675, under 10,000",
+    "Asian women residents 5,301, under 10,000",
+    "Asian ratio rests on 3 women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "colorado_springs",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CO0210100",
+   "black_women_rate": 3025,
+   "rates_women": {
+    "Black": 3025,
+    "Hispanic": 985,
+    "White": 894,
+    "Asian": 446
+   },
+   "black_men_rate": 2657,
+   "ratio": {
+    "Hispanic": 3.07,
+    "White": 3.38,
+    "Asian": 6.78
+   },
+   "bounds": {
+    "Hispanic": [
+     1.97,
+     3.07
+    ],
+    "White": [
+     2.17,
+     3.54
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.97,
+    "White": 2.17,
+    "Asian": 4.35
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.07,
+     "White": 3.38
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.07,
+     "White": 3.54
+    },
+    "split in known proportion": {
+     "Hispanic": 2.97,
+     "White": 3.42
+    },
+    "all Hispanic": {
+     "Hispanic": 2.69,
+     "White": 3.54
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.75,
+    "White": 2.75,
+    "Asian": 6.4
+   },
+   "aggravated": {
+    "Hispanic": 3.23,
+    "White": 3.73,
+    "Asian": 7.13
+   },
+   "simple": {
+    "Hispanic": 2.94,
+    "White": 3.13,
+    "Asian": 6.5
+   },
+   "partner_share": {
+    "Black": 52.7,
+    "Hispanic": 55.0,
+    "White": 48.9,
+    "Asian": 54.9
+   },
+   "partner_ratio": {
+    "Hispanic": 2.94,
+    "White": 3.65,
+    "Asian": 6.51
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.23,
+    "White": 3.13,
+    "Asian": 7.11
+   },
+   "women_over_men": {
+    "Black": 1.14,
+    "Hispanic": 1.06,
+    "White": 1.04,
+    "Asian": 0.98
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.15,
+     "White": 3.35,
+     "Asian": 6.32
+    },
+    "second": {
+     "Hispanic": 3.0,
+     "White": 3.42,
+     "Asian": 7.32
+    }
+   },
+   "women_victims": {
+    "Black": 1604,
+    "Hispanic": 1848,
+    "White": 5662,
+    "Asian": 153
+   },
+   "women_residents": {
+    "Black": 13258.0,
+    "Hispanic": 46925.0,
+    "White": 158277.0,
+    "Asian": 8581.0
+   },
+   "unknown_race_pct": 5.8,
+   "outside_groups_pct": 5.9,
+   "unknown_ethnicity_pct": 4.7,
+   "unknown_relationship_pct": 17.0,
+   "combo_ratio": 1.557,
+   "flags": [
+    "unknown race 5.8% of women victims (if all were in the comparison group: Hispanic 2.35, White 3.07)",
+    "Asian women residents 8,581, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "columbus",
+   "city": "Columbus",
+   "state": "OH",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "OHCOP0000",
+   "black_women_rate": 2991,
+   "rates_women": {
+    "Black": 2991,
+    "Hispanic": 980,
+    "White": 985,
+    "Asian": 295
+   },
+   "black_men_rate": 1876,
+   "ratio": {
+    "Hispanic": 3.05,
+    "White": 3.04,
+    "Asian": 10.14
+   },
+   "bounds": {
+    "Hispanic": [
+     2.7,
+     3.05
+    ],
+    "White": [
+     2.7,
+     3.04
+    ]
+   },
+   "ethnicity_recording": "Hispanic only",
+   "race_coding_worst": {
+    "Hispanic": 2.7,
+    "White": 2.7,
+    "Asian": 8.99
+   },
+   "ethnicity_scenarios": null,
+   "age_standardized": {
+    "Hispanic": 3.39,
+    "White": 3.15,
+    "Asian": 11.6
+   },
+   "aggravated": {
+    "Hispanic": 5.49,
+    "White": 3.84,
+    "Asian": 23.07
+   },
+   "simple": {
+    "Hispanic": 2.88,
+    "White": 2.96,
+    "Asian": 9.45
+   },
+   "partner_share": {
+    "Black": 30.2,
+    "Hispanic": 45.0,
+    "White": 35.6,
+    "Asian": 48.5
+   },
+   "partner_ratio": {
+    "Hispanic": 2.05,
+    "White": 2.57,
+    "Asian": 6.31
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.87,
+    "White": 3.29,
+    "Asian": 13.74
+   },
+   "women_over_men": {
+    "Black": 1.59,
+    "Hispanic": 1.29,
+    "White": 1.37,
+    "Asian": 1.22
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.59,
+     "White": 2.97,
+     "Asian": 10.37
+    },
+    "second": {
+     "Hispanic": 2.54,
+     "White": 3.14,
+     "Asian": 9.82
+    }
+   },
+   "women_victims": {
+    "Black": 16505,
+    "Hispanic": 1451,
+    "White": 9227,
+    "Asian": 326
+   },
+   "women_residents": {
+    "Black": 137943.0,
+    "Hispanic": 37025.0,
+    "White": 234135.0,
+    "Asian": 27613.0
+   },
+   "unknown_race_pct": 6.7,
+   "outside_groups_pct": 2.3,
+   "unknown_ethnicity_pct": 94.8,
+   "unknown_relationship_pct": 5.5,
+   "combo_ratio": 1.128,
+   "flags": [
+    "unknown race 6.7% of women victims (if all were in the comparison group: Hispanic 1.33, White 2.52)",
+    "unknown ethnicity 94.8% of women victims",
+    "'not Hispanic' coded for only 0.0% of women victims: unspecified ethnicity is the default, so the Hispanic comparison cannot be bounded (bounds from race coding only)",
+    "assault victims a year against the median year: 2025 0.61x",
+    "intimidation (13C, left out) moves from 21.2% to 57.2% of assault-type victims across years (2022 21.2%, 2023 21.7%, 2024 25.2%, 2025 57.2%): a coding change",
+    "0 empty and 4 thin months in the window (2025-01, 2025-02, 2025-03, 2025-11)"
+   ],
+   "already": null
+  },
+  {
+   "slug": "san_diego",
+   "city": "San Diego",
+   "state": "CA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "CA0371100",
+   "black_women_rate": 2837,
+   "rates_women": {
+    "Black": 2837,
+    "Hispanic": 1036,
+    "White": 646,
+    "Asian": 221
+   },
+   "black_men_rate": 2086,
+   "ratio": {
+    "Hispanic": 2.74,
+    "White": 4.39,
+    "Asian": 12.84
+   },
+   "bounds": {
+    "Hispanic": [
+     2.02,
+     2.74
+    ],
+    "White": [
+     3.24,
+     4.39
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.02,
+    "White": 3.24,
+    "Asian": 9.47
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.74,
+     "White": 4.39
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.74,
+     "White": 4.39
+    },
+    "split in known proportion": {
+     "Hispanic": 2.74,
+     "White": 4.39
+    },
+    "all Hispanic": {
+     "Hispanic": 2.74,
+     "White": 4.39
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.71,
+    "White": 4.26,
+    "Asian": 12.72
+   },
+   "aggravated": {
+    "Hispanic": 3.27,
+    "White": 5.23,
+    "Asian": 16.25
+   },
+   "simple": {
+    "Hispanic": 2.5,
+    "White": 4.02,
+    "Asian": 11.45
+   },
+   "partner_share": {
+    "Black": 24.0,
+    "Hispanic": 25.5,
+    "White": 23.3,
+    "Asian": 25.1
+   },
+   "partner_ratio": {
+    "Hispanic": 2.58,
+    "White": 4.5,
+    "Asian": 12.14
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.79,
+    "White": 4.35,
+    "Asian": 13.07
+   },
+   "women_over_men": {
+    "Black": 1.36,
+    "Hispanic": 1.06,
+    "White": 0.9,
+    "Asian": 1.15
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.79,
+     "White": 4.34,
+     "Asian": 12.93
+    },
+    "second": {
+     "Hispanic": 2.69,
+     "White": 4.44,
+     "Asian": 12.74
+    }
+   },
+   "women_victims": {
+    "Black": 4024,
+    "Hispanic": 8608,
+    "White": 7037,
+    "Asian": 1130
+   },
+   "women_residents": {
+    "Black": 35466.0,
+    "Hispanic": 207761.0,
+    "White": 272151.0,
+    "Asian": 127870.0
+   },
+   "unknown_race_pct": 2.0,
+   "outside_groups_pct": 2.7,
+   "unknown_ethnicity_pct": 1.9,
+   "unknown_relationship_pct": 45.9,
+   "combo_ratio": 1.356,
+   "flags": [
+    "unknown relationship 45.9% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "philadelphia",
+   "city": "Philadelphia",
+   "state": "PA",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "PAPEP0000",
+   "black_women_rate": 2738,
+   "rates_women": {
+    "Black": 2738,
+    "Hispanic": 1477,
+    "White": 816,
+    "Asian": 289
+   },
+   "black_men_rate": 1955,
+   "ratio": {
+    "Hispanic": 1.85,
+    "White": 3.36,
+    "Asian": 9.47
+   },
+   "bounds": {
+    "Hispanic": [
+     1.5,
+     1.85
+    ],
+    "White": [
+     3.08,
+     4.17
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.7,
+    "White": 3.08,
+    "Asian": 8.68
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.85,
+     "White": 3.36
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.85,
+     "White": 4.17
+    },
+    "split in known proportion": {
+     "Hispanic": 1.67,
+     "White": 3.71
+    },
+    "all Hispanic": {
+     "Hispanic": 1.5,
+     "White": 4.17
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.96,
+    "White": 3.53,
+    "Asian": 10.56
+   },
+   "aggravated": {
+    "Hispanic": 1.82,
+    "White": 4.2,
+    "Asian": 11.04
+   },
+   "simple": {
+    "Hispanic": 1.87,
+    "White": 3.08,
+    "Asian": 8.9
+   },
+   "partner_share": {
+    "Black": 43.3,
+    "Hispanic": 50.4,
+    "White": 36.4,
+    "Asian": 28.6
+   },
+   "partner_ratio": {
+    "Hispanic": 1.59,
+    "White": 3.99,
+    "Asian": 14.28
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.12,
+    "White": 2.99,
+    "Asian": 7.5
+   },
+   "women_over_men": {
+    "Black": 1.4,
+    "Hispanic": 1.31,
+    "White": 0.99,
+    "Asian": 0.67
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.85,
+     "White": 3.4,
+     "Asian": 9.65
+    },
+    "second": {
+     "Hispanic": 1.85,
+     "White": 3.32,
+     "Asian": 9.28
+    }
+   },
+   "women_victims": {
+    "Black": 36983,
+    "Hispanic": 7368,
+    "White": 8776,
+    "Asian": 758
+   },
+   "women_residents": {
+    "Black": 337669.0,
+    "Hispanic": 124720.0,
+    "White": 268930.0,
+    "Asian": 65486.0
+   },
+   "unknown_race_pct": 0.4,
+   "outside_groups_pct": 0.3,
+   "unknown_ethnicity_pct": 14.1,
+   "unknown_relationship_pct": 18.0,
+   "combo_ratio": 1.091,
+   "flags": [
+    "unknown ethnicity 14.1% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "fort_worth",
+   "city": "Fort Worth",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX2201200",
+   "black_women_rate": 2675,
+   "rates_women": {
+    "Black": 2675,
+    "Hispanic": 1222,
+    "White": 874,
+    "Asian": 220
+   },
+   "black_men_rate": 1690,
+   "ratio": {
+    "Hispanic": 2.19,
+    "White": 3.06,
+    "Asian": 12.16
+   },
+   "bounds": {
+    "Hispanic": [
+     1.95,
+     2.19
+    ],
+    "White": [
+     2.72,
+     3.33
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.95,
+    "White": 2.72,
+    "Asian": 10.83
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.19,
+     "White": 3.06
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.19,
+     "White": 3.33
+    },
+    "split in known proportion": {
+     "Hispanic": 2.11,
+     "White": 3.21
+    },
+    "all Hispanic": {
+     "Hispanic": 2.06,
+     "White": 3.33
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.34,
+    "White": 3.07,
+    "Asian": 13.11
+   },
+   "aggravated": {
+    "Hispanic": 2.69,
+    "White": 4.41,
+    "Asian": 19.91
+   },
+   "simple": {
+    "Hispanic": 2.05,
+    "White": 2.76,
+    "Asian": 10.69
+   },
+   "partner_share": {
+    "Black": 44.8,
+    "Hispanic": 49.4,
+    "White": 45.5,
+    "Asian": 50.2
+   },
+   "partner_ratio": {
+    "Hispanic": 1.99,
+    "White": 3.01,
+    "Asian": 10.9
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.39,
+    "White": 3.1,
+    "Asian": 13.54
+   },
+   "women_over_men": {
+    "Black": 1.58,
+    "Hispanic": 1.53,
+    "White": 1.35,
+    "Asian": 0.79
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.25,
+     "White": 2.97,
+     "Asian": 11.64
+    },
+    "second": {
+     "Hispanic": 2.12,
+     "White": 3.16,
+     "Asian": 12.8
+    }
+   },
+   "women_victims": {
+    "Black": 10764,
+    "Hispanic": 7954,
+    "White": 6317,
+    "Asian": 249
+   },
+   "women_residents": {
+    "Black": 100606.0,
+    "Hispanic": 162686.0,
+    "White": 180604.0,
+    "Asian": 28317.0
+   },
+   "unknown_race_pct": 0.2,
+   "outside_groups_pct": 0.8,
+   "unknown_ethnicity_pct": 3.6,
+   "unknown_relationship_pct": 14.6,
+   "combo_ratio": 1.123,
+   "flags": [],
+   "already": "Nine-Cities"
+  },
+  {
+   "slug": "durham",
+   "city": "Durham",
+   "state": "NC",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NC0320100",
+   "black_women_rate": 2634,
+   "rates_women": {
+    "Black": 2634,
+    "Hispanic": 1644,
+    "White": 484,
+    "Asian": 219
+   },
+   "black_men_rate": 2153,
+   "ratio": {
+    "Hispanic": 1.6,
+    "White": 5.44,
+    "Asian": 12.03
+   },
+   "bounds": {
+    "Hispanic": [
+     1.44,
+     1.6
+    ],
+    "White": [
+     4.97,
+     6.3
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.46,
+    "White": 4.97,
+    "Asian": 11.0
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.6,
+     "White": 5.44
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.6,
+     "White": 6.3
+    },
+    "split in known proportion": {
+     "Hispanic": 1.5,
+     "White": 5.9
+    },
+    "all Hispanic": {
+     "Hispanic": 1.44,
+     "White": 6.3
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.6,
+    "White": 5.49,
+    "Asian": 15.45
+   },
+   "aggravated": {
+    "Hispanic": 1.96,
+    "White": 6.55,
+    "Asian": 15.23
+   },
+   "simple": {
+    "Hispanic": 1.51,
+    "White": 5.15,
+    "Asian": 11.31
+   },
+   "partner_share": {
+    "Black": 45.7,
+    "Hispanic": 52.1,
+    "White": 40.0,
+    "Asian": 39.5
+   },
+   "partner_ratio": {
+    "Hispanic": 1.4,
+    "White": 6.21,
+    "Asian": 14.0
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.82,
+    "White": 4.93,
+    "Asian": 10.83
+   },
+   "women_over_men": {
+    "Black": 1.22,
+    "Hispanic": 1.22,
+    "White": 0.98,
+    "Asian": 0.67
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.68,
+     "White": 6.02,
+     "Asian": 14.83
+    },
+    "second": {
+     "Hispanic": 1.53,
+     "White": 4.93,
+     "Asian": 9.98
+    }
+   },
+   "women_victims": {
+    "Black": 5689,
+    "Hispanic": 1431,
+    "White": 1200,
+    "Asian": 76
+   },
+   "women_residents": {
+    "Black": 54003.0,
+    "Hispanic": 21764.0,
+    "White": 61984.0,
+    "Asian": 8693.0
+   },
+   "unknown_race_pct": 0.6,
+   "outside_groups_pct": 0.5,
+   "unknown_ethnicity_pct": 6.2,
+   "unknown_relationship_pct": 21.8,
+   "combo_ratio": 1.094,
+   "flags": [
+    "Asian women residents 8,693, under 10,000"
+   ],
+   "already": null
+  },
+  {
+   "slug": "irving",
+   "city": "Irving",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX0571500",
+   "black_women_rate": 2629,
+   "rates_women": {
+    "Black": 2629,
+    "Hispanic": 1421,
+    "White": 1292,
+    "Asian": 194
+   },
+   "black_men_rate": 1873,
+   "ratio": {
+    "Hispanic": 1.85,
+    "White": 2.03,
+    "Asian": 13.55
+   },
+   "bounds": {
+    "Hispanic": [
+     1.64,
+     1.85
+    ],
+    "White": [
+     1.8,
+     2.09
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.64,
+    "White": 1.8,
+    "Asian": 12.01
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.85,
+     "White": 2.04
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.85,
+     "White": 2.09
+    },
+    "split in known proportion": {
+     "Hispanic": 1.84,
+     "White": 2.07
+    },
+    "all Hispanic": {
+     "Hispanic": 1.83,
+     "White": 2.09
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.73,
+    "White": 1.74,
+    "Asian": 12.14
+   },
+   "aggravated": {
+    "Hispanic": 1.78,
+    "White": 2.04,
+    "Asian": 26.36
+   },
+   "simple": {
+    "Hispanic": 1.86,
+    "White": 2.04,
+    "Asian": 12.78
+   },
+   "partner_share": {
+    "Black": 54.7,
+    "Hispanic": 52.4,
+    "White": 51.2,
+    "Asian": 63.0
+   },
+   "partner_ratio": {
+    "Hispanic": 1.93,
+    "White": 2.18,
+    "Asian": 11.8
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.76,
+    "White": 1.89,
+    "Asian": 16.53
+   },
+   "women_over_men": {
+    "Black": 1.4,
+    "Hispanic": 1.44,
+    "White": 1.33,
+    "Asian": 1.05
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.16,
+     "White": 2.11,
+     "Asian": 17.25
+    },
+    "second": {
+     "Hispanic": 1.53,
+     "White": 1.94,
+     "Asian": 10.23
+    }
+   },
+   "women_victims": {
+    "Black": 1904,
+    "Hispanic": 3144,
+    "White": 1198,
+    "Asian": 216
+   },
+   "women_residents": {
+    "Black": 18107.0,
+    "Hispanic": 55304.0,
+    "White": 23188.0,
+    "Asian": 27801.0
+   },
+   "unknown_race_pct": 0.1,
+   "outside_groups_pct": 0.3,
+   "unknown_ethnicity_pct": 0.8,
+   "unknown_relationship_pct": 3.9,
+   "combo_ratio": 1.128,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "plano",
+   "city": "Plano",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX0430600",
+   "black_women_rate": 2385,
+   "rates_women": {
+    "Black": 2385,
+    "Hispanic": 957,
+    "White": 506,
+    "Asian": 241
+   },
+   "black_men_rate": 1762,
+   "ratio": {
+    "Hispanic": 2.49,
+    "White": 4.71,
+    "Asian": 9.9
+   },
+   "bounds": {
+    "Hispanic": [
+     2.12,
+     2.49
+    ],
+    "White": [
+     4.02,
+     4.77
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.12,
+    "White": 4.02,
+    "Asian": 8.44
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.49,
+     "White": 4.71
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.49,
+     "White": 4.77
+    },
+    "split in known proportion": {
+     "Hispanic": 2.47,
+     "White": 4.73
+    },
+    "all Hispanic": {
+     "Hispanic": 2.45,
+     "White": 4.77
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.64,
+    "White": 3.84,
+    "Asian": 9.05
+   },
+   "aggravated": {
+    "Hispanic": 2.6,
+    "White": 4.85,
+    "Asian": 13.26
+   },
+   "simple": {
+    "Hispanic": 2.48,
+    "White": 4.7,
+    "Asian": 9.6
+   },
+   "partner_share": {
+    "Black": 46.2,
+    "Hispanic": 53.2,
+    "White": 49.0,
+    "Asian": 53.8
+   },
+   "partner_ratio": {
+    "Hispanic": 2.17,
+    "White": 4.44,
+    "Asian": 8.48
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.86,
+    "White": 4.97,
+    "Asian": 11.56
+   },
+   "women_over_men": {
+    "Black": 1.35,
+    "Hispanic": 1.13,
+    "White": 1.19,
+    "Asian": 1.28
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.39,
+     "White": 4.35,
+     "Asian": 9.76
+    },
+    "second": {
+     "Hispanic": 2.59,
+     "White": 5.08,
+     "Asian": 10.02
+    }
+   },
+   "women_victims": {
+    "Black": 1305,
+    "Hispanic": 948,
+    "White": 1391,
+    "Asian": 327
+   },
+   "women_residents": {
+    "Black": 13682.0,
+    "Hispanic": 24754.0,
+    "White": 68685.0,
+    "Asian": 33949.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.8,
+   "unknown_ethnicity_pct": 1.2,
+   "unknown_relationship_pct": 0.3,
+   "combo_ratio": 1.173,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "newark",
+   "city": "Newark",
+   "state": "NJ",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "NJNPD0000",
+   "black_women_rate": 2243,
+   "rates_women": {
+    "Black": 2243,
+    "Hispanic": 1372,
+    "White": 774,
+    "Asian": 273
+   },
+   "black_men_rate": 1326,
+   "ratio": {
+    "Hispanic": 1.63,
+    "White": 2.9,
+    "Asian": 8.22
+   },
+   "bounds": {
+    "Hispanic": [
+     1.49,
+     1.64
+    ],
+    "White": [
+     2.65,
+     3.61
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.49,
+    "White": 2.65,
+    "Asian": 7.5
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.64,
+     "White": 2.9
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.64,
+     "White": 3.61
+    },
+    "split in known proportion": {
+     "Hispanic": 1.6,
+     "White": 3.5
+    },
+    "all Hispanic": {
+     "Hispanic": 1.59,
+     "White": 3.61
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.64,
+    "White": 2.98,
+    "Asian": null
+   },
+   "aggravated": {
+    "Hispanic": 2.12,
+    "White": 3.28,
+    "Asian": 6.62
+   },
+   "simple": {
+    "Hispanic": 1.56,
+    "White": 2.83,
+    "Asian": 8.67
+   },
+   "partner_share": {
+    "Black": 53.6,
+    "Hispanic": 64.3,
+    "White": 47.2,
+    "Asian": 46.9
+   },
+   "partner_ratio": {
+    "Hispanic": 1.36,
+    "White": 3.28,
+    "Asian": 9.39
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.12,
+    "White": 2.55,
+    "Asian": 7.18
+   },
+   "women_over_men": {
+    "Black": 1.69,
+    "Hispanic": 1.5,
+    "White": 1.01,
+    "Asian": 0.85
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.83,
+     "White": 2.84,
+     "Asian": 7.04
+    },
+    "second": {
+     "Hispanic": 1.46,
+     "White": 2.97,
+     "Asian": 10.18
+    }
+   },
+   "women_victims": {
+    "Black": 6767,
+    "Hispanic": 3082,
+    "White": 415,
+    "Asian": 32
+   },
+   "women_residents": {
+    "Black": 75422.0,
+    "Hispanic": 56170.0,
+    "White": 13403.0,
+    "Asian": 2933.0
+   },
+   "unknown_race_pct": 8.9,
+   "outside_groups_pct": 3.5,
+   "unknown_ethnicity_pct": 9.9,
+   "unknown_relationship_pct": 15.5,
+   "combo_ratio": 1.096,
+   "flags": [
+    "unknown race 8.9% of women victims (if all were in the comparison group: Hispanic 1.25, White 0.88)",
+    "Asian women residents 2,933, under 10,000",
+    "Asian ratio rests on 32 women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "lexington",
+   "city": "Lexington",
+   "state": "KY",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "KY0340200",
+   "black_women_rate": 2177,
+   "rates_women": {
+    "Black": 2177,
+    "Hispanic": 1144,
+    "White": 618,
+    "Asian": 118
+   },
+   "black_men_rate": 1267,
+   "ratio": {
+    "Hispanic": 1.9,
+    "White": 3.52,
+    "Asian": 18.45
+   },
+   "bounds": {
+    "Hispanic": [
+     1.55,
+     1.9
+    ],
+    "White": [
+     2.88,
+     3.64
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.55,
+    "White": 2.88,
+    "Asian": 15.07
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.9,
+     "White": 3.52
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.9,
+     "White": 3.64
+    },
+    "split in known proportion": {
+     "Hispanic": 1.86,
+     "White": 3.54
+    },
+    "all Hispanic": {
+     "Hispanic": 1.68,
+     "White": 3.64
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.95,
+    "White": 3.5,
+    "Asian": 29.38
+   },
+   "aggravated": {
+    "Hispanic": 2.66,
+    "White": 4.4,
+    "Asian": 30.8
+   },
+   "simple": {
+    "Hispanic": 1.82,
+    "White": 3.4,
+    "Asian": 17.31
+   },
+   "partner_share": {
+    "Black": 46.7,
+    "Hispanic": 57.1,
+    "White": 53.4,
+    "Asian": 61.8
+   },
+   "partner_ratio": {
+    "Hispanic": 1.56,
+    "White": 3.08,
+    "Asian": 13.92
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.36,
+    "White": 4.03,
+    "Asian": 25.8
+   },
+   "women_over_men": {
+    "Black": 1.72,
+    "Hispanic": 1.66,
+    "White": 1.46,
+    "Asian": 1.48
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.0,
+     "White": 3.53,
+     "Asian": 16.98
+    },
+    "second": {
+     "Hispanic": 1.81,
+     "White": 3.51,
+     "Asian": 20.32
+    }
+   },
+   "women_victims": {
+    "Black": 2034,
+    "Hispanic": 650,
+    "White": 2743,
+    "Asian": 34
+   },
+   "women_residents": {
+    "Black": 23355.0,
+    "Hispanic": 14208.0,
+    "White": 110913.0,
+    "Asian": 7196.0
+   },
+   "unknown_race_pct": 2.8,
+   "outside_groups_pct": 2.0,
+   "unknown_ethnicity_pct": 4.2,
+   "unknown_relationship_pct": 5.2,
+   "combo_ratio": 1.224,
+   "flags": [
+    "Asian women residents 7,196, under 10,000",
+    "Asian ratio rests on 34 women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "el_paso",
+   "city": "El Paso",
+   "state": "TX",
+   "tier": 1,
+   "window": "2022 to 2025",
+   "ori": "TX0710200",
+   "black_women_rate": 2036,
+   "rates_women": {
+    "Black": 2036,
+    "Hispanic": 1218,
+    "White": 1113,
+    "Asian": 434
+   },
+   "black_men_rate": 1568,
+   "ratio": {
+    "Hispanic": 1.67,
+    "White": 1.83,
+    "Asian": 4.69
+   },
+   "bounds": {
+    "Hispanic": [
+     1.18,
+     1.67
+    ],
+    "White": [
+     1.29,
+     1.95
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.18,
+    "White": 1.29,
+    "Asian": 3.31
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.67,
+     "White": 1.83
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.67,
+     "White": 1.95
+    },
+    "split in known proportion": {
+     "Hispanic": 1.66,
+     "White": 1.94
+    },
+    "all Hispanic": {
+     "Hispanic": 1.66,
+     "White": 1.95
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.31,
+    "White": 1.33,
+    "Asian": 8.67
+   },
+   "aggravated": {
+    "Hispanic": 1.86,
+    "White": 1.89,
+    "Asian": 5.48
+   },
+   "simple": {
+    "Hispanic": 1.64,
+    "White": 1.82,
+    "Asian": 4.58
+   },
+   "partner_share": {
+    "Black": 31.5,
+    "Hispanic": 25.5,
+    "White": 27.2,
+    "Asian": 42.7
+   },
+   "partner_ratio": {
+    "Hispanic": 2.06,
+    "White": 2.12,
+    "Asian": 3.47
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.54,
+    "White": 1.72,
+    "Asian": 5.6
+   },
+   "women_over_men": {
+    "Black": 1.3,
+    "Hispanic": 1.19,
+    "White": 1.19,
+    "Asian": 1.88
+   },
+   "halves": {
+    "years": [
+     [
+      "2022",
+      "2023"
+     ],
+     [
+      "2024",
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.75,
+     "White": 1.83,
+     "Asian": 5.01
+    },
+    "second": {
+     "Hispanic": 1.6,
+     "White": 1.83,
+     "Asian": 4.41
+    }
+   },
+   "women_victims": {
+    "Black": 840,
+    "Hispanic": 13938,
+    "White": 1671,
+    "Asian": 89
+   },
+   "women_residents": {
+    "Black": 10314.0,
+    "Hispanic": 286151.0,
+    "White": 37529.0,
+    "Asian": 5130.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.1,
+   "unknown_ethnicity_pct": 0.7,
+   "unknown_relationship_pct": 17.5,
+   "combo_ratio": 1.418,
+   "flags": [
+    "Asian women residents 5,130, under 10,000"
+   ],
+   "already": "Nine-Cities"
+  },
+  {
+   "slug": "sacramento",
+   "city": "Sacramento",
+   "state": "CA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "CA0340400",
+   "black_women_rate": 5457,
+   "rates_women": {
+    "Black": 5457,
+    "Hispanic": 1653,
+    "White": 1722,
+    "Asian": 503
+   },
+   "black_men_rate": 3436,
+   "ratio": {
+    "Hispanic": 3.3,
+    "White": 3.17,
+    "Asian": 10.85
+   },
+   "bounds": {
+    "Hispanic": [
+     2.42,
+     3.3
+    ],
+    "White": [
+     2.33,
+     3.3
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.42,
+    "White": 2.33,
+    "Asian": 7.97
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.3,
+     "White": 3.17
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.3,
+     "White": 3.3
+    },
+    "split in known proportion": {
+     "Hispanic": 3.23,
+     "White": 3.23
+    },
+    "all Hispanic": {
+     "Hispanic": 3.17,
+     "White": 3.3
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.56,
+    "White": 3.07,
+    "Asian": 10.98
+   },
+   "aggravated": {
+    "Hispanic": 3.7,
+    "White": 3.27,
+    "Asian": 13.12
+   },
+   "simple": {
+    "Hispanic": 3.17,
+    "White": 3.13,
+    "Asian": 10.17
+   },
+   "partner_share": {
+    "Black": 63.0,
+    "Hispanic": 63.0,
+    "White": 61.0,
+    "Asian": 61.1
+   },
+   "partner_ratio": {
+    "Hispanic": 3.3,
+    "White": 3.28,
+    "Asian": 11.2
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.3,
+    "White": 3.0,
+    "Asian": 10.3
+   },
+   "women_over_men": {
+    "Black": 1.59,
+    "Hispanic": 1.52,
+    "White": 1.31,
+    "Asian": 0.96
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.22,
+     "White": 2.97,
+     "Asian": 11.1
+    },
+    "second": {
+     "Hispanic": 3.39,
+     "White": 3.4,
+     "Asian": 10.63
+    }
+   },
+   "women_victims": {
+    "Black": 3742,
+    "Hispanic": 2537,
+    "White": 2682,
+    "Asian": 560
+   },
+   "women_residents": {
+    "Black": 34285.0,
+    "Hispanic": 76762.0,
+    "White": 77870.0,
+    "Asian": 55695.0
+   },
+   "unknown_race_pct": 0.7,
+   "outside_groups_pct": 1.8,
+   "unknown_ethnicity_pct": 2.5,
+   "unknown_relationship_pct": 9.7,
+   "combo_ratio": 1.361,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "omaha",
+   "city": "Omaha",
+   "state": "NE",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "NB0280200",
+   "black_women_rate": 5127,
+   "rates_women": {
+    "Black": 5127,
+    "Hispanic": 1448,
+    "White": 949,
+    "Asian": 510
+   },
+   "black_men_rate": 2933,
+   "ratio": {
+    "Hispanic": 3.54,
+    "White": 5.4,
+    "Asian": 10.05
+   },
+   "bounds": {
+    "Hispanic": [
+     2.18,
+     3.54
+    ],
+    "White": [
+     4.18,
+     7.06
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.74,
+    "White": 4.18,
+    "Asian": 7.78
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.54,
+     "White": 5.4
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.54,
+     "White": 7.06
+    },
+    "split in known proportion": {
+     "Hispanic": 2.95,
+     "White": 5.84
+    },
+    "all Hispanic": {
+     "Hispanic": 2.18,
+     "White": 7.06
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.8,
+    "White": 5.32,
+    "Asian": 11.73
+   },
+   "aggravated": {
+    "Hispanic": 4.47,
+    "White": 7.26,
+    "Asian": 8.67
+   },
+   "simple": {
+    "Hispanic": 3.37,
+    "White": 5.09,
+    "Asian": 10.45
+   },
+   "partner_share": {
+    "Black": 28.5,
+    "Hispanic": 30.0,
+    "White": 28.0,
+    "Asian": 31.1
+   },
+   "partner_ratio": {
+    "Hispanic": 3.36,
+    "White": 5.5,
+    "Asian": 9.2
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.61,
+    "White": 5.37,
+    "Asian": 10.41
+   },
+   "women_over_men": {
+    "Black": 1.75,
+    "Hispanic": 1.38,
+    "White": 1.29,
+    "Asian": 1.21
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.51,
+     "White": 5.12,
+     "Asian": 10.13
+    },
+    "second": {
+     "Hispanic": 3.57,
+     "White": 5.72,
+     "Asian": 9.98
+    }
+   },
+   "women_victims": {
+    "Black": 2941,
+    "Hispanic": 1113,
+    "White": 2967,
+    "Asian": 103
+   },
+   "women_residents": {
+    "Black": 28680.0,
+    "Hispanic": 38428.0,
+    "White": 156259.0,
+    "Asian": 10092.0
+   },
+   "unknown_race_pct": 3.3,
+   "outside_groups_pct": 5.9,
+   "unknown_ethnicity_pct": 18.9,
+   "unknown_relationship_pct": 44.8,
+   "combo_ratio": 1.292,
+   "flags": [
+    "unknown ethnicity 18.9% of women victims",
+    "unknown relationship 44.8% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "louisville",
+   "city": "Louisville",
+   "state": "KY",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "KY0568000",
+   "black_women_rate": 4242,
+   "rates_women": {
+    "Black": 4242,
+    "Hispanic": 1499,
+    "White": 1244,
+    "Asian": 447
+   },
+   "black_men_rate": 2470,
+   "ratio": {
+    "Hispanic": 2.83,
+    "White": 3.41,
+    "Asian": 9.49
+   },
+   "bounds": {
+    "Hispanic": [
+     2.12,
+     2.83
+    ],
+    "White": [
+     2.97,
+     3.63
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.47,
+    "White": 2.97,
+    "Asian": 8.27
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.83,
+     "White": 3.41
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.83,
+     "White": 3.63
+    },
+    "split in known proportion": {
+     "Hispanic": 2.7,
+     "White": 3.44
+    },
+    "all Hispanic": {
+     "Hispanic": 2.12,
+     "White": 3.63
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.12,
+    "White": 3.25,
+    "Asian": 11.49
+   },
+   "aggravated": {
+    "Hispanic": 3.56,
+    "White": 4.08,
+    "Asian": 11.82
+   },
+   "simple": {
+    "Hispanic": 2.54,
+    "White": 3.12,
+    "Asian": 8.57
+   },
+   "partner_share": {
+    "Black": 37.7,
+    "Hispanic": 47.6,
+    "White": 41.5,
+    "Asian": 39.8
+   },
+   "partner_ratio": {
+    "Hispanic": 2.24,
+    "White": 3.09,
+    "Asian": 8.97
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.37,
+    "White": 3.63,
+    "Asian": 9.83
+   },
+   "women_over_men": {
+    "Black": 1.72,
+    "Hispanic": 1.48,
+    "White": 1.6,
+    "Asian": 1.38
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.74,
+     "White": 3.27,
+     "Asian": 11.92
+    },
+    "second": {
+     "Hispanic": 2.91,
+     "White": 3.54,
+     "Asian": 8.04
+    }
+   },
+   "women_victims": {
+    "Black": 6350,
+    "Hispanic": 869,
+    "White": 4751,
+    "Asian": 83
+   },
+   "women_residents": {
+    "Black": 74839.0,
+    "Hispanic": 28979.0,
+    "White": 190971.0,
+    "Asian": 9292.0
+   },
+   "unknown_race_pct": 1.1,
+   "outside_groups_pct": 0.9,
+   "unknown_ethnicity_pct": 5.5,
+   "unknown_relationship_pct": 14.9,
+   "combo_ratio": 1.148,
+   "flags": [
+    "Asian women residents 9,292, under 10,000",
+    "department population 691,630 is 1.09x the city's"
+   ],
+   "already": null
+  },
+  {
+   "slug": "bakersfield",
+   "city": "Bakersfield",
+   "state": "CA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "CA0150200",
+   "black_women_rate": 4005,
+   "rates_women": {
+    "Black": 4005,
+    "Hispanic": 1234,
+    "White": 1209,
+    "Asian": 338
+   },
+   "black_men_rate": 3257,
+   "ratio": {
+    "Hispanic": 3.25,
+    "White": 3.31,
+    "Asian": 11.85
+   },
+   "bounds": {
+    "Hispanic": [
+     2.53,
+     3.25
+    ],
+    "White": [
+     2.57,
+     3.44
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.53,
+    "White": 2.57,
+    "Asian": 9.21
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.25,
+     "White": 3.31
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.25,
+     "White": 3.44
+    },
+    "split in known proportion": {
+     "Hispanic": 3.2,
+     "White": 3.4
+    },
+    "all Hispanic": {
+     "Hispanic": 3.18,
+     "White": 3.44
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.35,
+    "White": 3.07,
+    "Asian": 11.53
+   },
+   "aggravated": {
+    "Hispanic": 3.77,
+    "White": 3.39,
+    "Asian": 18.12
+   },
+   "simple": {
+    "Hispanic": 3.1,
+    "White": 3.29,
+    "Asian": 10.6
+   },
+   "partner_share": {
+    "Black": 51.4,
+    "Hispanic": 56.2,
+    "White": 48.6,
+    "Asian": 58.3
+   },
+   "partner_ratio": {
+    "Hispanic": 2.97,
+    "White": 3.51,
+    "Asian": 10.46
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.6,
+    "White": 3.13,
+    "Asian": 13.79
+   },
+   "women_over_men": {
+    "Black": 1.23,
+    "Hispanic": 1.32,
+    "White": 1.09,
+    "Asian": 0.86
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.19,
+     "White": 3.2,
+     "Asian": 12.2
+    },
+    "second": {
+     "Hispanic": 3.3,
+     "White": 3.43,
+     "Asian": 11.57
+    }
+   },
+   "women_victims": {
+    "Black": 1077,
+    "Hispanic": 2792,
+    "White": 1396,
+    "Asian": 115
+   },
+   "women_residents": {
+    "Black": 13446.0,
+    "Hispanic": 113133.0,
+    "White": 57719.0,
+    "Asian": 17018.0
+   },
+   "unknown_race_pct": 0.3,
+   "outside_groups_pct": 0.5,
+   "unknown_ethnicity_pct": 1.4,
+   "unknown_relationship_pct": 12.9,
+   "combo_ratio": 1.287,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "baltimore",
+   "city": "Baltimore",
+   "state": "MD",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "MDBPD0000",
+   "black_women_rate": 3450,
+   "rates_women": {
+    "Black": 3450,
+    "Hispanic": 2330,
+    "White": 1310,
+    "Asian": 573
+   },
+   "black_men_rate": 2665,
+   "ratio": {
+    "Hispanic": 1.48,
+    "White": 2.63,
+    "Asian": 6.02
+   },
+   "bounds": {
+    "Hispanic": [
+     0.87,
+     1.48
+    ],
+    "White": [
+     2.5,
+     4.22
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.41,
+    "White": 2.5,
+    "Asian": 5.73
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.48,
+     "White": 2.63
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.48,
+     "White": 4.22
+    },
+    "split in known proportion": {
+     "Hispanic": 1.28,
+     "White": 2.88
+    },
+    "all Hispanic": {
+     "Hispanic": 0.87,
+     "White": 4.22
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.59,
+    "White": 2.93,
+    "Asian": 11.12
+   },
+   "aggravated": {
+    "Hispanic": 1.68,
+    "White": 3.21,
+    "Asian": 8.65
+   },
+   "simple": {
+    "Hispanic": 1.4,
+    "White": 2.43,
+    "Asian": 5.27
+   },
+   "partner_share": {
+    "Black": 35.7,
+    "Hispanic": 43.3,
+    "White": 32.3,
+    "Asian": 32.2
+   },
+   "partner_ratio": {
+    "Hispanic": 1.22,
+    "White": 2.91,
+    "Asian": 6.66
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.68,
+    "White": 2.5,
+    "Asian": 5.7
+   },
+   "women_over_men": {
+    "Black": 1.29,
+    "Hispanic": 0.94,
+    "White": 1.0,
+    "Asian": 0.38
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.4,
+     "White": 2.53,
+     "Asian": 5.72
+    },
+    "second": {
+     "Hispanic": 1.57,
+     "White": 2.75,
+     "Asian": 6.36
+    }
+   },
+   "women_victims": {
+    "Black": 12908,
+    "Hispanic": 1074,
+    "White": 1991,
+    "Asian": 90
+   },
+   "women_residents": {
+    "Black": 187091.0,
+    "Hispanic": 23046.0,
+    "White": 75976.0,
+    "Asian": 7850.0
+   },
+   "unknown_race_pct": 6.0,
+   "outside_groups_pct": 2.8,
+   "unknown_ethnicity_pct": 32.3,
+   "unknown_relationship_pct": 22.5,
+   "combo_ratio": 1.05,
+   "flags": [
+    "unknown race 6.0% of women victims (if all were in the comparison group: Hispanic 0.77, White 1.76)",
+    "unknown ethnicity 32.3% of women victims",
+    "Asian women residents 7,850, under 10,000",
+    "lowest bound vs Hispanic 0.87, at or below 1"
+   ],
+   "already": "Baltimore-Assault-Victims"
+  },
+  {
+   "slug": "long_beach",
+   "city": "Long Beach",
+   "state": "CA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "CA0194100",
+   "black_women_rate": 3326,
+   "rates_women": {
+    "Black": 3326,
+    "Hispanic": 1294,
+    "White": 1122,
+    "Asian": 277
+   },
+   "black_men_rate": 2802,
+   "ratio": {
+    "Hispanic": 2.57,
+    "White": 2.96,
+    "Asian": 12.01
+   },
+   "bounds": {
+    "Hispanic": [
+     2.09,
+     2.57
+    ],
+    "White": [
+     2.41,
+     4.92
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.09,
+    "White": 2.41,
+    "Asian": 9.77
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.57,
+     "White": 2.96
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.57,
+     "White": 4.92
+    },
+    "split in known proportion": {
+     "Hispanic": 2.22,
+     "White": 4.25
+    },
+    "all Hispanic": {
+     "Hispanic": 2.13,
+     "White": 4.92
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.7,
+    "White": 2.72,
+    "Asian": 11.58
+   },
+   "aggravated": {
+    "Hispanic": 3.14,
+    "White": 3.68,
+    "Asian": 17.42
+   },
+   "simple": {
+    "Hispanic": 2.41,
+    "White": 2.77,
+    "Asian": 10.81
+   },
+   "partner_share": {
+    "Black": 48.9,
+    "Hispanic": 49.5,
+    "White": 47.4,
+    "Asian": 44.9
+   },
+   "partner_ratio": {
+    "Hispanic": 2.54,
+    "White": 3.05,
+    "Asian": 13.1
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.6,
+    "White": 2.88,
+    "Asian": 11.12
+   },
+   "women_over_men": {
+    "Black": 1.19,
+    "Hispanic": 1.13,
+    "White": 1.01,
+    "Asian": 0.92
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.63,
+     "White": 3.05,
+     "Asian": 11.59
+    },
+    "second": {
+     "Hispanic": 2.51,
+     "White": 2.88,
+     "Asian": 12.48
+    }
+   },
+   "women_victims": {
+    "Black": 1959,
+    "Hispanic": 2562,
+    "White": 1325,
+    "Asian": 176
+   },
+   "women_residents": {
+    "Black": 29454.0,
+    "Hispanic": 98984.0,
+    "White": 59067.0,
+    "Asian": 31754.0
+   },
+   "unknown_race_pct": 3.5,
+   "outside_groups_pct": 4.1,
+   "unknown_ethnicity_pct": 20.1,
+   "unknown_relationship_pct": 27.0,
+   "combo_ratio": 1.229,
+   "flags": [
+    "unknown ethnicity 20.1% of women victims",
+    "unknown relationship 27.0% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "tucson",
+   "city": "Tucson",
+   "state": "AZ",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "AZ0100300",
+   "black_women_rate": 3171,
+   "rates_women": {
+    "Black": 3171,
+    "Hispanic": 1271,
+    "White": 1070,
+    "Asian": 217
+   },
+   "black_men_rate": 2774,
+   "ratio": {
+    "Hispanic": 2.49,
+    "White": 2.96,
+    "Asian": 14.61
+   },
+   "bounds": {
+    "Hispanic": [
+     1.76,
+     2.49
+    ],
+    "White": [
+     2.09,
+     5.67
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.76,
+    "White": 2.09,
+    "Asian": 10.34
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.49,
+     "White": 2.96
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.49,
+     "White": 5.67
+    },
+    "split in known proportion": {
+     "Hispanic": 1.96,
+     "White": 4.32
+    },
+    "all Hispanic": {
+     "Hispanic": 1.77,
+     "White": 5.67
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 2.29,
+    "White": 2.42,
+    "Asian": 15.05
+   },
+   "aggravated": {
+    "Hispanic": 2.62,
+    "White": 3.14,
+    "Asian": 19.73
+   },
+   "simple": {
+    "Hispanic": 2.46,
+    "White": 2.91,
+    "Asian": 13.46
+   },
+   "partner_share": {
+    "Black": 35.7,
+    "Hispanic": 40.6,
+    "White": 39.3,
+    "Asian": 41.9
+   },
+   "partner_ratio": {
+    "Hispanic": 2.2,
+    "White": 2.7,
+    "Asian": 12.45
+   },
+   "non_partner_ratio": {
+    "Hispanic": 2.7,
+    "White": 3.14,
+    "Asian": 16.17
+   },
+   "women_over_men": {
+    "Black": 1.14,
+    "Hispanic": 1.15,
+    "White": 0.96,
+    "Asian": 1.04
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 2.43,
+     "White": 2.89,
+     "Asian": 13.03
+    },
+    "second": {
+     "Hispanic": 2.61,
+     "White": 3.09,
+     "Asian": 18.27
+    }
+   },
+   "women_victims": {
+    "Black": 792,
+    "Hispanic": 3013,
+    "White": 2591,
+    "Asian": 43
+   },
+   "women_residents": {
+    "Black": 12489.0,
+    "Hispanic": 118509.0,
+    "White": 121054.0,
+    "Asian": 9895.0
+   },
+   "unknown_race_pct": 14.7,
+   "outside_groups_pct": 13.7,
+   "unknown_ethnicity_pct": 33.7,
+   "unknown_relationship_pct": 13.1,
+   "combo_ratio": 1.413,
+   "flags": [
+    "unknown race 14.7% of women victims (if all were in the comparison group: Hispanic 1.83, White 2.08)",
+    "unknown ethnicity 33.7% of women victims",
+    "Asian women residents 9,895, under 10,000",
+    "Asian ratio rests on 43 women victims",
+    "assault victims a year against the median year: 2024 1.29x, 2025 0.71x",
+    "0 empty and 1 thin months in the window (2024-12)"
+   ],
+   "already": null
+  },
+  {
+   "slug": "boston",
+   "city": "Boston",
+   "state": "MA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "MA0130100",
+   "black_women_rate": 3124,
+   "rates_women": {
+    "Black": 3124,
+    "Hispanic": 1707,
+    "White": 662,
+    "Asian": 324
+   },
+   "black_men_rate": 2743,
+   "ratio": {
+    "Hispanic": 1.83,
+    "White": 4.72,
+    "Asian": 9.64
+   },
+   "bounds": {
+    "Hispanic": [
+     1.34,
+     1.83
+    ],
+    "White": [
+     3.46,
+     7.92
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.34,
+    "White": 3.46,
+    "Asian": 7.06
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.83,
+     "White": 4.72
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.83,
+     "White": 7.92
+    },
+    "split in known proportion": {
+     "Hispanic": 1.56,
+     "White": 5.84
+    },
+    "all Hispanic": {
+     "Hispanic": 1.35,
+     "White": 7.92
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.96,
+    "White": 5.23,
+    "Asian": 11.24
+   },
+   "aggravated": {
+    "Hispanic": 2.1,
+    "White": 5.95,
+    "Asian": 14.47
+   },
+   "simple": {
+    "Hispanic": 1.74,
+    "White": 4.37,
+    "Asian": 8.54
+   },
+   "partner_share": {
+    "Black": 32.8,
+    "Hispanic": 37.2,
+    "White": 32.0,
+    "Asian": 31.0
+   },
+   "partner_ratio": {
+    "Hispanic": 1.61,
+    "White": 4.84,
+    "Asian": 10.26
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.96,
+    "White": 4.66,
+    "Asian": 9.37
+   },
+   "women_over_men": {
+    "Black": 1.14,
+    "Hispanic": 1.15,
+    "White": 0.8,
+    "Asian": 0.67
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.8,
+     "White": 4.49,
+     "Asian": 9.44
+    },
+    "second": {
+     "Hispanic": 1.86,
+     "White": 4.97,
+     "Asian": 9.85
+    }
+   },
+   "women_victims": {
+    "Black": 4598,
+    "Hispanic": 2256,
+    "White": 1993,
+    "Asian": 239
+   },
+   "women_residents": {
+    "Black": 73600.0,
+    "Hispanic": 66062.0,
+    "White": 150528.0,
+    "Asian": 36902.0
+   },
+   "unknown_race_pct": 17.5,
+   "outside_groups_pct": 12.2,
+   "unknown_ethnicity_pct": 37.2,
+   "unknown_relationship_pct": 29.2,
+   "combo_ratio": 1.366,
+   "flags": [
+    "unknown race 17.5% of women victims (if all were in the comparison group: Hispanic 1.01, White 2.47)",
+    "unknown ethnicity 37.2% of women victims",
+    "unknown relationship 29.2% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "san_jose",
+   "city": "San Jose",
+   "state": "CA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "CA0431300",
+   "black_women_rate": 2881,
+   "rates_women": {
+    "Black": 2881,
+    "Hispanic": 2252,
+    "White": 1021,
+    "Asian": 332
+   },
+   "black_men_rate": 2724,
+   "ratio": {
+    "Hispanic": 1.28,
+    "White": 2.82,
+    "Asian": 8.68
+   },
+   "bounds": {
+    "Hispanic": [
+     0.88,
+     1.28
+    ],
+    "White": [
+     1.95,
+     3.33
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 0.88,
+    "White": 1.95,
+    "Asian": 5.99
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.28,
+     "White": 2.82
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.28,
+     "White": 3.33
+    },
+    "split in known proportion": {
+     "Hispanic": 1.23,
+     "White": 3.2
+    },
+    "all Hispanic": {
+     "Hispanic": 1.22,
+     "White": 3.33
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.27,
+    "White": 2.43,
+    "Asian": 7.9
+   },
+   "aggravated": {
+    "Hispanic": 1.42,
+    "White": 3.39,
+    "Asian": 11.75
+   },
+   "simple": {
+    "Hispanic": 1.23,
+    "White": 2.65,
+    "Asian": 7.9
+   },
+   "partner_share": {
+    "Black": 37.3,
+    "Hispanic": 47.8,
+    "White": 40.1,
+    "Asian": 40.8
+   },
+   "partner_ratio": {
+    "Hispanic": 1.0,
+    "White": 2.62,
+    "Asian": 7.97
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.54,
+    "White": 2.96,
+    "Asian": 9.21
+   },
+   "women_over_men": {
+    "Black": 1.06,
+    "Hispanic": 1.17,
+    "White": 1.21,
+    "Asian": 0.94
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.3,
+     "White": 2.83,
+     "Asian": 8.73
+    },
+    "second": {
+     "Hispanic": 1.25,
+     "White": 2.81,
+     "Asian": 8.65
+    }
+   },
+   "women_victims": {
+    "Black": 809,
+    "Hispanic": 6728,
+    "White": 2162,
+    "Asian": 1300
+   },
+   "women_residents": {
+    "Black": 14039.0,
+    "Hispanic": 149389.0,
+    "White": 105881.0,
+    "Asian": 196013.0
+   },
+   "unknown_race_pct": 6.2,
+   "outside_groups_pct": 6.8,
+   "unknown_ethnicity_pct": 7.7,
+   "unknown_relationship_pct": 26.3,
+   "combo_ratio": 1.448,
+   "flags": [
+    "unknown race 6.2% of women victims (if all were in the comparison group: Hispanic 1.15, White 2.11)",
+    "unknown relationship 26.3% of women victims",
+    "lowest bound vs Hispanic 0.88, at or below 1"
+   ],
+   "already": null
+  },
+  {
+   "slug": "north_las_vegas",
+   "city": "North Las Vegas",
+   "state": "NV",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "NV0020200",
+   "black_women_rate": 2737,
+   "rates_women": {
+    "Black": 2737,
+    "Hispanic": 931,
+    "White": 1059,
+    "Asian": 216
+   },
+   "black_men_rate": 1697,
+   "ratio": {
+    "Hispanic": 2.94,
+    "White": 2.58,
+    "Asian": 12.67
+   },
+   "bounds": {
+    "Hispanic": [
+     2.5,
+     2.94
+    ],
+    "White": [
+     2.2,
+     2.7
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.5,
+    "White": 2.2,
+    "Asian": 10.79
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 2.94,
+     "White": 2.58
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 2.94,
+     "White": 2.7
+    },
+    "split in known proportion": {
+     "Hispanic": 2.89,
+     "White": 2.66
+    },
+    "all Hispanic": {
+     "Hispanic": 2.86,
+     "White": 2.7
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.09,
+    "White": 2.7,
+    "Asian": 15.37
+   },
+   "aggravated": {
+    "Hispanic": 3.59,
+    "White": 3.36,
+    "Asian": 19.88
+   },
+   "simple": {
+    "Hispanic": 2.82,
+    "White": 2.46,
+    "Asian": 11.68
+   },
+   "partner_share": {
+    "Black": 48.4,
+    "Hispanic": 52.9,
+    "White": 44.2,
+    "Asian": 53.1
+   },
+   "partner_ratio": {
+    "Hispanic": 2.69,
+    "White": 2.83,
+    "Asian": 11.52
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.22,
+    "White": 2.39,
+    "Asian": 13.84
+   },
+   "women_over_men": {
+    "Black": 1.61,
+    "Hispanic": 1.23,
+    "White": 1.34,
+    "Asian": 0.91
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.07,
+     "White": 2.63,
+     "Asian": 12.21
+    },
+    "second": {
+     "Hispanic": 2.81,
+     "White": 2.54,
+     "Asian": 13.13
+    }
+   },
+   "women_victims": {
+    "Black": 1684,
+    "Hispanic": 1088,
+    "White": 672,
+    "Asian": 49
+   },
+   "women_residents": {
+    "Black": 30764.0,
+    "Hispanic": 58404.0,
+    "White": 31733.0,
+    "Asian": 11323.0
+   },
+   "unknown_race_pct": 0.1,
+   "outside_groups_pct": 1.7,
+   "unknown_ethnicity_pct": 2.1,
+   "unknown_relationship_pct": 6.2,
+   "combo_ratio": 1.174,
+   "flags": [
+    "Asian ratio rests on 49 women victims",
+    "department population 302,881 is 1.09x the city's"
+   ],
+   "already": null
+  },
+  {
+   "slug": "virginia_beach",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "VA1280000",
+   "black_women_rate": 2658,
+   "rates_women": {
+    "Black": 2658,
+    "Hispanic": 806,
+    "White": 857,
+    "Asian": 247
+   },
+   "black_men_rate": 1798,
+   "ratio": {
+    "Hispanic": 3.3,
+    "White": 3.1,
+    "Asian": 10.76
+   },
+   "bounds": {
+    "Hispanic": [
+     1.18,
+     3.3
+    ],
+    "White": [
+     2.59,
+     4.19
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 2.75,
+    "White": 2.59,
+    "Asian": 8.97
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 3.3,
+     "White": 3.1
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 3.3,
+     "White": 4.19
+    },
+    "split in known proportion": {
+     "Hispanic": 2.63,
+     "White": 3.22
+    },
+    "all Hispanic": {
+     "Hispanic": 1.18,
+     "White": 4.19
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 3.55,
+    "White": 2.79,
+    "Asian": 10.9
+   },
+   "aggravated": {
+    "Hispanic": 3.72,
+    "White": 3.6,
+    "Asian": 12.0
+   },
+   "simple": {
+    "Hispanic": 3.28,
+    "White": 3.08,
+    "Asian": 10.72
+   },
+   "partner_share": {
+    "Black": 40.2,
+    "Hispanic": 49.6,
+    "White": 42.4,
+    "Asian": 40.2
+   },
+   "partner_ratio": {
+    "Hispanic": 2.67,
+    "White": 2.94,
+    "Asian": 10.79
+   },
+   "non_partner_ratio": {
+    "Hispanic": 3.91,
+    "White": 3.22,
+    "Asian": 10.74
+   },
+   "women_over_men": {
+    "Black": 1.48,
+    "Hispanic": 1.34,
+    "White": 1.19,
+    "Asian": 1.07
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 3.56,
+     "White": 3.14,
+     "Asian": 11.25
+    },
+    "second": {
+     "Hispanic": 3.05,
+     "White": 3.06,
+     "Asian": 10.29
+    }
+   },
+   "women_victims": {
+    "Black": 2394,
+    "Hispanic": 337,
+    "White": 2317,
+    "Asian": 87
+   },
+   "women_residents": {
+    "Black": 45027.0,
+    "Hispanic": 20897.0,
+    "White": 135171.0,
+    "Asian": 17620.0
+   },
+   "unknown_race_pct": 1.9,
+   "outside_groups_pct": 1.9,
+   "unknown_ethnicity_pct": 25.5,
+   "unknown_relationship_pct": 4.9,
+   "combo_ratio": 1.199,
+   "flags": [
+    "unknown ethnicity 25.5% of women victims"
+   ],
+   "already": null
+  },
+  {
+   "slug": "jersey_city",
+   "city": "Jersey City",
+   "state": "NJ",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "NJ0090600",
+   "black_women_rate": 2477,
+   "rates_women": {
+    "Black": 2477,
+    "Hispanic": 1514,
+    "White": 894,
+    "Asian": 243
+   },
+   "black_men_rate": 1743,
+   "ratio": {
+    "Hispanic": 1.64,
+    "White": 2.77,
+    "Asian": 10.19
+   },
+   "bounds": {
+    "Hispanic": [
+     1.42,
+     1.64
+    ],
+    "White": [
+     2.39,
+     2.79
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.42,
+    "White": 2.39,
+    "Asian": 8.81
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.64,
+     "White": 2.77
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.64,
+     "White": 2.79
+    },
+    "split in known proportion": {
+     "Hispanic": 1.63,
+     "White": 2.78
+    },
+    "all Hispanic": {
+     "Hispanic": 1.63,
+     "White": 2.79
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.73,
+    "White": 3.01,
+    "Asian": 12.72
+   },
+   "aggravated": {
+    "Hispanic": 1.76,
+    "White": 3.52,
+    "Asian": 15.43
+   },
+   "simple": {
+    "Hispanic": 1.59,
+    "White": 2.57,
+    "Asian": 9.04
+   },
+   "partner_share": {
+    "Black": 46.6,
+    "Hispanic": 48.3,
+    "White": 49.8,
+    "Asian": 59.4
+   },
+   "partner_ratio": {
+    "Hispanic": 1.58,
+    "White": 2.59,
+    "Asian": 8.01
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.69,
+    "White": 2.95,
+    "Asian": 13.36
+   },
+   "women_over_men": {
+    "Black": 1.42,
+    "Hispanic": 1.46,
+    "White": 1.07,
+    "Asian": 0.79
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.57,
+     "White": 2.9,
+     "Asian": 10.32
+    },
+    "second": {
+     "Hispanic": 1.71,
+     "White": 2.65,
+     "Asian": 10.11
+    }
+   },
+   "women_victims": {
+    "Black": 1580,
+    "Hispanic": 1130,
+    "White": 578,
+    "Asian": 187
+   },
+   "women_residents": {
+    "Black": 31890.0,
+    "Hispanic": 37318.0,
+    "White": 32337.0,
+    "Asian": 38511.0
+   },
+   "unknown_race_pct": 0.0,
+   "outside_groups_pct": 1.3,
+   "unknown_ethnicity_pct": 0.2,
+   "unknown_relationship_pct": 5.8,
+   "combo_ratio": 1.157,
+   "flags": [],
+   "already": null
+  },
+  {
+   "slug": "new_york",
+   "city": "New York",
+   "state": "NY",
+   "tier": 2,
+   "window": "2024 to 2025",
+   "ori": "NY0303000",
+   "black_women_rate": 2216,
+   "rates_women": {
+    "Black": 2216,
+    "Hispanic": 1577,
+    "White": 450,
+    "Asian": 577
+   },
+   "black_men_rate": 2015,
+   "ratio": {
+    "Hispanic": 1.41,
+    "White": 4.92,
+    "Asian": 3.84
+   },
+   "bounds": {
+    "Hispanic": [
+     1.17,
+     1.41
+    ],
+    "White": [
+     4.09,
+     4.93
+    ]
+   },
+   "ethnicity_recording": "recorded",
+   "race_coding_worst": {
+    "Hispanic": 1.17,
+    "White": 4.09,
+    "Asian": 3.19
+   },
+   "ethnicity_scenarios": {
+    "as mapped": {
+     "Hispanic": 1.41,
+     "White": 4.93
+    },
+    "unknown ethnicity left out": {
+     "Hispanic": 1.41,
+     "White": 4.93
+    },
+    "split in known proportion": {
+     "Hispanic": 1.41,
+     "White": 4.93
+    },
+    "all Hispanic": {
+     "Hispanic": 1.41,
+     "White": 4.93
+    }
+   },
+   "age_standardized": {
+    "Hispanic": 1.45,
+    "White": 4.94,
+    "Asian": 4.09
+   },
+   "aggravated": {
+    "Hispanic": 1.54,
+    "White": 6.89,
+    "Asian": 4.47
+   },
+   "simple": {
+    "Hispanic": 1.35,
+    "White": 4.39,
+    "Asian": 3.62
+   },
+   "partner_share": {
+    "Black": 37.4,
+    "Hispanic": 43.6,
+    "White": 35.8,
+    "Asian": 39.0
+   },
+   "partner_ratio": {
+    "Hispanic": 1.2,
+    "White": 5.15,
+    "Asian": 3.68
+   },
+   "non_partner_ratio": {
+    "Hispanic": 1.56,
+    "White": 4.8,
+    "Asian": 3.94
+   },
+   "women_over_men": {
+    "Black": 1.1,
+    "Hispanic": 1.03,
+    "White": 0.78,
+    "Asian": 0.58
+   },
+   "halves": {
+    "years": [
+     [
+      "2024"
+     ],
+     [
+      "2025"
+     ]
+    ],
+    "first": {
+     "Hispanic": 1.35,
+     "White": 4.86,
+     "Asian": 3.72
+    },
+    "second": {
+     "Hispanic": 1.46,
+     "White": 5.0,
+     "Asian": 3.97
+    }
+   },
+   "women_victims": {
+    "Black": 44659,
+    "Hispanic": 39321,
+    "White": 12003,
+    "Asian": 7535
+   },
+   "women_residents": {
+    "Black": 1007856.0,
+    "Hispanic": 1246782.0,
+    "White": 1334867.0,
+    "Asian": 653227.0
+   },
+   "unknown_race_pct": 10.6,
+   "outside_groups_pct": 5.7,
+   "unknown_ethnicity_pct": 5.3,
+   "unknown_relationship_pct": 5.4,
+   "combo_ratio": 1.202,
+   "flags": [
+    "unknown race 10.6% of women victims (if all were in the comparison group: Hispanic 1.08, White 2.5)"
+   ],
+   "already": null
+  }
+ ],
+ "check_against_earlier": [
+  {
+   "city": "Houston",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 4193,
+    "Hispanic": 2.43,
+    "White": 3.76
+   },
+   "now_values": {
+    "rate": 4193,
+    "Hispanic": 2.43,
+    "White": 3.76
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "San Antonio",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 3872,
+    "Hispanic": 1.84,
+    "White": 2.22
+   },
+   "now_values": {
+    "rate": 3872,
+    "Hispanic": 1.84,
+    "White": 2.22
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "Dallas",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 3798,
+    "Hispanic": 2.26,
+    "White": 3.91
+   },
+   "now_values": {
+    "rate": 3798,
+    "Hispanic": 2.26,
+    "White": 3.91
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "Austin",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 4197,
+    "Hispanic": 2.07,
+    "White": 4.86
+   },
+   "now_values": {
+    "rate": 4197,
+    "Hispanic": 2.07,
+    "White": 4.86
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "Fort Worth",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 2675,
+    "Hispanic": 2.19,
+    "White": 3.06
+   },
+   "now_values": {
+    "rate": 2675,
+    "Hispanic": 2.19,
+    "White": 3.06
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "DC",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 4205,
+    "Hispanic": 3.22,
+    "White": 10.21
+   },
+   "now_values": {
+    "rate": 4205,
+    "Hispanic": 3.22,
+    "White": 10.21
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "El Paso",
+   "earlier_source": "FBI NIBRS, 2022 to 2025",
+   "now": "FBI NIBRS, 2022 to 2025",
+   "earlier": {
+    "rate": 2036,
+    "Hispanic": 1.67,
+    "White": 1.83
+   },
+   "now_values": {
+    "rate": 2036,
+    "Hispanic": 1.67,
+    "White": 1.83
+   },
+   "like_for_like": true,
+   "same": true
+  },
+  {
+   "city": "Baltimore",
+   "earlier_source": "BPD legacy records, 2022 to 2024",
+   "now": "FBI NIBRS, 2024 to 2025",
+   "earlier": {
+    "rate": 3605,
+    "Hispanic": 1.62,
+    "White": 2.58
+   },
+   "now_values": {
+    "rate": 3450,
+    "Hispanic": 1.48,
+    "White": 2.63
+   },
+   "like_for_like": false,
+   "same": false
+  }
+ ],
+ "left_out": [
+  {
+   "city": "Las Vegas, NV",
+   "ori": "NV0020100",
+   "reason": "department population 1,712,136 is 2.59x the city's"
+  },
+  {
+   "city": "Indianapolis, IN",
+   "ori": "INIPD0000",
+   "reason": "NIBRS incomplete in 2024 to 2025: 3 thin or missing months (2025-04, 2025-10, 2025-12); complete 2022-01 to 2025-03 (39 months)"
+  },
+  {
+   "city": "Atlanta, GA",
+   "ori": "GAAPD0000",
+   "reason": "NIBRS incomplete in 2024 to 2025: 2 thin or missing months (2024-11, 2024-12); complete 2022-01 to 2024-10 (34 months)"
+  },
+  {
+   "city": "Riverside, CA",
+   "ori": "CA0331300",
+   "reason": "NIBRS incomplete in 2024 to 2025: 1 thin or missing months (2025-06); complete 2023-01 to 2025-05 (29 months)"
+  },
+  {
+   "city": "Greensboro, NC",
+   "ori": "NC0410200",
+   "reason": "NIBRS incomplete in 2024 to 2025: 3 thin or missing months (2025-10, 2025-11, 2025-12); complete 2022-01 to 2025-09 (45 months)"
+  }
+ ]
+}

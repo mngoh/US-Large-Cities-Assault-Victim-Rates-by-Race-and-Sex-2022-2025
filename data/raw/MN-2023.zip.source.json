@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/MN-2023.zip",
+ "key": "nibrs/incident/2023/MN-2023.zip",
+ "fetched_at": "2026-10-02T21:16:30",
+ "bytes": 22075993,
+ "sha256": "9905678f848a0e5ae3577816fc61bf9910bcd966f5452c6f38dad60c43d3ce66",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, MN 2023, as received"
+}

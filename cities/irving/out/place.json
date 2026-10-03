@@ -1,0 +1,7 @@
+{
+ "query": "Irving, TX",
+ "census_geoid": "16000US4837000",
+ "display_name": "Irving, TX",
+ "population": 256492,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/DC-2022.zip",
+ "key": "nibrs/incident/2022/DC-2022.zip",
+ "fetched_at": "2026-10-02T21:14:43",
+ "bytes": 5298981,
+ "sha256": "97e63871f90050194e32f0afc63c119bd68f6571b4fdb3d990568e7adf42cd8b",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, DC 2022, as received"
+}

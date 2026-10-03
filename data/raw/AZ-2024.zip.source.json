@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2024/AZ-2024.zip",
+ "key": "nibrs/incident/2024/AZ-2024.zip",
+ "fetched_at": "2026-10-02T21:14:55",
+ "bytes": 21151198,
+ "sha256": "8c50384538c17a435af2ee7d0aa4df9bdc269ec390d161696de8e53a1ab5803c",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, AZ 2024, as received"
+}

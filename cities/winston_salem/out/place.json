@@ -1,0 +1,7 @@
+{
+ "query": "Winston-Salem, NC",
+ "census_geoid": "16000US3775000",
+ "display_name": "Winston-Salem, NC",
+ "population": 252037,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

@@ -1,0 +1,1331 @@
+victim_id,incident_id,incident_date,agency,ori,offense_code,race_group,race,ethnicity,sex,age,resident_status,partner,relationship,location,premise,weapon,injury,attempt_complete
+216010669,194092489,2024-01-01,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,AQ,Residence/Home,Home,Personal Weapons,Minor Injury,C
+230031252,206309391,2024-01-01,North Las Vegas,NV0020200,13A,H,W,H,M,17,R,N,ST,Restaurant,Restaurant,,,C
+210477834,189281210,2024-01-02,North Las Vegas,NV0020200,13A,B,B,N,F,42,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,Other Major Injury,C
+210477842,189281216,2024-01-02,North Las Vegas,NV0020200,13A,B,B,N,M,29,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+221653886,198996757,2024-01-02,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221653911,198996778,2024-01-05,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,RU,Commercial/Office Building,Office Building,Firearm,Other Major Injury,C
+221653929,198996792,2024-01-06,North Las Vegas,NV0020200,13A,H,W,H,M,54,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221653973,198996832,2024-01-06,North Las Vegas,NV0020200,13A,W,W,U,M,30,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+210477869,189281241,2024-01-07,North Las Vegas,NV0020200,13A,H,W,H,M,37,R,N,RU,Other/Unknown,Other & Unknown,Firearm,Possible Internal Injury,C
+211890386,190506495,2024-01-07,North Las Vegas,NV0020200,13A,W,W,N,F,35,R,N,AQ,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+212463477,191008329,2024-01-07,North Las Vegas,NV0020200,13A,H,W,H,F,38,U,N,AQ,Residence/Home,Home,Blunt Object,,C
+221654012,198996860,2024-01-07,North Las Vegas,NV0020200,13A,B,B,N,M,32,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+211890413,190506518,2024-01-08,North Las Vegas,NV0020200,13A,A,A,N,M,40,U,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+211890446,190506547,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,F,45,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+214337155,192635389,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,F,4,R,N,CH,Residence/Home,Home,Blunt Object,Minor Injury,C
+221653989,198996846,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG;XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221653990,198996846,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,F,6,R,N,CH;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221653992,198996846,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,M,4,R,N,CH;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221653993,198996846,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,F,0,R,N,CH;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221653995,198996846,2024-01-08,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,N,AQ;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+214337100,192635342,2024-01-09,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,N,FR,Church/Synagogue/Temple/Mosque,Religious Building,Blunt Object,,C
+208916194,187919691,2024-01-10,North Las Vegas,NV0020200,13A,H,W,H,M,25,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+221653915,198996781,2024-01-10,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+221654028,198996872,2024-01-10,North Las Vegas,NV0020200,13A,B,B,N,F,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+214337192,192635417,2024-01-11,North Las Vegas,NV0020200,13A,B,B,N,M,47,R,N,ST,Other/Unknown,Other & Unknown,Blunt Object,Minor Injury,C
+214337253,192635466,2024-01-12,North Las Vegas,NV0020200,13A,W,W,N,F,25,N,N,ST,Other/Unknown,Other & Unknown,Handgun,,C
+212463561,191008398,2024-01-13,North Las Vegas,NV0020200,13A,B,B,N,M,42,R,N,AQ,Residence/Home,Home,Blunt Object,,C
+214337241,192635454,2024-01-13,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+211890517,190506601,2024-01-15,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654098,198996931,2024-01-15,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,RU,Other/Unknown,Other & Unknown,Firearm,Minor Injury,C
+211890587,190506657,2024-01-16,North Las Vegas,NV0020200,13A,B,B,N,F,16,R,N,CH,Residence/Home,Home,Blunt Object,Minor Injury,C
+214337333,192635534,2024-01-16,North Las Vegas,NV0020200,13A,W,W,N,M,20,R,N,ST,Residence/Home,Home,Motor Vehicle/Vessel,Minor Injury,C
+221654126,198996951,2024-01-16,North Las Vegas,NV0020200,13A,H,W,H,M,40,N,N,OK,Residence/Home,Home,Firearm,,C
+221654137,198996959,2024-01-16,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+221654077,198996916,2024-01-17,North Las Vegas,NV0020200,13A,H,W,H,M,26,R,N,OF,Residence/Home,Home,Rifle,,C
+221654078,198996916,2024-01-17,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,OF,Residence/Home,Home,Rifle,,C
+221654079,198996916,2024-01-17,North Las Vegas,NV0020200,13A,H,W,H,F,57,R,N,ST,Residence/Home,Home,Rifle,,C
+221654080,198996916,2024-01-17,North Las Vegas,NV0020200,13A,H,W,H,F,29,R,N,OF,Residence/Home,Home,Rifle,,C
+221654081,198996916,2024-01-17,North Las Vegas,NV0020200,13A,H,W,H,F,10,R,N,OF,Residence/Home,Home,Rifle,,C
+208916566,187919990,2024-01-19,North Las Vegas,NV0020200,13A,B,B,N,F,30,N,N,RU,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+211890574,190506644,2024-01-19,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+214337650,192635788,2024-01-19,North Las Vegas,NV0020200,13A,W,W,N,F,26,N,N,OK,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Handgun,,C
+221654108,198996938,2024-01-19,North Las Vegas,NV0020200,13A,W,W,N,M,24,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221654131,198996955,2024-01-19,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+211890625,190506688,2024-01-20,North Las Vegas,NV0020200,13A,B,B,N,F,47,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+214337679,192635811,2024-01-20,North Las Vegas,NV0020200,13A,B,B,N,M,4,R,N,RU,Residence/Home,Home,Handgun,,C
+214337680,192635811,2024-01-20,North Las Vegas,NV0020200,13A,B,B,N,M,0,R,N,RU,Residence/Home,Home,Handgun,,C
+214337681,192635811,2024-01-20,North Las Vegas,NV0020200,13A,B,B,N,F,2,R,N,RU,Residence/Home,Home,Handgun,,C
+214337682,192635811,2024-01-20,North Las Vegas,NV0020200,13A,B,B,N,M,45,R,N,RU,Residence/Home,Home,Handgun,,C
+208916544,187919975,2024-01-21,North Las Vegas,NV0020200,13A,W,W,N,M,24,R,N,AQ,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+208916694,187920094,2024-01-21,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+211890584,190506654,2024-01-21,North Las Vegas,NV0020200,13A,H,W,H,M,54,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+211890663,190506720,2024-01-22,North Las Vegas,NV0020200,13A,B,B,N,M,39,R,N,RU,Department/Discount Store,Department Store,Firearm,,C
+211890670,190506727,2024-01-22,North Las Vegas,NV0020200,13A,H,W,H,F,25,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury;Severe Laceration,C
+214337811,192635909,2024-01-23,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+214337825,192635921,2024-01-24,North Las Vegas,NV0020200,13A,W,W,N,M,37,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+214337890,192635972,2024-01-24,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+208916956,187920320,2024-01-26,North Las Vegas,NV0020200,13A,W,W,N,F,18,R,N,ST,Restaurant,Restaurant,Other,Minor Injury,C
+208916993,187920350,2024-01-26,North Las Vegas,NV0020200,13A,H,W,H,M,17,N,N,CH,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+208916994,187920350,2024-01-26,North Las Vegas,NV0020200,13A,H,W,H,M,17,N,N,CH,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+211890641,190506703,2024-01-26,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,N,ST,Convenience Store,Convenience Store,Handgun,,C
+214337990,192636058,2024-01-27,North Las Vegas,NV0020200,13A,H,W,H,M,26,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Possible Internal Injury,C
+214338065,192636125,2024-01-27,North Las Vegas,NV0020200,13A,B,B,N,M,34,U,N,,Residence/Home,Home,Firearm,Minor Injury,C
+214338066,192636125,2024-01-27,North Las Vegas,NV0020200,13A,B,B,N,M,26,R,N,,Residence/Home,Home,Firearm,Minor Injury,C
+214338067,192636125,2024-01-27,North Las Vegas,NV0020200,13A,B,B,N,M,16,U,N,,Residence/Home,Home,Firearm,Minor Injury,C
+211890698,190506749,2024-01-28,North Las Vegas,NV0020200,13A,H,W,H,M,50,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,,C
+211890718,190506766,2024-01-29,North Las Vegas,NV0020200,13A,B,B,N,M,56,R,N,AQ,Residence/Home,Home,Handgun,,C
+221654216,198997027,2024-01-30,North Las Vegas,NV0020200,13A,H,W,H,F,13,R,N,ST,Residence/Home,Home,Blunt Object,Minor Injury,C
+221654235,198997040,2024-01-30,North Las Vegas,NV0020200,13A,H,W,H,M,43,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+232287529,208280907,2024-01-30,North Las Vegas,NV0020200,13A,B,B,N,M,28,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Firearm,Other Major Injury,C
+232287532,208280907,2024-01-30,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Firearm,Other Major Injury,C
+211890807,190506845,2024-01-31,North Las Vegas,NV0020200,13A,H,W,H,M,13,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+214338254,192636294,2024-01-31,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+211890806,190506844,2024-02-01,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+214338386,192636401,2024-02-01,North Las Vegas,NV0020200,13A,W,W,N,M,45,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Possible Internal Injury,C
+232287551,208280922,2024-02-02,North Las Vegas,NV0020200,13A,H,W,H,F,0,R,N,,Other/Unknown,Other & Unknown,Personal Weapons,Other Major Injury;Possible Internal Injury;Unconscious,C
+211890814,190506851,2024-02-03,North Las Vegas,NV0020200,13A,H,W,H,M,39,R,N,SP,Residence/Home,Home,Blunt Object,Minor Injury,C
+221654273,198997071,2024-02-04,North Las Vegas,NV0020200,13A,B,B,N,F,49,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+208917494,187920791,2024-02-05,North Las Vegas,NV0020200,13A,B,B,N,M,51,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+208917578,187920857,2024-02-08,North Las Vegas,NV0020200,13A,B,B,N,F,32,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+211890902,190506928,2024-02-08,North Las Vegas,NV0020200,13A,B,B,N,M,63,R,N,SB,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,,C
+211890949,190506966,2024-02-08,North Las Vegas,NV0020200,13A,W,W,N,M,65,R,N,SP,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+221654350,198997137,2024-02-08,North Las Vegas,NV0020200,13A,H,W,H,F,13,R,N,ST,Residence/Home,Home,Blunt Object,Minor Injury,C
+211890900,190506926,2024-02-09,North Las Vegas,NV0020200,13A,H,W,H,M,0,R,N,CH,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+208917661,187920929,2024-02-10,North Las Vegas,NV0020200,13A,B,B,N,F,69,R,N,PA,Residence/Home,Home,Handgun,,C
+214339036,192636942,2024-02-11,North Las Vegas,NV0020200,13A,H,W,H,M,53,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+214339070,192636972,2024-02-11,North Las Vegas,NV0020200,13A,H,W,H,M,60,R,Y,RU;SE,Residence/Home,Home,Personal Weapons,,C
+214339071,192636972,2024-02-11,North Las Vegas,NV0020200,13A,H,P,H,F,53,R,Y,RU;SE,Residence/Home,Home,Personal Weapons,,C
+211890952,190506968,2024-02-12,North Las Vegas,NV0020200,13A,H,W,H,M,35,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+211890981,190506990,2024-02-12,North Las Vegas,NV0020200,13A,B,B,N,M,40,N,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Motor Vehicle/Vessel,Minor Injury,C
+214339222,192637097,2024-02-14,North Las Vegas,NV0020200,13A,B,B,N,F,65,R,N,GP,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+214339223,192637097,2024-02-14,North Las Vegas,NV0020200,13A,B,B,N,M,67,R,N,GP,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,,C
+214339242,192637115,2024-02-15,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+221654418,198997188,2024-02-15,North Las Vegas,NV0020200,13A,B,B,N,F,16,U,N,SB,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221654361,198997144,2024-02-16,North Las Vegas,NV0020200,13A,H,W,H,F,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+221654442,198997208,2024-02-16,North Las Vegas,NV0020200,13A,H,W,H,M,13,R,N,RU,School-Elementary/Secondary,K-12 School,Personal Weapons,Possible Internal Injury,C
+211890985,190506991,2024-02-17,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+214339378,192637239,2024-02-17,North Las Vegas,NV0020200,13A,W,W,N,M,44,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+212463109,191008026,2024-02-18,North Las Vegas,NV0020200,13A,B,B,N,M,27,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+208918222,187921420,2024-02-19,North Las Vegas,NV0020200,13A,W,W,N,M,37,R,N,,Commercial/Office Building,Office Building,Firearm,,C
+210478170,189281493,2024-02-19,North Las Vegas,NV0020200,13A,B,B,N,M,53,R,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,Severe Laceration,C
+211890977,190506987,2024-02-19,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,BG,Residence/Home,Home,Personal Weapons,Unconscious,C
+214339466,192637314,2024-02-19,North Las Vegas,NV0020200,13A,H,W,H,M,29,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+214339467,192637314,2024-02-19,North Las Vegas,NV0020200,13A,H,W,H,F,52,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654372,198997154,2024-02-19,North Las Vegas,NV0020200,13A,B,B,N,F,37,N,N,ST,Restaurant,Restaurant,Handgun (Automatic),,C
+221654373,198997154,2024-02-19,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,ST,Restaurant,Restaurant,Handgun (Automatic),,C
+221654391,198997167,2024-02-19,North Las Vegas,NV0020200,13A,H,W,H,M,52,R,N,ST,Convenience Store,Convenience Store,Other Firearm,,C
+211891248,190507196,2024-02-21,North Las Vegas,NV0020200,13A,H,W,H,F,41,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+224196384,201207805,2024-02-21,North Las Vegas,NV0020200,13A,H,W,H,M,35,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+214339659,192637488,2024-02-22,North Las Vegas,NV0020200,13A,H,W,H,F,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221654426,198997197,2024-02-22,North Las Vegas,NV0020200,13A,W,W,N,M,17,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+214339623,192637458,2024-02-23,North Las Vegas,NV0020200,13A,H,W,H,F,34,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Loss of Teeth;Other Major Injury,C
+210478047,189281390,2024-02-24,North Las Vegas,NV0020200,13A,B,B,N,M,59,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+210478048,189281390,2024-02-24,North Las Vegas,NV0020200,13A,B,B,N,M,7,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221654594,198997328,2024-02-24,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+208918121,187921328,2024-02-25,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+208918871,187921983,2024-02-26,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,SE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221654477,198997238,2024-02-26,North Las Vegas,NV0020200,13A,B,B,N,F,66,N,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654538,198997282,2024-02-26,North Las Vegas,NV0020200,13A,B,B,N,M,22,N,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+221654603,198997335,2024-02-27,North Las Vegas,NV0020200,13A,B,B,N,M,37,R,N,SB,Residence/Home,Home,Handgun,,C
+221654545,198997286,2024-02-28,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221654554,198997296,2024-02-28,North Las Vegas,NV0020200,13A,W,W,N,M,43,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654600,198997333,2024-02-29,North Las Vegas,NV0020200,13A,B,B,N,M,46,N,N,,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury,C
+211891100,190507068,2024-03-01,North Las Vegas,NV0020200,13A,B,B,N,M,48,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+211891108,190507075,2024-03-01,North Las Vegas,NV0020200,13A,B,B,N,F,50,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654633,198997359,2024-03-01,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,,Residence/Home,Home,Firearm,Possible Internal Injury,C
+208918455,187921629,2024-03-03,North Las Vegas,NV0020200,13A,B,B,N,F,58,R,N,PA,Residence/Home,Home,Firearm (Automatic);Handgun,,C
+211891213,190507167,2024-03-03,North Las Vegas,NV0020200,13A,H,W,H,M,53,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+211891214,190507167,2024-03-03,North Las Vegas,NV0020200,13A,H,W,H,F,49,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+212463121,191008038,2024-03-04,North Las Vegas,NV0020200,13A,B,B,N,F,24,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+214339994,192637764,2024-03-04,North Las Vegas,NV0020200,13A,B,B,N,F,58,R,N,PA,Residence/Home,Home,Firearm,,C
+221654597,198997330,2024-03-04,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,OF,Residence/Home,Home,Handgun,,C
+221654598,198997330,2024-03-04,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,N,AQ,Residence/Home,Home,Handgun,,C
+210478171,189281494,2024-03-05,North Las Vegas,NV0020200,13A,B,B,N,F,59,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+214340216,192637921,2024-03-05,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+214340325,192638010,2024-03-06,North Las Vegas,NV0020200,13A,W,W,N,F,52,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+214340327,192638010,2024-03-06,North Las Vegas,NV0020200,13A,W,W,N,F,15,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+211891245,190507197,2024-03-07,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+221654676,198997395,2024-03-07,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,Y,SE,Residence/Home,Home,Handgun,,C
+214340337,192638020,2024-03-08,North Las Vegas,NV0020200,13A,I,I,N,F,51,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+221654675,198997394,2024-03-08,North Las Vegas,NV0020200,13A,B,B,N,F,41,N,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+221654769,198997470,2024-03-08,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,Y,BG,Residence/Home,Home,Blunt Object,Other Major Injury,C
+214340418,192638096,2024-03-09,North Las Vegas,NV0020200,13A,A,A,N,F,38,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+221654749,198997452,2024-03-09,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+221654807,198997497,2024-03-10,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+221654820,198997504,2024-03-10,North Las Vegas,NV0020200,13A,B,B,U,F,34,N,N,AQ;SS,Residence/Home,Home,Blunt Object,,C
+210478077,189281416,2024-03-11,North Las Vegas,NV0020200,13A,H,W,H,M,42,R,N,NE,Residence/Home,Home,Blunt Object,Minor Injury,C
+210478078,189281416,2024-03-11,North Las Vegas,NV0020200,13A,H,W,H,F,50,R,N,NE,Residence/Home,Home,Blunt Object,Minor Injury,C
+212463134,191008047,2024-03-11,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221654797,198997495,2024-03-12,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,RU;SB,Convenience Store,Convenience Store,Handgun,,C
+221654798,198997495,2024-03-12,North Las Vegas,NV0020200,13A,B,B,N,F,53,R,N,ST,Convenience Store,Convenience Store,Handgun,,C
+221654799,198997495,2024-03-12,North Las Vegas,NV0020200,13A,B,B,N,F,13,R,N,OF;RU,Convenience Store,Convenience Store,Handgun,,C
+214340486,192638155,2024-03-13,North Las Vegas,NV0020200,13A,W,W,N,M,33,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+216010639,194092459,2024-03-13,North Las Vegas,NV0020200,13A,B,B,N,F,43,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+210478161,189281485,2024-03-14,North Las Vegas,NV0020200,13A,H,W,H,M,37,R,N,,Residence/Home,Home,Handgun,,C
+217915085,195746525,2024-03-14,North Las Vegas,NV0020200,13A,B,B,U,F,34,N,N,AQ,Residence/Home,Home,Other,Other Major Injury,C
+210478217,189281537,2024-03-15,North Las Vegas,NV0020200,13A,W,W,N,M,41,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+216011077,194092818,2024-03-15,North Las Vegas,NV0020200,13A,B,B,N,M,58,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+212463146,191008058,2024-03-16,North Las Vegas,NV0020200,13A,B,B,N,M,64,R,Y,BG,Air/Bus/Train Terminal,Transit Station,Blunt Object,Minor Injury,C
+221654972,198997621,2024-03-16,North Las Vegas,NV0020200,13A,H,W,H,F,21,N,Y,XR,Convenience Store,Convenience Store,Knife/Cutting Instrument,Minor Injury,C
+210478387,189281684,2024-03-18,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,N,FR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+211891490,190507389,2024-03-19,North Las Vegas,NV0020200,13A,B,B,N,F,16,U,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+214340610,192638260,2024-03-19,North Las Vegas,NV0020200,13A,B,B,N,M,19,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+221654968,198997619,2024-03-19,North Las Vegas,NV0020200,13A,H,W,H,M,62,N,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+221654969,198997619,2024-03-19,North Las Vegas,NV0020200,13A,H,W,H,M,51,R,N,ST,Residence/Home,Home,Handgun,,C
+211891404,190507321,2024-03-20,North Las Vegas,NV0020200,13A,B,B,N,F,18,R,N,AQ,Residence/Home,Home,Handgun,,C
+211891405,190507321,2024-03-20,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,Y,BG,Residence/Home,Home,Handgun,,C
+216011101,194092837,2024-03-20,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,ST,Restaurant,Restaurant,Blunt Object,Minor Injury,C
+216011088,194092824,2024-03-21,North Las Vegas,NV0020200,13A,W,W,U,M,29,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+221654962,198997615,2024-03-21,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,NE,Residence/Home,Home,Firearm,,C
+224196440,201207849,2024-03-21,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,SB,Residence/Home,Home,Blunt Object,Minor Injury,C
+211891455,190507359,2024-03-22,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221654996,198997640,2024-03-22,North Las Vegas,NV0020200,13A,B,B,N,F,17,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221654997,198997640,2024-03-22,North Las Vegas,NV0020200,13A,B,B,N,F,17,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221656446,198998824,2024-03-22,North Las Vegas,NV0020200,13A,H,W,H,M,25,R,N,ST,Residence/Home,Home,Handgun,Minor Injury;Possible Internal Injury,C
+221656447,198998824,2024-03-22,North Las Vegas,NV0020200,13A,W,W,N,F,1,R,N,ST,Residence/Home,Home,Handgun,Minor Injury;Possible Internal Injury,C
+221656474,198998844,2024-03-22,North Las Vegas,NV0020200,13A,H,W,H,M,49,N,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+211891364,190507289,2024-03-23,North Las Vegas,NV0020200,13A,B,B,N,M,34,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+221656397,198998784,2024-03-23,North Las Vegas,NV0020200,13A,B,B,N,F,56,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221656398,198998784,2024-03-23,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+216011302,194093021,2024-03-24,North Las Vegas,NV0020200,13A,H,W,H,M,19,R,N,RU,Park/Playground,Park & Playground,Handgun,Minor Injury,C
+216011380,194093098,2024-03-25,North Las Vegas,NV0020200,13A,B,B,N,M,29,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+217178409,195105592,2024-03-27,North Las Vegas,NV0020200,13A,H,W,H,F,61,R,N,ST,Park/Playground,Park & Playground,Handgun,,C
+221655114,198997737,2024-03-28,North Las Vegas,NV0020200,13A,W,W,N,F,34,N,N,SB,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+217178417,195105597,2024-03-29,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,RU,Residence/Home,Home,Firearm,Minor Injury,C
+217178429,195105607,2024-03-29,North Las Vegas,NV0020200,13A,H,W,H,F,48,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+221655175,198997792,2024-03-29,North Las Vegas,NV0020200,13A,B,B,N,F,73,R,N,NE,Residence/Home,Home,Handgun,,C
+217178441,195105611,2024-03-30,North Las Vegas,NV0020200,13A,B,B,N,M,28,R,N,,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Knife/Cutting Instrument,Severe Laceration,C
+217915079,195746520,2024-03-30,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,N,SB,Residence/Home,Home,,Minor Injury,C
+217915083,195746523,2024-03-30,North Las Vegas,NV0020200,13A,B,B,N,F,39,R,Y,BG,Residence/Home,Home,Firearm,,C
+217915110,195746544,2024-03-30,North Las Vegas,NV0020200,13A,B,B,N,F,45,R,Y,SE,Residence/Home,Home,Handgun,,C
+212463158,191008067,2024-03-31,North Las Vegas,NV0020200,13A,H,W,H,M,32,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+217915119,195746550,2024-03-31,North Las Vegas,NV0020200,13A,H,W,H,F,35,N,Y,BG,Residence/Home,Home,Personal Weapons,,C
+221656540,198998898,2024-03-31,North Las Vegas,NV0020200,13A,W,W,N,M,52,N,N,ST,Department/Discount Store,Department Store,Knife/Cutting Instrument,Severe Laceration,C
+221656577,198998930,2024-03-31,North Las Vegas,NV0020200,13A,W,W,N,M,19,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+221656669,198998995,2024-03-31,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury,C
+214340715,192638358,2024-04-01,North Las Vegas,NV0020200,13A,W,W,N,M,18,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+214340716,192638357,2024-04-02,North Las Vegas,NV0020200,13A,W,W,N,M,50,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+211891540,190507427,2024-04-03,North Las Vegas,NV0020200,13A,H,W,H,F,37,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+217915188,195746609,2024-04-04,North Las Vegas,NV0020200,13A,H,W,H,M,50,R,N,ST,Residence/Home,Home,Firearm,,C
+221655341,198997926,2024-04-04,North Las Vegas,NV0020200,13A,B,B,N,F,47,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+221655343,198997926,2024-04-04,North Las Vegas,NV0020200,13A,B,B,N,F,43,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+210478774,189282004,2024-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,Y,XR,Residence/Home,Home,Motor Vehicle/Vessel,Minor Injury,C
+217178516,195105681,2024-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,BG,Convenience Store,Convenience Store,Handgun,,C
+217915204,195746623,2024-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,FR,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+217915207,195746626,2024-04-05,North Las Vegas,NV0020200,13A,W,W,N,M,50,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+221655307,198997900,2024-04-06,North Las Vegas,NV0020200,13A,W,W,N,F,40,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury,C
+221655355,198997935,2024-04-06,North Las Vegas,NV0020200,13A,H,W,H,M,28,N,N,AQ,Residence/Home,Home,Handgun,,C
+221655296,198997892,2024-04-07,North Las Vegas,NV0020200,13A,H,W,H,M,33,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+221655328,198997919,2024-04-07,North Las Vegas,NV0020200,13A,H,W,H,M,27,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+221655402,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,16,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655404,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,15,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655405,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,19,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655406,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655407,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655408,198997970,2024-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,14,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+212463143,191008055,2024-04-09,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+221655373,198997949,2024-04-09,North Las Vegas,NV0020200,13A,B,B,N,M,66,R,N,ST,Department/Discount Store,Department Store,Handgun,,C
+211891594,190507478,2024-04-10,North Las Vegas,NV0020200,13A,H,W,H,F,55,N,N,ST,Convenience Store,Convenience Store,Blunt Object,,C
+221655398,198997966,2024-04-10,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,Y,BG,Park/Playground,Park & Playground,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+221655459,198998011,2024-04-10,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221655484,198998030,2024-04-10,North Las Vegas,NV0020200,13A,H,W,H,M,46,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones,C
+232287137,208280578,2024-04-10,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,AQ,Residence/Home,Home,,Loss of Teeth,C
+210478952,189282158,2024-04-11,North Las Vegas,NV0020200,13A,W,W,N,M,52,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,,C
+221655381,198997955,2024-04-11,North Las Vegas,NV0020200,13A,W,W,N,M,61,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+221655472,198998021,2024-04-11,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,RU,Convenience Store,Convenience Store,Handgun,Possible Internal Injury,C
+217179008,195106121,2024-04-12,North Las Vegas,NV0020200,13A,W,W,N,M,30,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217179009,195106121,2024-04-12,North Las Vegas,NV0020200,13A,W,W,N,M,5,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217179010,195106121,2024-04-12,North Las Vegas,NV0020200,13A,W,W,N,M,8,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217915332,195746733,2024-04-12,North Las Vegas,NV0020200,13A,B,B,N,M,56,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+214340902,192638507,2024-04-13,North Las Vegas,NV0020200,13A,B,B,N,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+214340931,192638534,2024-04-13,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+211891736,190507601,2024-04-14,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+217178542,195105705,2024-04-14,North Las Vegas,NV0020200,13A,H,W,H,M,33,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+221655453,198998006,2024-04-14,North Las Vegas,NV0020200,13A,B,B,N,F,22,R,Y,XR,Residence/Home,Home,Handgun,,C
+211891878,190507724,2024-04-16,North Las Vegas,NV0020200,13A,W,W,N,F,41,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+232287143,208280582,2024-04-16,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+221655604,198998126,2024-04-17,North Las Vegas,NV0020200,13A,B,B,N,M,45,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221655665,198998180,2024-04-17,North Las Vegas,NV0020200,13A,H,W,H,F,43,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury,C
+221655649,198998163,2024-04-18,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,PA,Residence/Home,Home,,,C
+221655667,198998181,2024-04-19,North Las Vegas,NV0020200,13A,H,W,H,F,25,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+221655619,198998140,2024-04-20,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221655640,198998156,2024-04-20,North Las Vegas,NV0020200,13A,W,W,N,F,9,R,N,RU,Park/Playground,Park & Playground,Blunt Object,,C
+221655777,198998281,2024-04-20,North Las Vegas,NV0020200,13A,H,W,H,M,25,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655828,198998323,2024-04-20,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,SB,Residence/Home,Home,Handgun,,C
+221655720,198998231,2024-04-22,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+221655745,198998251,2024-04-22,North Las Vegas,NV0020200,13A,B,B,N,M,45,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221655768,198998273,2024-04-23,North Las Vegas,NV0020200,13A,B,B,N,F,26,U,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+214341060,192638646,2024-04-24,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+217915601,195746968,2024-04-24,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,Y,XR,Residence/Home,Home,Blunt Object,,C
+221655788,198998290,2024-04-24,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+221655849,198998340,2024-04-25,North Las Vegas,NV0020200,13A,H,W,H,F,38,R,N,PA,Residence/Home,Home,Blunt Object,Minor Injury,C
+221655887,198998378,2024-04-25,North Las Vegas,NV0020200,13A,B,B,N,M,65,R,N,AQ,Park/Playground,Park & Playground,Knife/Cutting Instrument,Other Major Injury,C
+221655876,198998367,2024-04-26,North Las Vegas,NV0020200,13A,W,W,N,F,0,R,N,CH,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+217178608,195105768,2024-04-27,North Las Vegas,NV0020200,13A,H,W,H,M,51,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221655894,198998382,2024-04-27,North Las Vegas,NV0020200,13A,B,B,N,F,49,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+221655937,198998419,2024-04-28,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+224196501,201207904,2024-04-28,North Las Vegas,NV0020200,13A,B,B,N,F,44,N,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+224196502,201207904,2024-04-28,North Las Vegas,NV0020200,13A,B,B,N,F,60,N,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+217178637,195105796,2024-04-29,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221656030,198998503,2024-04-29,North Las Vegas,NV0020200,13A,W,W,N,M,38,R,N,ST,Grocery/Supermarket,Grocery Store,Motor Vehicle/Vessel,,C
+214341168,192638728,2024-05-02,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+216011496,194093197,2024-05-02,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+217915774,195747100,2024-05-02,North Las Vegas,NV0020200,13A,H,W,H,F,28,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+217915840,195747150,2024-05-02,North Las Vegas,NV0020200,13A,B,B,N,F,47,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Other Major Injury;Possible Internal Injury;Unconscious,C
+217916473,195747683,2024-05-02,North Las Vegas,NV0020200,13A,W,W,N,M,62,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221655971,198998452,2024-05-02,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,ST,Commercial/Office Building,Office Building,Blunt Object,,C
+214341251,192638800,2024-05-03,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Severe Laceration,C
+221656039,198998513,2024-05-03,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,Y,BG,Restaurant,Restaurant,Firearm,Minor Injury,C
+216011515,194093215,2024-05-04,North Las Vegas,NV0020200,13A,W,W,U,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury;Unconscious,C
+214341294,192638836,2024-05-05,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,N,NE,Residence/Home,Home,Blunt Object,Minor Injury,C
+217915871,195747177,2024-05-05,North Las Vegas,NV0020200,13A,W,W,N,M,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+217915876,195747181,2024-05-05,North Las Vegas,NV0020200,13A,B,B,N,F,44,U,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+217915874,195747180,2024-05-06,North Las Vegas,NV0020200,13A,H,B,H,F,26,R,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,,C
+221655988,198998468,2024-05-06,North Las Vegas,NV0020200,13A,H,W,H,M,32,N,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Handgun,Minor Injury,C
+221655990,198998468,2024-05-06,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Handgun,Minor Injury,C
+221655992,198998468,2024-05-06,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Handgun,,C
+221657217,198999454,2024-05-07,North Las Vegas,NV0020200,13A,W,W,N,F,54,R,N,ST,Government/Public Building,Government Building,Blunt Object,Possible Internal Injury,C
+221656131,198998572,2024-05-08,North Las Vegas,NV0020200,13A,B,B,N,F,42,R,Y,XS,Residence/Home,Home,Personal Weapons,Minor Injury,C
+214341393,192638916,2024-05-09,North Las Vegas,NV0020200,13A,W,W,N,F,38,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury;Other Major Injury,C
+221656218,198998644,2024-05-09,North Las Vegas,NV0020200,13A,W,W,N,F,43,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+217915955,195747251,2024-05-10,North Las Vegas,NV0020200,13A,B,B,N,F,38,N,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+217915956,195747251,2024-05-10,North Las Vegas,NV0020200,13A,B,B,N,F,11,R,N,OF,Residence/Home,Home,Blunt Object,,C
+217915995,195747283,2024-05-11,North Las Vegas,NV0020200,13A,W,W,N,M,54,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+221656148,198998584,2024-05-11,North Las Vegas,NV0020200,13A,H,W,H,M,42,R,Y,SE,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+221656233,198998657,2024-05-11,North Las Vegas,NV0020200,13A,H,W,H,M,15,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Possible Internal Injury,C
+216011627,194093313,2024-05-12,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+217916021,195747307,2024-05-12,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221656221,198998647,2024-05-12,North Las Vegas,NV0020200,13A,H,P,H,M,18,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Unconscious,C
+221656222,198998647,2024-05-12,North Las Vegas,NV0020200,13A,H,W,H,F,18,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+221656234,198998655,2024-05-12,North Las Vegas,NV0020200,13A,B,B,N,M,37,R,N,AQ,Residence/Home,Home,Handgun;Unknown,Minor Injury,C
+221656235,198998655,2024-05-12,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,AQ,Residence/Home,Home,Handgun;Unknown,,C
+221656247,198998668,2024-05-12,North Las Vegas,NV0020200,13A,W,W,N,F,42,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+217916102,195747378,2024-05-13,North Las Vegas,NV0020200,13A,B,B,N,M,69,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+230029299,206307750,2024-05-13,North Las Vegas,NV0020200,13A,B,B,N,M,37,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Apparent Broken Bones;Minor Injury,C
+217916052,195747335,2024-05-14,North Las Vegas,NV0020200,13A,B,B,N,M,24,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+217178692,195105846,2024-05-15,North Las Vegas,NV0020200,13A,W,W,N,F,20,N,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+217916086,195747363,2024-05-15,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,N,ST,Department/Discount Store,Department Store,Handgun,,C
+221656290,198998703,2024-05-16,North Las Vegas,NV0020200,13A,H,W,H,F,32,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+219491352,197113273,2024-05-18,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+219491353,197113273,2024-05-18,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Possible Internal Injury;Severe Laceration,C
+219491354,197113273,2024-05-18,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+221656375,198998770,2024-05-18,North Las Vegas,NV0020200,13A,W,W,N,M,53,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other Firearm,,C
+217916221,195747476,2024-05-19,North Las Vegas,NV0020200,13A,H,W,H,F,39,R,Y,XS,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+217178729,195105875,2024-05-20,North Las Vegas,NV0020200,13A,H,W,H,F,39,R,Y,XS,Residence/Home,Home,Knife/Cutting Instrument,,C
+217916244,195747497,2024-05-20,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,N,ST,Other/Unknown,Other & Unknown,Handgun,,C
+217916276,195747521,2024-05-20,North Las Vegas,NV0020200,13A,W,W,N,F,33,R,N,ST,Convenience Store,Convenience Store,Other,,C
+221656393,198998781,2024-05-20,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+214342163,192639555,2024-05-21,North Las Vegas,NV0020200,13A,B,B,N,M,52,R,N,ST,Residence/Home,Home,Other,,C
+214342169,192639562,2024-05-22,North Las Vegas,NV0020200,13A,H,W,H,F,28,R,N,ST,Restaurant,Restaurant,Handgun,,C
+214342170,192639562,2024-05-22,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,ST,Restaurant,Restaurant,Handgun,,C
+219491340,197113261,2024-05-22,North Las Vegas,NV0020200,13A,W,W,N,F,33,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+221656399,198998785,2024-05-23,North Las Vegas,NV0020200,13A,B,B,N,M,32,U,N,AQ,Residence/Home,Home,Handgun,Other Major Injury,C
+214342547,192639894,2024-05-24,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,SB,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221656429,198998808,2024-05-24,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,Y,BG,Residence/Home,Home,Blunt Object,Other Major Injury,C
+221656441,198998820,2024-05-24,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,SB,Park/Playground,Park & Playground,Personal Weapons,Apparent Broken Bones,C
+221656458,198998830,2024-05-24,North Las Vegas,NV0020200,13A,W,W,N,F,28,R,N,ST,Commercial/Office Building,Office Building,Other,Possible Internal Injury,C
+221656568,198998924,2024-05-25,North Las Vegas,NV0020200,13A,W,W,N,M,49,R,N,PA,Residence/Home,Home,Blunt Object,Minor Injury,C
+221658290,199000351,2024-05-25,North Las Vegas,NV0020200,13A,B,B,N,F,29,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury;Severe Laceration,C
+219491459,197113360,2024-05-26,North Las Vegas,NV0020200,13A,B,B,N,F,58,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+221656539,198998903,2024-05-26,North Las Vegas,NV0020200,13A,W,W,N,F,57,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221656612,198998958,2024-05-28,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,AQ,Convenience Store,Convenience Store,Handgun,Other Major Injury,C
+230029316,206307766,2024-05-28,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,XR,Residence/Home,Home,Blunt Object,Minor Injury,C
+219491504,197113392,2024-05-29,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other Firearm,Minor Injury,C
+221656656,198998985,2024-05-29,North Las Vegas,NV0020200,13A,B,B,N,M,61,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,,C
+214343214,192640472,2024-05-30,North Las Vegas,NV0020200,13A,W,W,N,F,33,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+216011854,194093511,2024-06-01,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+219491671,197113539,2024-06-01,North Las Vegas,NV0020200,13A,B,B,N,M,57,U,N,ST,Residence/Home,Home,Firearm,,C
+221656674,198999000,2024-06-02,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221656720,198999038,2024-06-03,North Las Vegas,NV0020200,13A,B,B,U,F,20,R,Y,XR,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+217178727,195105874,2024-06-04,North Las Vegas,NV0020200,13A,H,W,H,M,46,N,N,EE,Commercial/Office Building,Office Building,Other,,C
+219491914,197113744,2024-06-04,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,N,RU,Convenience Store,Convenience Store,Handgun,,C
+221656776,198999084,2024-06-04,North Las Vegas,NV0020200,13A,W,W,N,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+216011964,194093610,2024-06-05,North Las Vegas,NV0020200,13A,H,W,H,F,48,R,N,PA,Residence/Home,Home,Other,Severe Laceration,C
+221656766,198999076,2024-06-06,North Las Vegas,NV0020200,13A,B,B,N,M,40,U,N,OK,Residence/Home,Home,Blunt Object,Minor Injury,C
+216012294,194093859,2024-06-07,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,Y,XR,Residence/Home,Home,Handgun,,C
+219492110,197113913,2024-06-07,North Las Vegas,NV0020200,13A,W,W,N,M,33,N,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+221656750,198999062,2024-06-07,North Las Vegas,NV0020200,13A,B,B,N,M,44,N,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+219492070,197113878,2024-06-08,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+221656770,198999079,2024-06-08,North Las Vegas,NV0020200,13A,B,B,U,M,22,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221656771,198999079,2024-06-08,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+221656851,198999145,2024-06-08,North Las Vegas,NV0020200,13A,W,W,N,M,53,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+216012087,194093706,2024-06-09,North Las Vegas,NV0020200,13A,B,B,N,F,30,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+219492105,197113908,2024-06-09,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+219492119,197113921,2024-06-09,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,OK;RU,Residence/Home,Home,Handgun,,C
+219492120,197113921,2024-06-09,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,OK;RU,Residence/Home,Home,Handgun,,C
+219492126,197113926,2024-06-09,North Las Vegas,NV0020200,13A,H,W,H,M,43,R,N,RU,Residence/Home,Home,Handgun,,C
+219492154,197113951,2024-06-10,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,IL,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+219492200,197113991,2024-06-10,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221656856,198999148,2024-06-10,North Las Vegas,NV0020200,13A,W,W,N,F,49,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury,C
+221656922,198999204,2024-06-10,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,EE,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+217916647,195747836,2024-06-11,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+219492247,197114034,2024-06-12,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221656926,198999208,2024-06-12,North Las Vegas,NV0020200,13A,W,W,N,F,43,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221656980,198999251,2024-06-12,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+219492292,197114072,2024-06-14,North Las Vegas,NV0020200,13A,B,B,N,M,34,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+219492318,197114094,2024-06-15,North Las Vegas,NV0020200,13A,W,W,N,F,45,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+219492336,197114110,2024-06-15,North Las Vegas,NV0020200,13A,B,B,N,M,40,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+221656895,198999182,2024-06-15,North Las Vegas,NV0020200,13A,W,W,N,M,54,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+221657026,198999288,2024-06-15,North Las Vegas,NV0020200,13A,B,B,N,M,41,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+230029295,206307747,2024-06-15,North Las Vegas,NV0020200,13A,W,W,N,M,30,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+221657061,198999319,2024-06-16,North Las Vegas,NV0020200,13A,A,A,N,M,69,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+217178746,195105887,2024-06-17,North Las Vegas,NV0020200,13A,W,W,N,M,55,R,N,FR,Residence/Home,Home,Blunt Object,Minor Injury,C
+217178754,195105894,2024-06-17,North Las Vegas,NV0020200,13A,W,W,N,F,26,N,N,RU,Convenience Store,Convenience Store,Blunt Object,Minor Injury,C
+221657176,198999421,2024-06-17,North Las Vegas,NV0020200,13A,H,W,H,F,40,R,N,SP,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+217178773,195105906,2024-06-20,North Las Vegas,NV0020200,13A,W,W,N,F,29,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+219492588,197114330,2024-06-20,North Las Vegas,NV0020200,13A,H,W,H,M,33,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+221657329,198999540,2024-06-20,North Las Vegas,NV0020200,13A,B,B,N,F,18,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury,C
+230029345,206307790,2024-06-20,North Las Vegas,NV0020200,13A,H,B,H,F,18,R,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+230029346,206307790,2024-06-20,North Las Vegas,NV0020200,13A,B,B,N,F,13,R,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+217178767,195105900,2024-06-21,North Las Vegas,NV0020200,13A,B,B,N,F,16,R,N,RU,Convenience Store,Convenience Store,Other,,C
+230029306,206307757,2024-06-21,North Las Vegas,NV0020200,13A,H,W,H,F,44,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+219492675,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,M,51,R,N,RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,Possible Internal Injury,C
+219492676,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,M,29,R,N,RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,Other Major Injury,C
+219492677,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,F,14,R,N,CH;RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,,C
+219492678,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,N,OK;RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,,C
+219492679,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,N,OK;RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,,C
+219492680,197114405,2024-06-22,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,OK;RU,Convenience Store,Convenience Store,Blunt Object;Motor Vehicle/Vessel,Minor Injury,C
+219492707,197114421,2024-06-22,North Las Vegas,NV0020200,13A,B,B,N,M,3,R,N,CH,Residence/Home,Home,Handgun,Other Major Injury;Possible Internal Injury,C
+219492703,197114420,2024-06-23,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,N,OK;VO,Residence/Home,Home,Knife/Cutting Instrument,,C
+219492726,197114439,2024-06-23,North Las Vegas,NV0020200,13A,H,W,H,F,40,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+221657299,198999515,2024-06-23,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Unconscious,C
+217178789,195105922,2024-06-24,North Las Vegas,NV0020200,13A,H,W,H,F,35,R,Y,SE;SP,Residence/Home,Home,Personal Weapons,Unconscious,C
+221657160,198999407,2024-06-24,North Las Vegas,NV0020200,13A,H,W,H,M,65,R,N,NE,Residence/Home,Home,Blunt Object,,C
+219492971,197114645,2024-06-27,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,ST,Park/Playground,Park & Playground,Blunt Object,Minor Injury,C
+221657335,198999545,2024-06-28,North Las Vegas,NV0020200,13A,B,B,N,F,42,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221657533,198999718,2024-06-28,North Las Vegas,NV0020200,13A,W,W,N,F,24,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+219493058,197114708,2024-06-29,North Las Vegas,NV0020200,13A,H,W,H,M,36,N,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Minor Injury;Unconscious,C
+221657325,198999537,2024-06-29,North Las Vegas,NV0020200,13A,B,B,N,M,47,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Possible Internal Injury,C
+221657326,198999537,2024-06-29,North Las Vegas,NV0020200,13A,W,W,N,M,45,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Possible Internal Injury,C
+221657414,198999613,2024-06-29,North Las Vegas,NV0020200,13A,H,W,H,M,29,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+217178795,195105927,2024-07-01,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,Y,SE,Residence/Home,Home,Handgun,Minor Injury,C
+221657478,198999669,2024-07-01,North Las Vegas,NV0020200,13A,H,W,H,M,31,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Apparent Broken Bones,C
+221657534,198999719,2024-07-01,North Las Vegas,NV0020200,13A,B,B,N,F,42,N,N,OF,Residence/Home,Home,Personal Weapons,,C
+232287161,208280599,2024-07-01,North Las Vegas,NV0020200,13A,B,B,N,F,14,R,N,RU,Park/Playground,Park & Playground,Knife/Cutting Instrument,Minor Injury,C
+232287162,208280599,2024-07-01,North Las Vegas,NV0020200,13A,B,B,N,F,12,R,N,RU,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+221657579,198999757,2024-07-02,North Las Vegas,NV0020200,13A,B,B,N,F,44,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+221657588,198999764,2024-07-02,North Las Vegas,NV0020200,13A,H,W,H,F,22,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+221657589,198999764,2024-07-02,North Las Vegas,NV0020200,13A,H,W,H,F,24,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+221657590,198999764,2024-07-02,North Las Vegas,NV0020200,13A,H,W,H,M,0,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+221657591,198999764,2024-07-02,North Las Vegas,NV0020200,13A,H,W,H,F,5,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+219493232,197114856,2024-07-03,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,ST,Other/Unknown,Other & Unknown,Personal Weapons,Other Major Injury,C
+219493274,197114893,2024-07-03,North Las Vegas,NV0020200,13A,W,W,U,F,54,U,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+219493275,197114893,2024-07-03,North Las Vegas,NV0020200,13A,W,W,N,F,53,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+219493282,197114899,2024-07-03,North Las Vegas,NV0020200,13A,B,B,N,F,32,N,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Personal Weapons,Apparent Broken Bones,C
+221657472,198999663,2024-07-03,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+221657490,198999680,2024-07-03,North Las Vegas,NV0020200,13A,H,W,H,F,32,R,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Possible Internal Injury,C
+217178847,195105971,2024-07-04,North Las Vegas,NV0020200,13A,W,W,N,M,55,R,N,ST,Residence/Home,Home,Rifle,,C
+217178848,195105972,2024-07-05,North Las Vegas,NV0020200,13A,B,B,N,M,51,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,Minor Injury,C
+219493353,197114960,2024-07-05,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+219493374,197114976,2024-07-05,North Las Vegas,NV0020200,13A,H,B,H,F,43,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221657633,198999800,2024-07-05,North Las Vegas,NV0020200,13A,B,B,N,M,62,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+221657611,198999783,2024-07-06,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+217178882,195106004,2024-07-07,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+221657642,198999808,2024-07-07,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,N,RU,Bar/Nightclub,Bar & Nightclub,Handgun,,C
+217178883,195106005,2024-07-08,North Las Vegas,NV0020200,13A,H,W,H,F,43,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+217178887,195106008,2024-07-08,North Las Vegas,NV0020200,13A,W,W,N,M,19,R,N,AQ,Jail/Prison/Penitentiary/Corrections Facility,Jail & Prison,Personal Weapons,Unconscious,C
+219493707,197115245,2024-07-08,North Las Vegas,NV0020200,13A,H,W,H,M,28,N,N,ST,Convenience Store,Convenience Store,Other,,C
+219493708,197115245,2024-07-08,North Las Vegas,NV0020200,13A,H,W,H,M,57,N,N,ST,Convenience Store,Convenience Store,Other,,C
+221657786,198999925,2024-07-09,North Las Vegas,NV0020200,13A,H,W,H,M,32,N,N,RU,Residence/Home,Home,Handgun,,C
+221657787,198999925,2024-07-09,North Las Vegas,NV0020200,13A,H,W,H,M,33,N,N,RU,Residence/Home,Home,Handgun,,C
+221657799,198999935,2024-07-09,North Las Vegas,NV0020200,13A,B,B,N,M,54,R,Y,SE,Residence/Home,Home,Handgun,,C
+219493817,197115341,2024-07-10,North Las Vegas,NV0020200,13A,W,W,U,M,42,N,N,EE,Convenience Store,Convenience Store,Handgun,,C
+221657836,198999970,2024-07-12,North Las Vegas,NV0020200,13A,H,W,H,M,28,R,N,OK;RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221657837,198999970,2024-07-12,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,N,OK;RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221657852,198999982,2024-07-12,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+219494049,197115551,2024-07-14,North Las Vegas,NV0020200,13A,B,B,N,M,17,U,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+219494100,197115597,2024-07-15,North Las Vegas,NV0020200,13A,W,W,N,F,19,N,N,AQ,Residence/Home,Home,Handgun,,C
+221657850,198999980,2024-07-15,North Las Vegas,NV0020200,13A,B,B,N,F,54,R,Y,XR,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+219494207,197115688,2024-07-16,North Las Vegas,NV0020200,13A,P,P,N,F,21,R,N,OF,Residence/Home,Home,Blunt Object,Minor Injury,C
+221657891,199000015,2024-07-16,North Las Vegas,NV0020200,13A,H,W,H,M,33,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+221657979,199000093,2024-07-16,North Las Vegas,NV0020200,13A,P,P,N,M,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221657980,199000093,2024-07-16,North Las Vegas,NV0020200,13A,H,W,H,M,27,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221658001,199000114,2024-07-16,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,ST,Commercial/Office Building,Office Building,Handgun,,C
+221658061,199000163,2024-07-16,North Las Vegas,NV0020200,13A,B,B,N,M,52,R,N,PA,Residence/Home,Home,Shotgun,,C
+221658063,199000163,2024-07-16,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,N,SB,Residence/Home,Home,Shotgun,,C
+219494159,197115645,2024-07-17,North Las Vegas,NV0020200,13A,B,B,N,F,48,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+219494246,197115722,2024-07-17,North Las Vegas,NV0020200,13A,W,W,N,F,63,N,N,RU,Convenience Store,Convenience Store,Handgun,,C
+221658053,199000155,2024-07-18,North Las Vegas,NV0020200,13A,B,B,N,M,57,U,N,AQ,Other/Unknown,Other & Unknown,Other,Minor Injury,C
+221658071,199000172,2024-07-18,North Las Vegas,NV0020200,13A,H,W,H,F,22,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221658072,199000172,2024-07-18,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221658162,199000244,2024-07-19,North Las Vegas,NV0020200,13A,H,W,H,M,28,U,N,RU,Auto Dealership New/Used,Auto Dealership,Motor Vehicle/Vessel,,C
+221658129,199000215,2024-07-20,North Las Vegas,NV0020200,13A,H,W,H,M,37,R,N,NE,Residence/Home,Home,Rifle,,C
+221658191,199000263,2024-07-20,North Las Vegas,NV0020200,13A,P,P,N,M,30,R,Y,SE,Residence/Home,Home,Handgun,,C
+219494442,197115887,2024-07-22,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+219494513,197115947,2024-07-22,North Las Vegas,NV0020200,13A,B,B,N,F,24,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+221658120,199000208,2024-07-22,North Las Vegas,NV0020200,13A,H,W,H,M,30,R,N,CH,Residence/Home,Home,Handgun,,C
+221658207,199000278,2024-07-23,North Las Vegas,NV0020200,13A,W,W,N,M,57,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221658301,199000361,2024-07-23,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,RU,Residence/Home,Home,Handgun,Other Major Injury,C
+221658303,199000361,2024-07-23,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,RU,Residence/Home,Home,Handgun,Minor Injury,C
+221658304,199000361,2024-07-23,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,N,RU,Residence/Home,Home,Handgun,,C
+219495832,197117100,2024-07-24,North Las Vegas,NV0020200,13A,W,W,N,F,19,R,Y,BG,Residence/Home,Home,Personal Weapons,,C
+221658340,199000393,2024-07-25,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+219494653,197116057,2024-07-27,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury;Possible Internal Injury,C
+221658457,199000487,2024-07-27,North Las Vegas,NV0020200,13A,B,B,N,M,49,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221659885,199001706,2024-07-27,North Las Vegas,NV0020200,13A,B,B,N,M,56,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+219494662,197116062,2024-07-29,North Las Vegas,NV0020200,13A,B,B,N,M,49,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221658551,199000563,2024-07-29,North Las Vegas,NV0020200,13A,B,B,N,M,59,R,N,SB,Residence/Home,Home,Blunt Object,Minor Injury,C
+221658570,199000579,2024-07-30,North Las Vegas,NV0020200,13A,H,W,H,F,22,R,N,ST,Convenience Store,Convenience Store,Handgun,,C
+219494905,197116263,2024-07-31,North Las Vegas,NV0020200,13A,H,W,H,M,52,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+219494991,197116338,2024-07-31,North Las Vegas,NV0020200,13A,B,B,N,F,20,N,N,EE,Residence/Home,Home,Knife/Cutting Instrument,,C
+221658560,199000571,2024-07-31,North Las Vegas,NV0020200,13A,H,W,H,M,57,R,N,AQ,Shelter-Mission/Homeless,Shelter,Personal Weapons,Apparent Broken Bones;Severe Laceration,C
+221658635,199000632,2024-07-31,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+221658665,199000658,2024-08-01,North Las Vegas,NV0020200,13A,A,A,N,M,50,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221658699,199000686,2024-08-02,North Las Vegas,NV0020200,13A,I,I,N,M,67,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+221658724,199000711,2024-08-02,North Las Vegas,NV0020200,13A,B,B,N,M,26,R,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+221658758,199000741,2024-08-02,North Las Vegas,NV0020200,13A,W,W,N,M,27,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Severe Laceration,C
+221658820,199000796,2024-08-03,North Las Vegas,NV0020200,13A,W,W,N,M,67,R,N,ST,Residence/Home,Home,Other,,C
+221658874,199000842,2024-08-04,North Las Vegas,NV0020200,13A,H,W,H,M,16,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+221658876,199000842,2024-08-04,North Las Vegas,NV0020200,13A,H,W,H,M,26,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+221658926,199000884,2024-08-04,North Las Vegas,NV0020200,13A,W,W,N,F,25,R,N,,Park/Playground,Park & Playground,Firearm,Minor Injury,C
+221659699,199001567,2024-08-04,North Las Vegas,NV0020200,13A,W,W,N,F,37,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221659048,199000997,2024-08-05,North Las Vegas,NV0020200,13A,H,W,H,M,50,R,N,AQ,Residence/Home,Home,Handgun,,C
+219495086,197116418,2024-08-06,North Las Vegas,NV0020200,13A,H,W,H,M,55,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury,C
+219495275,197116588,2024-08-07,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,N,ST,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Knife/Cutting Instrument,,C
+221659328,199001247,2024-08-07,North Las Vegas,NV0020200,13A,A,A,N,M,22,R,N,FR,Residence/Home,Home,Blunt Object,Minor Injury,C
+221659429,199001336,2024-08-07,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,ST,Specialty Store,Specialty Store,Handgun,,C
+221659430,199001337,2024-08-08,North Las Vegas,NV0020200,13A,B,B,N,M,63,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221659519,199001417,2024-08-09,North Las Vegas,NV0020200,13A,H,W,H,M,34,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+221659571,199001463,2024-08-09,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,OK;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,,C
+219495608,197116897,2024-08-10,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221659639,199001524,2024-08-11,North Las Vegas,NV0020200,13A,B,B,N,M,42,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+221659654,199001536,2024-08-12,North Las Vegas,NV0020200,13A,A,A,N,F,30,R,Y,SE,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Possible Internal Injury,C
+221659751,199001608,2024-08-13,North Las Vegas,NV0020200,13A,H,W,H,F,21,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+221659769,199001624,2024-08-14,North Las Vegas,NV0020200,13A,B,B,N,M,42,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Severe Laceration,C
+221659859,199001692,2024-08-16,North Las Vegas,NV0020200,13A,B,B,N,F,63,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury,C
+224196805,201208152,2024-08-16,North Las Vegas,NV0020200,13A,W,W,N,M,45,R,N,ST,Bar/Nightclub,Bar & Nightclub,Handgun,,C
+221660111,199001898,2024-08-18,North Las Vegas,NV0020200,13A,H,W,H,M,20,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones,C
+221660030,199001833,2024-08-19,North Las Vegas,NV0020200,13A,H,W,H,F,52,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+221660045,199001847,2024-08-19,North Las Vegas,NV0020200,13A,W,W,N,M,45,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221660377,199002123,2024-08-21,North Las Vegas,NV0020200,13A,H,W,H,F,50,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221660415,199002154,2024-08-22,North Las Vegas,NV0020200,13A,H,W,H,M,66,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Severe Laceration,C
+221660543,199002262,2024-08-23,North Las Vegas,NV0020200,13A,W,W,N,M,52,N,N,ST,Park/Playground,Park & Playground,Knife/Cutting Instrument,Minor Injury,C
+224196875,201208212,2024-08-23,North Las Vegas,NV0020200,13A,H,W,H,F,40,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+221660710,199002393,2024-08-24,North Las Vegas,NV0020200,13A,H,W,H,F,39,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury;Unconscious,C
+221661878,199003373,2024-08-24,North Las Vegas,NV0020200,13A,H,W,H,M,35,R,Y,BG,Residence/Home,Home,Handgun,,C
+219496085,197117317,2024-08-26,North Las Vegas,NV0020200,13A,B,B,N,M,40,R,N,CH,Residence/Home,Home,Handgun,Other Major Injury,C
+221660993,199002627,2024-08-26,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221661052,199002672,2024-08-26,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Other,Minor Injury,C
+219496049,197117287,2024-08-27,North Las Vegas,NV0020200,13A,H,W,H,F,24,N,N,ST,Restaurant,Restaurant,Handgun,,C
+219496052,197117287,2024-08-27,North Las Vegas,NV0020200,13A,H,W,H,M,5,N,N,ST,Restaurant,Restaurant,Handgun,,C
+221660986,199002623,2024-08-27,North Las Vegas,NV0020200,13A,B,B,N,F,42,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221660988,199002623,2024-08-27,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221660989,199002623,2024-08-27,North Las Vegas,NV0020200,13A,B,B,N,M,4,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221660990,199002623,2024-08-27,North Las Vegas,NV0020200,13A,B,B,N,F,3,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221661116,199002726,2024-08-28,North Las Vegas,NV0020200,13A,H,W,H,M,46,R,N,RU,Residence/Home,Home,Blunt Object,Severe Laceration,C
+221661123,199002731,2024-08-28,North Las Vegas,NV0020200,13A,W,W,N,F,57,R,N,ST,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Severe Laceration,C
+221661242,199002832,2024-08-28,North Las Vegas,NV0020200,13A,H,W,H,F,32,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221661397,199002971,2024-08-29,North Las Vegas,NV0020200,13A,B,B,N,M,51,R,N,RU,Park/Playground,Park & Playground,Blunt Object,Severe Laceration,C
+221661360,199002938,2024-08-30,North Las Vegas,NV0020200,13A,H,W,H,M,19,R,N,RU,Park/Playground,Park & Playground,Handgun,Minor Injury,C
+221661677,199003201,2024-08-31,North Las Vegas,NV0020200,13A,H,W,H,M,60,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221661678,199003201,2024-08-31,North Las Vegas,NV0020200,13A,H,W,H,F,62,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+221661636,199003164,2024-09-01,North Las Vegas,NV0020200,13A,W,W,N,M,30,R,N,ST,Industrial Site,Industrial Site,Knife/Cutting Instrument,,C
+221663759,199004974,2024-09-01,North Las Vegas,NV0020200,13A,H,W,H,F,25,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Possible Internal Injury,C
+221661667,199003191,2024-09-02,North Las Vegas,NV0020200,13A,I,I,N,M,27,U,N,RU,Convenience Store,Convenience Store,Handgun,,C
+221661848,199003348,2024-09-02,North Las Vegas,NV0020200,13A,B,B,N,F,28,N,N,ST,Residence/Home,Home,Handgun,,C
+221661880,199003376,2024-09-03,North Las Vegas,NV0020200,13A,H,W,H,F,27,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221662207,199003645,2024-09-03,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221662454,199003855,2024-09-05,North Las Vegas,NV0020200,13A,H,W,H,F,17,R,N,SC,Residence/Home,Home,Handgun,Minor Injury,C
+221662462,199003861,2024-09-05,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221662467,199003861,2024-09-05,North Las Vegas,NV0020200,13A,W,W,N,F,32,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+221662253,199003685,2024-09-06,North Las Vegas,NV0020200,13A,W,W,N,F,39,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+221662682,199004040,2024-09-07,North Las Vegas,NV0020200,13A,B,B,N,M,12,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221662638,199004006,2024-09-08,North Las Vegas,NV0020200,13A,B,B,N,M,42,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+221663028,199004344,2024-09-10,North Las Vegas,NV0020200,13A,W,W,N,F,45,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221663029,199004344,2024-09-10,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221663039,199004350,2024-09-10,North Las Vegas,NV0020200,13A,B,B,N,M,62,R,N,ST,Residence/Home,Home,Handgun,,C
+221663097,199004403,2024-09-10,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,CS,Residence/Home,Home,Knife/Cutting Instrument,,C
+221662939,199004263,2024-09-11,North Las Vegas,NV0020200,13A,B,B,N,M,38,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+221663142,199004440,2024-09-12,North Las Vegas,NV0020200,13A,H,W,H,F,70,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287166,208280603,2024-09-12,North Las Vegas,NV0020200,13A,B,B,N,F,41,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+224196985,201208306,2024-09-13,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury;Unconscious,C
+224197010,201208326,2024-09-13,North Las Vegas,NV0020200,13A,H,W,H,M,45,N,N,RU,Other/Unknown,Other & Unknown,Personal Weapons,Apparent Broken Bones,C
+224197011,201208326,2024-09-13,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,ST,Other/Unknown,Other & Unknown,Personal Weapons,Other Major Injury,C
+224197050,201208364,2024-09-13,North Las Vegas,NV0020200,13A,W,W,N,F,61,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+232287187,208280622,2024-09-13,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,RU,Residence/Home,Home,Handgun,Other Major Injury,C
+224196977,201208298,2024-09-14,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,,Residence/Home,Home,Shotgun,Apparent Broken Bones;Other Major Injury,C
+232287209,208280639,2024-09-14,North Las Vegas,NV0020200,13A,W,W,N,F,45,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+232287211,208280639,2024-09-14,North Las Vegas,NV0020200,13A,H,W,H,M,40,R,N,ST,Residence/Home,Home,Handgun,,C
+232287212,208280639,2024-09-14,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,ST,Residence/Home,Home,Handgun,,C
+232287213,208280639,2024-09-14,North Las Vegas,NV0020200,13A,W,W,N,F,42,R,N,ST,Residence/Home,Home,Handgun,,C
+232287214,208280639,2024-09-14,North Las Vegas,NV0020200,13A,H,W,H,F,21,R,N,ST,Residence/Home,Home,Handgun,,C
+232287171,208280607,2024-09-15,North Las Vegas,NV0020200,13A,H,W,H,M,60,R,N,PA,Residence/Home,Home,Personal Weapons,Loss of Teeth;Possible Internal Injury,C
+224197194,201208488,2024-09-16,North Las Vegas,NV0020200,13A,B,B,N,M,52,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287188,208280623,2024-09-16,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,ST,Residence/Home,Home,Firearm;Firearm (Automatic),Other Major Injury;Possible Internal Injury,C
+232287189,208280623,2024-09-16,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,ST,Residence/Home,Home,Firearm;Firearm (Automatic),Other Major Injury;Possible Internal Injury,C
+221663272,199004552,2024-09-18,North Las Vegas,NV0020200,13A,H,W,H,M,47,N,N,ST,Commercial/Office Building,Office Building,Blunt Object,Other Major Injury,C
+232287233,208280655,2024-09-18,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287237,208280659,2024-09-18,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+224197225,201208511,2024-09-19,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Severe Laceration,C
+232287228,208280650,2024-09-19,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,Y,SE,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+224197340,201208605,2024-09-20,North Las Vegas,NV0020200,13A,W,W,N,F,18,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+221663660,199004888,2024-09-21,North Las Vegas,NV0020200,13A,B,B,N,F,25,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+221663706,199004927,2024-09-23,North Las Vegas,NV0020200,13A,H,W,H,M,44,R,N,OK,Jail/Prison/Penitentiary/Corrections Facility,Jail & Prison,Personal Weapons,Apparent Broken Bones;Unconscious,C
+230030566,206308807,2024-09-25,North Las Vegas,NV0020200,13A,B,B,N,M,2,R,N,CH,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+224197563,201208796,2024-09-27,North Las Vegas,NV0020200,13A,B,B,N,F,53,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+224197735,201208938,2024-09-28,North Las Vegas,NV0020200,13A,B,B,N,F,24,N,N,ST,Liquor Store,Liquor Store,Handgun,Minor Injury,C
+221663661,199004887,2024-09-29,North Las Vegas,NV0020200,13A,H,W,H,F,36,R,Y,XS,Residence/Home,Home,Knife/Cutting Instrument,,C
+221663662,199004887,2024-09-29,North Las Vegas,NV0020200,13A,H,W,H,M,15,R,N,SC,Residence/Home,Home,Knife/Cutting Instrument,,C
+224197771,201208967,2024-09-29,North Las Vegas,NV0020200,13A,H,W,H,M,22,R,N,RU,Park/Playground,Park & Playground,Handgun,,C
+224197844,201209032,2024-09-30,North Las Vegas,NV0020200,13A,B,B,U,M,62,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224197985,201209150,2024-10-01,North Las Vegas,NV0020200,13A,W,W,N,M,41,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,Minor Injury,C
+224197973,201209143,2024-10-02,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+224198000,201209163,2024-10-02,North Las Vegas,NV0020200,13A,H,W,H,M,27,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,,C
+224198017,201209180,2024-10-02,North Las Vegas,NV0020200,13A,W,W,N,F,56,U,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+224198088,201209243,2024-10-02,North Las Vegas,NV0020200,13A,H,W,H,F,26,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Apparent Broken Bones,C
+232287305,208280721,2024-10-02,North Las Vegas,NV0020200,13A,B,B,N,F,56,R,N,NE,Residence/Home,Home,Handgun,,C
+232287514,208280896,2024-10-02,North Las Vegas,NV0020200,13A,B,B,N,F,39,R,N,PA,Residence/Home,Home,Handgun,,C
+224198074,201209233,2024-10-03,North Las Vegas,NV0020200,13A,W,W,N,M,39,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Severe Laceration,C
+224198108,201209262,2024-10-04,North Las Vegas,NV0020200,13A,B,B,N,F,23,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+224198429,201209529,2024-10-06,North Las Vegas,NV0020200,13A,B,B,N,M,21,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury,C
+232287316,208280729,2024-10-06,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Handgun,Possible Internal Injury,C
+224196371,201207792,2024-10-08,North Las Vegas,NV0020200,13A,A,A,N,F,30,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+224200040,201210956,2024-10-08,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+224198770,201209825,2024-10-10,North Las Vegas,NV0020200,13A,W,W,N,M,17,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+224198800,201209851,2024-10-10,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+232287353,208280761,2024-10-13,North Las Vegas,NV0020200,13A,B,B,N,F,18,N,N,AQ,Park/Playground,Park & Playground,Blunt Object,Apparent Broken Bones;Minor Injury,C
+230029525,206307950,2024-10-14,North Las Vegas,NV0020200,13A,H,W,H,M,35,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Possible Internal Injury,C
+230029526,206307950,2024-10-14,North Las Vegas,NV0020200,13A,H,W,H,F,64,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+232287369,208280774,2024-10-16,North Las Vegas,NV0020200,13A,B,B,N,M,27,R,N,EE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224199344,201210320,2024-10-17,North Las Vegas,NV0020200,13A,B,B,N,M,20,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+224199466,201210431,2024-10-18,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+224199545,201210505,2024-10-19,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+227318797,203932956,2024-10-19,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,AQ,Residence/Home,Home,Handgun,,C
+224199560,201210518,2024-10-20,North Las Vegas,NV0020200,13A,B,B,N,M,40,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+224199576,201210529,2024-10-20,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+224199744,201210685,2024-10-20,North Las Vegas,NV0020200,13A,H,W,H,F,50,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+232287401,208280803,2024-10-20,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,N,AQ,Residence/Home,Home,Firearm (Automatic),,C
+232287406,208280808,2024-10-21,North Las Vegas,NV0020200,13A,W,W,N,M,60,U,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other Firearm,Minor Injury,C
+232287436,208280832,2024-10-22,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+224199851,201210785,2024-10-23,North Las Vegas,NV0020200,13A,B,B,N,F,52,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+224199938,201210864,2024-10-24,North Las Vegas,NV0020200,13A,B,B,N,M,82,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+232287469,208280857,2024-10-24,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+232287501,208280883,2024-10-25,North Las Vegas,NV0020200,13A,W,W,N,M,53,R,N,EE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+224200130,201211040,2024-10-26,North Las Vegas,NV0020200,13A,B,B,N,F,25,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,,Possible Internal Injury;Unconscious,C
+230029654,206308061,2024-10-26,North Las Vegas,NV0020200,13A,B,B,N,M,33,N,N,RU,Commercial/Office Building,Office Building,Motor Vehicle/Vessel,Minor Injury,C
+232287506,208280888,2024-10-26,North Las Vegas,NV0020200,13A,H,W,H,F,19,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+224200267,201211163,2024-10-27,North Las Vegas,NV0020200,13A,H,W,H,M,36,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287482,208280868,2024-10-27,North Las Vegas,NV0020200,13A,W,W,N,M,34,N,N,OK,Residence/Home,Home,Handgun,Other Major Injury,C
+224200301,201211195,2024-10-29,North Las Vegas,NV0020200,13A,B,B,N,F,21,N,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+232287510,208280892,2024-10-30,North Las Vegas,NV0020200,13A,H,W,H,M,31,R,N,SP,Residence/Home,Home,Knife/Cutting Instrument,,C
+224200608,201211440,2024-10-31,North Las Vegas,NV0020200,13A,W,W,N,F,51,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+227318980,203933092,2024-10-31,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+227319058,203933159,2024-11-02,North Las Vegas,NV0020200,13A,P,P,N,F,18,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+227319059,203933159,2024-11-02,North Las Vegas,NV0020200,13A,P,P,N,M,21,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+227319060,203933159,2024-11-02,North Las Vegas,NV0020200,13A,P,P,N,F,21,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+227319139,203933219,2024-11-03,North Las Vegas,NV0020200,13A,B,B,U,F,20,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+227319140,203933219,2024-11-03,North Las Vegas,NV0020200,13A,B,B,N,F,18,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+227319249,203933311,2024-11-04,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,N,,Other/Unknown,Other & Unknown,Knife/Cutting Instrument,Severe Laceration,C
+232287539,208280914,2024-11-06,North Las Vegas,NV0020200,13A,H,W,H,F,29,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+224200874,201211667,2024-11-07,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287544,208280918,2024-11-07,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,SS,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+232287552,208280923,2024-11-07,North Las Vegas,NV0020200,13A,P,P,N,F,55,R,Y,SE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+232287557,208280927,2024-11-07,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,N,ST;VO,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury,C
+227319543,203933552,2024-11-08,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Unknown,Minor Injury,C
+227319557,203933564,2024-11-08,North Las Vegas,NV0020200,13A,B,B,N,F,22,R,N,SB,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,,C
+232287525,208280905,2024-11-10,North Las Vegas,NV0020200,13A,B,B,N,M,39,N,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+232287526,208280905,2024-11-10,North Las Vegas,NV0020200,13A,B,B,N,F,48,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+232288534,208281715,2024-11-10,North Las Vegas,NV0020200,13A,B,B,N,F,25,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Unconscious,C
+232288610,208281780,2024-11-11,North Las Vegas,NV0020200,13A,H,W,H,M,39,N,N,OK,Residence/Home,Home,Blunt Object,Minor Injury,C
+227319724,203933711,2024-11-12,North Las Vegas,NV0020200,13A,W,W,U,M,49,N,N,ST,Air/Bus/Train Terminal,Transit Station,Blunt Object;Personal Weapons,Minor Injury,C
+232287562,208280932,2024-11-13,North Las Vegas,NV0020200,13A,B,B,N,M,16,N,N,,Residence/Home,Home,Firearm,Minor Injury,C
+232287587,208280949,2024-11-15,North Las Vegas,NV0020200,13A,B,B,N,F,43,R,N,ST,Commercial/Office Building,Office Building,Knife/Cutting Instrument,,C
+232287653,208280995,2024-11-17,North Las Vegas,NV0020200,13A,H,W,H,M,25,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+232287804,208281101,2024-11-18,North Las Vegas,NV0020200,13A,W,W,N,M,54,N,N,AQ,Residence/Home,Home,Handgun,,C
+227320361,203934253,2024-11-20,North Las Vegas,NV0020200,13A,H,W,H,F,35,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+227320489,203934356,2024-11-20,North Las Vegas,NV0020200,13A,B,B,N,M,40,N,N,RU,Residence/Home,Home,Blunt Object,Severe Laceration,C
+232287643,208280988,2024-11-20,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+227320518,203934381,2024-11-21,North Las Vegas,NV0020200,13A,H,W,H,F,43,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+227320643,203934494,2024-11-22,North Las Vegas,NV0020200,13A,B,B,N,F,25,N,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury,C
+227321058,203934855,2024-11-23,North Las Vegas,NV0020200,13A,B,B,N,F,18,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+227320804,203934631,2024-11-24,North Las Vegas,NV0020200,13A,H,W,H,M,33,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+227320805,203934631,2024-11-24,North Las Vegas,NV0020200,13A,H,U,H,M,25,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+227321016,203934818,2024-11-25,North Las Vegas,NV0020200,13A,H,B,H,M,42,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+230029738,206308127,2024-11-26,North Las Vegas,NV0020200,13A,H,W,H,M,64,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+230029739,206308127,2024-11-26,North Las Vegas,NV0020200,13A,H,W,H,M,69,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+227321140,203934923,2024-11-27,North Las Vegas,NV0020200,13A,H,W,H,M,30,N,N,EE,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+227321242,203935005,2024-11-27,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+230029696,206308091,2024-11-27,North Las Vegas,NV0020200,13A,H,W,H,F,19,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+232287696,208281030,2024-11-27,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,ST,Residence/Home,Home,Firearm,Other Major Injury,C
+227321315,203935069,2024-11-28,North Las Vegas,NV0020200,13A,W,W,N,F,35,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287714,208281043,2024-11-29,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+227321613,203935317,2024-11-30,North Las Vegas,NV0020200,13A,B,B,N,M,39,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+227321620,203935317,2024-11-30,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+232287730,208281058,2024-11-30,North Las Vegas,NV0020200,13A,H,W,H,M,15,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+232287731,208281058,2024-11-30,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+232287733,208281058,2024-11-30,North Las Vegas,NV0020200,13A,H,W,H,M,20,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+232287734,208281058,2024-11-30,North Las Vegas,NV0020200,13A,H,W,H,F,19,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+227321705,203935401,2024-12-01,North Las Vegas,NV0020200,13A,B,B,N,F,49,R,Y,SE,Residence/Home,Home,Unknown,Minor Injury,C
+232287710,208281041,2024-12-01,North Las Vegas,NV0020200,13A,H,W,H,M,22,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+232287783,208281084,2024-12-01,North Las Vegas,NV0020200,13A,B,B,N,F,29,R,Y,XR,Residence/Home,Home,Handgun,,C
+232287784,208281084,2024-12-01,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,IL,Residence/Home,Home,Handgun,,C
+227321824,203935501,2024-12-03,North Las Vegas,NV0020200,13A,P,P,N,M,29,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,,C
+230029771,206308152,2024-12-03,North Las Vegas,NV0020200,13A,W,W,N,F,61,U,N,ST,Convenience Store,Convenience Store,Handgun,,C
+232287779,208281080,2024-12-04,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+227322120,203935773,2024-12-05,North Las Vegas,NV0020200,13A,H,W,H,M,36,R,Y,XS,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+227322315,203935944,2024-12-07,North Las Vegas,NV0020200,13A,W,W,N,M,44,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+230029864,206308228,2024-12-07,North Las Vegas,NV0020200,13A,W,W,N,M,28,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+232287838,208281131,2024-12-07,North Las Vegas,NV0020200,13A,B,B,N,M,46,R,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Other,Minor Injury,C
+232287839,208281131,2024-12-07,North Las Vegas,NV0020200,13A,H,W,H,M,35,U,N,ST,Gambling Facility/Casino/Race Track,Casino & Race Track,Other,Minor Injury,C
+230029900,206308256,2024-12-09,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+227323632,203937080,2024-12-12,North Las Vegas,NV0020200,13A,H,W,H,M,41,N,N,RU,Construction Site,Construction Site,Personal Weapons,Other Major Injury;Unconscious,C
+230030100,206308417,2024-12-12,North Las Vegas,NV0020200,13A,H,W,H,M,25,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+227323000,203936551,2024-12-14,North Las Vegas,NV0020200,13A,B,B,N,M,50,R,N,AQ,Residence/Home,Home,Blunt Object,Other Major Injury,C
+231468981,207568881,2024-12-14,North Las Vegas,NV0020200,13A,U,U,U,M,19,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+230030264,206308559,2024-12-15,North Las Vegas,NV0020200,13A,W,W,N,F,44,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+227323574,203937032,2024-12-17,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Other Major Injury,C
+227323481,203936952,2024-12-18,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+232287901,208281182,2024-12-25,North Las Vegas,NV0020200,13A,B,B,N,F,53,R,N,RU,Residence/Home,Home,Handgun,,C
+232287902,208281182,2024-12-25,North Las Vegas,NV0020200,13A,B,B,N,F,30,R,N,RU,Residence/Home,Home,Handgun,,C
+230030883,206309080,2024-12-26,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+230030887,206309083,2024-12-26,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+230031009,206309187,2024-12-28,North Las Vegas,NV0020200,13A,H,W,H,F,48,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+230031041,206309216,2024-12-28,North Las Vegas,NV0020200,13A,B,B,N,M,56,R,N,OK,Residence/Home,Home,Handgun,,C
+230031042,206309216,2024-12-28,North Las Vegas,NV0020200,13A,B,B,U,F,37,R,N,OK,Residence/Home,Home,Handgun,,C
+227324166,203937528,2024-12-29,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230031485,206309595,2025-01-01,North Las Vegas,NV0020200,13A,B,B,N,F,17,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+240354637,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,M,33,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354638,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,F,30,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354639,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,F,5,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354640,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,M,6,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354641,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,M,8,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354642,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,F,9,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354643,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,M,12,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240354644,215326927,2025-01-01,North Las Vegas,NV0020200,13A,H,W,H,F,0,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+230031360,206309485,2025-01-02,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,N,,Residence/Home,Home,Other,,C
+240354593,215326896,2025-01-05,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,RU;ST,Bar/Nightclub,Bar & Nightclub,Other,Minor Injury,C
+245051078,219423481,2025-01-06,North Las Vegas,NV0020200,13A,B,B,N,F,24,R,N,ST,Department/Discount Store,Department Store,Blunt Object,Minor Injury,C
+230031934,206310001,2025-01-09,North Las Vegas,NV0020200,13A,B,B,N,F,39,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230031935,206310001,2025-01-09,North Las Vegas,NV0020200,13A,B,B,N,F,17,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230031945,206310009,2025-01-09,North Las Vegas,NV0020200,13A,H,W,H,M,42,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230032138,206310171,2025-01-10,North Las Vegas,NV0020200,13A,H,W,H,M,58,R,N,ST,Residence/Home,Home,Shotgun,,C
+230032139,206310171,2025-01-10,North Las Vegas,NV0020200,13A,H,W,H,M,70,N,N,ST,Residence/Home,Home,Shotgun,,C
+230032140,206310171,2025-01-10,North Las Vegas,NV0020200,13A,W,W,N,M,35,N,N,ST,Residence/Home,Home,Shotgun,,C
+230032141,206310171,2025-01-10,North Las Vegas,NV0020200,13A,W,W,N,M,39,R,N,ST,Residence/Home,Home,Shotgun,,C
+230032142,206310171,2025-01-10,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,ST,Residence/Home,Home,Shotgun,,C
+230032144,206310171,2025-01-10,North Las Vegas,NV0020200,13A,H,W,H,M,35,N,N,RU,Residence/Home,Home,Shotgun,,C
+247561618,221620436,2025-01-11,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,CH,Residence/Home,Home,Blunt Object,,C
+230033484,206311349,2025-01-12,North Las Vegas,NV0020200,13A,H,W,H,M,39,N,N,OK,Restaurant,Restaurant,Blunt Object,Minor Injury,C
+230033600,206311451,2025-01-12,North Las Vegas,NV0020200,13A,W,W,N,M,25,R,N,ST,Convenience Store,Convenience Store,Blunt Object;Personal Weapons,Other Major Injury;Possible Internal Injury;Severe Laceration;Unconscious,C
+240354628,215326922,2025-01-12,North Las Vegas,NV0020200,13A,B,B,N,M,32,U,N,SB,Residence/Home,Home,Handgun;Motor Vehicle/Vessel,,C
+240354629,215326922,2025-01-12,North Las Vegas,NV0020200,13A,B,B,N,F,57,U,N,IL,Residence/Home,Home,Handgun;Motor Vehicle/Vessel,,C
+230032149,206310176,2025-01-13,North Las Vegas,NV0020200,13A,B,B,N,F,69,R,N,PA,Residence/Home,Home,Shotgun,,C
+230032151,206310176,2025-01-13,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,OF,Residence/Home,Home,Shotgun,Minor Injury,C
+252590047,226010271,2025-01-14,North Las Vegas,NV0020200,13A,B,B,N,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+230032255,206310267,2025-01-15,North Las Vegas,NV0020200,13A,W,W,N,M,26,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+247561635,221620452,2025-01-15,North Las Vegas,NV0020200,13A,W,W,N,F,33,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+252590977,226011032,2025-01-15,North Las Vegas,NV0020200,13A,H,W,H,M,30,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+252590979,226011032,2025-01-15,North Las Vegas,NV0020200,13A,H,W,H,M,26,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+230032403,206310395,2025-01-16,North Las Vegas,NV0020200,13A,H,W,H,F,29,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+230032469,206310451,2025-01-16,North Las Vegas,NV0020200,13A,B,B,N,M,38,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+230032607,206310565,2025-01-18,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,Y,XR,Park/Playground,Park & Playground,Handgun,,C
+230032616,206310572,2025-01-18,North Las Vegas,NV0020200,13A,B,B,N,M,36,U,N,ST,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+230032617,206310572,2025-01-18,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,N,ST,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+230032618,206310572,2025-01-18,North Las Vegas,NV0020200,13A,B,B,N,F,16,R,N,ST,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+230032650,206310600,2025-01-18,North Las Vegas,NV0020200,13A,H,W,H,M,27,R,N,ST,Residence/Home,Home,Handgun,,C
+230032651,206310600,2025-01-18,North Las Vegas,NV0020200,13A,H,W,H,M,26,U,N,ST,Residence/Home,Home,Handgun,,C
+230032652,206310600,2025-01-18,North Las Vegas,NV0020200,13A,H,W,H,M,42,R,N,ST,Residence/Home,Home,Handgun,,C
+252590363,226010532,2025-01-18,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,ST,Residence/Home,Home,Handgun,,C
+230032733,206310669,2025-01-19,North Las Vegas,NV0020200,13A,B,B,N,M,50,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+230032787,206310715,2025-01-19,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666077,223454153,2025-01-22,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,Y,XR,Residence/Home,Home,Other,Minor Injury,C
+230033094,206310994,2025-01-25,North Las Vegas,NV0020200,13A,B,B,N,F,35,N,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+245051079,219423482,2025-01-27,North Las Vegas,NV0020200,13A,H,W,H,M,29,R,N,RU,Bar/Nightclub,Bar & Nightclub,Handgun,,C
+245051073,219423475,2025-01-28,North Las Vegas,NV0020200,13A,B,B,N,M,12,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+232287888,208281172,2025-01-29,North Las Vegas,NV0020200,13A,B,B,N,F,54,R,Y,XR,Residence/Home,Home,Blunt Object,,C
+232287919,208281196,2025-01-30,North Las Vegas,NV0020200,13A,W,W,N,M,43,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+245051098,219423498,2025-01-30,North Las Vegas,NV0020200,13A,W,W,N,M,49,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+245051110,219423507,2025-01-30,North Las Vegas,NV0020200,13A,B,B,N,F,23,U,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+230033660,206311501,2025-01-31,North Las Vegas,NV0020200,13A,W,W,N,M,37,R,N,,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+230033661,206311501,2025-01-31,North Las Vegas,NV0020200,13A,W,W,N,M,42,R,N,,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237085310,212469513,2025-01-31,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,RU;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+237085242,212469447,2025-02-02,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+247561663,221620473,2025-02-03,North Las Vegas,NV0020200,13A,H,B,H,M,53,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+237085231,212469440,2025-02-04,North Las Vegas,NV0020200,13A,W,W,N,F,47,N,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+237085253,212469458,2025-02-04,North Las Vegas,NV0020200,13A,B,B,N,M,17,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237085258,212469458,2025-02-04,North Las Vegas,NV0020200,13A,B,B,N,M,17,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237086847,212470833,2025-02-04,North Las Vegas,NV0020200,13A,B,B,N,M,39,U,N,RU,Other/Unknown,Other & Unknown,Unknown,Severe Laceration,C
+237087063,212471008,2025-02-04,North Las Vegas,NV0020200,13A,B,B,N,F,30,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+230033814,206311635,2025-02-05,North Las Vegas,NV0020200,13A,H,W,H,M,45,R,N,OK,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury,C
+232287984,208281254,2025-02-05,North Las Vegas,NV0020200,13A,H,W,H,F,21,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+232287996,208281266,2025-02-05,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,Y,BG,Residence/Home,Home,,Minor Injury,C
+230033897,206311709,2025-02-06,North Las Vegas,NV0020200,13A,H,W,H,F,12,R,N,CH,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237085402,212469593,2025-02-06,North Las Vegas,NV0020200,13A,W,W,N,M,38,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,Minor Injury,C
+232288007,208281276,2025-02-07,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+230033875,206311687,2025-02-08,North Las Vegas,NV0020200,13A,W,W,N,M,34,R,N,ST,Bar/Nightclub,Bar & Nightclub,Handgun,,C
+232288017,208281286,2025-02-08,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,ST,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+232288063,208281330,2025-02-08,North Las Vegas,NV0020200,13A,W,W,N,F,47,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+237085606,212469758,2025-02-08,North Las Vegas,NV0020200,13A,B,B,N,M,60,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+232287993,208281263,2025-02-09,North Las Vegas,NV0020200,13A,H,W,H,F,51,R,Y,XS,Residence/Home,Home,Asphyxiation,Minor Injury;Possible Internal Injury,C
+237085324,212469527,2025-02-09,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237085325,212469527,2025-02-09,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237085332,212469527,2025-02-09,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237085356,212469552,2025-02-11,North Las Vegas,NV0020200,13A,B,B,N,M,43,U,N,,Other/Unknown,Other & Unknown,Unknown,Severe Laceration,C
+237085422,212469608,2025-02-12,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,OK,Residence/Home,Home,Shotgun,,C
+231469074,207568965,2025-02-13,North Las Vegas,NV0020200,13A,B,B,N,M,40,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+230034137,206311925,2025-02-14,North Las Vegas,NV0020200,13A,B,B,N,F,45,R,N,OK,Convenience Store,Convenience Store,Knife/Cutting Instrument,Minor Injury,C
+230034702,206312385,2025-02-15,North Las Vegas,NV0020200,13A,W,W,N,F,47,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+230034703,206312385,2025-02-15,North Las Vegas,NV0020200,13A,B,B,U,M,25,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+230034704,206312385,2025-02-15,North Las Vegas,NV0020200,13A,A,A,N,F,18,U,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+237085561,212469715,2025-02-15,North Las Vegas,NV0020200,13A,W,W,N,M,37,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237085623,212469765,2025-02-15,North Las Vegas,NV0020200,13A,H,W,H,M,8,R,N,ST,Residence/Home,Home,Handgun,,C
+237085627,212469765,2025-02-15,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,N,RU,Residence/Home,Home,Handgun,Minor Injury,C
+237085628,212469765,2025-02-15,North Las Vegas,NV0020200,13A,H,B,H,M,16,R,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+231469107,207568995,2025-02-17,North Las Vegas,NV0020200,13A,B,B,N,M,42,R,N,ST,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Apparent Broken Bones,C
+237085705,212469844,2025-02-19,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,Y,XR,Residence/Home,Home,Asphyxiation,Minor Injury,C
+237085677,212469819,2025-02-21,North Las Vegas,NV0020200,13A,B,B,N,M,32,N,N,RU,Park/Playground,Park & Playground,Knife/Cutting Instrument,Minor Injury,C
+240354828,215327078,2025-02-25,North Las Vegas,NV0020200,13A,B,B,N,M,49,R,N,RU,Park/Playground,Park & Playground,Handgun,Minor Injury,C
+237085992,212470093,2025-02-26,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+232288197,208281440,2025-02-28,North Las Vegas,NV0020200,13A,B,B,N,M,40,R,N,ST,Residence/Home,Home,Handgun,,C
+232288198,208281440,2025-02-28,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,N,AQ,Residence/Home,Home,Handgun,,C
+237086043,212470141,2025-02-28,North Las Vegas,NV0020200,13A,H,W,H,F,20,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+232288201,208281443,2025-03-02,North Las Vegas,NV0020200,13A,H,W,H,F,19,N,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones,C
+237086345,212470403,2025-03-06,North Las Vegas,NV0020200,13A,H,W,H,M,18,N,N,ST,Construction Site,Construction Site,Knife/Cutting Instrument,,C
+237086357,212470403,2025-03-06,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,ST,Construction Site,Construction Site,Knife/Cutting Instrument,,C
+237086360,212470403,2025-03-06,North Las Vegas,NV0020200,13A,W,W,N,M,37,N,N,ST,Construction Site,Construction Site,Knife/Cutting Instrument,,C
+237086552,212470597,2025-03-07,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,N,RU,Residence/Home,Home,Handgun,Other Major Injury,C
+237086507,212470555,2025-03-08,North Las Vegas,NV0020200,13A,B,B,N,M,21,N,N,OF,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237086550,212470595,2025-03-09,North Las Vegas,NV0020200,13A,H,W,H,F,43,U,N,ST,Restaurant,Restaurant,Blunt Object,,C
+240354872,215327112,2025-03-13,North Las Vegas,NV0020200,13A,W,W,N,F,37,U,Y,BG,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury;Possible Internal Injury,C
+238453240,213665255,2025-03-14,North Las Vegas,NV0020200,13A,W,W,N,M,14,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury;Possible Internal Injury,C
+240354908,215327138,2025-03-14,North Las Vegas,NV0020200,13A,H,W,H,F,67,R,N,IL,Restaurant,Restaurant,Personal Weapons,Minor Injury,C
+240354909,215327138,2025-03-14,North Las Vegas,NV0020200,13A,H,W,H,M,62,R,N,IL,Restaurant,Restaurant,Personal Weapons,Minor Injury,C
+232288497,208281681,2025-03-15,North Las Vegas,NV0020200,13A,B,B,N,F,53,R,Y,BG,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury;Possible Internal Injury,C
+232288508,208281690,2025-03-16,North Las Vegas,NV0020200,13A,H,W,H,M,40,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Apparent Broken Bones,C
+237086867,212470844,2025-03-16,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,ST,Specialty Store,Specialty Store,Knife/Cutting Instrument,Minor Injury,C
+237087279,212471197,2025-03-17,North Las Vegas,NV0020200,13A,B,B,N,M,64,R,N,NE,Residence/Home,Home,Knife/Cutting Instrument,,C
+232289848,208282814,2025-03-18,North Las Vegas,NV0020200,13A,H,W,H,M,45,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+237087273,212471193,2025-03-18,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,ST,Grocery/Supermarket,Grocery Store,Handgun,,C
+237087277,212471193,2025-03-18,North Las Vegas,NV0020200,13A,H,W,H,M,31,R,N,ST,Grocery/Supermarket,Grocery Store,Handgun,,C
+237089760,212473385,2025-03-18,North Las Vegas,NV0020200,13A,W,W,N,M,66,R,N,OK,Residence/Home,Home,Blunt Object,Loss of Teeth;Other Major Injury,C
+237087835,212471677,2025-03-19,North Las Vegas,NV0020200,13A,H,W,H,M,29,R,N,ST,Other/Unknown,Other & Unknown,Firearm,,C
+232288581,208281758,2025-03-20,North Las Vegas,NV0020200,13A,B,B,N,F,30,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+237087330,212471242,2025-03-20,North Las Vegas,NV0020200,13A,W,W,N,M,48,N,N,OK,Farm Facility,Farm,,Possible Internal Injury,C
+237087375,212471278,2025-03-20,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+237087377,212471278,2025-03-20,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,BG,Residence/Home,Home,Blunt Object,,C
+237087449,212471341,2025-03-20,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,FR,Parking/Drop Lot/Garage,Parking Lot,Other,Minor Injury,C
+237087307,212471217,2025-03-21,North Las Vegas,NV0020200,13A,B,B,N,F,11,R,N,ST,Rest Area,Rest Area,Other,Minor Injury,C
+240355016,215327224,2025-03-22,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury;Possible Internal Injury,C
+240355017,215327224,2025-03-22,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury;Possible Internal Injury,C
+237087604,212471483,2025-03-26,North Las Vegas,NV0020200,13A,B,B,N,M,38,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+240354977,215327192,2025-03-27,North Las Vegas,NV0020200,13A,P,P,N,F,39,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237087743,212471592,2025-03-28,North Las Vegas,NV0020200,13A,W,W,N,M,47,R,N,CO,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+237087750,212471602,2025-03-28,North Las Vegas,NV0020200,13A,H,W,H,F,44,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+237087810,212471656,2025-03-29,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,,C
+237087832,212471674,2025-03-29,North Las Vegas,NV0020200,13A,B,B,N,F,55,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,Possible Internal Injury,C
+237087848,212471686,2025-03-29,North Las Vegas,NV0020200,13A,B,B,N,M,23,N,N,CH,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237087853,212471693,2025-03-29,North Las Vegas,NV0020200,13A,B,B,N,M,68,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,,C
+237087889,212471727,2025-03-30,North Las Vegas,NV0020200,13A,H,W,H,M,21,R,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+237087959,212471785,2025-03-30,North Las Vegas,NV0020200,13A,B,B,N,F,14,R,N,ST,Park/Playground,Park & Playground,Handgun,,C
+237088079,212471896,2025-03-31,North Las Vegas,NV0020200,13A,H,B,H,M,32,R,N,RU,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury,C
+237088084,212471896,2025-03-31,North Las Vegas,NV0020200,13A,H,B,H,M,33,U,N,RU,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury,C
+237088354,212472152,2025-04-02,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+237088164,212471972,2025-04-03,North Las Vegas,NV0020200,13A,H,W,H,M,40,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+238453225,213665244,2025-04-03,North Las Vegas,NV0020200,13A,B,B,N,M,60,N,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+238453226,213665244,2025-04-03,North Las Vegas,NV0020200,13A,W,W,N,M,57,R,N,RU,Residence/Home,Home,Knife/Cutting Instrument,,C
+237088386,212472180,2025-04-04,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+237088484,212472271,2025-04-05,North Las Vegas,NV0020200,13A,B,B,N,F,45,R,Y,SE,Residence/Home,Home,Handgun,Minor Injury,C
+237088485,212472271,2025-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,CH,Residence/Home,Home,Handgun,,C
+237088498,212472271,2025-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,SC,Residence/Home,Home,Handgun,,C
+237088506,212472271,2025-04-05,North Las Vegas,NV0020200,13A,B,B,N,M,20,R,N,SC,Residence/Home,Home,Handgun,,C
+237089288,212472968,2025-04-07,North Las Vegas,NV0020200,13A,W,W,N,F,50,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+237088482,212472269,2025-04-08,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+238453269,213665278,2025-04-08,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,BG,Residence/Home,Home,Handgun,,C
+238453278,213665286,2025-04-09,North Las Vegas,NV0020200,13A,W,W,N,F,37,R,Y,XR,Residence/Home,Home,,Possible Internal Injury,C
+247561309,221620174,2025-04-10,North Las Vegas,NV0020200,13A,W,W,N,M,46,R,N,ST,Grocery/Supermarket,Grocery Store,Blunt Object,,C
+237088969,212472693,2025-04-11,North Las Vegas,NV0020200,13A,W,W,N,M,22,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237089033,212472751,2025-04-12,North Las Vegas,NV0020200,13A,H,W,H,F,42,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+237089574,212473226,2025-04-12,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,N,SB,Residence/Home,Home,Blunt Object,Severe Laceration,C
+237089223,212472917,2025-04-13,North Las Vegas,NV0020200,13A,H,W,H,M,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument;Personal Weapons,,C
+237089425,212473089,2025-04-13,North Las Vegas,NV0020200,13A,H,W,H,M,22,N,N,AQ,Residence/Home,Home,Other,Other Major Injury,C
+238453313,213665314,2025-04-13,North Las Vegas,NV0020200,13A,B,B,N,M,38,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+238453334,213665333,2025-04-13,North Las Vegas,NV0020200,13A,H,W,H,M,25,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Other,,C
+238453341,213665336,2025-04-13,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+245051214,219423590,2025-04-13,North Las Vegas,NV0020200,13A,B,B,N,F,43,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+237089445,212473108,2025-04-14,North Las Vegas,NV0020200,13A,H,W,H,M,46,N,N,ST,Residence/Home,Home,Handgun,,C
+237089450,212473108,2025-04-14,North Las Vegas,NV0020200,13A,H,W,H,M,40,N,N,ST,Residence/Home,Home,Handgun,,C
+237089524,212473180,2025-04-14,North Las Vegas,NV0020200,13A,B,B,N,M,20,R,N,SB,Residence/Home,Home,Handgun,,C
+238453958,213665817,2025-04-14,North Las Vegas,NV0020200,13A,H,W,H,M,28,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+238454120,213665945,2025-04-14,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,N,EE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237089395,212473064,2025-04-15,North Las Vegas,NV0020200,13A,B,B,N,M,58,U,N,ST,Convenience Store,Convenience Store,Other,Minor Injury,C
+237090920,212474382,2025-04-15,North Las Vegas,NV0020200,13A,U,U,U,M,25,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,Other Major Injury;Severe Laceration,C
+245051197,219423579,2025-04-15,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,RU,Residence/Home,Home,Handgun,,C
+237084484,212468822,2025-04-16,North Las Vegas,NV0020200,13A,W,W,N,F,46,R,Y,XR,Residence/Home,Home,Handgun,,C
+238453370,213665358,2025-04-16,North Las Vegas,NV0020200,13A,B,B,N,F,51,R,N,FR,Residence/Home,Home,Handgun,,C
+238453371,213665358,2025-04-16,North Las Vegas,NV0020200,13A,B,B,N,M,27,R,N,FR,Residence/Home,Home,Handgun,,C
+238453372,213665358,2025-04-16,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,RU,Residence/Home,Home,Handgun,,C
+237089915,212473525,2025-04-17,North Las Vegas,NV0020200,13A,W,W,N,F,48,R,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+237090103,212473694,2025-04-17,North Las Vegas,NV0020200,13A,W,W,N,M,48,N,Y,SE,Other/Unknown,Other & Unknown,Knife/Cutting Instrument,Minor Injury,C
+237090220,212473792,2025-04-17,North Las Vegas,NV0020200,13A,B,B,N,F,8,R,N,ST,Residence/Home,Home,Shotgun,,C
+237090221,212473792,2025-04-17,North Las Vegas,NV0020200,13A,B,B,N,F,8,R,N,ST,Residence/Home,Home,Shotgun,,C
+237090228,212473799,2025-04-19,North Las Vegas,NV0020200,13A,H,W,H,F,51,R,N,ST,Industrial Site,Industrial Site,Handgun,Minor Injury,C
+237090276,212473839,2025-04-20,North Las Vegas,NV0020200,13A,H,W,H,M,26,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+237090373,212473921,2025-04-20,North Las Vegas,NV0020200,13A,B,B,N,M,12,R,N,,Residence/Home,Home,Firearm,Apparent Broken Bones;Possible Internal Injury,C
+237090375,212473921,2025-04-20,North Las Vegas,NV0020200,13A,B,B,N,M,20,R,N,,Residence/Home,Home,Firearm,Minor Injury,C
+237090479,212474015,2025-04-22,North Las Vegas,NV0020200,13A,H,W,H,M,19,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+238453443,213665422,2025-04-22,North Las Vegas,NV0020200,13A,B,B,N,M,68,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+240355127,215327304,2025-04-24,North Las Vegas,NV0020200,13A,W,W,N,M,41,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+240355128,215327304,2025-04-24,North Las Vegas,NV0020200,13A,W,W,N,F,41,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+237090795,212474296,2025-04-25,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+237090781,212474283,2025-04-26,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,XR,Residence/Home,Home,Personal Weapons,,C
+237090924,212474413,2025-04-26,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+238453450,213665430,2025-04-26,North Las Vegas,NV0020200,13A,W,W,N,M,42,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+238453452,213665430,2025-04-26,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+237091075,212474552,2025-04-27,North Las Vegas,NV0020200,13A,H,W,H,M,36,R,N,ST,Residence/Home,Home,Handgun,,C
+237091153,212474624,2025-04-28,North Las Vegas,NV0020200,13A,B,B,N,M,65,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+237091257,212474716,2025-04-30,North Las Vegas,NV0020200,13A,B,B,N,F,22,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+237091386,212474828,2025-05-01,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,BG,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+237091389,212474828,2025-05-01,North Las Vegas,NV0020200,13A,B,B,N,M,1,N,N,CH,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+237091426,212474862,2025-05-01,North Las Vegas,NV0020200,13A,B,B,N,M,61,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+238453507,213665475,2025-05-01,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,CH,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+245051235,219423609,2025-05-01,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,Y,BG,Residence/Home,Home,Other,Other Major Injury,C
+237091491,212474921,2025-05-02,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,N,CH,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+237091406,212474846,2025-05-03,North Las Vegas,NV0020200,13A,B,B,N,M,29,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+237091412,212474846,2025-05-03,North Las Vegas,NV0020200,13A,B,B,N,F,30,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+237091688,212475085,2025-05-03,North Las Vegas,NV0020200,13A,W,W,N,M,54,R,N,ST,Department/Discount Store,Department Store,Handgun,,C
+237091584,212474993,2025-05-04,North Las Vegas,NV0020200,13A,B,B,U,F,21,R,N,ST,Residence/Home,Home,Handgun,,C
+237091890,212475265,2025-05-06,North Las Vegas,NV0020200,13A,H,W,H,M,32,R,N,FR,Residence/Home,Home,Handgun,,C
+237091977,212475341,2025-05-06,North Las Vegas,NV0020200,13A,W,W,N,F,50,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury,C
+237092045,212475406,2025-05-06,North Las Vegas,NV0020200,13A,B,B,N,M,28,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+240355180,215327341,2025-05-08,North Las Vegas,NV0020200,13A,H,W,H,M,30,R,N,RU;ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+237092271,212475589,2025-05-09,North Las Vegas,NV0020200,13A,H,W,H,F,21,R,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+237092401,212475695,2025-05-10,North Las Vegas,NV0020200,13A,W,W,N,M,42,R,N,PA,Residence/Home,Home,Rifle,,C
+237092719,212475957,2025-05-10,North Las Vegas,NV0020200,13A,H,W,H,M,38,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+237092512,212475789,2025-05-11,North Las Vegas,NV0020200,13A,W,W,N,M,39,R,N,ST,Grocery/Supermarket,Grocery Store,Handgun,Minor Injury,C
+237092514,212475789,2025-05-11,North Las Vegas,NV0020200,13A,H,W,H,F,31,N,N,ST,Grocery/Supermarket,Grocery Store,Handgun,,C
+245051232,219423607,2025-05-11,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,SC,Residence/Home,Home,Knife/Cutting Instrument,,C
+245051233,219423607,2025-05-11,North Las Vegas,NV0020200,13A,B,B,N,F,48,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+238453549,213665504,2025-05-12,North Las Vegas,NV0020200,13A,H,W,H,F,31,N,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+238454518,213666287,2025-05-13,North Las Vegas,NV0020200,13A,P,P,N,M,41,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245051299,219423653,2025-05-13,North Las Vegas,NV0020200,13A,W,W,U,M,42,R,N,AQ,Residence/Home,Home,Firearm,Minor Injury,C
+245051300,219423653,2025-05-13,North Las Vegas,NV0020200,13A,W,W,U,M,42,R,N,AQ,Residence/Home,Home,Firearm,Minor Injury,C
+245051301,219423653,2025-05-13,North Las Vegas,NV0020200,13A,W,W,U,M,42,R,N,AQ,Residence/Home,Home,Firearm,Minor Injury,C
+237092765,212476012,2025-05-14,North Las Vegas,NV0020200,13A,W,W,N,M,43,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+238453664,213665573,2025-05-14,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,Y,BG,Residence/Home,Home,Handgun,,C
+238453665,213665573,2025-05-14,North Las Vegas,NV0020200,13A,H,W,H,F,15,R,N,SC,Residence/Home,Home,Handgun,,C
+238453676,213665582,2025-05-15,North Las Vegas,NV0020200,13A,W,W,U,F,32,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+237092715,212475969,2025-05-16,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+238453738,213665634,2025-05-17,North Las Vegas,NV0020200,13A,W,W,N,F,35,R,N,EE,Restaurant,Restaurant,Handgun,,C
+237092893,212476116,2025-05-18,North Las Vegas,NV0020200,13A,B,B,N,F,22,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+238453920,213665788,2025-05-19,North Las Vegas,NV0020200,13A,H,W,H,M,29,R,N,OF,Residence/Home,Home,Handgun,,C
+238453921,213665788,2025-05-19,North Las Vegas,NV0020200,13A,H,W,H,M,5,R,N,OF,Residence/Home,Home,Handgun,,C
+238453922,213665788,2025-05-19,North Las Vegas,NV0020200,13A,W,W,N,F,28,R,N,OF,Residence/Home,Home,Handgun,,C
+238453929,213665795,2025-05-19,North Las Vegas,NV0020200,13A,H,W,H,F,28,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+238453945,213665811,2025-05-19,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other Firearm,Minor Injury,C
+240355296,215327432,2025-05-20,North Las Vegas,NV0020200,13A,B,B,N,F,29,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Possible Internal Injury,C
+245051345,219423684,2025-05-20,North Las Vegas,NV0020200,13A,H,W,H,M,30,N,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+252590017,226010251,2025-05-21,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,NE,Residence/Home,Home,Handgun,,C
+252590020,226010251,2025-05-21,North Las Vegas,NV0020200,13A,B,B,N,F,24,R,N,NE,Residence/Home,Home,Handgun,,C
+238454054,213665892,2025-05-22,North Las Vegas,NV0020200,13A,B,B,N,M,26,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+238454080,213665915,2025-05-22,North Las Vegas,NV0020200,13A,H,B,H,M,23,R,N,AQ,Residence/Home,Home,Handgun;Knife/Cutting Instrument,,C
+238454103,213665934,2025-05-22,North Las Vegas,NV0020200,13A,H,W,H,F,34,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245051355,219423690,2025-05-22,North Las Vegas,NV0020200,13A,B,B,N,F,22,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+238454150,213665972,2025-05-23,North Las Vegas,NV0020200,13A,B,B,N,F,49,R,N,RU,Convenience Store,Convenience Store,Knife/Cutting Instrument,,C
+237093069,212476274,2025-05-24,North Las Vegas,NV0020200,13A,B,B,N,F,23,R,N,CH,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+238454263,213666070,2025-05-24,North Las Vegas,NV0020200,13A,H,W,H,F,29,R,Y,RU;XR,Residence/Home,Home,Blunt Object,Minor Injury,C
+237093239,212476417,2025-05-25,North Las Vegas,NV0020200,13A,H,W,H,M,45,N,N,RU,Bar/Nightclub,Bar & Nightclub,Handgun,,C
+247561837,221620614,2025-05-25,North Las Vegas,NV0020200,13A,H,W,H,M,31,R,N,ST,Residence/Home,Home,Handgun,Other Major Injury,C
+238454380,213666168,2025-05-26,North Las Vegas,NV0020200,13A,W,W,N,F,69,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+238454397,213666184,2025-05-27,North Las Vegas,NV0020200,13A,W,W,N,F,46,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+238454547,213666311,2025-05-27,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+245051328,219423674,2025-05-27,North Las Vegas,NV0020200,13A,W,W,N,M,56,R,N,ST,Park/Playground,Park & Playground,Blunt Object;Personal Weapons,Apparent Broken Bones;Other Major Injury;Severe Laceration,C
+237093615,212476770,2025-05-28,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+238454564,213666323,2025-05-28,North Las Vegas,NV0020200,13A,W,W,N,M,20,R,N,RU,Restaurant,Restaurant,Firearm,,C
+238454575,213666333,2025-05-28,North Las Vegas,NV0020200,13A,B,B,N,M,16,N,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+238454595,213666351,2025-05-29,North Las Vegas,NV0020200,13A,W,W,N,F,24,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+245051319,219423667,2025-05-31,North Las Vegas,NV0020200,13A,B,B,N,M,15,N,N,RU,Residence/Home,Home,Firearm,Other Major Injury,C
+247561826,221620606,2025-05-31,North Las Vegas,NV0020200,13A,W,W,N,F,48,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+238454784,213666514,2025-06-01,North Las Vegas,NV0020200,13A,P,P,N,M,34,N,N,ST,Department/Discount Store,Department Store,Blunt Object;Knife/Cutting Instrument,,C
+238454817,213666539,2025-06-01,North Las Vegas,NV0020200,13A,H,W,H,M,31,R,Y,AQ;XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+238455147,213666812,2025-06-03,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+238455148,213666812,2025-06-03,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245051294,219423650,2025-06-04,North Las Vegas,NV0020200,13A,B,B,N,M,39,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+252588282,226008819,2025-06-04,North Las Vegas,NV0020200,13A,W,W,N,F,26,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+252588283,226008820,2025-06-04,North Las Vegas,NV0020200,13A,B,B,N,M,74,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+238455389,213667017,2025-06-05,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+240355382,215327499,2025-06-05,North Las Vegas,NV0020200,13A,B,B,N,M,18,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+240355385,215327502,2025-06-06,North Las Vegas,NV0020200,13A,B,B,N,M,62,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Possible Internal Injury,C
+240355398,215327511,2025-06-06,North Las Vegas,NV0020200,13A,B,B,N,M,20,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240355402,215327514,2025-06-06,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+240355417,215327525,2025-06-06,North Las Vegas,NV0020200,13A,B,B,N,F,57,R,Y,PA;SE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+240355413,215327522,2025-06-07,North Las Vegas,NV0020200,13A,H,W,H,F,28,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+240355570,215327642,2025-06-08,North Las Vegas,NV0020200,13A,I,I,N,F,30,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+238455699,213667262,2025-06-10,North Las Vegas,NV0020200,13A,B,B,N,F,21,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+240355587,215327658,2025-06-10,North Las Vegas,NV0020200,13A,H,W,H,M,21,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+240355588,215327658,2025-06-10,North Las Vegas,NV0020200,13A,H,W,H,M,49,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+240355622,215327690,2025-06-10,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245051378,219423711,2025-06-10,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury;Possible Internal Injury,C
+240355641,215327706,2025-06-11,North Las Vegas,NV0020200,13A,B,B,N,M,28,N,Y,BG;SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+240355651,215327714,2025-06-11,North Las Vegas,NV0020200,13A,B,B,U,F,26,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+238455704,213667270,2025-06-13,North Las Vegas,NV0020200,13A,B,B,N,M,26,R,N,SB,Residence/Home,Home,Firearm,Minor Injury;Possible Internal Injury,C
+249666086,223454162,2025-06-13,North Las Vegas,NV0020200,13A,B,B,N,M,29,R,N,OK,Residence/Home,Home,Handgun,,C
+238455743,213667306,2025-06-14,North Las Vegas,NV0020200,13A,W,W,N,F,58,R,N,AQ,Residence/Home,Home,Blunt Object;Personal Weapons,,C
+238455744,213667306,2025-06-14,North Las Vegas,NV0020200,13A,W,W,N,M,15,R,N,AQ,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+240355782,215327815,2025-06-14,North Las Vegas,NV0020200,13A,W,W,N,F,43,R,N,RU,Residence/Home,Home,Handgun,,C
+240355814,215327845,2025-06-14,North Las Vegas,NV0020200,13A,W,W,N,M,68,R,N,CO,Residence/Home,Home,Knife/Cutting Instrument,,C
+247563192,221621765,2025-06-15,North Las Vegas,NV0020200,13A,B,B,N,M,27,N,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+240355883,215327901,2025-06-16,North Las Vegas,NV0020200,13A,H,W,H,M,49,R,N,RU,Convenience Store,Convenience Store,Knife/Cutting Instrument,Minor Injury,C
+245051385,219423717,2025-06-16,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+238455996,213667523,2025-06-19,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+238455990,213667517,2025-06-20,North Las Vegas,NV0020200,13A,B,B,N,M,37,R,Y,XR,Residence/Home,Home,Blunt Object,Minor Injury,C
+240356086,215328078,2025-06-21,North Las Vegas,NV0020200,13A,H,W,H,M,28,R,N,IL,Residence/Home,Home,Knife/Cutting Instrument,,C
+240356139,215328125,2025-06-23,North Las Vegas,NV0020200,13A,H,W,H,F,73,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+240356176,215328160,2025-06-23,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+240356211,215328188,2025-06-24,North Las Vegas,NV0020200,13A,W,W,N,F,34,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+240356259,215328223,2025-06-25,North Las Vegas,NV0020200,13A,W,W,N,M,55,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+238456042,213667556,2025-06-26,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+240356349,215328309,2025-06-26,North Las Vegas,NV0020200,13A,W,W,N,M,48,U,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+240356518,215328443,2025-06-28,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+240356511,215328437,2025-06-29,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,OF,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+240356512,215328437,2025-06-29,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,OF,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object;Knife/Cutting Instrument,Minor Injury,C
+240356543,215328465,2025-06-29,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+245051430,219423752,2025-06-29,North Las Vegas,NV0020200,13A,B,B,N,F,57,R,N,ST,Residence/Home,Home,Rifle,,C
+245051431,219423752,2025-06-29,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,RU,Residence/Home,Home,Rifle,,C
+240356546,215328468,2025-06-30,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+240356733,215328613,2025-07-01,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+240356737,215328616,2025-07-01,North Las Vegas,NV0020200,13A,B,B,N,M,34,R,N,RU,Other/Unknown,Other & Unknown,Handgun,Other Major Injury,C
+240356747,215328624,2025-07-02,North Las Vegas,NV0020200,13A,B,B,N,F,47,R,N,PA,Residence/Home,Home,Blunt Object,Minor Injury,C
+240356785,215328652,2025-07-02,North Las Vegas,NV0020200,13A,B,B,N,F,38,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245051427,219423750,2025-07-03,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+240356932,215328781,2025-07-04,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,N,CH,Residence/Home,Home,Handgun,,C
+240356977,215328819,2025-07-04,North Las Vegas,NV0020200,13A,W,W,N,M,44,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+240358633,215330183,2025-07-04,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,Possible Internal Injury,C
+240356982,215328824,2025-07-05,North Las Vegas,NV0020200,13A,H,W,H,F,32,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Other Major Injury,C
+240357189,215328985,2025-07-05,North Las Vegas,NV0020200,13A,W,W,N,F,37,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+240357149,215328960,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,F,42,R,Y,BG,Residence/Home,Home,Handgun,Minor Injury,C
+240357150,215328960,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,F,19,R,N,CF,Residence/Home,Home,Handgun,,C
+240357151,215328960,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,F,17,R,N,CF,Residence/Home,Home,Handgun,,C
+240357152,215328960,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,M,15,R,N,CF,Residence/Home,Home,Handgun,,C
+240357153,215328960,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,M,16,R,N,CF,Residence/Home,Home,Handgun,,C
+240357264,215329044,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,F,36,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+240357401,215329156,2025-07-06,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+240357280,215329060,2025-07-07,North Las Vegas,NV0020200,13A,P,P,N,F,22,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+245051465,219423783,2025-07-07,North Las Vegas,NV0020200,13A,B,B,N,M,16,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245051492,219423803,2025-07-07,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,PA;SE,Residence/Home,Home,Handgun,Other Major Injury,C
+245051494,219423803,2025-07-07,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,N,PA;RU,Residence/Home,Home,Handgun,,C
+245051495,219423803,2025-07-07,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,CH;RU,Residence/Home,Home,Handgun,,C
+245051524,219423830,2025-07-10,North Las Vegas,NV0020200,13A,H,W,H,F,47,R,Y,XS,Parking/Drop Lot/Garage,Parking Lot,Firearm,Minor Injury,C
+245051543,219423846,2025-07-10,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245051552,219423854,2025-07-10,North Las Vegas,NV0020200,13A,B,B,N,M,61,N,N,,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Unknown,Apparent Broken Bones,C
+240357527,215329261,2025-07-11,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+240357718,215329421,2025-07-11,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245051625,219423917,2025-07-12,North Las Vegas,NV0020200,13A,H,W,H,M,20,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+245051627,219423917,2025-07-12,North Las Vegas,NV0020200,13A,H,W,H,F,33,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Rifle,,C
+245051721,219423989,2025-07-14,North Las Vegas,NV0020200,13A,B,B,N,F,20,R,Y,BG,Residence/Home,Home,Handgun,,C
+247561939,221620686,2025-07-14,North Las Vegas,NV0020200,13A,H,W,H,M,17,R,N,ST,Restaurant,Restaurant,Handgun,,C
+240357877,215329555,2025-07-15,North Las Vegas,NV0020200,13A,B,B,N,M,42,N,N,OF,Residence/Home,Home,Handgun,Possible Internal Injury,C
+240357886,215329564,2025-07-15,North Las Vegas,NV0020200,13A,A,A,N,M,24,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+240357939,215329613,2025-07-17,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Other Major Injury;Unconscious,C
+240357912,215329588,2025-07-18,North Las Vegas,NV0020200,13A,B,B,N,M,18,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+245051829,219424075,2025-07-18,North Las Vegas,NV0020200,13A,B,B,N,F,63,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+245052041,219424255,2025-07-20,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,Y,BG,Residence/Home,Home,Handgun;Motor Vehicle/Vessel,,C
+245052042,219424255,2025-07-20,North Las Vegas,NV0020200,13A,W,W,N,F,5,R,N,CH,Residence/Home,Home,Handgun;Motor Vehicle/Vessel,,C
+245052050,219424255,2025-07-20,North Las Vegas,NV0020200,13A,W,W,N,F,33,R,N,RU,Residence/Home,Home,Handgun;Motor Vehicle/Vessel,,C
+252588260,226008803,2025-07-22,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+240358155,215329785,2025-07-23,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,ST,Restaurant,Restaurant,Handgun,,C
+240358157,215329787,2025-07-23,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,XR,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+245052240,219424415,2025-07-23,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,N,RU,Residence/Home,Home,Handgun,,C
+245052306,219424471,2025-07-25,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+245052357,219424512,2025-07-25,North Las Vegas,NV0020200,13A,H,W,H,F,34,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245052372,219424525,2025-07-25,North Las Vegas,NV0020200,13A,H,W,H,F,17,R,N,SB,Residence/Home,Home,Personal Weapons,Minor Injury,C
+245052459,219424592,2025-07-26,North Las Vegas,NV0020200,13A,H,W,H,F,58,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245052476,219424611,2025-07-26,North Las Vegas,NV0020200,13A,W,W,N,M,45,R,N,PA,Residence/Home,Home,Handgun,Minor Injury,C
+245052490,219424621,2025-07-26,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,N,CO,Residence/Home,Home,Firearm,,C
+245052503,219424632,2025-07-26,North Las Vegas,NV0020200,13A,W,W,N,M,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245052516,219424644,2025-07-26,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+240358314,215329926,2025-07-27,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,N,ST,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+245052492,219424622,2025-07-27,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+245052604,219424716,2025-07-28,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,Y,BG,Residence/Home,Home,Other,Other Major Injury,C
+252588311,226008839,2025-07-28,North Las Vegas,NV0020200,13A,B,B,N,F,28,N,Y,XR,Residence/Home,Home,Blunt Object,Minor Injury,C
+247561993,221620734,2025-07-29,North Las Vegas,NV0020200,13A,H,W,H,M,51,R,N,CO,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+240358739,215330270,2025-07-31,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,ST,Grocery/Supermarket,Grocery Store,Other,,C
+245052961,219425033,2025-07-31,North Las Vegas,NV0020200,13A,H,W,H,F,25,R,Y,SE,Residence/Home,Home,Handgun,Minor Injury,C
+245052914,219424989,2025-08-01,North Las Vegas,NV0020200,13A,H,W,H,M,30,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+245052981,219425052,2025-08-01,North Las Vegas,NV0020200,13A,B,B,N,M,12,R,N,AQ,Park/Playground,Park & Playground,Knife/Cutting Instrument,,C
+245052990,219425058,2025-08-01,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+245052992,219425058,2025-08-01,North Las Vegas,NV0020200,13A,B,B,N,M,13,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+245052993,219425058,2025-08-01,North Las Vegas,NV0020200,13A,B,B,N,F,12,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+245053009,219425073,2025-08-01,North Las Vegas,NV0020200,13A,H,W,H,F,38,R,Y,XR,Residence/Home,Home,Handgun,,C
+245053143,219425183,2025-08-01,North Las Vegas,NV0020200,13A,H,W,H,F,40,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury,C
+245053118,219425164,2025-08-02,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+245053367,219425376,2025-08-03,North Las Vegas,NV0020200,13A,H,W,H,F,49,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+245054595,219426439,2025-08-05,North Las Vegas,NV0020200,13A,W,W,N,M,82,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+245053627,219425613,2025-08-06,North Las Vegas,NV0020200,13A,H,W,H,M,41,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+245053661,219425639,2025-08-06,North Las Vegas,NV0020200,13A,W,W,N,M,53,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Loss of Teeth,C
+245053675,219425652,2025-08-06,North Las Vegas,NV0020200,13A,H,W,H,F,10,R,N,CH;SC,Residence/Home,Home,,Minor Injury,C
+245053868,219425815,2025-08-07,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245053826,219425778,2025-08-08,North Las Vegas,NV0020200,13A,H,W,H,F,60,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245054190,219426075,2025-08-10,North Las Vegas,NV0020200,13A,H,W,H,F,38,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Other Major Injury,C
+245054234,219426121,2025-08-11,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,Y,XR,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+245054236,219426122,2025-08-11,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245054339,219426212,2025-08-12,North Las Vegas,NV0020200,13A,H,W,H,F,27,U,Y,BG;OK,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245054340,219426212,2025-08-12,North Las Vegas,NV0020200,13A,H,W,H,M,25,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,,C
+245054495,219426355,2025-08-13,North Las Vegas,NV0020200,13A,B,B,N,F,29,R,Y,AQ;XR,Residence/Home,Home,Asphyxiation,Minor Injury,C
+245054504,219426361,2025-08-13,North Las Vegas,NV0020200,13A,H,W,H,F,45,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245054505,219426361,2025-08-13,North Las Vegas,NV0020200,13A,H,W,H,M,42,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245054506,219426361,2025-08-13,North Las Vegas,NV0020200,13A,W,W,N,M,19,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245054507,219426361,2025-08-13,North Las Vegas,NV0020200,13A,H,B,H,M,16,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245054508,219426361,2025-08-13,North Las Vegas,NV0020200,13A,H,W,H,M,16,R,N,NE,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+245054549,219426396,2025-08-14,North Las Vegas,NV0020200,13A,H,W,H,F,30,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245054590,219426436,2025-08-15,North Las Vegas,NV0020200,13A,H,B,H,F,19,R,N,SB,Residence/Home,Home,Motor Vehicle/Vessel,,C
+245054740,219426561,2025-08-15,North Las Vegas,NV0020200,13A,H,W,H,F,25,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245054752,219426571,2025-08-16,North Las Vegas,NV0020200,13A,H,W,H,M,55,N,N,RU,Grocery/Supermarket,Grocery Store,Handgun,,C
+245054760,219426578,2025-08-16,North Las Vegas,NV0020200,13A,B,B,N,M,24,N,N,ST,Residence/Home,Home,Handgun,,C
+245054822,219426636,2025-08-17,North Las Vegas,NV0020200,13A,W,W,N,M,60,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+245054823,219426636,2025-08-17,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+245054824,219426636,2025-08-17,North Las Vegas,NV0020200,13A,H,W,H,F,55,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+245054896,219426699,2025-08-18,North Las Vegas,NV0020200,13A,B,B,U,M,20,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245055024,219426809,2025-08-18,North Las Vegas,NV0020200,13A,H,W,H,M,37,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+245055110,219426887,2025-08-19,North Las Vegas,NV0020200,13A,B,B,N,M,68,N,N,RU,Residence/Home,Home,Handgun,,C
+245055254,219427018,2025-08-20,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+249666112,223454180,2025-08-20,North Las Vegas,NV0020200,13A,W,W,N,M,45,N,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+245055259,219427022,2025-08-21,North Las Vegas,NV0020200,13A,W,W,N,F,30,U,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245055350,219427098,2025-08-21,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+245055464,219427197,2025-08-21,North Las Vegas,NV0020200,13A,A,A,N,F,17,R,N,CH,Residence/Home,Home,Handgun,,C
+245055676,219427390,2025-08-23,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Minor Injury,C
+245055802,219427507,2025-08-24,North Las Vegas,NV0020200,13A,B,B,N,F,24,R,Y,BG,Residence/Home,Home,Handgun,,C
+245055946,219427635,2025-08-26,North Las Vegas,NV0020200,13A,B,B,N,M,1,R,N,CH,Residence/Home,Home,Unknown,Apparent Broken Bones,C
+245056057,219427738,2025-08-27,North Las Vegas,NV0020200,13A,W,W,N,F,35,R,Y,SE,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+245056121,219427791,2025-08-27,North Las Vegas,NV0020200,13A,B,B,U,M,25,R,N,RU,Residence/Home,Home,Firearm,Possible Internal Injury,C
+245056031,219427714,2025-08-28,North Las Vegas,NV0020200,13A,B,B,N,F,30,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other Firearm,Minor Injury,C
+245056131,219427801,2025-08-28,North Las Vegas,NV0020200,13A,B,B,N,F,18,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+245056274,219427928,2025-08-29,North Las Vegas,NV0020200,13A,W,W,N,M,37,R,N,AQ,Residence/Home,Home,Blunt Object,Other Major Injury,C
+245056719,219428330,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,F,33,N,N,RU,Residence/Home,Home,Handgun,,C
+245056720,219428330,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,F,59,R,N,RU,Residence/Home,Home,Handgun,,C
+245056721,219428330,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,M,15,R,N,RU,Residence/Home,Home,Handgun,,C
+245056722,219428330,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,M,11,R,N,RU,Residence/Home,Home,Handgun,,C
+245056752,219428353,2025-08-31,North Las Vegas,NV0020200,13A,W,W,N,M,25,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+245056753,219428353,2025-08-31,North Las Vegas,NV0020200,13A,W,W,N,M,15,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+245056763,219428363,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,F,67,R,N,GP,Residence/Home,Home,Blunt Object,,C
+245056764,219428363,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,F,47,R,N,PA,Residence/Home,Home,Blunt Object,,C
+245056902,219428485,2025-08-31,North Las Vegas,NV0020200,13A,A,A,N,M,34,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Blunt Object;Handgun,Minor Injury,C
+247562093,221620811,2025-08-31,North Las Vegas,NV0020200,13A,B,B,N,F,28,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+245056788,219428383,2025-09-01,North Las Vegas,NV0020200,13A,H,W,H,M,34,R,N,AQ,Residence/Home,Home,Handgun,Other Major Injury,C
+245056922,219428500,2025-09-01,North Las Vegas,NV0020200,13A,H,W,H,F,45,R,Y,BG,Residence/Home,Home,,Possible Internal Injury,C
+247562180,221620887,2025-09-01,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,N,ST,Residence/Home,Home,Handgun,,C
+245057141,219428686,2025-09-03,North Las Vegas,NV0020200,13A,B,B,N,M,31,U,N,ST,Convenience Store,Convenience Store,Shotgun,Minor Injury,C
+245057473,219428977,2025-09-04,North Las Vegas,NV0020200,13A,W,W,N,M,70,R,N,CO,Residence/Home,Home,Unknown,Minor Injury,C
+245057521,219429022,2025-09-05,North Las Vegas,NV0020200,13A,H,W,H,M,28,R,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+245057535,219429035,2025-09-05,North Las Vegas,NV0020200,13A,W,W,N,F,41,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+247562263,221620961,2025-09-05,North Las Vegas,NV0020200,13A,B,B,N,F,54,R,N,AQ;ST,Residence/Home,Home,Handgun,Minor Injury,C
+247562264,221620961,2025-09-05,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,Y,AQ;ST;XR,Residence/Home,Home,Handgun,Minor Injury,C
+247562265,221620961,2025-09-05,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,AQ;ST,Residence/Home,Home,Handgun,Minor Injury,C
+247562266,221620961,2025-09-05,North Las Vegas,NV0020200,13A,B,B,N,M,29,R,N,ST,Residence/Home,Home,Handgun,Minor Injury,C
+245057835,219429292,2025-09-06,North Las Vegas,NV0020200,13A,B,B,N,M,50,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+245057836,219429292,2025-09-06,North Las Vegas,NV0020200,13A,W,W,N,F,40,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+245057838,219429294,2025-09-07,North Las Vegas,NV0020200,13A,B,B,N,M,34,N,N,OK,Park/Playground,Park & Playground,Personal Weapons,Unconscious,C
+245057839,219429294,2025-09-07,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,Y,XR,Park/Playground,Park & Playground,Personal Weapons,Minor Injury;Unconscious,C
+245057843,219429298,2025-09-08,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,Y,BG,Residence/Home,Home,Handgun,,C
+245058052,219429476,2025-09-09,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,N,SB,Residence/Home,Home,Handgun,,C
+245058053,219429476,2025-09-09,North Las Vegas,NV0020200,13A,B,B,N,M,31,R,N,SB,Residence/Home,Home,Handgun,,C
+245058054,219429476,2025-09-09,North Las Vegas,NV0020200,13A,B,B,N,M,28,R,N,SB,Residence/Home,Home,Handgun,,C
+245058176,219429578,2025-09-10,North Las Vegas,NV0020200,13A,H,W,H,F,16,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+245058177,219429578,2025-09-10,North Las Vegas,NV0020200,13A,W,W,U,F,23,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+245058359,219429729,2025-09-11,North Las Vegas,NV0020200,13A,B,B,N,M,44,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245058501,219429842,2025-09-13,North Las Vegas,NV0020200,13A,H,W,H,M,16,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+245058585,219429919,2025-09-13,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,N,RU,Residence/Home,Home,,Apparent Broken Bones;Severe Laceration,C
+245058599,219429932,2025-09-13,North Las Vegas,NV0020200,13A,W,W,N,M,27,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+245058631,219429959,2025-09-13,North Las Vegas,NV0020200,13A,H,W,H,F,27,R,N,CF,Residence/Home,Home,Handgun,Possible Internal Injury,C
+245058641,219429966,2025-09-14,North Las Vegas,NV0020200,13A,W,W,N,M,46,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Firearm,Possible Internal Injury,C
+245058755,219430061,2025-09-14,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Handgun,,C
+245058856,219430144,2025-09-16,North Las Vegas,NV0020200,13A,H,W,H,M,26,N,N,RU,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,,C
+247562366,221621053,2025-09-18,North Las Vegas,NV0020200,13A,H,W,H,M,55,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245059066,219430332,2025-09-19,North Las Vegas,NV0020200,13A,B,B,N,F,40,N,Y,CS,Arena/Stadium/Fairgrounds/Coliseum,Arena & Stadium,Personal Weapons,Minor Injury,C
+247562512,221621175,2025-09-19,North Las Vegas,NV0020200,13A,W,W,N,M,36,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+247562628,221621272,2025-09-19,North Las Vegas,NV0020200,13A,B,B,N,M,13,R,N,RU;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm;Handgun,Other Major Injury,C
+245059018,219430294,2025-09-20,North Las Vegas,NV0020200,13A,W,W,N,F,37,U,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+245059019,219430294,2025-09-20,North Las Vegas,NV0020200,13A,W,W,N,M,62,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247562595,221621245,2025-09-20,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+247563885,221622373,2025-09-20,North Las Vegas,NV0020200,13A,B,B,N,M,64,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+247562687,221621325,2025-09-21,North Las Vegas,NV0020200,13A,H,W,H,M,29,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666130,223454194,2025-09-21,North Las Vegas,NV0020200,13A,W,W,N,M,21,R,N,FR,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+245059214,219430459,2025-09-22,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+247562755,221621388,2025-09-22,North Las Vegas,NV0020200,13A,H,W,H,F,23,R,Y,BG,Residence/Home,Home,Handgun,,C
+247562892,221621503,2025-09-25,North Las Vegas,NV0020200,13A,H,W,H,M,36,U,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+247562975,221621575,2025-09-25,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+247563054,221621644,2025-09-25,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,Y,BG,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+247563006,221621602,2025-09-26,North Las Vegas,NV0020200,13A,P,P,N,M,22,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,Possible Internal Injury,C
+247563040,221621632,2025-09-26,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,Y,BG;RU,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+247563098,221621683,2025-09-26,North Las Vegas,NV0020200,13A,W,W,N,M,61,R,N,RU,Park/Playground,Park & Playground,Blunt Object,,C
+247563050,221621639,2025-09-27,North Las Vegas,NV0020200,13A,W,W,N,M,55,R,N,RU,Grocery/Supermarket,Grocery Store,,,C
+247563141,221621725,2025-09-27,North Las Vegas,NV0020200,13A,W,W,N,M,33,R,N,RU,Commercial/Office Building,Office Building,Motor Vehicle/Vessel,,C
+247563286,221621856,2025-09-29,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,AQ,Gambling Facility/Casino/Race Track,Casino & Race Track,Handgun,Minor Injury,C
+247563417,221621973,2025-09-30,North Las Vegas,NV0020200,13A,B,B,N,M,22,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,Apparent Broken Bones;Severe Laceration,C
+247563433,221621982,2025-10-01,North Las Vegas,NV0020200,13A,W,W,N,M,48,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Possible Internal Injury,C
+247563440,221621988,2025-10-01,North Las Vegas,NV0020200,13A,B,B,N,M,37,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+247565002,221623291,2025-10-01,North Las Vegas,NV0020200,13A,H,W,H,M,60,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247563504,221622046,2025-10-02,North Las Vegas,NV0020200,13A,B,B,U,F,28,N,N,FR,Residence/Home,Home,Handgun,,C
+247563519,221622059,2025-10-02,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,Y,SE,Residence/Home,Home,Handgun,,C
+247563586,221622118,2025-10-04,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,CH,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+247563652,221622170,2025-10-05,North Las Vegas,NV0020200,13A,H,W,H,M,46,R,N,ST,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury,C
+247563725,221622230,2025-10-06,North Las Vegas,NV0020200,13A,W,W,N,M,32,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+247563726,221622232,2025-10-06,North Las Vegas,NV0020200,13A,W,W,N,F,72,N,N,ST,Grocery/Supermarket,Grocery Store,Personal Weapons,Severe Laceration,C
+247563767,221622268,2025-10-06,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+247563768,221622268,2025-10-06,North Las Vegas,NV0020200,13A,W,W,N,M,32,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Minor Injury,C
+247563775,221622273,2025-10-06,North Las Vegas,NV0020200,13A,W,W,N,M,30,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+247563869,221622358,2025-10-06,North Las Vegas,NV0020200,13A,B,B,N,M,8,R,N,CH,Residence/Home,Home,Blunt Object,,C
+247563865,221622354,2025-10-07,North Las Vegas,NV0020200,13A,B,B,N,F,27,N,N,ST,Convenience Store,Convenience Store,Handgun,,C
+247564043,221622501,2025-10-08,North Las Vegas,NV0020200,13A,H,W,H,M,23,R,N,RU,Grocery/Supermarket,Grocery Store,Knife/Cutting Instrument,,C
+247563997,221622464,2025-10-09,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+247564049,221622506,2025-10-09,North Las Vegas,NV0020200,13A,A,A,N,M,67,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247564063,221622517,2025-10-09,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,CO,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+247564064,221622517,2025-10-09,North Las Vegas,NV0020200,13A,B,B,N,M,28,R,N,CO,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+249666149,223454207,2025-10-09,North Las Vegas,NV0020200,13A,H,W,H,F,19,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+249666150,223454207,2025-10-09,North Las Vegas,NV0020200,13A,H,W,H,F,43,N,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,,C
+247564048,221622505,2025-10-10,North Las Vegas,NV0020200,13A,H,W,H,M,39,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,,C
+247564246,221622653,2025-10-10,North Las Vegas,NV0020200,13A,H,W,H,M,18,N,N,ST,Park/Playground,Park & Playground,Handgun,Minor Injury,C
+247564264,221622672,2025-10-10,North Las Vegas,NV0020200,13A,H,W,H,M,61,U,N,ST,Grocery/Supermarket,Grocery Store,Personal Weapons,Apparent Broken Bones;Possible Internal Injury;Severe Laceration,C
+247564041,221622500,2025-10-11,North Las Vegas,NV0020200,13A,B,B,N,M,31,N,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+247564430,221622809,2025-10-12,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+247564431,221622809,2025-10-12,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247564580,221622941,2025-10-12,North Las Vegas,NV0020200,13A,H,W,H,F,21,N,N,AQ,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Possible Internal Injury,C
+247564428,221622807,2025-10-13,North Las Vegas,NV0020200,13A,H,W,H,M,24,N,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+247564490,221622858,2025-10-13,North Las Vegas,NV0020200,13A,A,A,N,M,70,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+247564530,221622892,2025-10-14,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+247564491,221622859,2025-10-15,North Las Vegas,NV0020200,13A,B,B,N,M,27,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247564781,221623114,2025-10-17,North Las Vegas,NV0020200,13A,H,W,H,M,18,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+247564799,221623129,2025-10-18,North Las Vegas,NV0020200,13A,H,W,H,M,28,R,N,IL,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+247565034,221623316,2025-10-18,North Las Vegas,NV0020200,13A,P,P,N,M,59,R,N,PA,Residence/Home,Home,Handgun,,C
+249666156,223454213,2025-10-20,North Las Vegas,NV0020200,13A,P,P,N,M,16,R,N,RU;ST,Residence/Home,Home,Handgun,Minor Injury,C
+247565135,221623410,2025-10-22,North Las Vegas,NV0020200,13A,H,W,H,F,42,R,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+247565136,221623410,2025-10-22,North Las Vegas,NV0020200,13A,H,W,H,F,28,U,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+247565297,221623547,2025-10-23,North Las Vegas,NV0020200,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+247565308,221623557,2025-10-23,North Las Vegas,NV0020200,13A,H,W,H,F,21,N,Y,XR,Residence/Home,Home,Firearm;Personal Weapons,Possible Internal Injury,C
+247565349,221623591,2025-10-23,North Las Vegas,NV0020200,13A,W,W,N,F,37,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+252588373,226008892,2025-10-23,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,Y,XR,Residence/Home,Home,Handgun,Minor Injury,C
+247565342,221623584,2025-10-24,North Las Vegas,NV0020200,13A,W,W,N,M,54,U,N,RU,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Possible Internal Injury,C
+247565504,221623725,2025-10-25,North Las Vegas,NV0020200,13A,B,B,N,F,37,N,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury;Unconscious,C
+247565579,221623787,2025-10-25,North Las Vegas,NV0020200,13A,W,W,N,M,38,R,N,ST,Residence/Home,Home,Unknown,,C
+247565746,221623936,2025-10-25,North Las Vegas,NV0020200,13A,B,B,N,M,19,R,N,ST,Government/Public Building,Government Building,Handgun,,C
+247565747,221623936,2025-10-25,North Las Vegas,NV0020200,13A,W,W,N,M,18,N,N,ST,Government/Public Building,Government Building,Handgun,,C
+249666159,223454214,2025-10-25,North Las Vegas,NV0020200,13A,B,B,N,M,33,R,N,ST,Other/Unknown,Other & Unknown,Blunt Object,Minor Injury,C
+249666160,223454214,2025-10-25,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,ST,Other/Unknown,Other & Unknown,Blunt Object,Minor Injury,C
+247565611,221623813,2025-10-26,North Las Vegas,NV0020200,13A,H,W,H,F,16,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+247565612,221623813,2025-10-26,North Las Vegas,NV0020200,13A,H,W,H,F,34,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+247565753,221623941,2025-10-27,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,ST,Residence/Home,Home,Firearm;Handgun,Apparent Broken Bones;Severe Laceration,C
+247565901,221624069,2025-10-28,North Las Vegas,NV0020200,13A,B,B,N,M,34,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+249666162,223454216,2025-10-28,North Las Vegas,NV0020200,13A,H,W,H,M,35,R,N,ST,Commercial/Office Building,Office Building,Handgun,,C
+249666163,223454216,2025-10-28,North Las Vegas,NV0020200,13A,H,W,H,M,40,R,N,ST,Commercial/Office Building,Office Building,Handgun,,C
+249666167,223454220,2025-10-28,North Las Vegas,NV0020200,13A,H,W,H,M,20,R,N,FR,Residence/Home,Home,Handgun,Minor Injury,C
+247565985,221624147,2025-10-29,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+247566074,221624221,2025-10-29,North Las Vegas,NV0020200,13A,B,B,N,F,33,N,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Other,,C
+247566247,221624378,2025-10-29,North Las Vegas,NV0020200,13A,H,W,H,M,53,N,N,OK,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+249666175,223454225,2025-10-29,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,Y,SE,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+247566067,221624215,2025-10-30,North Las Vegas,NV0020200,13A,B,B,N,F,8,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+247566068,221624215,2025-10-30,North Las Vegas,NV0020200,13A,B,B,N,M,14,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+247566218,221624350,2025-10-30,North Las Vegas,NV0020200,13A,B,B,N,M,25,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+247566232,221624365,2025-10-30,North Las Vegas,NV0020200,13A,W,W,N,M,60,R,N,ST,Air/Bus/Train Terminal,Transit Station,Knife/Cutting Instrument,,C
+247566233,221624365,2025-10-30,North Las Vegas,NV0020200,13A,B,B,N,F,48,R,N,ST,Air/Bus/Train Terminal,Transit Station,Knife/Cutting Instrument,,C
+249666172,223454224,2025-10-30,North Las Vegas,NV0020200,13A,B,B,N,F,73,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247566276,221624404,2025-10-31,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+247566323,221624445,2025-10-31,North Las Vegas,NV0020200,13A,W,W,N,F,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247566324,221624445,2025-10-31,North Las Vegas,NV0020200,13A,W,W,N,M,19,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247566347,221624465,2025-11-01,North Las Vegas,NV0020200,13A,H,W,H,M,20,N,N,EE,Commercial/Office Building,Office Building,Knife/Cutting Instrument,Other Major Injury,C
+249666181,223454230,2025-11-01,North Las Vegas,NV0020200,13A,W,W,N,M,19,R,N,RU,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+247566582,221624658,2025-11-02,North Las Vegas,NV0020200,13A,W,W,N,M,70,R,N,ST,Convenience Store,Convenience Store,Personal Weapons,Severe Laceration,C
+247566722,221624786,2025-11-02,North Las Vegas,NV0020200,13A,W,W,N,F,39,R,Y,BG,Residence/Home,Home,Unknown,Apparent Broken Bones;Possible Internal Injury;Unconscious,C
+247566836,221624886,2025-11-02,North Las Vegas,NV0020200,13A,W,W,N,M,53,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666179,223454228,2025-11-02,North Las Vegas,NV0020200,13A,H,W,H,M,30,R,N,OF,Residence/Home,Home,Firearm,Minor Injury,C
+247566800,221624855,2025-11-03,North Las Vegas,NV0020200,13A,B,B,N,M,62,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247566677,221624744,2025-11-04,North Las Vegas,NV0020200,13A,W,W,N,F,61,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+247566812,221624865,2025-11-04,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247566889,221624924,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,F,32,N,N,ST,Air/Bus/Train Terminal,Transit Station,Other,Minor Injury,C
+247566900,221624933,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,M,1,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Fire/Incendiary Device,,C
+247566901,221624933,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,M,11,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Fire/Incendiary Device,,C
+247566902,221624933,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,F,14,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Fire/Incendiary Device,,C
+247566903,221624933,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,F,12,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Fire/Incendiary Device,,C
+247567010,221625025,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,M,16,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+247567011,221625025,2025-11-05,North Las Vegas,NV0020200,13A,B,B,N,M,17,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+247567012,221625025,2025-11-05,North Las Vegas,NV0020200,13A,W,W,N,M,17,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,,C
+247567152,221625147,2025-11-06,North Las Vegas,NV0020200,13A,H,W,H,M,47,R,N,PA,Residence/Home,Home,Other,Other Major Injury;Possible Internal Injury,C
+249666185,223454233,2025-11-07,North Las Vegas,NV0020200,13A,A,A,N,M,53,R,N,SP,Residence/Home,Home,Blunt Object,Severe Laceration,C
+249666195,223454242,2025-11-07,North Las Vegas,NV0020200,13A,W,W,N,F,36,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+247567048,221625054,2025-11-08,North Las Vegas,NV0020200,13A,H,W,H,F,65,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+247567083,221625083,2025-11-08,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,RU,Park/Playground,Park & Playground,Handgun,Other Major Injury,C
+252588407,226008917,2025-11-08,North Las Vegas,NV0020200,13A,B,B,N,F,52,R,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+252588408,226008917,2025-11-08,North Las Vegas,NV0020200,13A,B,B,N,M,12,R,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+252588409,226008917,2025-11-08,North Las Vegas,NV0020200,13A,B,B,N,F,15,R,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+247567447,221625395,2025-11-09,North Las Vegas,NV0020200,13A,B,B,N,F,40,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+247567449,221625395,2025-11-09,North Las Vegas,NV0020200,13A,B,B,N,F,41,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+249666196,223454243,2025-11-09,North Las Vegas,NV0020200,13A,B,B,N,M,41,U,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+247567532,221625467,2025-11-11,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury,C
+252588448,226008950,2025-11-11,North Las Vegas,NV0020200,13A,B,B,N,M,30,R,N,AQ;ST,Residence/Home,Home,Handgun,,C
+247567622,221625550,2025-11-12,North Las Vegas,NV0020200,13A,H,W,H,M,26,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Severe Laceration,C
+249666234,223454275,2025-11-13,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+247567748,221625659,2025-11-14,North Las Vegas,NV0020200,13A,B,B,N,M,41,R,N,RU,Air/Bus/Train Terminal,Transit Station,Handgun,,C
+249666227,223454267,2025-11-14,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666229,223454270,2025-11-14,North Las Vegas,NV0020200,13A,H,W,H,M,59,R,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+249666773,223454718,2025-11-15,North Las Vegas,NV0020200,13A,B,B,N,F,52,R,N,CH,Residence/Home,Home,Handgun,,C
+249666249,223454289,2025-11-16,North Las Vegas,NV0020200,13A,B,B,N,F,28,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury;Unconscious,C
+249666267,223454303,2025-11-16,North Las Vegas,NV0020200,13A,B,B,N,F,38,N,Y,BG,Convenience Store,Convenience Store,Motor Vehicle/Vessel,Minor Injury,C
+249666282,223454307,2025-11-16,North Las Vegas,NV0020200,13A,W,W,N,M,71,R,N,NE,Residence/Home,Home,Other,,C
+249666291,223454316,2025-11-16,North Las Vegas,NV0020200,13A,B,B,N,M,45,R,N,RU,Convenience Store,Convenience Store,Unknown,Minor Injury,C
+252588463,226008960,2025-11-17,North Las Vegas,NV0020200,13A,W,W,N,F,23,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+249667583,223455423,2025-11-19,North Las Vegas,NV0020200,13A,H,W,H,F,64,R,Y,SE,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Minor Injury,C
+252590936,226011006,2025-11-19,North Las Vegas,NV0020200,13A,W,W,N,F,21,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury,C
+247568002,221625869,2025-11-20,North Las Vegas,NV0020200,13A,H,W,H,M,22,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+247568213,221626053,2025-11-21,North Las Vegas,NV0020200,13A,B,B,N,M,18,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+247568214,221626053,2025-11-21,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666419,223454431,2025-11-22,North Las Vegas,NV0020200,13A,W,W,N,F,24,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+249666445,223454449,2025-11-22,North Las Vegas,NV0020200,13A,A,A,N,F,35,U,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+249666461,223454464,2025-11-22,North Las Vegas,NV0020200,13A,H,W,H,F,67,R,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+247568351,221626168,2025-11-24,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,Y,XR,Residence/Home,Home,Handgun,,C
+249666547,223454534,2025-11-24,North Las Vegas,NV0020200,13A,B,B,N,M,13,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+247568658,221626429,2025-11-26,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,ST,Residence/Home,Home,Blunt Object,,C
+249666257,223454296,2025-11-26,North Las Vegas,NV0020200,13A,B,B,N,M,60,R,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666505,223454504,2025-11-26,North Las Vegas,NV0020200,13A,B,B,N,M,23,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666545,223454533,2025-11-26,North Las Vegas,NV0020200,13A,H,W,H,F,22,N,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+249666546,223454533,2025-11-26,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,ST,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+249666559,223454546,2025-11-26,North Las Vegas,NV0020200,13A,B,B,N,F,45,R,Y,BG,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+249666565,223454550,2025-11-27,North Las Vegas,NV0020200,13A,B,B,N,M,36,R,N,RU,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,,C
+249666604,223454582,2025-11-29,North Las Vegas,NV0020200,13A,H,W,H,F,22,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+252588510,226009000,2025-11-29,North Las Vegas,NV0020200,13A,B,B,N,M,44,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+252588511,226009000,2025-11-29,North Las Vegas,NV0020200,13A,B,B,N,F,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+252588512,226009000,2025-11-29,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666597,223454573,2025-11-30,North Las Vegas,NV0020200,13A,W,W,N,F,51,R,N,FR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+249666741,223454694,2025-12-02,North Las Vegas,NV0020200,13A,H,W,H,M,36,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,,,C
+249666759,223454709,2025-12-02,North Las Vegas,NV0020200,13A,H,W,H,F,42,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+249666813,223454757,2025-12-04,North Las Vegas,NV0020200,13A,H,W,H,F,26,R,N,ST,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Possible Internal Injury,C
+249666814,223454757,2025-12-04,North Las Vegas,NV0020200,13A,P,P,N,F,60,N,N,ST,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Personal Weapons,Possible Internal Injury,C
+249667303,223455180,2025-12-04,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,RU,Residence/Home,Home,Personal Weapons,Other Major Injury;Unconscious,C
+252588499,226008991,2025-12-04,North Las Vegas,NV0020200,13A,B,B,N,F,26,R,N,ST,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+249666888,223454823,2025-12-05,North Las Vegas,NV0020200,13A,B,B,N,F,42,R,N,PA,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666834,223454776,2025-12-06,North Las Vegas,NV0020200,13A,B,B,N,F,53,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666835,223454776,2025-12-06,North Las Vegas,NV0020200,13A,B,B,N,F,37,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,,C
+249666903,223454836,2025-12-07,North Las Vegas,NV0020200,13A,B,B,N,M,14,U,N,RU,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+249666954,223454880,2025-12-08,North Las Vegas,NV0020200,13A,B,B,N,F,13,U,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+249667006,223454927,2025-12-08,North Las Vegas,NV0020200,13A,B,B,N,M,32,R,N,RU,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Severe Laceration,C
+249667832,223455633,2025-12-08,North Las Vegas,NV0020200,13A,W,W,N,M,56,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,,C
+249667856,223455651,2025-12-08,North Las Vegas,NV0020200,13A,H,W,H,M,45,R,N,ST,Convenience Store,Convenience Store,Other,Apparent Broken Bones,C
+249666925,223454853,2025-12-10,North Las Vegas,NV0020200,13A,B,B,N,M,54,N,N,ST,Convenience Store,Convenience Store,Blunt Object,,C
+249667005,223454926,2025-12-10,North Las Vegas,NV0020200,13A,B,B,N,F,58,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+249667042,223454961,2025-12-10,North Las Vegas,NV0020200,13A,W,W,N,F,32,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666947,223454873,2025-12-11,North Las Vegas,NV0020200,13A,B,B,N,F,27,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666948,223454873,2025-12-11,North Las Vegas,NV0020200,13A,B,B,N,F,36,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666949,223454873,2025-12-11,North Las Vegas,NV0020200,13A,B,B,N,F,44,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249666998,223454921,2025-12-11,North Las Vegas,NV0020200,13A,W,W,N,M,51,R,N,AQ,Residence/Home,Home,Handgun,,C
+249666999,223454921,2025-12-11,North Las Vegas,NV0020200,13A,W,W,N,F,17,R,N,AQ,Residence/Home,Home,Handgun,,C
+249667000,223454921,2025-12-11,North Las Vegas,NV0020200,13A,B,B,N,M,20,U,N,AQ,Residence/Home,Home,Handgun,,C
+249667046,223454963,2025-12-11,North Las Vegas,NV0020200,13A,B,B,N,F,31,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+249667162,223455062,2025-12-13,North Las Vegas,NV0020200,13A,H,W,H,M,10,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+249667163,223455062,2025-12-13,North Las Vegas,NV0020200,13A,H,W,H,M,8,R,N,NE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+249667228,223455116,2025-12-14,North Las Vegas,NV0020200,13A,H,W,H,F,31,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+249667364,223455230,2025-12-16,North Las Vegas,NV0020200,13A,W,W,N,F,48,R,Y,BG,Residence/Home,Home,Handgun,,C
+249667382,223455244,2025-12-16,North Las Vegas,NV0020200,13A,H,W,H,M,54,R,Y,XR,Residence/Home,Home,Blunt Object,Minor Injury,C
+249667461,223455317,2025-12-16,North Las Vegas,NV0020200,13A,H,W,H,M,37,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,Minor Injury,C
+252588614,226009086,2025-12-16,North Las Vegas,NV0020200,13A,B,B,N,F,34,R,Y,XR,Residence/Home,Home,Rifle,,C
+249667411,223455272,2025-12-17,North Las Vegas,NV0020200,13A,W,W,N,M,65,R,N,AQ,Residence/Home,Home,Handgun,,C
+249667598,223455431,2025-12-19,North Las Vegas,NV0020200,13A,W,W,N,F,37,R,N,IL;OF,Residence/Home,Home,Personal Weapons,Minor Injury,C
+249667561,223455402,2025-12-20,North Las Vegas,NV0020200,13A,W,W,N,F,53,R,Y,SE,Residence/Home,Home,,Minor Injury,C
+249667567,223455407,2025-12-21,North Las Vegas,NV0020200,13A,I,I,N,F,57,R,N,PA,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,,C
+249667591,223455432,2025-12-22,North Las Vegas,NV0020200,13A,H,W,H,M,37,N,N,IL,Residence/Home,Home,Firearm,,C
+249667653,223455481,2025-12-22,North Las Vegas,NV0020200,13A,H,W,H,F,33,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+252588583,226009059,2025-12-22,North Las Vegas,NV0020200,13A,H,W,H,M,25,R,N,RU;ST,Convenience Store,Convenience Store,Handgun,,C
+252588631,226009102,2025-12-23,North Las Vegas,NV0020200,13A,B,B,N,M,14,R,N,RU,Residence/Home,Home,Firearm,Other Major Injury,C
+252588646,226009115,2025-12-24,North Las Vegas,NV0020200,13A,B,B,N,F,33,R,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,,C
+252588664,226009133,2025-12-24,North Las Vegas,NV0020200,13A,B,B,N,M,24,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+252588676,226009145,2025-12-24,North Las Vegas,NV0020200,13A,B,B,N,F,32,R,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+249667659,223455485,2025-12-25,North Las Vegas,NV0020200,13A,B,B,N,M,12,N,N,OK,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+249667660,223455485,2025-12-25,North Las Vegas,NV0020200,13A,B,B,N,M,14,N,N,OK,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+252588721,226009182,2025-12-27,North Las Vegas,NV0020200,13A,W,W,N,F,61,R,N,CO,Residence/Home,Home,Blunt Object,Minor Injury,C
+252588795,226009233,2025-12-27,North Las Vegas,NV0020200,13A,H,W,H,M,24,R,N,ST,Residence/Home,Home,Blunt Object,Other Major Injury;Possible Internal Injury;Severe Laceration,C
+252588796,226009234,2025-12-28,North Las Vegas,NV0020200,13A,B,B,N,M,39,R,N,CO,Residence/Home,Home,Personal Weapons,Severe Laceration,C
+252588823,226009258,2025-12-28,North Las Vegas,NV0020200,13A,H,W,H,M,38,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,,C
+249667824,223455629,2025-12-29,North Las Vegas,NV0020200,13A,W,W,N,F,18,N,N,ST,Residence/Home,Home,Firearm,,C
+249667825,223455629,2025-12-29,North Las Vegas,NV0020200,13A,B,B,N,M,25,N,N,ST,Residence/Home,Home,Firearm,,C
+252588791,226009230,2025-12-29,North Las Vegas,NV0020200,13A,W,W,N,M,41,R,N,RU,Convenience Store,Convenience Store,Blunt Object,Minor Injury,C
+252588840,226009272,2025-12-29,North Las Vegas,NV0020200,13A,B,B,N,M,34,R,N,NE,Residence/Home,Home,Handgun,Minor Injury,C
+252588841,226009272,2025-12-29,North Las Vegas,NV0020200,13A,B,B,N,M,35,R,N,NE,Residence/Home,Home,Handgun,,C
+252588887,226009313,2025-12-30,North Las Vegas,NV0020200,13A,W,W,N,M,51,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C

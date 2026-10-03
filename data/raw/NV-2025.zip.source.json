@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/NV-2025.zip",
+ "key": "nibrs/incident/2025/NV-2025.zip",
+ "fetched_at": "2026-10-02T21:16:57",
+ "bytes": 15058497,
+ "sha256": "bd8c5c104e78a6d14da087623f2cf3e0cea7d2536b21b0224ae69161283a84ca",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NV 2025, as received"
+}

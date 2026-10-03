@@ -1,0 +1,7 @@
+{
+ "query": "El Paso, TX",
+ "census_geoid": "16000US4824000",
+ "display_name": "El Paso, TX",
+ "population": 680130,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

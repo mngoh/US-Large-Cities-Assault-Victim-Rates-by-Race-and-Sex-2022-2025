@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2024/OH-2024.zip",
+ "key": "nibrs/incident/2024/OH-2024.zip",
+ "fetched_at": "2026-10-02T21:17:16",
+ "bytes": 37757507,
+ "sha256": "0c09e7ee3de7fbf3338cea2530bed5182e42f8f3e3ad955e9782a86ff9efac64",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, OH 2024, as received"
+}

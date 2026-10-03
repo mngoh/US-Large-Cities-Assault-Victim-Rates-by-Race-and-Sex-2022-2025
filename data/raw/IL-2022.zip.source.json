@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/IL-2022.zip",
+ "key": "nibrs/incident/2022/IL-2022.zip",
+ "fetched_at": "2026-10-02T21:15:36",
+ "bytes": 37497459,
+ "sha256": "62f54ea27b45222a0d104951f3f46b49310e85d9ed2994d7262319c4fc776ffd",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, IL 2022, as received"
+}

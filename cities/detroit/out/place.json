@@ -1,0 +1,7 @@
+{
+ "query": "Detroit, MI",
+ "census_geoid": "16000US2622000",
+ "display_name": "Detroit, MI",
+ "population": 638530,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

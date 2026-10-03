@@ -1,0 +1,7 @@
+{
+ "query": "New York, NY",
+ "census_geoid": "16000US3651000",
+ "display_name": "New York, NY",
+ "population": 8483844,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

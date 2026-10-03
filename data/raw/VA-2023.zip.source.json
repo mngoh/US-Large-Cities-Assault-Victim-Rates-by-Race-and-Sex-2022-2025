@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/VA-2023.zip",
+ "key": "nibrs/incident/2023/VA-2023.zip",
+ "fetched_at": "2026-10-02T21:17:41",
+ "bytes": 34097700,
+ "sha256": "0a2b2aa6fcc42ae07bcb98df46b58e6334de7b50d9d1a567e008c31720ebd1c0",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, VA 2023, as received"
+}

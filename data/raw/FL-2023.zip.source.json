@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/FL-2023.zip",
+ "key": "nibrs/incident/2023/FL-2023.zip",
+ "fetched_at": "2026-10-02T21:15:22",
+ "bytes": 28769976,
+ "sha256": "cb7a6d5127d94cab0d7b5f148b42a4326b822b760045511fe8c389f19e2b092a",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, FL 2023, as received"
+}

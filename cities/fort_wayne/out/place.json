@@ -1,0 +1,7 @@
+{
+ "query": "Fort Wayne, IN",
+ "census_geoid": "16000US1825000",
+ "display_name": "Fort Wayne, IN",
+ "population": 268589,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

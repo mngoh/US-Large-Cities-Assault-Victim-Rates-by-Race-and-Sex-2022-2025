@@ -1,0 +1,7 @@
+{
+ "query": "Nashville-Davidson metropolitan government (balance), TN",
+ "census_geoid": "16000US4752006",
+ "display_name": "Nashville-Davidson metropolitan government (balance), TN",
+ "population": 690130,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

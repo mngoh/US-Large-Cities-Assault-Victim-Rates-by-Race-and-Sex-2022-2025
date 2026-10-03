@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/CO-2025.zip",
+ "key": "nibrs/incident/2025/CO-2025.zip",
+ "fetched_at": "2026-10-02T21:15:35",
+ "bytes": 25573488,
+ "sha256": "1b59a9c92b81f33862ffa4478ef47143601f44583b6b0280951f9aa36a22683e",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, CO 2025, as received"
+}

@@ -1,0 +1,7 @@
+{
+ "query": "Milwaukee, WI",
+ "census_geoid": "16000US5553000",
+ "display_name": "Milwaukee, WI",
+ "population": 566973,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

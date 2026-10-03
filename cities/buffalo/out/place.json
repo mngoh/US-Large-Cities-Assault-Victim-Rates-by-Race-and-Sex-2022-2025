@@ -1,0 +1,7 @@
+{
+ "query": "Buffalo, NY",
+ "census_geoid": "16000US3611000",
+ "display_name": "Buffalo, NY",
+ "population": 276854,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

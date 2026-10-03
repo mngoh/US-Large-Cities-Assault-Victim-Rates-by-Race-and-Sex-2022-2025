@@ -1,0 +1,7 @@
+{
+ "query": "Chesapeake, VA",
+ "census_geoid": "16000US5116000",
+ "display_name": "Chesapeake, VA",
+ "population": 252583,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

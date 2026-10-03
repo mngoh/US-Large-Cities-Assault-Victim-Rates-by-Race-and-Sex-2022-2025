@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2024/MO-2024.zip",
+ "key": "nibrs/incident/2024/MO-2024.zip",
+ "fetched_at": "2026-10-02T21:16:36",
+ "bytes": 24604331,
+ "sha256": "ccabe91a39960948d63fec65376b3023fcd7231c3d2b1f8aeb41bddbd657b4ec",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, MO 2024, as received"
+}

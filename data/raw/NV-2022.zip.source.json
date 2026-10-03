@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/NV-2022.zip",
+ "key": "nibrs/incident/2022/NV-2022.zip",
+ "fetched_at": "2026-10-02T21:16:55",
+ "bytes": 16493501,
+ "sha256": "b33f82c854324e0f844808e13ba5128453430b934646c9dfddb5443c584540ab",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NV 2022, as received"
+}

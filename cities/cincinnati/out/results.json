@@ -1,0 +1,353 @@
+{
+ "focus": {
+  "group": "Black",
+  "sex": "F",
+  "label": "Black women"
+ },
+ "window": {
+  "start": "2022-01-01",
+  "end": "2025-12-31"
+ },
+ "years": 4.0,
+ "spans": {
+  "2022": 1.0,
+  "2023": 1.0,
+  "2024": 1.0,
+  "2025": 1.0
+ },
+ "groups": [
+  "Black",
+  "Hispanic",
+  "White",
+  "Asian"
+ ],
+ "kinds": [
+  "aggravated",
+  "simple"
+ ],
+ "counts": {
+  "total": 21648,
+  "known": 21344,
+  "by_kind": {
+   "simple": 15386,
+   "aggravated": 6262
+  },
+  "unknown_race": 297,
+  "unknown_sex": 9,
+  "unknown_race_share_by_sex": {
+   "F": 0.8,
+   "M": 2.2
+  },
+  "raw_race_values": {
+   "U": 283,
+   "I": 9,
+   "P": 5
+  },
+  "median_age": 30.0,
+  "located": 0
+ },
+ "rates": {
+  "Black": {
+   "F": 3993,
+   "M": 2628
+  },
+  "Hispanic": {
+   "F": 829,
+   "M": 769
+  },
+  "White": {
+   "F": 1023,
+   "M": 762
+  },
+  "Asian": {
+   "F": 267,
+   "M": 329
+  }
+ },
+ "ratios": {
+  "Hispanic": 4.82,
+  "White": 3.9,
+  "Asian": 14.96
+ },
+ "ratio_to_other_sex": {
+  "Black": 1.52,
+  "Hispanic": 1.08,
+  "White": 1.34,
+  "Asian": 0.81
+ },
+ "sex_share": {
+  "aggravated": {
+   "Black": 48.0,
+   "Hispanic": 36.9,
+   "White": 47.1,
+   "Asian": 44.0
+  },
+  "simple": {
+   "Black": 71.4,
+   "Hispanic": 55.9,
+   "White": 60.5,
+   "Asian": 43.2
+  },
+  "all": {
+   "Black": 64.1,
+   "Hispanic": 51.0,
+   "White": 57.3,
+   "Asian": 43.4
+  }
+ },
+ "race_coding_bound": {
+  "combo_ratio": 1.11,
+  "ratios_worst_case": {
+   "Hispanic": 4.34,
+   "White": 3.51,
+   "Asian": 13.48
+  },
+  "note": "if every multiracial Black resident is recorded as Black, the denominator grows by 11%"
+ },
+ "by_year_counts": {
+  "2022": {
+   "F": 3598,
+   "M": 2172
+  },
+  "2023": {
+   "F": 3195,
+   "M": 1958
+  },
+  "2024": {
+   "F": 3139,
+   "M": 1997
+  },
+  "2025": {
+   "F": 3294,
+   "M": 1991
+  }
+ },
+ "tests": {
+  "age": {
+   "labels": [
+    "0-4",
+    "5-9",
+    "10-14",
+    "15-17",
+    "18-19",
+    "20-24",
+    "25-29",
+    "30-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65-74",
+    "75-84",
+    "85+"
+   ],
+   "rates": {
+    "Black": [
+     319,
+     551,
+     2238,
+     5986,
+     8795,
+     11053,
+     7997,
+     8415,
+     5937,
+     2715,
+     1457,
+     545,
+     139,
+     94
+    ],
+    "Hispanic": [
+     18,
+     67,
+     332,
+     null,
+     947,
+     1904,
+     2703,
+     1359,
+     1160,
+     528,
+     176,
+     null,
+     null,
+     null
+    ],
+    "White": [
+     60,
+     68,
+     557,
+     1868,
+     951,
+     1503,
+     1412,
+     1551,
+     1771,
+     1347,
+     538,
+     243,
+     76,
+     58
+    ],
+    "Asian": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     287,
+     244,
+     233,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   },
+   "standardized": {
+    "Black": 4486,
+    "Hispanic": 846,
+    "White": 989,
+    "Asian": 71
+   },
+   "crude": {}
+  },
+  "type": {
+   "aggravated": {
+    "Black": 924,
+    "Hispanic": 156,
+    "White": 199,
+    "Asian": 68
+   },
+   "simple": {
+    "Black": 3069,
+    "Hispanic": 673,
+    "White": 824,
+    "Asian": 199
+   }
+  },
+  "time": {
+   "2022": {
+    "Black": 4339,
+    "Hispanic": 818,
+    "White": 1137,
+    "Asian": 124
+   },
+   "2023": {
+    "Black": 3821,
+    "Hispanic": 1270,
+    "White": 957,
+    "Asian": 323
+   },
+   "2024": {
+    "Black": 3820,
+    "Hispanic": 1065,
+    "White": 912,
+    "Asian": 273
+   },
+   "2025": {
+    "Black": 3991,
+    "Hispanic": 161,
+    "White": 1087,
+    "Asian": 347
+   }
+  },
+  "premises": {
+   "labels": [
+    "Home",
+    "Street & Sidewalk",
+    "Parking Lot",
+    "Other & Unknown",
+    "K-12 School",
+    "Park & Playground",
+    "Gas Station",
+    "Bar & Nightclub"
+   ],
+   "focus": [
+    61.4,
+    18.3,
+    6.8,
+    4.1,
+    2.2,
+    1.3,
+    1.0,
+    0.9
+   ],
+   "other": [
+    57.8,
+    16.0,
+    6.1,
+    4.8,
+    0.9,
+    1.3,
+    1.7,
+    2.6
+   ]
+  },
+  "weapons": {
+   "labels": [
+    "Firearm",
+    "Knife or cutting",
+    "Blunt object or vehicle",
+    "Hands, fists, feet",
+    "Other or unknown"
+   ],
+   "focus": [
+    12.2,
+    2.8,
+    2.2,
+    71.8,
+    11.0
+   ],
+   "other": [
+    8.5,
+    2.6,
+    2.2,
+    74.7,
+    12.0
+   ]
+  },
+  "flags": {
+   "partner": {
+    "share": {
+     "Black": 27.5,
+     "Hispanic": 38.0,
+     "White": 29.8,
+     "Asian": 30.2
+    },
+    "rates": {
+     "flagged": {
+      "Black": 1098,
+      "Hispanic": 315,
+      "White": 305,
+      "Asian": 81
+     },
+     "unflagged": {
+      "Black": 2894,
+      "Hispanic": 514,
+      "White": 718,
+      "Asian": 186
+     }
+    },
+    "ratios": {
+     "flagged": {
+      "Hispanic": 3.49,
+      "White": 3.6,
+      "Asian": 13.56
+     },
+     "unflagged": {
+      "Hispanic": 5.63,
+      "White": 4.03,
+      "Asian": 15.56
+     }
+    }
+   }
+  },
+  "n": {
+   "focus": 9805,
+   "other": 3421
+  }
+ }
+}

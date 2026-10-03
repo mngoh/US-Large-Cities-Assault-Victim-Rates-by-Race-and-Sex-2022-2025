@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/OK-2025.zip",
+ "key": "nibrs/incident/2025/OK-2025.zip",
+ "fetched_at": "2026-10-02T21:17:19",
+ "bytes": 17623842,
+ "sha256": "85d76f982c8c45498612a053332baebffe46ec1679b080f6602427b76964edb1",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, OK 2025, as received"
+}

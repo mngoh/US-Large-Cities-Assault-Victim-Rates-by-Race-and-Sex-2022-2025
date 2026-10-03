@@ -1,0 +1,7 @@
+{
+ "query": "Henderson, NV",
+ "census_geoid": "16000US3231900",
+ "display_name": "Henderson, NV",
+ "population": 332141,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

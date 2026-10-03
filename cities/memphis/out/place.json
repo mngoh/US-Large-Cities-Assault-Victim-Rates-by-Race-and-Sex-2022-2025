@@ -1,0 +1,7 @@
+{
+ "query": "Memphis, TN",
+ "census_geoid": "16000US4748000",
+ "display_name": "Memphis, TN",
+ "population": 618980,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

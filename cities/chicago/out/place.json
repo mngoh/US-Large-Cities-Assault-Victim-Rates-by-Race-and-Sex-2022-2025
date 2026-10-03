@@ -1,0 +1,7 @@
+{
+ "query": "Chicago, IL",
+ "census_geoid": "16000US1714000",
+ "display_name": "Chicago, IL",
+ "population": 2711226,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

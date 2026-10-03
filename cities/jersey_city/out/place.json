@@ -1,0 +1,7 @@
+{
+ "query": "Jersey City, NJ",
+ "census_geoid": "16000US3436000",
+ "display_name": "Jersey City, NJ",
+ "population": 294078,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

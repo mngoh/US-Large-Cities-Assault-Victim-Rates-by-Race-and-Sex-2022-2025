@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2023/NJ-2023.zip",
+ "key": "nibrs/incident/2023/NJ-2023.zip",
+ "fetched_at": "2026-10-02T21:16:50",
+ "bytes": 16300115,
+ "sha256": "e269865973f71bdea8c7f34e6fef3a74676cbbd483a068c801889fbb0c96b508",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NJ 2023, as received"
+}

@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2025/PA-2025.zip",
+ "key": "nibrs/incident/2025/PA-2025.zip",
+ "fetched_at": "2026-10-02T21:17:27",
+ "bytes": 26188495,
+ "sha256": "259cb3aa13a3c22a9f2a270e366a554ebef87a4e3671b6800bc988a44e826490",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, PA 2025, as received"
+}

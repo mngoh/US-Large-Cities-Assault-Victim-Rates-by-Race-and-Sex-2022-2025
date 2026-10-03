@@ -1,0 +1,7 @@
+{
+ "query": "Denver, CO",
+ "census_geoid": "16000US0820000",
+ "display_name": "Denver, CO",
+ "population": 718877,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}

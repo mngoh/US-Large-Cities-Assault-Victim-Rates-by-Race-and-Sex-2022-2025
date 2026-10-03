@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/NY-2022.zip",
+ "key": "nibrs/incident/2022/NY-2022.zip",
+ "fetched_at": "2026-10-02T21:16:59",
+ "bytes": 13980004,
+ "sha256": "c0236a6fe52621eece89f5776f05d58455d310bee71256fb9cfae138b4393dfc",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, NY 2022, as received"
+}

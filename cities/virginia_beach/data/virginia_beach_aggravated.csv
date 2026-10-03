@@ -1,0 +1,379 @@
+victim_id,incident_id,incident_date,agency,ori,offense_code,race_group,race,ethnicity,sex,age,resident_status,partner,relationship,location,premise,weapon,injury,attempt_complete
+209132537,188106998,2024-01-04,Virginia Beach,VA1280000,13A,W,W,N,M,29,,N,ST,Department/Discount Store,Department Store,,Apparent Broken Bones,C
+229783657,206092758,2024-01-04,Virginia Beach,VA1280000,13A,W,W,N,F,72,,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+209132360,188106843,2024-01-06,Virginia Beach,VA1280000,13A,B,B,N,M,40,,N,OK,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+210868834,189620026,2024-01-06,Virginia Beach,VA1280000,13A,B,B,N,F,45,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+210869917,189620920,2024-01-08,Virginia Beach,VA1280000,13A,W,W,N,F,25,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+229783648,206092752,2024-01-10,Virginia Beach,VA1280000,13A,W,W,N,F,53,N,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+209132544,188107005,2024-01-13,Virginia Beach,VA1280000,13A,B,B,N,M,24,,N,,Bar/Nightclub,Bar & Nightclub,Handgun,Other Major Injury,C
+207582956,186752993,2024-01-14,Virginia Beach,VA1280000,13A,W,W,X,M,48,,N,NE,Residence/Home,Home,Knife/Cutting Instrument,Possible Internal Injury,C
+224029870,201062721,2024-01-20,Virginia Beach,VA1280000,13A,B,B,N,F,16,,N,AQ;RU,Commercial/Office Building,Office Building,Firearm,Other Major Injury;Possible Internal Injury,C
+207584151,186754044,2024-01-22,Virginia Beach,VA1280000,13A,B,B,N,M,20,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Loss of Teeth;Possible Internal Injury;Unconscious,C
+209133053,188107445,2024-01-22,Virginia Beach,VA1280000,13A,B,B,N,M,16,,N,AQ;OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,Apparent Broken Bones,C
+212816849,191313973,2024-01-22,Virginia Beach,VA1280000,13A,W,W,N,F,38,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+231737873,207802651,2024-01-26,Virginia Beach,VA1280000,13A,H,W,H,F,40,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+220094289,197637662,2024-01-31,Virginia Beach,VA1280000,13A,B,B,N,F,27,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+214613131,192873550,2024-02-01,Virginia Beach,VA1280000,13A,W,W,N,M,36,,N,FR,Residence/Home,Home,Other,Other Major Injury,C
+214613276,192873677,2024-02-06,Virginia Beach,VA1280000,13A,B,B,N,M,35,,N,FR,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+209133919,188108206,2024-02-07,Virginia Beach,VA1280000,13A,W,W,N,M,62,R,N,ST,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Other Major Injury;Possible Internal Injury;Unconscious,C
+209134189,188108453,2024-02-08,Virginia Beach,VA1280000,13A,W,W,N,M,18,,N,,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Firearm,Other Major Injury,C
+220094307,197637677,2024-02-09,Virginia Beach,VA1280000,13A,W,W,N,M,37,,N,ST,Bar/Nightclub,Bar & Nightclub,Firearm;Handgun,Other Major Injury,C
+220094309,197637677,2024-02-09,Virginia Beach,VA1280000,13A,B,B,N,M,32,,N,ST,Bar/Nightclub,Bar & Nightclub,Firearm;Handgun,Other Major Injury,C
+210869692,189620731,2024-02-12,Virginia Beach,VA1280000,13A,B,B,N,F,39,,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury,C
+210869725,189620756,2024-02-12,Virginia Beach,VA1280000,13A,B,B,X,F,35,,N,FR,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury,C
+224030009,201062843,2024-02-13,Virginia Beach,VA1280000,13A,B,B,X,M,8,,N,OF;ST,Residence/Home,Home,Firearm,Other Major Injury;Unconscious,C
+209134830,188109029,2024-02-15,Virginia Beach,VA1280000,13A,W,W,N,F,38,,N,AQ,Residence/Home,Home,Blunt Object,Minor Injury,C
+210869854,189620869,2024-02-16,Virginia Beach,VA1280000,13A,W,W,N,F,11,R,N,FR,Air/Bus/Train Terminal,Transit Station,Asphyxiation;Personal Weapons,,C
+209135956,188110033,2024-02-22,Virginia Beach,VA1280000,13A,W,W,N,M,69,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Apparent Broken Bones,C
+224030263,201063065,2024-02-25,Virginia Beach,VA1280000,13A,B,B,N,F,22,,N,,Residence/Home,Home,Personal Weapons;Unknown,,C
+224030103,201062925,2024-02-28,Virginia Beach,VA1280000,13A,B,B,N,F,29,,N,FR,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,,C
+210870900,189621773,2024-03-03,Virginia Beach,VA1280000,13A,W,W,N,M,51,,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,,C
+210870956,189621822,2024-03-03,Virginia Beach,VA1280000,13A,B,B,N,M,48,,N,ST,Other/Unknown,Other & Unknown,Personal Weapons,Severe Laceration,C
+210873793,189624251,2024-03-07,Virginia Beach,VA1280000,13A,B,B,X,F,34,,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+210871931,189622671,2024-03-08,Virginia Beach,VA1280000,13A,W,W,N,M,17,R,N,ST,Residence/Home,Home,Personal Weapons,Other Major Injury;Possible Internal Injury,C
+220095000,197638275,2024-03-08,Virginia Beach,VA1280000,13A,W,W,N,M,25,,Y,VO;XR,Parking/Drop Lot/Garage,Parking Lot,Other;Personal Weapons,Minor Injury,C
+220095006,197638275,2024-03-08,Virginia Beach,VA1280000,13A,B,B,N,F,26,,Y,VO;XR,Parking/Drop Lot/Garage,Parking Lot,Other;Personal Weapons,Loss of Teeth;Other Major Injury,C
+210872818,189623415,2024-03-13,Virginia Beach,VA1280000,13A,B,B,N,F,24,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Other Major Injury;Unconscious,C
+210873277,189623811,2024-03-16,Virginia Beach,VA1280000,13A,H,U,H,M,,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Other Major Injury,C
+210873564,189624049,2024-03-16,Virginia Beach,VA1280000,13A,B,B,N,M,55,,N,FR,Residence/Home,Home,Personal Weapons,Loss of Teeth,C
+220095053,197638323,2024-03-16,Virginia Beach,VA1280000,13A,W,W,N,F,40,R,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Unconscious,C
+225785321,202600709,2024-03-20,Virginia Beach,VA1280000,13A,W,W,N,F,20,,Y,XR,Residence/Home,Home,Asphyxiation,Minor Injury,C
+231738186,207802915,2024-03-22,Virginia Beach,VA1280000,13A,B,B,N,F,30,,N,ST,Other/Unknown,Other & Unknown,Personal Weapons,Possible Internal Injury,C
+210874036,189624462,2024-03-23,Virginia Beach,VA1280000,13A,W,W,N,F,19,,Y,XR,Residence/Home,Home,,Minor Injury,C
+224030456,201063231,2024-03-23,Virginia Beach,VA1280000,13A,W,W,N,M,40,,N,FR,Parking/Drop Lot/Garage,Parking Lot,Firearm,Other Major Injury;Possible Internal Injury,C
+220095285,197638523,2024-03-31,Virginia Beach,VA1280000,13A,W,W,N,M,17,,N,FR,Hotel/Motel/Etc.,Hotel & Motel,Firearm,Minor Injury,C
+212817871,191314847,2024-04-01,Virginia Beach,VA1280000,13A,W,W,N,F,53,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+214613412,192873793,2024-04-01,Virginia Beach,VA1280000,13A,W,W,N,M,63,R,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Blunt Object;Personal Weapons,Apparent Broken Bones;Loss of Teeth;Possible Internal Injury;Severe Laceration,C
+229784133,206093137,2024-04-01,Virginia Beach,VA1280000,13A,H,W,H,M,38,,N,,Residence/Home,Home,Unknown,Severe Laceration,C
+212817944,191314909,2024-04-02,Virginia Beach,VA1280000,13A,B,B,N,F,42,,N,PA,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Asphyxiation,,C
+212818024,191314983,2024-04-02,Virginia Beach,VA1280000,13A,B,B,N,F,35,,N,ST,Service/Gas Station,Gas Station,Motor Vehicle/Vessel,,C
+212818025,191314983,2024-04-02,Virginia Beach,VA1280000,13A,W,W,U,F,32,,N,ST,Service/Gas Station,Gas Station,Motor Vehicle/Vessel,,C
+212818188,191315132,2024-04-02,Virginia Beach,VA1280000,13A,B,B,N,M,64,U,N,OK,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Apparent Broken Bones;Minor Injury,C
+224030259,201063061,2024-04-07,Virginia Beach,VA1280000,13A,W,W,N,M,15,,N,AQ,Residence/Home,Home,Blunt Object;Personal Weapons,Minor Injury,C
+212819113,191315940,2024-04-08,Virginia Beach,VA1280000,13A,B,B,N,F,33,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Unconscious,C
+231737967,207802732,2024-04-09,Virginia Beach,VA1280000,13A,W,W,X,F,47,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+220095727,197638902,2024-04-14,Virginia Beach,VA1280000,13A,B,B,N,M,31,,N,AQ,Residence/Home,Home,Firearm,Other Major Injury,C
+220095721,197638895,2024-04-16,Virginia Beach,VA1280000,13A,B,B,N,M,21,,N,RU;ST,Parking/Drop Lot/Garage,Parking Lot,Firearm;Handgun,,C
+214613745,192874079,2024-04-19,Virginia Beach,VA1280000,13A,W,W,N,M,13,R,N,OK,School-Elementary/Secondary,K-12 School,Blunt Object;Personal Weapons,Minor Injury,C
+212821227,191317822,2024-04-20,Virginia Beach,VA1280000,13A,W,W,X,F,21,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Unconscious,C
+220095685,197638867,2024-04-20,Virginia Beach,VA1280000,13A,B,B,N,F,37,,Y,BG;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+220095686,197638867,2024-04-20,Virginia Beach,VA1280000,13A,B,B,N,M,36,,Y,BG;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Blunt Object,Minor Injury,C
+220095598,197638794,2024-04-21,Virginia Beach,VA1280000,13A,B,B,U,F,28,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+212821298,191317885,2024-04-22,Virginia Beach,VA1280000,13A,B,B,N,M,57,,N,OF,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury;Severe Laceration,C
+212821252,191317842,2024-04-23,Virginia Beach,VA1280000,13A,B,B,N,M,35,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury;Severe Laceration,C
+220095724,197638900,2024-04-23,Virginia Beach,VA1280000,13A,W,W,X,M,1,,N,OK,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+220095671,197638855,2024-04-26,Virginia Beach,VA1280000,13A,B,B,N,M,26,,N,,Residence/Home,Home,Firearm,,C
+220095672,197638855,2024-04-26,Virginia Beach,VA1280000,13A,B,B,N,F,20,,N,,Residence/Home,Home,Firearm,,C
+229783824,206092881,2024-04-28,Virginia Beach,VA1280000,13A,H,W,H,F,25,R,N,RU;VO,Convenience Store,Convenience Store,Other;Personal Weapons,Minor Injury,C
+229783825,206092881,2024-04-28,Virginia Beach,VA1280000,13A,B,B,X,M,28,,N,RU;VO,Convenience Store,Convenience Store,Other;Personal Weapons,,C
+214614699,192874919,2024-05-02,Virginia Beach,VA1280000,13A,W,W,N,M,24,R,N,FR,Residence/Home,Home,Handgun,Minor Injury,C
+214614700,192874919,2024-05-02,Virginia Beach,VA1280000,13A,W,W,N,F,30,R,N,SB,Residence/Home,Home,Handgun,,C
+220096058,197639199,2024-05-02,Virginia Beach,VA1280000,13A,B,B,N,F,37,,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+214614943,192875127,2024-05-06,Virginia Beach,VA1280000,13A,B,B,N,M,23,R,Y,XR,Residence/Home,Home,Other,,C
+220096011,197639160,2024-05-09,Virginia Beach,VA1280000,13A,W,W,N,F,48,,N,ST,Air/Bus/Train Terminal,Transit Station,Unknown,Severe Laceration,C
+214615315,192875454,2024-05-10,Virginia Beach,VA1280000,13A,W,W,N,F,62,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Minor Injury;Possible Internal Injury,C
+220096092,197639227,2024-05-12,Virginia Beach,VA1280000,13A,B,B,N,F,26,,N,FR,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+220096096,197639231,2024-05-12,Virginia Beach,VA1280000,13A,W,W,N,F,19,,N,CH,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+231738093,207802835,2024-05-12,Virginia Beach,VA1280000,13A,W,W,N,M,41,R,N,AQ;VO,Restaurant,Restaurant,Personal Weapons,Minor Injury;Possible Internal Injury,C
+220095878,197639042,2024-05-13,Virginia Beach,VA1280000,13A,B,B,N,M,49,,N,,Bar/Nightclub,Bar & Nightclub,Firearm,Other Major Injury,C
+220096013,197639163,2024-05-16,Virginia Beach,VA1280000,13A,W,W,N,F,23,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+214616729,192876693,2024-05-17,Virginia Beach,VA1280000,13A,W,W,N,M,48,,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Firearm,,C
+214617163,192877074,2024-05-17,Virginia Beach,VA1280000,13A,W,W,N,M,43,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Apparent Broken Bones,C
+214616613,192876588,2024-05-18,Virginia Beach,VA1280000,13A,B,B,X,M,26,,N,,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Minor Injury;Unconscious,C
+220095968,197639122,2024-05-18,Virginia Beach,VA1280000,13A,W,W,X,F,28,,Y,XR,Service/Gas Station,Gas Station,Other;Personal Weapons,Minor Injury,C
+220096065,197639206,2024-05-18,Virginia Beach,VA1280000,13A,B,B,N,M,36,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,Loss of Teeth,C
+214616965,192876904,2024-05-19,Virginia Beach,VA1280000,13A,W,W,N,M,30,R,N,,Residence/Home,Home,Blunt Object,Severe Laceration,C
+220096164,197639290,2024-05-19,Virginia Beach,VA1280000,13A,A,A,N,M,32,R,N,AQ,Residence/Home,Home,Firearm,Other Major Injury,C
+231738223,207802950,2024-05-20,Virginia Beach,VA1280000,13A,B,B,N,F,53,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+220096297,197639409,2024-05-21,Virginia Beach,VA1280000,13A,H,W,H,F,38,,Y,BG,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+231738221,207802948,2024-05-24,Virginia Beach,VA1280000,13A,W,W,U,F,43,U,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+220096216,197639334,2024-05-25,Virginia Beach,VA1280000,13A,B,B,N,M,18,N,N,RU,Park/Playground,Park & Playground,Firearm,Possible Internal Injury,C
+229784042,206093061,2024-05-29,Virginia Beach,VA1280000,13A,W,W,N,M,44,R,N,AQ,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+214619246,192878910,2024-05-30,Virginia Beach,VA1280000,13A,B,B,U,M,48,U,N,RU,Hotel/Motel/Etc.,Hotel & Motel,Firearm,Other Major Injury,C
+224030853,201063571,2024-06-02,Virginia Beach,VA1280000,13A,B,B,X,M,30,,N,AQ,Residence/Home,Home,Firearm,Other Major Injury,C
+216386728,194416995,2024-06-04,Virginia Beach,VA1280000,13A,W,W,N,F,42,,Y,XR,Rental Storage Facility,Storage Facility,Personal Weapons,Loss of Teeth;Minor Injury,C
+216386880,194417134,2024-06-05,Virginia Beach,VA1280000,13A,W,W,N,F,52,,Y,SE,Residence/Home,Home,Personal Weapons,Loss of Teeth;Minor Injury,C
+220096643,197639703,2024-06-05,Virginia Beach,VA1280000,13A,B,B,N,F,23,N,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Asphyxiation;Personal Weapons,Minor Injury,C
+216387020,194417266,2024-06-07,Virginia Beach,VA1280000,13A,B,B,N,M,45,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+216387077,194417313,2024-06-07,Virginia Beach,VA1280000,13A,B,B,N,M,45,N,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+216388057,194418155,2024-06-11,Virginia Beach,VA1280000,13A,B,B,X,M,33,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+216388877,194418901,2024-06-14,Virginia Beach,VA1280000,13A,W,W,N,M,46,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury,C
+216388878,194418901,2024-06-14,Virginia Beach,VA1280000,13A,W,W,N,M,53,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Unconscious,C
+224030742,201063468,2024-06-14,Virginia Beach,VA1280000,13A,W,W,N,F,49,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Unconscious,C
+216391316,194421080,2024-06-16,Virginia Beach,VA1280000,13A,W,W,N,F,21,,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+216388915,194418935,2024-06-17,Virginia Beach,VA1280000,13A,B,B,N,M,25,,N,,Residence/Home,Home,Firearm,Other Major Injury,C
+225785483,202600849,2024-06-21,Virginia Beach,VA1280000,13A,B,B,N,M,41,N,N,,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+231738312,207803025,2024-06-23,Virginia Beach,VA1280000,13A,B,B,N,F,40,,Y,XR,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+220097268,197640236,2024-06-24,Virginia Beach,VA1280000,13A,B,B,N,M,18,R,N,OK,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+220097414,197640373,2024-06-24,Virginia Beach,VA1280000,13A,B,B,X,M,56,,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+216390508,194420350,2024-06-26,Virginia Beach,VA1280000,13A,W,W,N,F,46,R,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury,C
+216391129,194420908,2024-06-29,Virginia Beach,VA1280000,13A,A,A,X,F,30,,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+218263515,196047044,2024-07-03,Virginia Beach,VA1280000,13A,B,B,X,F,36,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Other Major Injury,C
+218263555,196047081,2024-07-05,Virginia Beach,VA1280000,13A,B,B,N,F,25,,N,ST,Bar/Nightclub,Bar & Nightclub,Blunt Object,Minor Injury,C
+218263809,196047307,2024-07-05,Virginia Beach,VA1280000,13A,W,W,N,F,43,,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Apparent Broken Bones;Loss of Teeth;Minor Injury;Possible Internal Injury;Severe Laceration,C
+220097643,197640581,2024-07-05,Virginia Beach,VA1280000,13A,W,W,N,M,40,,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+220097757,197640682,2024-07-11,Virginia Beach,VA1280000,13A,H,W,H,F,23,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Possible Internal Injury,C
+218265395,196048716,2024-07-13,Virginia Beach,VA1280000,13A,B,B,X,F,17,,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+218265396,196048716,2024-07-13,Virginia Beach,VA1280000,13A,B,B,N,F,20,,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+218266127,196049340,2024-07-17,Virginia Beach,VA1280000,13A,B,B,N,F,26,,Y,BG,Residence/Home,Home,Firearm,,C
+218266535,196049711,2024-07-18,Virginia Beach,VA1280000,13A,B,B,N,M,41,N,N,ST,Lake/Waterway/Beach,Waterway & Beach,Personal Weapons;Poison,Minor Injury,C
+224031102,201063790,2024-07-18,Virginia Beach,VA1280000,13A,W,W,N,M,48,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel,Other Major Injury,C
+232326680,208314852,2024-07-20,Virginia Beach,VA1280000,13A,B,B,N,F,25,,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+224031111,201063798,2024-07-25,Virginia Beach,VA1280000,13A,B,B,N,F,15,R,N,OK;VO,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+218268631,196051597,2024-07-28,Virginia Beach,VA1280000,13A,W,W,N,M,45,,N,PA,Residence/Home,Home,Blunt Object,,C
+220098306,197641179,2024-08-04,Virginia Beach,VA1280000,13A,W,W,N,M,21,,N,CH,Residence/Home,Home,,Severe Laceration,C
+220098732,197641583,2024-08-07,Virginia Beach,VA1280000,13A,W,W,N,M,69,,N,PA,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+224031806,201064428,2024-08-10,Virginia Beach,VA1280000,13A,B,B,N,M,21,R,N,AQ;FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun;Other,Apparent Broken Bones,C
+224031718,201064350,2024-08-11,Virginia Beach,VA1280000,13A,W,W,N,M,21,,N,AQ,Residence/Home,Home,Handgun,Apparent Broken Bones,C
+224031902,201064511,2024-08-14,Virginia Beach,VA1280000,13A,B,B,N,F,12,,N,SC,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+224031904,201064511,2024-08-14,Virginia Beach,VA1280000,13A,B,B,N,F,37,,Y,XS,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+220099581,197642304,2024-08-19,Virginia Beach,VA1280000,13A,W,W,N,F,38,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+220100017,197642674,2024-08-24,Virginia Beach,VA1280000,13A,W,W,N,F,20,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,,C
+224032708,201065216,2024-08-26,Virginia Beach,VA1280000,13A,B,B,N,F,30,,N,OF,Parking/Drop Lot/Garage,Parking Lot,Other;Personal Weapons;Unknown,Minor Injury,C
+224032461,201065004,2024-08-27,Virginia Beach,VA1280000,13A,W,W,X,F,27,,Y,AQ;BG;VO,Field/Woods,Field & Woods,Knife/Cutting Instrument,Minor Injury,C
+224032464,201065004,2024-08-27,Virginia Beach,VA1280000,13A,W,W,N,F,45,R,N,AQ;VO,Field/Woods,Field & Woods,Knife/Cutting Instrument,Minor Injury,C
+224032467,201065007,2024-08-27,Virginia Beach,VA1280000,13A,B,B,N,M,20,R,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+224032812,201065315,2024-08-28,Virginia Beach,VA1280000,13A,W,W,N,M,29,R,Y,CS;VO,Residence/Home,Home,Knife/Cutting Instrument,Possible Internal Injury,C
+224032813,201065315,2024-08-28,Virginia Beach,VA1280000,13A,W,W,N,F,35,R,Y,CS;VO,Residence/Home,Home,Knife/Cutting Instrument,,C
+224033155,201065619,2024-09-03,Virginia Beach,VA1280000,13A,B,B,N,M,38,,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel,,C
+221863942,199178864,2024-09-08,Virginia Beach,VA1280000,13A,B,B,X,F,20,,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+224033437,201065871,2024-09-14,Virginia Beach,VA1280000,13A,W,W,N,M,38,N,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Other Major Injury,C
+224033516,201065938,2024-09-15,Virginia Beach,VA1280000,13A,B,B,N,F,23,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+221865804,199180515,2024-09-17,Virginia Beach,VA1280000,13A,B,B,N,M,53,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument;Other,Apparent Broken Bones,C
+231738902,207803490,2024-09-20,Virginia Beach,VA1280000,13A,B,B,X,F,37,,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+221866384,199181042,2024-09-22,Virginia Beach,VA1280000,13A,W,W,X,M,26,,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+224033622,201066035,2024-09-24,Virginia Beach,VA1280000,13A,B,B,N,F,20,,N,CH,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+221867364,199181904,2024-09-28,Virginia Beach,VA1280000,13A,W,W,N,F,21,N,Y,XR,School-College/University,College,Asphyxiation;Personal Weapons,Minor Injury;Unconscious,C
+232326368,208314599,2024-10-01,Virginia Beach,VA1280000,13A,H,W,H,F,42,R,Y,BG,Residence/Home,Home,Other;Personal Weapons,Minor Injury;Unconscious,C
+232326369,208314599,2024-10-01,Virginia Beach,VA1280000,13A,H,W,H,F,1,,N,CH,Residence/Home,Home,Other;Personal Weapons,,C
+224034547,201066860,2024-10-03,Virginia Beach,VA1280000,13A,B,B,X,M,24,,Y,XR,Residence/Home,Home,Motor Vehicle/Vessel;Personal Weapons,Minor Injury,C
+225786258,202601530,2024-10-04,Virginia Beach,VA1280000,13A,W,W,N,F,44,,Y,SE,Residence/Home,Home,Personal Weapons;Unknown,Minor Injury,C
+224035027,201067285,2024-10-09,Virginia Beach,VA1280000,13A,W,W,N,F,40,,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+229784427,206093386,2024-10-09,Virginia Beach,VA1280000,13A,B,B,N,M,17,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Possible Internal Injury,C
+231739287,207803809,2024-10-26,Virginia Beach,VA1280000,13A,W,W,N,F,22,,N,SC,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Severe Laceration,C
+225786440,202601683,2024-10-28,Virginia Beach,VA1280000,13A,W,W,N,F,64,,N,OK,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Possible Internal Injury,C
+229784797,206093713,2024-11-01,Virginia Beach,VA1280000,13A,W,W,N,F,33,,Y,BG,Residence/Home,Home,Handgun;Personal Weapons,Minor Injury,C
+225787467,202602578,2024-11-06,Virginia Beach,VA1280000,13A,W,W,N,F,30,,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Asphyxiation;Personal Weapons,Minor Injury,C
+232326306,208314546,2024-11-10,Virginia Beach,VA1280000,13A,B,B,N,M,15,R,N,AQ;FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun;Personal Weapons,Other Major Injury,C
+231739715,207804170,2024-11-12,Virginia Beach,VA1280000,13A,B,B,N,F,38,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+229785103,206093969,2024-11-14,Virginia Beach,VA1280000,13A,W,W,X,F,74,R,N,GP,Residence/Home,Home,Personal Weapons,Apparent Broken Bones,C
+229785132,206093994,2024-11-14,Virginia Beach,VA1280000,13A,W,W,X,F,55,,N,ST,Specialty Store,Specialty Store,Other;Personal Weapons,Minor Injury;Severe Laceration,C
+229785158,206094017,2024-11-16,Virginia Beach,VA1280000,13A,W,W,N,M,55,,N,OK,Field/Woods,Field & Woods,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+231739518,207804002,2024-11-16,Virginia Beach,VA1280000,13A,B,B,N,M,25,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+232326375,208314605,2024-12-01,Virginia Beach,VA1280000,13A,B,B,N,F,21,N,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Personal Weapons,Minor Injury;Possible Internal Injury,C
+229786052,206094713,2024-12-04,Virginia Beach,VA1280000,13A,B,B,N,M,57,,N,OK,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument;Other;Personal Weapons,,C
+229786468,206095058,2024-12-07,Virginia Beach,VA1280000,13A,B,B,N,M,24,,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument;Other;Personal Weapons,Minor Injury,C
+231739953,207804372,2024-12-08,Virginia Beach,VA1280000,13A,B,B,X,F,22,,Y,CS,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+229787102,206095596,2024-12-12,Virginia Beach,VA1280000,13A,B,B,N,M,37,,N,SP,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+232326801,208314960,2024-12-16,Virginia Beach,VA1280000,13A,B,B,N,F,24,R,Y,XR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+229788711,206096979,2024-12-20,Virginia Beach,VA1280000,13A,H,W,H,M,54,,N,FR,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Severe Laceration,C
+231740559,207804907,2024-12-20,Virginia Beach,VA1280000,13A,B,B,N,M,21,R,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+229789490,206097653,2024-12-25,Virginia Beach,VA1280000,13A,B,B,X,F,18,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,,C
+231740326,207804692,2024-12-27,Virginia Beach,VA1280000,13A,W,W,N,M,28,,Y,XR,Convenience Store,Convenience Store,Other,Minor Injury,C
+229790147,206098246,2024-12-28,Virginia Beach,VA1280000,13A,W,W,N,M,59,,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Severe Laceration,C
+229790581,206098610,2024-12-29,Virginia Beach,VA1280000,13A,W,W,N,M,61,R,N,,Parking/Drop Lot/Garage,Parking Lot,Motor Vehicle/Vessel;Personal Weapons,Minor Injury,C
+253961101,227218973,2025-01-01,Virginia Beach,VA1280000,13A,W,W,N,M,21,,N,AQ,Commercial/Office Building,Office Building,Other;Personal Weapons;Unknown,Loss of Teeth,C
+243968830,218473008,2025-01-03,Virginia Beach,VA1280000,13A,B,B,N,F,19,,Y,XR,Grocery/Supermarket,Grocery Store,Firearm;Handgun,Other Major Injury,C
+231741761,207805991,2025-01-07,Virginia Beach,VA1280000,13A,W,W,N,M,49,,N,OK,Auto Dealership New/Used,Auto Dealership,Blunt Object;Personal Weapons,Minor Injury,C
+232326448,208314666,2025-01-10,Virginia Beach,VA1280000,13A,W,W,N,F,32,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+231742559,207806666,2025-01-12,Virginia Beach,VA1280000,13A,B,B,X,M,29,,N,OF,Residence/Home,Home,Firearm;Knife/Cutting Instrument,Severe Laceration,C
+235281305,210888171,2025-01-14,Virginia Beach,VA1280000,13A,W,W,X,F,13,,N,SB;SS,Residence/Home,Home,Personal Weapons,,C
+231743671,207807639,2025-01-20,Virginia Beach,VA1280000,13A,W,W,N,M,70,R,N,ST,Convenience Store,Convenience Store,Blunt Object,Severe Laceration,C
+238666025,213849623,2025-01-21,Virginia Beach,VA1280000,13A,B,B,N,F,37,,N,AQ,Government/Public Building,Government Building,Asphyxiation,Minor Injury,C
+238662696,213846668,2025-01-29,Virginia Beach,VA1280000,13A,U,U,X,M,48,,Y,BG,Residence/Home,Home,Blunt Object;Knife/Cutting Instrument,Severe Laceration,C
+231744830,207808629,2025-01-30,Virginia Beach,VA1280000,13A,W,W,N,F,36,,Y,SE,Convenience Store,Convenience Store,Personal Weapons,Unconscious,C
+231745136,207808907,2025-02-01,Virginia Beach,VA1280000,13A,W,W,N,F,51,R,Y,XR,Bar/Nightclub,Bar & Nightclub,Other,Minor Injury,C
+238662910,213846858,2025-02-06,Virginia Beach,VA1280000,13A,W,W,N,M,47,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Minor Injury,C
+231747424,207810886,2025-02-15,Virginia Beach,VA1280000,13A,B,B,N,F,38,,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+233482975,209325155,2025-02-17,Virginia Beach,VA1280000,13A,B,B,X,F,36,,N,AQ,Commercial/Office Building,Office Building,Personal Weapons,Other Major Injury,C
+233482976,209325155,2025-02-17,Virginia Beach,VA1280000,13A,B,B,X,F,38,,N,AQ,Commercial/Office Building,Office Building,Personal Weapons,Other Major Injury,C
+233482981,209325159,2025-02-17,Virginia Beach,VA1280000,13A,B,B,N,M,17,,N,OK,School-Elementary/Secondary,K-12 School,,Minor Injury;Severe Laceration;Unconscious,C
+235280866,210887799,2025-02-18,Virginia Beach,VA1280000,13A,H,W,H,M,26,,N,ST,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+231748444,207811768,2025-02-23,Virginia Beach,VA1280000,13A,W,W,X,F,31,,N,CO,Residence/Home,Home,Asphyxiation,Minor Injury,C
+247791314,221817225,2025-03-01,Virginia Beach,VA1280000,13A,W,W,N,F,24,R,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation,,C
+235281010,210887922,2025-03-02,Virginia Beach,VA1280000,13A,B,B,N,F,35,,N,PA,Residence/Home,Home,Asphyxiation;Personal Weapons,Other Major Injury,C
+235281148,210888043,2025-03-04,Virginia Beach,VA1280000,13A,W,W,N,F,64,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Other Major Injury,C
+238662820,213846776,2025-03-06,Virginia Beach,VA1280000,13A,W,W,N,F,29,R,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+233483773,209325857,2025-03-08,Virginia Beach,VA1280000,13A,B,B,N,F,24,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+249547071,223350574,2025-03-11,Virginia Beach,VA1280000,13A,B,B,N,F,26,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Asphyxiation;Personal Weapons,Minor Injury,C
+233484552,209326479,2025-03-15,Virginia Beach,VA1280000,13A,B,B,N,F,17,R,N,OK,Residence/Home,Home,Asphyxiation,Minor Injury,C
+235281371,210888228,2025-03-16,Virginia Beach,VA1280000,13A,B,B,X,F,25,,Y,BG,Residence/Home,Home,Asphyxiation,Other Major Injury,C
+233485086,209326916,2025-03-19,Virginia Beach,VA1280000,13A,B,B,X,M,39,,N,SB,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+233485307,209327105,2025-03-21,Virginia Beach,VA1280000,13A,B,B,N,F,47,,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+233485422,209327210,2025-03-22,Virginia Beach,VA1280000,13A,U,U,U,F,49,,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Other Major Injury,C
+235281780,210888587,2025-03-29,Virginia Beach,VA1280000,13A,W,W,N,F,50,R,Y,BG,Residence/Home,Home,Asphyxiation,Possible Internal Injury,C
+235281906,210888698,2025-03-29,Virginia Beach,VA1280000,13A,B,B,N,F,26,,Y,SE,Residence/Home,Home,Personal Weapons,Severe Laceration,C
+253961182,227219037,2025-03-29,Virginia Beach,VA1280000,13A,B,B,N,M,35,U,N,,Parking/Drop Lot/Garage,Parking Lot,Firearm,Gunshot Wound,C
+238663413,213847281,2025-04-03,Virginia Beach,VA1280000,13A,W,W,N,F,32,R,Y,SE,Residence/Home,Home,,Unconscious,C
+238665202,213848875,2025-04-03,Virginia Beach,VA1280000,13A,W,W,N,F,50,R,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,,C
+238663911,213847730,2025-04-14,Virginia Beach,VA1280000,13A,B,B,N,F,40,,N,FR,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm;Personal Weapons,Other Major Injury,C
+238663912,213847730,2025-04-14,Virginia Beach,VA1280000,13A,B,B,N,M,55,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm;Personal Weapons,Other Major Injury,C
+238664050,213847860,2025-04-15,Virginia Beach,VA1280000,13A,W,W,N,M,60,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+235284107,210890695,2025-04-17,Virginia Beach,VA1280000,13A,B,B,N,M,48,R,Y,SE,Residence/Home,Home,Personal Weapons,Loss of Teeth;Possible Internal Injury,C
+238664085,213847887,2025-04-18,Virginia Beach,VA1280000,13A,W,W,N,M,42,R,N,,Restaurant,Restaurant,Fire/Incendiary Device,Minor Injury,C
+235284144,210890729,2025-04-19,Virginia Beach,VA1280000,13A,H,W,H,M,25,,N,,Parking/Drop Lot/Garage,Parking Lot,Blunt Object,Minor Injury,C
+238664172,213847965,2025-04-21,Virginia Beach,VA1280000,13A,B,B,N,M,36,,N,AQ;CO;ST;VO,Parking/Drop Lot/Garage,Parking Lot,Firearm;Handgun,Other Major Injury,C
+238664173,213847965,2025-04-21,Virginia Beach,VA1280000,13A,B,B,N,M,48,,N,OF;ST;VO,Parking/Drop Lot/Garage,Parking Lot,Firearm;Handgun,,C
+238664397,213848154,2025-04-24,Virginia Beach,VA1280000,13A,H,W,H,F,39,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+238664672,213848403,2025-04-25,Virginia Beach,VA1280000,13A,B,B,X,F,32,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+242289567,217014040,2025-04-26,Virginia Beach,VA1280000,13A,B,B,X,M,19,,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Minor Injury,C
+242289569,217014040,2025-04-26,Virginia Beach,VA1280000,13A,B,B,N,M,18,,N,ST,Hotel/Motel/Etc.,Hotel & Motel,Handgun,Minor Injury,C
+242289630,217014086,2025-04-26,Virginia Beach,VA1280000,13A,B,B,U,M,28,R,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+253961265,227219109,2025-04-26,Virginia Beach,VA1280000,13A,B,B,X,M,22,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Firearm,Gunshot Wound,C
+238664332,213848098,2025-04-27,Virginia Beach,VA1280000,13A,B,B,N,F,44,,Y,SE,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+238664504,213848249,2025-04-27,Virginia Beach,VA1280000,13A,U,U,U,F,27,R,Y,SE,Residence/Home,Home,Asphyxiation;Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+238664717,213848439,2025-04-27,Virginia Beach,VA1280000,13A,A,A,X,F,22,,Y,BG,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Possible Internal Injury,C
+240409190,215374463,2025-05-03,Virginia Beach,VA1280000,13A,B,B,X,M,32,,N,CO,Residence/Home,Home,Blunt Object,Minor Injury,C
+249547110,223350613,2025-05-05,Virginia Beach,VA1280000,13A,B,B,N,F,26,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Personal Weapons,Minor Injury;Possible Internal Injury,C
+238665209,213848882,2025-05-06,Virginia Beach,VA1280000,13A,W,W,N,F,44,R,Y,BG,Residence/Home,Home,Asphyxiation,Minor Injury,C
+238665249,213848917,2025-05-08,Virginia Beach,VA1280000,13A,W,W,N,F,32,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Asphyxiation,Minor Injury;Unconscious,C
+238665312,213848973,2025-05-08,Virginia Beach,VA1280000,13A,B,B,X,M,29,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+243968848,218473021,2025-05-08,Virginia Beach,VA1280000,13A,B,B,N,F,22,,N,AQ,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Minor Injury,C
+247789900,221816034,2025-05-11,Virginia Beach,VA1280000,13A,B,B,N,M,31,,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+247789901,221816034,2025-05-11,Virginia Beach,VA1280000,13A,B,B,N,M,46,,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+253961682,227219465,2025-05-14,Virginia Beach,VA1280000,13A,B,B,N,M,31,R,N,OK,Parking/Drop Lot/Garage,Parking Lot,Handgun,Gunshot Wound,C
+243968699,218472897,2025-05-17,Virginia Beach,VA1280000,13A,B,B,N,M,20,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+253962397,227220092,2025-05-17,Virginia Beach,VA1280000,13A,W,W,N,F,28,R,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+238665719,213849344,2025-05-19,Virginia Beach,VA1280000,13A,B,B,N,F,32,,Y,SE,Residence/Home,Home,Asphyxiation,Minor Injury,C
+245955302,220214970,2025-05-21,Virginia Beach,VA1280000,13A,H,W,H,M,20,,N,OF,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+245955277,220214949,2025-05-22,Virginia Beach,VA1280000,13A,B,B,X,F,31,,Y,XR,Residence/Home,Home,Handgun;Personal Weapons,Minor Injury,C
+249546505,223350097,2025-05-24,Virginia Beach,VA1280000,13A,W,W,U,F,19,R,N,AQ;RU;ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Other Major Injury,C
+238666461,213850015,2025-05-25,Virginia Beach,VA1280000,13A,W,W,N,M,53,R,N,ST,Service/Gas Station,Gas Station,Knife/Cutting Instrument,,C
+240409433,215374659,2025-05-25,Virginia Beach,VA1280000,13A,B,B,N,M,29,R,N,AQ,Service/Gas Station,Gas Station,Knife/Cutting Instrument,Other Major Injury;Severe Laceration,C
+238666361,213849926,2025-05-27,Virginia Beach,VA1280000,13A,W,W,X,M,19,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Motor Vehicle/Vessel;Other,,C
+238666648,213850184,2025-05-30,Virginia Beach,VA1280000,13A,W,W,N,M,63,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Minor Injury;Unconscious,C
+238666703,213850230,2025-05-30,Virginia Beach,VA1280000,13A,W,W,N,M,29,,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+253961292,227219130,2025-06-01,Virginia Beach,VA1280000,13A,B,B,N,M,33,,N,OK,Residence/Home,Home,Handgun,Gunshot Wound,C
+238666939,213850432,2025-06-02,Virginia Beach,VA1280000,13A,B,B,N,M,20,,N,OK,Shopping Mall,Shopping Mall,Blunt Object;Personal Weapons,Severe Laceration,C
+240409573,215374771,2025-06-03,Virginia Beach,VA1280000,13A,W,W,N,M,56,R,N,AQ;FR,Residence/Home,Home,Firearm,Other Major Injury,C
+253961304,227219142,2025-06-04,Virginia Beach,VA1280000,13A,B,B,N,F,34,,Y,BG,Service/Gas Station,Gas Station,Knife/Cutting Instrument,Severe Laceration,C
+238667268,213850718,2025-06-06,Virginia Beach,VA1280000,13A,B,B,N,F,34,R,Y,BG,Residence/Home,Home,Asphyxiation,Minor Injury,C
+238667382,213850821,2025-06-06,Virginia Beach,VA1280000,13A,B,B,X,M,52,,N,SS,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument,Severe Laceration,C
+240409954,215375069,2025-06-08,Virginia Beach,VA1280000,13A,W,W,N,M,17,,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+242289594,217014057,2025-06-08,Virginia Beach,VA1280000,13A,W,W,X,M,17,U,N,OK,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+242289595,217014057,2025-06-08,Virginia Beach,VA1280000,13A,W,W,N,M,17,,N,OK,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+238667849,213851250,2025-06-12,Virginia Beach,VA1280000,13A,B,B,N,F,38,,N,FR,Parking/Drop Lot/Garage,Parking Lot,Asphyxiation;Personal Weapons,Minor Injury,C
+238667954,213851344,2025-06-13,Virginia Beach,VA1280000,13A,B,B,N,M,38,,N,AQ,Service/Gas Station,Gas Station,Knife/Cutting Instrument,Severe Laceration,C
+253961356,227219183,2025-06-13,Virginia Beach,VA1280000,13A,B,B,U,M,18,N,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Gunshot Wound,C
+253961357,227219183,2025-06-13,Virginia Beach,VA1280000,13A,H,B,H,M,19,,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,,C
+240409965,215375078,2025-06-18,Virginia Beach,VA1280000,13A,B,B,N,M,24,,N,FR,Residence/Home,Home,Handgun,Other Major Injury,C
+245955544,220215176,2025-06-20,Virginia Beach,VA1280000,13A,B,B,U,F,38,,N,ST,Bar/Nightclub,Bar & Nightclub,Personal Weapons,Other Major Injury;Unconscious,C
+238668535,213851858,2025-06-21,Virginia Beach,VA1280000,13A,B,B,X,F,20,,N,AQ,Residence/Home,Home,Handgun;Personal Weapons,,C
+238668536,213851858,2025-06-21,Virginia Beach,VA1280000,13A,B,B,N,F,22,,N,AQ,Residence/Home,Home,Handgun;Personal Weapons,Minor Injury,C
+240410198,215375282,2025-06-21,Virginia Beach,VA1280000,13A,B,B,X,F,20,,Y,BG,Residence/Home,Home,Other,Minor Injury,C
+240410282,215375358,2025-06-26,Virginia Beach,VA1280000,13A,B,B,X,F,32,,Y,XR,Residence/Home,Home,Knife/Cutting Instrument,,C
+242289721,217014169,2025-06-30,Virginia Beach,VA1280000,13A,B,B,N,M,34,,N,AQ,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Knife/Cutting Instrument,Severe Laceration,C
+243968939,218473106,2025-07-02,Virginia Beach,VA1280000,13A,B,B,X,M,3,,N,CH,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+253962874,227220521,2025-07-03,Virginia Beach,VA1280000,13A,W,W,N,F,33,R,Y,XR,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+240410723,215375743,2025-07-05,Virginia Beach,VA1280000,13A,B,B,N,M,35,,N,,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,Handgun;Knife/Cutting Instrument,Minor Injury,C
+253962115,227219851,2025-07-05,Virginia Beach,VA1280000,13A,B,B,N,F,26,R,Y,XR,Parking/Drop Lot/Garage,Parking Lot,Asphyxiation;Personal Weapons,Minor Injury,C
+240411280,215376225,2025-07-07,Virginia Beach,VA1280000,13A,B,B,N,M,67,,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury;Unconscious,C
+240411466,215376397,2025-07-09,Virginia Beach,VA1280000,13A,B,B,X,F,28,,N,AQ,Parking/Drop Lot/Garage,Parking Lot,Handgun,Minor Injury,C
+242289884,217014305,2025-07-09,Virginia Beach,VA1280000,13A,B,B,N,F,22,,Y,XR,Residence/Home,Home,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+243968975,218473133,2025-07-12,Virginia Beach,VA1280000,13A,W,W,X,F,29,,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+242290232,217014572,2025-07-14,Virginia Beach,VA1280000,13A,B,B,X,F,17,,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+242290003,217014395,2025-07-16,Virginia Beach,VA1280000,13A,W,W,N,M,65,,N,FR,Parking/Drop Lot/Garage,Parking Lot,Asphyxiation;Personal Weapons,Minor Injury,C
+240413816,215378503,2025-07-17,Virginia Beach,VA1280000,13A,W,W,N,M,37,,N,AQ,Drug Store/Doctor's Office/Hospital,Hospital & Clinic,,Severe Laceration;Unconscious,C
+242290131,217014495,2025-07-19,Virginia Beach,VA1280000,13A,H,B,H,F,25,R,Y,CS,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+243969056,218473200,2025-07-26,Virginia Beach,VA1280000,13A,B,B,X,M,24,,N,ST,Park/Playground,Park & Playground,Personal Weapons,Other Major Injury,C
+253961469,227219286,2025-07-29,Virginia Beach,VA1280000,13A,B,B,X,F,48,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+249546450,223350052,2025-08-03,Virginia Beach,VA1280000,13A,B,B,U,M,15,N,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+253961428,227219250,2025-08-03,Virginia Beach,VA1280000,13A,B,B,X,M,17,,N,FR;ST,Residence/Home,Home,Firearm;Handgun,Gunshot Wound,C
+253961429,227219250,2025-08-03,Virginia Beach,VA1280000,13A,W,W,N,M,20,,N,FR;ST,Residence/Home,Home,Firearm;Handgun,Gunshot Wound,C
+253961430,227219250,2025-08-03,Virginia Beach,VA1280000,13A,B,B,N,M,21,R,N,AQ;VO,Residence/Home,Home,Firearm;Handgun,Gunshot Wound,C
+253961432,227219250,2025-08-03,Virginia Beach,VA1280000,13A,B,B,U,M,17,R,N,AQ;VO,Residence/Home,Home,Firearm;Handgun,Gunshot Wound,C
+247790081,221816182,2025-08-04,Virginia Beach,VA1280000,13A,W,W,N,F,16,R,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+243969857,218473868,2025-08-10,Virginia Beach,VA1280000,13A,B,B,N,F,61,N,N,SB,Rental Storage Facility,Storage Facility,Personal Weapons,Minor Injury;Possible Internal Injury,C
+242291753,217015927,2025-08-12,Virginia Beach,VA1280000,13A,W,W,N,M,43,R,N,FR,Residence/Home,Home,Blunt Object;Other,Possible Internal Injury;Severe Laceration,C
+245955842,220215412,2025-08-12,Virginia Beach,VA1280000,13A,W,W,N,F,47,,Y,BG,Residence/Home,Home,Asphyxiation,Minor Injury,C
+242292080,217016212,2025-08-13,Virginia Beach,VA1280000,13A,B,B,N,F,31,,N,AQ,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+242292081,217016212,2025-08-13,Virginia Beach,VA1280000,13A,B,B,N,F,34,,N,AQ,Restaurant,Restaurant,Knife/Cutting Instrument,,C
+243969336,218473433,2025-08-13,Virginia Beach,VA1280000,13A,W,W,N,F,21,,Y,BG,Residence/Home,Home,Personal Weapons,,C
+242292173,217016294,2025-08-14,Virginia Beach,VA1280000,13A,W,W,U,M,42,,N,ER,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+243969409,218473495,2025-08-14,Virginia Beach,VA1280000,13A,W,W,X,M,44,,N,OK,Residence/Home,Home,Handgun,Minor Injury,C
+242292727,217016813,2025-08-17,Virginia Beach,VA1280000,13A,H,W,H,F,29,R,N,OK,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Personal Weapons,Severe Laceration,C
+245955831,220215405,2025-08-17,Virginia Beach,VA1280000,13A,H,W,H,F,32,,Y,SE,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Asphyxiation,Minor Injury,C
+245955974,220215530,2025-08-21,Virginia Beach,VA1280000,13A,W,W,N,F,44,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+249546496,223350093,2025-08-23,Virginia Beach,VA1280000,13A,B,B,X,M,35,,N,RU,Commercial/Office Building,Office Building,Firearm,Other Major Injury,C
+242293134,217017194,2025-08-24,Virginia Beach,VA1280000,13A,B,B,N,M,24,R,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+243969499,218473570,2025-08-24,Virginia Beach,VA1280000,13A,B,B,N,F,19,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation,Minor Injury;Unconscious,C
+245956027,220215578,2025-08-28,Virginia Beach,VA1280000,13A,W,W,X,F,19,,Y,BG,Residence/Home,Home,Asphyxiation,Minor Injury,C
+245956080,220215621,2025-08-30,Virginia Beach,VA1280000,13A,B,B,X,M,13,,N,OK,Residence/Home,Home,Other,Other Major Injury,C
+249546467,223350071,2025-08-30,Virginia Beach,VA1280000,13A,W,W,N,F,19,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Asphyxiation;Personal Weapons,Minor Injury,C
+253961529,227219334,2025-09-01,Virginia Beach,VA1280000,13A,B,B,N,M,20,,N,OK,Residence/Home,Home,Handgun;Rifle,,C
+245955892,220215454,2025-09-04,Virginia Beach,VA1280000,13A,B,B,N,M,18,R,N,,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Other Major Injury,C
+249546443,223350049,2025-09-04,Virginia Beach,VA1280000,13A,B,B,N,M,38,R,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury;Possible Internal Injury,C
+245956216,220215745,2025-09-05,Virginia Beach,VA1280000,13A,B,B,N,F,36,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Handgun,Minor Injury,C
+253961565,227219363,2025-09-08,Virginia Beach,VA1280000,13A,B,B,N,M,16,R,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+243972905,218476554,2025-09-10,Virginia Beach,VA1280000,13A,W,W,N,F,20,,Y,SE,Residence/Home,Home,Asphyxiation,Minor Injury,C
+243971847,218475626,2025-09-12,Virginia Beach,VA1280000,13A,B,B,N,F,31,,Y,BG,Residence/Home,Home,Asphyxiation,,C
+243971424,218475248,2025-09-13,Virginia Beach,VA1280000,13A,W,W,N,F,46,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+245956293,220215816,2025-09-13,Virginia Beach,VA1280000,13A,B,B,N,M,24,N,N,AQ,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+245956454,220215965,2025-09-15,Virginia Beach,VA1280000,13A,B,B,N,F,35,R,N,,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury;Severe Laceration,C
+243972131,218475876,2025-09-19,Virginia Beach,VA1280000,13A,B,B,N,M,51,R,N,,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Minor Injury,C
+247790238,221816315,2025-09-20,Virginia Beach,VA1280000,13A,U,U,X,M,1,,N,ST,Residence/Home,Home,Motor Vehicle/Vessel,,C
+245956572,220216072,2025-09-25,Virginia Beach,VA1280000,13A,U,U,X,M,0,,N,CH,Residence/Home,Home,,Apparent Broken Bones;Possible Internal Injury;Unconscious,C
+243973104,218476725,2025-09-26,Virginia Beach,VA1280000,13A,B,B,N,M,40,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+253961599,227219395,2025-09-26,Virginia Beach,VA1280000,13A,B,B,X,M,15,,N,AQ;FR,Residence/Home,Home,Handgun,Gunshot Wound,C
+243973432,218477025,2025-09-27,Virginia Beach,VA1280000,13A,H,W,H,M,36,,N,OK,Residence/Home,Home,Knife/Cutting Instrument,,C
+245956599,220216093,2025-09-27,Virginia Beach,VA1280000,13A,B,B,N,M,24,,N,ST,Parking/Drop Lot/Garage,Parking Lot,Handgun,Other Major Injury,C
+245956845,220216313,2025-09-27,Virginia Beach,VA1280000,13A,W,W,N,F,34,,Y,SE,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+243973336,218476936,2025-09-30,Virginia Beach,VA1280000,13A,B,B,N,M,20,R,N,CH,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247791313,221817224,2025-10-01,Virginia Beach,VA1280000,13A,W,W,N,F,42,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Other Major Injury;Possible Internal Injury,C
+245957164,220216587,2025-10-02,Virginia Beach,VA1280000,13A,B,B,N,M,53,R,N,OK,Service/Gas Station,Gas Station,Firearm,Other Major Injury,C
+253961615,227219408,2025-10-03,Virginia Beach,VA1280000,13A,H,W,H,F,42,,Y,XR,Residence/Home,Home,Motor Vehicle/Vessel;Personal Weapons,Minor Injury,C
+253961740,227219520,2025-10-10,Virginia Beach,VA1280000,13A,W,W,X,F,39,,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+245958568,220217816,2025-10-11,Virginia Beach,VA1280000,13A,W,W,N,M,16,,N,ST,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+249546940,223350473,2025-10-11,Virginia Beach,VA1280000,13A,W,W,N,M,11,R,N,ST,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Knife/Cutting Instrument,Severe Laceration,C
+245958363,220217625,2025-10-12,Virginia Beach,VA1280000,13A,B,B,N,F,44,R,N,PA,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245958707,220217949,2025-10-14,Virginia Beach,VA1280000,13A,W,W,N,F,48,R,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Knife/Cutting Instrument;Personal Weapons,Minor Injury,C
+245959017,220218229,2025-10-16,Virginia Beach,VA1280000,13A,B,B,N,M,36,,Y,BG,Parking/Drop Lot/Garage,Parking Lot,Knife/Cutting Instrument,Severe Laceration,C
+245959544,220218705,2025-10-16,Virginia Beach,VA1280000,13A,W,W,N,M,28,R,N,AQ,Restaurant,Restaurant,Personal Weapons,Possible Internal Injury;Severe Laceration;Unconscious,C
+245959182,220218382,2025-10-17,Virginia Beach,VA1280000,13A,W,W,N,F,44,,Y,BG,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+247791014,221816969,2025-10-19,Virginia Beach,VA1280000,13A,W,W,N,F,24,,Y,XR,Convenience Store,Convenience Store,Asphyxiation,,C
+245959475,220218642,2025-10-21,Virginia Beach,VA1280000,13A,B,B,N,F,35,,N,OK,Bar/Nightclub,Bar & Nightclub,Knife/Cutting Instrument,Minor Injury,C
+245959801,220218934,2025-10-24,Virginia Beach,VA1280000,13A,A,A,X,F,67,,N,OK,Residence/Home,Home,Personal Weapons,Apparent Broken Bones;Other Major Injury;Possible Internal Injury;Severe Laceration;Unconscious,C
+245959822,220218954,2025-10-24,Virginia Beach,VA1280000,13A,B,B,N,M,27,,N,OK,Residence/Home,Home,Firearm,Other Major Injury,C
+249546892,223350429,2025-10-25,Virginia Beach,VA1280000,13A,B,B,X,M,28,N,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245959882,220219008,2025-10-27,Virginia Beach,VA1280000,13A,W,W,N,F,55,R,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+245960078,220219180,2025-10-28,Virginia Beach,VA1280000,13A,W,W,N,M,45,,N,SB,Residence/Home,Home,Knife/Cutting Instrument,Other Major Injury,C
+247790534,221816565,2025-11-02,Virginia Beach,VA1280000,13A,P,P,U,F,26,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247790718,221816726,2025-11-02,Virginia Beach,VA1280000,13A,H,W,H,M,13,R,N,CH,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247790527,221816560,2025-11-03,Virginia Beach,VA1280000,13A,B,B,X,F,27,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+247790800,221816792,2025-11-03,Virginia Beach,VA1280000,13A,B,B,U,F,21,R,N,OK,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+247790736,221816743,2025-11-04,Virginia Beach,VA1280000,13A,W,W,U,F,41,N,N,OK,Commercial/Office Building,Office Building,Personal Weapons,Apparent Broken Bones;Minor Injury,C
+249547031,223350537,2025-11-04,Virginia Beach,VA1280000,13A,W,W,N,F,33,,N,OK,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+247790856,221816831,2025-11-05,Virginia Beach,VA1280000,13A,W,W,X,M,13,,N,CH,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+247791216,221817138,2025-11-08,Virginia Beach,VA1280000,13A,W,W,N,F,33,R,Y,BG,Residence/Home,Home,Personal Weapons,Other Major Injury,C
+247791252,221817165,2025-11-09,Virginia Beach,VA1280000,13A,B,B,N,M,35,,N,OF,Residence/Home,Home,Blunt Object;Personal Weapons,Severe Laceration,C
+253962066,227219807,2025-11-14,Virginia Beach,VA1280000,13A,B,B,N,M,38,R,N,,Bar/Nightclub,Bar & Nightclub,Firearm,Gunshot Wound,C
+253962128,227219864,2025-11-15,Virginia Beach,VA1280000,13A,B,B,X,M,11,,N,FR,Residence/Home,Home,Other;Personal Weapons,Minor Injury,C
+247792071,221817880,2025-11-16,Virginia Beach,VA1280000,13A,B,B,N,F,35,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Possible Internal Injury,C
+247792232,221818021,2025-11-16,Virginia Beach,VA1280000,13A,B,B,U,F,47,,N,SB,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+249547300,223350780,2025-11-18,Virginia Beach,VA1280000,13A,B,B,N,F,43,,N,PA,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,,Severe Laceration,C
+253962184,227219908,2025-11-19,Virginia Beach,VA1280000,13A,W,W,N,M,61,,N,RU,Restaurant,Restaurant,Knife/Cutting Instrument,Severe Laceration,C
+247793067,221818779,2025-11-23,Virginia Beach,VA1280000,13A,B,B,X,F,16,N,N,OK,Restaurant,Restaurant,Other,Minor Injury,C
+247793173,221818867,2025-11-23,Virginia Beach,VA1280000,13A,B,B,N,M,30,,N,OK,Residence/Home,Home,Blunt Object,Possible Internal Injury,C
+249548544,223351877,2025-12-06,Virginia Beach,VA1280000,13A,B,B,X,M,31,,Y,BG,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+249548499,223351838,2025-12-07,Virginia Beach,VA1280000,13A,B,B,X,M,31,,Y,BG,Service/Gas Station,Gas Station,Personal Weapons,Minor Injury;Possible Internal Injury,C
+253962778,227220434,2025-12-12,Virginia Beach,VA1280000,13A,W,W,N,M,62,R,N,OF,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+253962827,227220478,2025-12-13,Virginia Beach,VA1280000,13A,B,B,N,M,29,,N,AQ,Highway/Road/Alley/Street/Sidewalk,Street & Sidewalk,Firearm,Gunshot Wound,C
+249549204,223352460,2025-12-14,Virginia Beach,VA1280000,13A,B,B,N,F,33,,N,RU;VO,Bar/Nightclub,Bar & Nightclub,Other;Personal Weapons,Minor Injury,C
+249549206,223352460,2025-12-14,Virginia Beach,VA1280000,13A,B,B,X,F,37,,N,RU;VO,Bar/Nightclub,Bar & Nightclub,Other;Personal Weapons,,C
+253962825,227220475,2025-12-14,Virginia Beach,VA1280000,13A,W,W,X,M,4,,N,CH,Hotel/Motel/Etc.,Hotel & Motel,Asphyxiation;Personal Weapons,Minor Injury,C
+253963024,227220652,2025-12-19,Virginia Beach,VA1280000,13A,H,W,H,F,25,,Y,SE,Residence/Home,Home,Asphyxiation;Personal Weapons,Apparent Broken Bones;Loss of Teeth;Minor Injury;Severe Laceration,C
+253964008,227221538,2025-12-19,Virginia Beach,VA1280000,13A,B,B,N,F,26,,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+249549568,223352797,2025-12-22,Virginia Beach,VA1280000,13A,B,B,N,F,20,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Possible Internal Injury,C
+253963235,227220842,2025-12-22,Virginia Beach,VA1280000,13A,B,B,N,F,38,R,N,,Residence/Home,Home,Personal Weapons,Minor Injury;Severe Laceration,C
+253963244,227220850,2025-12-22,Virginia Beach,VA1280000,13A,W,W,N,F,23,,Y,BG,Residence/Home,Home,Knife/Cutting Instrument,Minor Injury,C
+253963260,227220865,2025-12-22,Virginia Beach,VA1280000,13A,B,B,N,F,20,R,Y,XR,Residence/Home,Home,Asphyxiation;Personal Weapons,,C
+253963264,227220869,2025-12-23,Virginia Beach,VA1280000,13A,B,B,N,M,67,,Y,SE,Residence/Home,Home,Knife/Cutting Instrument,Severe Laceration,C
+253963303,227220906,2025-12-23,Virginia Beach,VA1280000,13A,W,W,N,F,23,,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury,C
+253963395,227220989,2025-12-23,Virginia Beach,VA1280000,13A,B,B,N,F,42,,Y,SE,Residence/Home,Home,Asphyxiation,Minor Injury,C
+249549517,223352750,2025-12-24,Virginia Beach,VA1280000,13A,B,B,N,F,31,R,N,OF,Residence/Home,Home,Personal Weapons,Minor Injury;Possible Internal Injury,C
+249549904,223353101,2025-12-24,Virginia Beach,VA1280000,13A,W,W,X,M,64,,Y,BG,Residence/Home,Home,Blunt Object,Minor Injury,C
+253963577,227221155,2025-12-27,Virginia Beach,VA1280000,13A,W,W,N,F,57,,N,IL,Residence/Home,Home,Asphyxiation;Personal Weapons,,C
+253963656,227221222,2025-12-29,Virginia Beach,VA1280000,13A,B,B,N,F,33,,Y,XR,Residence/Home,Home,Personal Weapons,Minor Injury;Unconscious,C
+253963668,227221233,2025-12-29,Virginia Beach,VA1280000,13A,W,W,N,F,29,R,Y,BG,Residence/Home,Home,Personal Weapons,Possible Internal Injury,C
+253963828,227221370,2025-12-30,Virginia Beach,VA1280000,13A,W,W,X,F,42,R,Y,BG,Residence/Home,Home,Asphyxiation;Personal Weapons,Minor Injury;Unconscious,C
+253963840,227221382,2025-12-31,Virginia Beach,VA1280000,13A,B,B,N,M,41,R,N,ST,Commercial/Office Building,Office Building,Handgun,Loss of Teeth,C

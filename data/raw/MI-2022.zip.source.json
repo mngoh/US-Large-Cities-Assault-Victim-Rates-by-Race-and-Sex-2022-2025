@@ -1,0 +1,10 @@
+{
+ "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+ "platform": "fbi-cde",
+ "api": "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=nibrs/incident/2022/MI-2022.zip",
+ "key": "nibrs/incident/2022/MI-2022.zip",
+ "fetched_at": "2026-10-02T21:16:24",
+ "bytes": 41139168,
+ "sha256": "7888c504c2961db92383496d44e101fa298793a0f19c114e44425df61d0cd054",
+ "note": "FBI Crime Data Explorer, NIBRS incident data by state and year, MI 2022, as received"
+}

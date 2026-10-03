@@ -1,0 +1,7 @@
+{
+ "query": "St. Louis, MO",
+ "census_geoid": "16000US2965000",
+ "display_name": "St. Louis, MO",
+ "population": 288512,
+ "source": "out/eligibility.csv (Census Reporter, ACS 2020 to 2024), matched in the eligibility count"
+}
