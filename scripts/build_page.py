@@ -217,7 +217,7 @@ def main():
             "police learned of them, Black and White women describe being assaulted at about the same rate nationally and about 1.5 to 2 times in large cities. "
             "A follow-up tested why police records differ so much more: not reporting rates, not (or only a little) how police write up a call, not the same women counted repeatedly, "
             "but largely where assaults happen and who calls. Hospital emergency departments, which do not depend on a call to police, see a gap like the police one "
-            "(about 5 times for women in 2022), which points to the survey undercounting assaults on Black women.")
+            "(about 4.6 times for women in 2021 to 2022), which points to the survey undercounting assaults on Black women.")
     answer = ('<ul class="pts">' + "".join(f"<li>{esc(p)}</li>" for p in points) + "</ul>"
               + f'<p class="what">{esc(what)} <a href="{FOLLOW}">The follow-up.</a></p>')
 
