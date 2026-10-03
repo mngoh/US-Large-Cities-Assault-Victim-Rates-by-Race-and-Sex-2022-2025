@@ -2,7 +2,7 @@
 
 Black women's reported assault rate against Hispanic, White and Asian women's, in every large US city whose own police department reports complete NIBRS data, measured exactly as in the Dallas analysis ([Dallas-TX-Assault-Victim-Rates-by-Race-and-Sex-2022-2025](https://github.com/mngoh/Dallas-TX-Assault-Victim-Rates-by-Race-and-Sex-2022-2025)). Built with [disparity-kit](https://github.com/mngoh/disparity-kit).
 
-The full page is `index.html`. The comparison is `out/comparison.md` (numbers in `out/comparison.json`); the screen of what is unknown in each city is `out/screen.md`. Each city's config, victim files and kit outputs are in `cities/<city>/`.
+The full page is `index.html`. The comparison is `out/comparison.md` (numbers in `out/comparison.json`); the screen of what is unknown in each city is `out/screen.md`. Each city's config, victim files and kit outputs are in `cities/<city>/`. Decisions and run notes are in `PLAN.md`.
 
 ## Results
 
@@ -136,4 +136,4 @@ python scripts/compare.py                   # out/comparison.md, out/comparison.
 python scripts/build_page.py                # index.html and the results block above
 ```
 
-`scripts/cities.py` holds the city list (tiers from `out/eligibility.csv`). The flatten needs `kit/nibrs.py` to read tables with `encoding_errors="replace"`: California's agencies.csv carries a byte that is not UTF-8.
+`scripts/cities.py` holds the city list (tiers from `out/eligibility.csv`). The flatten needs disparity-kit from commit ee55000 on, which reads past a byte in California's agencies.csv that is not UTF-8.

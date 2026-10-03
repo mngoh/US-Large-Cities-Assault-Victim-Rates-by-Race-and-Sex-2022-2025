@@ -4,8 +4,7 @@ data/interim/
 cities/*/out/cache/
 cities/*/out/run.log
 out/logs/
-# working notes and local preview config
-PLAN.md
+# local preview config
 .claude/
 .DS_Store
 __pycache__/
