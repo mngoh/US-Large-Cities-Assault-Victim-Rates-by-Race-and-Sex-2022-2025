@@ -16,12 +16,12 @@ Focus: Black women. This screen finds candidates; read every flag in context bef
 Files: `README.md`
 
 ### README.md
+- **review: Causal claim** (`because`): "In every city the within-band ratio of Black to White women's recorded rates is largest in the whitest areas and smallest in the Blackest, because assaults are recorded where they happen and residents are counted where t..."  
+  The data shows rates, not causes. Keep causal words only in sentences that say a cause is not measured.
 - **review: Offender implication** (`offender`): "By the victim's relationship to the offender (`out/by_relationship.md`, `scripts/by_relationship.py`), women 18 and older:"  
   Victim data says nothing about who offended. Remove, or state that offenders are not in the data.
 - **review: Offender implication** (`offender`): "- Not the cause, tested in DC's records (the largest gap, 10.5x for women 18 and older): one assault producing several victim records. Counting one record per incident, leaving out mutual fights ("victim was offender"), ..."  
   Victim data says nothing about who offended. Remove, or state that offenders are not in the data.
-- **review: Absolute or proof language** (`never`): "- Reported crimes only, on the police side: willingness to report, and who else reports, differ by group, place and time. The survey side counts assaults never reported, but only among people it reaches."  
-  Overstates certainty. Use 'the data shows' and keep the caveats attached.
 
 ### Required statements
 
