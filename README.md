@@ -17,6 +17,14 @@ Live page: https://mngoh.github.io/US-Large-Cities-Assault-Victim-Rates-by-Race-
 - Against Asian women it is larger still (about 10.2 times in the typical city), but on small counts, so it stays out of the headline.
 - The 13 cities with complete data only for 2024 to 2025, shown apart, look the same: higher than White women's in all 13 and Hispanic women's in all 13.
 
+How to read a row:
+
+- The ratio (for example 3x) is Black women's reported rate divided by the other group's.
+- The small range under it is a 95% interval: where the true ratio probably sits given the counts. Chance alone does not explain a ratio whose interval is above 1.
+- The lowest bound answers a different question: what if the recording is biased against the finding? It assumes every resident who is Black in combination is recorded as Black, and every White-race victim with unknown ethnicity is Hispanic. A gap that stays above 1 there survives both.
+- Example, Baltimore: 1.48x against Hispanic women, interval 1.39 to 1.58, so not chance. But ethnicity is unknown for 32% of its women victims, and the lowest bound is 0.87x: the data cannot rule out that the gap is a recording artifact there.
+- No bound is shown against Asian women; the counts are too small for it to mean much. A ratio on fewer than 10 victims is not shown. ≥ marks a floor. Flags are not exclusions.
+
 2022 to 2025:
 
 | City | Black women per 100,000 | vs Hispanic (95% interval) | vs White (95% interval) | Lowest bound vs Hispanic | Lowest bound vs White | Flags |

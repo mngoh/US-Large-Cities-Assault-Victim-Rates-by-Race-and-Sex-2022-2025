@@ -45,6 +45,8 @@ CSS = """
     details { margin-top: 12px; } details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     details .tbl-wrap { margin: 10px 0 0; } details .tbl td:last-child { min-width: 0; color: inherit; }
     .ci { color: var(--muted); font-size: 10px; }
+    .howto { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--blue); border-radius: 0 8px 8px 0; padding: 14px 20px; margin: 0 0 20px; max-width: 900px; }
+    .howto h4 { font-size: 13px; font-weight: 600; margin-bottom: 6px; } .howto ul { margin-left: 18px; color: var(--muted); font-size: 12px; line-height: 1.6; } .howto li + li { margin-top: 3px; }
     .limits { margin: 0 0 40px 18px; color: var(--muted); font-size: 13px; line-height: 1.6; max-width: 900px; }
     .limits li + li { margin-top: 6px; } .limits strong { color: var(--text); font-weight: 600; }
 """
@@ -285,8 +287,19 @@ def main():
                 for r in sorted(rs, key=lambda r: r["city"])]
 
     head = ["City", "Black women per 100,000", "vs Hispanic", "vs White", "vs Asian", "Lowest bound vs Hispanic", "Lowest bound vs White", "Flags"]
+    ex = next(r for r in rows if r["slug"] == "baltimore")
+    howto = [
+        "The ratio (for example 3x) is Black women's reported rate divided by the other group's.",
+        "The small range under it is a 95% interval: where the true ratio probably sits given the counts. Chance alone does not explain a ratio whose interval is above 1.",
+        "The lowest bound answers a different question: what if the recording is biased against the finding? It assumes every resident who is Black in combination is "
+        "recorded as Black, and every White-race victim with unknown ethnicity is Hispanic. A gap that stays above 1 there survives both.",
+        f"Example, {ex['city']}: {ex['ratio']['Hispanic']}x against Hispanic women, interval {ex['ci95']['Hispanic'][0]} to {ex['ci95']['Hispanic'][1]}, so not chance. "
+        f"But ethnicity is unknown for {ex['unknown_ethnicity_pct']:.0f}% of its women victims, and the lowest bound is {ex['bounds']['Hispanic'][0]}x: the data cannot rule out that the gap is a recording artifact there.",
+        "No bound is shown against Asian women; the counts are too small for it to mean much. A ratio on fewer than 10 victims is not shown. \u2265 marks a floor. Flags are not exclusions.",
+    ]
     city_html = ('<div class="section-title">City by city</div>'
-                 '<p class="note">Under each ratio, its 95% interval from counting noise. Lowest bound: the most cautious assumptions about race recording and missing ethnicity. Flags are not exclusions. \u2265 = floor.</p>'
+                 + '<div class="howto"><h4>How to read a row</h4><ul>'
+                 + "".join(f"<li>{esc(t)}</li>" for t in howto) + '</ul></div>'
                  + "".join(f'<h3 class="sub-title">{WINDOW[t]}{"" if t == 1 else " only"}</h3>' + table(head, city_rows(T[t])) for t in (1, 2)))
     reporting = city_html
 
@@ -370,6 +383,7 @@ def main():
                 f"{fx(r['bounds']['Hispanic'][0]) if r['bounds']['Hispanic'] else 'n/a'} | {fx(r['bounds']['White'][0])} | {notes(r)} |" for r in sorted(rs, key=lambda r: r["city"])]
     hdr = ["| City | Black women per 100,000 | vs Hispanic (95% interval) | vs White (95% interval) | Lowest bound vs Hispanic | Lowest bound vs White | Flags |", "|---|---|---|---|---|---|---|"]
     L = ["<!-- results:start -->", f"**{lede}**", "", f"Live page: {LIVE}", ""] + [f"- {p}" for p in points]
+    L += ["", "How to read a row:", ""] + [f"- {t}" for t in howto]
     L += ["", "2022 to 2025:", ""] + hdr + md_rows(T[1]) + ["", "2024 to 2025 only:", ""] + hdr + md_rows(T[2])
     L += ["", "Limits:", ""] + [f"- **{h}.** {t}" for h, t in cav] + ["<!-- results:end -->"]
     block = "\n".join(L)
