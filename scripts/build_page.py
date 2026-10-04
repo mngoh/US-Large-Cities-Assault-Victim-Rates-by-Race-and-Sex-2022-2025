@@ -212,7 +212,11 @@ def main():
         f"The {s2['n']} cities with complete data only for 2024 to 2025, shown apart, look the same: higher than White women's in {n_of(len(s2['aboveW']), s2['n'])} "
         f"and Hispanic women's in {n_of(len(s2['aboveH']), s2['nH'])}.",
     ]
-    FOLLOW = "https://github.com/mngoh/Police-Records-vs-Survey-Assault-Victims-by-Race-and-Sex-2015-2025"
+    FOLLOW = "https://mngoh.github.io/Police-Records-vs-Survey-Assault-Victims-by-Race-and-Sex-2015-2025/"
+    PAGES = {"Los Angeles": "https://mngoh.github.io/Los-Angeles-CA-Assault-Victim-Rates-by-Race-and-Sex-2020-2023/", "DC": "https://mngoh.github.io/DC-Assault-Victims-by-Race-and-Sex-2022-2025/",
+             "Baltimore": "https://mngoh.github.io/Baltimore-MD-Assault-Victim-Rates-by-Race-and-Sex-2022-2024/", "Dallas": "https://mngoh.github.io/Dallas-TX-Assault-Victim-Rates-by-Race-and-Sex-2022-2025/",
+             "nine cities": "https://mngoh.github.io/Nine-Cities-Assault-Victim-Rates-by-Race-and-Sex-2020-2025/"}
+    KIT = "https://github.com/mngoh/disparity-kit"
     what = ("What this number measures: police reports, not how often women are hurt. In the national victimization survey, which counts assaults whether or not "
             "police learned of them, Black and White women describe being assaulted at about the same rate nationally and about 1.5 to 2 times in large cities. "
             "A follow-up tested why police records differ so much more: not reporting rates, not (or only a little) how police write up a call, not the same women counted repeatedly, "
@@ -317,7 +321,9 @@ def main():
     elig = list(csv.DictReader(open(ROOT / "out/eligibility.csv")))
     left = [l_["city"].split(",")[0] for l_ in C["left_out"]]
     model = ('<div class="section-title">Checks</div><div class="findings">'
-             f'<div class="finding"><h4>Earlier results reproduce</h4><p>{esc(f"{listing(same)}: same data and years, identical results.")}</p></div>'
+             f'<div class="finding"><h4>Earlier results reproduce</h4><p>{esc(f"{listing(same)}: same data and years, identical results.")} '
+             f'Each earlier city has its own page with checks this run does not repeat: <a href="{PAGES["Los Angeles"]}">Los Angeles</a>, <a href="{PAGES["DC"]}">DC</a>, '
+             f'<a href="{PAGES["Baltimore"]}">Baltimore</a>, <a href="{PAGES["Dallas"]}">Dallas</a>; <a href="{PAGES["nine cities"]}">nine cities side by side</a> came before this one.</p></div>'
              f'<div class="finding"><h4>Which cities</h4><p>{esc(f"{len(rows)} of {len(elig)} places of 250,000+ have 10,000+ Black women and complete police data. Left out: {listing(left)}.")}</p></div>'
              '</div>')
 
@@ -355,7 +361,7 @@ def main():
     limits_html = ('<div class="section-title">Limits</div><ul class="limits">'
                    + "".join(f"<li><strong>{esc(h)}.</strong> {esc(t)}</li>" for h, t in cav) + "</ul>")
 
-    nav = f'<a href="{REPO}">Code</a><a href="https://martinngoh.com">martinngoh.com</a>'
+    nav = f'<a href="{FOLLOW}">What this measures</a><a href="{REPO}">Code</a><a href="https://martinngoh.com">martinngoh.com</a>'
     method = ("Women victims of aggravated and simple assault per 100,000 residents of each group a year, from each city's own police department in the FBI's NIBRS files; "
               "Hispanic of any race first. Population: ACS 2020 to 2024 via Census Reporter. Built with disparity-kit using the Dallas decisions.")
 
@@ -371,7 +377,8 @@ def main():
     page = TEMPLATE.format(
         title=f"Assault victims in {len(rows)} large US cities", description=esc(lede), lede=esc(lede), author="Martin Ngoh", window="2022 to 2025", total=f"{total:,}",
         nav=nav, question=esc(question), answer=answer, cards=cards_html,
-        overview=overview, tests=tests, reporting=reporting, model=model, replication="", caveats="", method=esc(method),
+        overview=overview, tests=tests, reporting=reporting, model=model, replication="", caveats="",
+        method=esc(method) + f' Built with <a href="{KIT}">disparity-kit</a>.',
         js=pre + "\n  " + "\n  ".join(js), groups_n=f"{n_focus:,}", others_n=f"{n_other:,}", focus="Black women", sexw="women", sexw_cap="Women")
     page = page.replace("  </style>\n</head>", CSS + "  </style>\n</head>", 1)
     page = page.replace("</p>\n</div>\n<footer>", "</p>\n  " + limits_html + "\n</div>\n<footer>", 1)  # limits close the page
